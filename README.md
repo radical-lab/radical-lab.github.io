@@ -1,5 +1,5 @@
 # radical-lab.github.io
-√ Research And Development In Computation And Logic - Like A Boss
+√ Research And Development In Computation And Linguistics - Like A Boss
 
 ## Guys
 ### [#1 Guy](https://youtu.be/hyN4cmDVeNg?t=1m33s)
