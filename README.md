@@ -1,5 +1,15 @@
 # radical-lab.github.io
-√ Research And Development In Computation And Linguistics - Like A Boss
+<s>√ Research And Development In Computation And Logic - Like A Boss</s>
+<br>√ Research And Development In Computation And Linguistics - Like A Boss
+
+Logic ∈ Computation
+<br>Mathematics = Computation
+<br>Intelligence ∈ Computation ∪ Linguistics
+<br>So, maybe…
+
+√ Research And Development: Intelligence, Computation, And Linguistics - Like A Boss
+
+…and just work my way backwards?
 
 ## Guys
 ### [#1 Guy](https://youtu.be/hyN4cmDVeNg?t=1m33s)
