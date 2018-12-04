@@ -3,6 +3,7 @@
 <br>√ Research And Development In Computation And Linguistics - Like A Boss
 
 Logic ∈ Computation
+<br>Logic ∈ PELF
 <br>Mathematics = Computation
 <br>Intelligence ∈ Computation ∪ Linguistics
 <br>So, maybe…
