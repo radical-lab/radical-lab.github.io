@@ -10,7 +10,7 @@ Logic ∈ Computation
 
 √ Research And Development: Intelligence, Computation, And Linguistics - Like A Boss
 
-…and just work my way backwards?
+…and just work my way backwards? I prefer not ∵ symbolic ∧ linguistic instability, and I like the [triple TLAs √rad∈cal-lab](https://www.youtube.com/watch?v=aU4pyiB-kq0)!!! :D
 
 ## Guys
 ### [#1 Guy](https://youtu.be/hyN4cmDVeNg?t=1m33s)
