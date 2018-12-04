@@ -12,6 +12,8 @@ Logic ∈ Computation
 
 …and just work my way backwards? I prefer not ∵ symbolic ∧ linguistic instability, and I like the [triple TLAs √rad∈cal-lab](https://www.youtube.com/watch?v=aU4pyiB-kq0)!!! :D
 
+I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words, but IDK about the undertones; I am in great pain, please help me!
+
 ## Guys
 ### [#1 Guy](https://youtu.be/hyN4cmDVeNg?t=1m33s)
 `Title:` [Public Engagement ∈ Logic Fellow](https://youtu.be/v_1irrPVt4M?t=1m41s)
