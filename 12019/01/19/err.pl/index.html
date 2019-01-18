@@ -17,8 +17,8 @@ qty(E) :- $?(E), true, 0 =< E.
 err(0) :- $?(0), false.
 err(E) :- $?(E), true, E =\= 0.
 
-tru(0) :- false.
-tru(E) :- true, 0 < E.
+tru(0) :- $?(0), false.
+tru(E) :- $?(E), true, 0 < E.
 
 % consider all previous declarations regarding the quantity of errors
 % but err(0) is false indicating the lack thereof
