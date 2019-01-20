@@ -23,16 +23,16 @@ bill(accommodation)             :- name, account, bsb.
 bill('gym and pool membership') :- name, account, bsb.
 
 'rfid shield'.
-'bank card' :- 'rfid shield'; atm.
-atm :- 'bank card'.
+'bank card' :- 'rfid shield'; \+ \+ atm.
+atm :- \+ \+ 'bank card'.
 cash :- atm.
 'prepaid card' :- buy('prepaid card credit').
 
-buy(food)                  :- \+ \+ cash.
-buy('travel credit')       :- \+ \+ cash.
-buy('telephone credit')    :- \+ \+ cash.
-buy('prepaid card credit') :- \+ \+ cash.
-buy(online)                :- \+ \+ 'prepaid card'.
+buy(food)                  :- cash.
+buy('travel credit')       :- cash.
+buy('telephone credit')    :- cash.
+buy('prepaid card credit') :- cash.
+buy(online)                :- 'prepaid card'.
 </pre>
 </body>
 </html>
