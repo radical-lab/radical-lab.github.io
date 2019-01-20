@@ -28,11 +28,11 @@ atm :- 'bank card'.
 cash :- atm.
 'prepaid card' :- buy('prepaid card credit').
 
-buy(food)                  :- cash.
-buy('travel credit')       :- cash.
-buy('telephone credit')    :- cash.
-buy('prepaid card credit') :- cash.
-buy(online)                :- 'prepaid card'.
+buy(food)                  :- \+ \+ cash.
+buy('travel credit')       :- \+ \+ cash.
+buy('telephone credit')    :- \+ \+ cash.
+buy('prepaid card credit') :- \+ \+ cash.
+buy(online)                :- \+ \+ 'prepaid card'.
 </pre>
 </body>
 </html>
