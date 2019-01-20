@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+	<title>√ bank on security standards</title>
+</head>
+<body>
+<pre>
+#!/usr/bin/env swipl
+
+% the big four bank rules
+% #1 use rfid shielding        @ always
+% #2 only use bank card at atm @ ever
+% #3 use untraceable cash      @ whenever possible
+% #4 use prepaid card          @ online or whenever unable to use untraceable cash
+
+name.
+account.
+bsb.
+
+bill(accommodation)             :- name, account, bsb.
+bill('gym and pool membership') :- name, account, bsb.
+
+'bank card' :- 'rfid shield'; atm.
+atm :- 'bank card'.
+cash :- atm.
+'prepaid card' :- buy('prepaid card credit').
+
+buy(food)                  :- cash.
+buy('travel credit')       :- cash.
+buy('telephone credit')    :- cash.
+buy('prepaid card credit') :- cash.
+buy(online)                :- 'prepaid card'.
+</pre>
+</body>
+</html>
