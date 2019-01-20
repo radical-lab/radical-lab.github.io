@@ -15,23 +15,23 @@
 % #4 use prepaid card          @ online or whenever unable to use untraceable cash
 % now goto <a href="/">home</a>
 
-name.
+name   .
 account.
-bsb.
+bsb    .
 
 bill(accommodation)             :- name, account, bsb.
 bill('gym and pool membership') :- name, account, bsb.
 
 'rfid shield'.
-'bank card' :- 'rfid shield'; \+ \+ atm.
-atm :- \+ \+ 'bank card'.
-cash :- atm.
+'bank card'    :- 'rfid shield'; \+ \+ atm  .
+atm            :- \+ \+ 'bank card'         .
+cash           :- atm                       .
 'prepaid card' :- buy('prepaid card credit').
 
-buy(food)                       :- cash.
-buy('prepaid travel credit')    :- cash.
-buy('prepaid telephone credit') :- cash.
-buy('prepaid card credit')      :- cash.
+buy(food)                       :- cash          .
+buy('prepaid travel credit')    :- cash          .
+buy('prepaid telephone credit') :- cash          .
+buy('prepaid card credit')      :- cash          .
 buy(online)                     :- 'prepaid card'.
 </pre>
 </body>
