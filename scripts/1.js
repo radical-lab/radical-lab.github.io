@@ -17,4 +17,5 @@ window.history.pushState('', '', window.location.href.replace(/\/$/, ''));
 document.addEventListener("DOMContentLoaded", function(event) {
     document.body.style.backgroundColor = "black";
     document.body.style.color = "white";
+    document.body.style.lineHeight = 100%;
 });
