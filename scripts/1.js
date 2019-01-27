@@ -19,5 +19,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     document.body.style.color = 'white';
     // https://en.wikipedia.org/wiki/Box-drawing_character
     // https://en.wikipedia.org/wiki/Block_Elements
-    //document.body.style.lineHeight = '1';
+    // https://medium.com/@chuckdries/traversing-the-dom-with-filter-map-and-arrow-functions-1417d326d2bc
+    Array.prototype.map.call(document.getElementsByClassName('monocodært'), x => {x.style.lineHeight = '1'});
 });
