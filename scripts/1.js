@@ -12,6 +12,8 @@ window.history.pushState('', '', window.location.href.replace(/\/$/, ''));
 })();
 
 // https://stackoverflow.com/a/16625864
-document.createElement('body');
-document.body.style.backgroundColor = "black";
-document.body.style.color = "white";
+// https://stackoverflow.com/a/23007856
+document.addEventListener("DOMContentLoaded", function(event) {
+    document.body.style.backgroundColor = "black";
+    document.body.style.color = "white";
+});
