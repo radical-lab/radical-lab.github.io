@@ -2,6 +2,7 @@
 // https://stackoverflow.com/a/12446376
 window.history.pushState('', '', window.location.href.replace(/\/$/, ''));
 
+// http://www.p01.org/releases/DEFENDER_of_the_favicon/
 // https://stackoverflow.com/a/260876
 (function() {
     var logo  = document.createElement('link');
