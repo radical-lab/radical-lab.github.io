@@ -10,3 +10,7 @@ window.history.pushState('', '', window.location.href.replace(/\/$/, ''));
     logo.href = '/favicon.svg';
     document.getElementsByTagName('head')[0].appendChild(logo);
 })();
+
+// https://stackoverflow.com/a/16625864
+document.body.style.backgroundColor = "black";
+document.body.style.color = "white";
