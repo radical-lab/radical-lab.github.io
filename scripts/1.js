@@ -15,9 +15,9 @@ window.history.pushState('', '', window.location.href.replace(/\/$/, ''));
 // https://stackoverflow.com/a/16625864
 // https://stackoverflow.com/a/23007856
 document.addEventListener("DOMContentLoaded", function(event) {
-    document.body.style.backgroundColor = "black";
-    document.body.style.color = "white";
+    document.body.style.backgroundColor = 'black';
+    document.body.style.color = 'white';
     // https://en.wikipedia.org/wiki/Box-drawing_character
     // https://en.wikipedia.org/wiki/Block_Elements
-    document.body.style.lineHeight = 100%;
+    document.body.style.lineHeight = '100%';
 });
