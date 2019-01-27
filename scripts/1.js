@@ -17,5 +17,7 @@ window.history.pushState('', '', window.location.href.replace(/\/$/, ''));
 document.addEventListener("DOMContentLoaded", function(event) {
     document.body.style.backgroundColor = "black";
     document.body.style.color = "white";
+    // https://en.wikipedia.org/wiki/Box-drawing_character
+    // https://en.wikipedia.org/wiki/Block_Elements
     document.body.style.lineHeight = 100%;
 });
