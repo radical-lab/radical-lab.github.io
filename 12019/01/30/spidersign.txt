@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>√ this little piggy brought fruitinarian tori and this little piggy ate them all and this little piggy had none and this little piggy went awooga awooga awooga awooga</title>
+	<script src='/scripts/1.js'></script>
+</head>
+<body>
+<pre class='monocodært'>
+spiders sit in the middle of their web because it is the main focus and shortest distance to all other points
+
+the rule of thirds is applicable merely as an afterthought
+
+   ▁▁▁▁▁▁▁▁
+   ██░░░░██
+   ██░░░░██
+   ▔▔▔▔▔▔▔▔
+
+    ▐████▌
+    ▐░░░░▌
+    ▐░░░░▌
+    ▐████▌
+
+   ▁▁▁▁▁▁▁▁
+  ▐  ░░░░  ▌
+  ▐  ░░░░  ▌
+   ▔▔▔▔▔▔▔▔
+
+     ▁▁▁▁
+    ▐    ▌
+    ▐░░░░▌
+    ▐░░░░▌
+    ▐    ▌
+     ▔▔▔▔
+
+     ╱╲
+    ╱  ╲
+   ╱    ╲
+   ╲ ░░░░╲
+    ╲░░░░ ╲
+     ╲    ╱
+      ╲  ╱
+       ╲╱
+
+       ╱╲
+      ╱  ╲
+     ╱    ╲
+    ╱░░░░ ╱
+   ╱ ░░░░╱
+   ╲    ╱
+    ╲  ╱
+     ╲╱
+
+      ╱╲
+     ╱  ╲
+    ╱    ╲
+    ╲    ╱
+    ╱░░░░╲
+    ╲░░░░╱
+    ╱    ╲
+    ╲    ╱
+     ╲  ╱
+      ╲╱
+
+      ╱╲
+     ╱  ╲
+    ╱    ╲
+    ╲░░░░╱
+    ╱░░░░╲
+    ╲    ╱
+     ╲  ╱
+      ╲╱
+
+      ╱╲
+     ╱  ╲
+    ╱░░░░╲
+    ╲░░░░╱
+     ╲  ╱
+      ╲╱
+
+    ╱╲  ╱╲
+   ╱  ╲╱  ╲
+  ╱  ░░░░  ╲
+  ╲  ░░░░  ╱
+   ╲  ╱╲  ╱
+    ╲╱  ╲╱
+
+  ╱╲  ╱╲  ╱╲
+ ╱  ╲╱  ╲╱  ╲
+╱    ░░░░    ╲
+╲    ░░░░    ╱
+ ╲  ╱╲  ╱╲  ╱
+  ╲╱  ╲╱  ╲╱
+
+now goto <a href='/'>home</a>
+</pre>
+</body>
+</html>
