@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 	wtf = document.createElement('pre');
 	wtf.class='monocodært';
 	wtf.id='mockup';
-	document.body.appendChild(wtf)
+	document.body.appendChild(wtf);
 
 	tr_corner = '┐';
 	tl_corner = '┌';
