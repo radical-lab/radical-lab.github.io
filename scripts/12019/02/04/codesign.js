@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 	wtf = document.createElement('pre');
 	wtf.class='monocodært';
 	wtf.id='mockup';
+	wtf.style.lineHeight = '1';
 	document.body.appendChild(wtf);
 
 	tr_corner = '┐';
