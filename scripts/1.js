@@ -10,6 +10,9 @@ window.history.pushState('', '', window.location.href.replace(/\/$/, ''));
     logo.type = 'image/svg+xml';
     logo.href = '/favicon.svg';
     document.getElementsByTagName('head')[0].appendChild(logo);
+    var meta     = document.createElement('meta');
+    meta.charset = 'utf-8';
+    document.getElementsByTagName('head')[0].appendChild(meta);
 })();
 
 // https://stackoverflow.com/a/16625864
