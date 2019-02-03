@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 		[...Array(16).keys()].map(e => l[e].splice(1,a[e]==_txt_tbl?a[e].length+2:a[e]==_txt_tbl_(_txt_tbl0,0)?_txt_tbl0.length:a[e]==_txt_tbl_(_txt_tbl1,3)?_txt_tbl1.length:a[e]==_txt_tbl_(_txt_tbl2,9)?_txt_tbl2.length:a[e]==_txt_tbl_(_txt_tbl3,15)?_txt_tbl3.length:a[e]==shyam?'please give shyam@shyam.id.au an open '.length:a[e].length,...a[e]));
 		return l;
 	};
-	scroll = (l,x) => {l[x][l[x].length-2] = '█'; return l};
+	scroll = (l,x) => {l[x][l[x].length-2] = '█'; return l;};
 	_ui = 4;
 	ui = (x,y,s) => [t_line(x), ...scroll(con(txt(x,y-_ui),s),s), m_line(x), task_bar(x), b_line(x), ['\nuse the up and down arrow keys to scroll ↑']];
 	flat = x => x.map(e => e.join('')).join('\n');
@@ -92,4 +92,4 @@ document.addEventListener('DOMContentLoaded', function(event) {
 	init(_x,_y,_s);
 	render = (e) => init(_x, _y, e.keyCode==40&&_s<_y-_ui-1?++_s:e.keyCode==38&&0<_s?--_s:_s);
 	document.body.addEventListener('keydown', render);
-}
+});
