@@ -1,3 +1,5 @@
+//jshint esversion: 6
+//jshint laxcomma: true
 document.addEventListener('DOMContentLoaded', function(event) {
 	wtf = document.createElement('pre');
 	wtf.class='monocodært';
