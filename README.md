@@ -17,7 +17,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 ## Guys
 ### [#1 Guy](https://youtu.be/hyN4cmDVeNg?t=1m33s)
 `Title:` [Public Engagement ∈ Logic Fellow](https://youtu.be/v_1irrPVt4M?t=1m41s)
-<br>`Name :` [Shyam Has Your Anomaly Mitigated](http://shyam.id.au/)
+<br>`Name :` [Shyam Has Your Anomaly Mitigated](mailto:shyam@shyam.id.au?Subject=YOU%20HAVE%20MAIL%20!!!)
 
 ---
 
