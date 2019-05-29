@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>√ this</title>
+	<script src='/scripts/1.js'></script>
+</head>
+<body>
+<pre class='monocodært'>
+/*
+clear;cat this|gcc -xc -&&./a.out|aplay #*/
+
+#include <stdio.h>
+
+void main() {
+    ; /* f∈{a,p} */
+    ; p(0)
+    ;
+}
+
+/*
+a(0,{n∈ℝ|[1,+∞?)})
+^ has an interesting foreground ∧ background combination...
+*/
+int a(int i, int n) {
+    ; /*           ^ {n∈ℝ|(-∞,+∞)} */
+    ; for(i=0;;i+=n) wave(i)
+    ;
+}
+
+/*
+no consecutive primes, so the middle line is unused;
+except at the beginning, but you can use your imagination.
+...seems to have an accompanying drum beat constant?
+p is primarily for Pocahontas
+
+...need to combine with <something>?
+
+...how to play multiple sounds at the same time?
+...oh no, not again; the CPU scheduling will strike once more!?!
+*/
+int p(int s) {
+    ; /*  ^ s∈{0,1} */
+    ; int i
+    ; for(i=0;;i++) {
+        ; if(is_prime(i)) s = s? 0: 1
+        ; /* printf("%d\t%d\n", i, s) */
+        ; wave(s? 7: 6)
+        ;
+    }
+    ;
+}
+
+/*
+https://youtu.be/MqZgoNRERY8
+echo "g(i,x,t,o){return((3&x&(i*((3&i>>16?\"BY}6YB6%\":\"Qj}6jQ6%\")[t%8]+51)>>o))<<4);};main(i,n,s){for(i=0;;i++)putchar(g(i,1,n=i>>14,12)+g(i,s=i>>17,n^i>>13,10)+g(i,s/3,n+((i>>11)%3),10)+g(i,s/5,8+n-((i>>10)%3),9));}"|gcc -xc -&&./a.out|aplay
+https://youtu.be/EcVUth3rrXk
+***************************************//***************************************
+// what are these types of comments called again? docs?
+g(i,x,t,o) {
+    return(
+        (
+            3&x&(
+                i*(
+                    (
+                        3&i>>16? \"BY}6YB6%\": \"Qj}6jQ6%\"
+                    )[t%8]+51
+                )>>o
+            )
+        )<<4
+    );
+};
+mains(i,n,s) {
+    for(i=0;;i++) {
+        putchar(
+            g(i,1,n=i>>14,12)
+            + g(i,s=i>>17,n^i>>13,10)
+            + g(i,s/3,n+((i>>11)%3),10)
+            + g(i,s/5,8+n-((i>>10)%3),9)
+        );
+    }
+}
+*/
+int wave(int n) {
+    ; int i
+    ; for(i=0; i<2000*n; i+=n) putchar(i)
+    ;
+}
+
+/*
+https://en.wikipedia.org/wiki/Prime_number#Definition_and_examples
+*/
+int is_prime(int n) {
+    ; if(n == 2) return 1
+    ; if(n <= 0 || n%2 == 0) return 0
+    ; int i
+    ; for(i=3; i<n/2; i++) if(n%i == 0) return 0
+    ; return 1
+    ;
+}
+// now goto <a href='/'>home</a>
+</pre>
+</body>
+</html>
