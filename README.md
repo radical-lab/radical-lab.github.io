@@ -34,7 +34,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* `/√sigmatism/`: [make a lisp](https://github.com/kanaka/mal) in √prolog (lisp machine, compiler, repl, script, [shell](https://en.wikipedia.org/wiki/Scsh))
 		* `/√pet/`: sigmatic emacs
 		* `/√shyamscript/`: shyamscript in √prolog
-		* `/√shyamskrit/`: gödelling-inspired `/(auto|pure|numerically programmatic|programmatically numerical)intelligence/` ([self-answering](https://en.wikipedia.org/wiki/Autological_word) queries; kbs∈{bootstrapped,jitted,recursive,[deductive](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction)})
+		* `/√shyamskrit/`: gödelling-inspired `/(auto|pure|numerically programmatic|programmatically numerical)intelligence/` ([self-answering](https://en.wikipedia.org/wiki/Autological_word) queries; kbs⊃{bootstrapped,jitted,recursive,[deductive](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction)})
 * [treasured selection criteria](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#My_Favourite_Language_Families)
 
 ---
