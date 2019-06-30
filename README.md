@@ -34,7 +34,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* `/√sigmatism/`: [make a lisp](https://github.com/kanaka/mal) in √prolog (lisp machine, compiler, repl, script, [shell](https://en.wikipedia.org/wiki/Scsh))
 		* `/√pet/`: sigmatic emacs
 		* `/√shyamscript/`: shyamscript in √prolog
-		* `/√shyamskrit/`: gödelling-inspired `/(auto|pure|numerically programmatic|programmatically numerical)intelligence/` ([self-answering](https://en.wikipedia.org/wiki/Autological_word) queries; kbs⊃{bootstrapped,jitted,recursive,[deductive](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction)}) … maybe just use math instead of shyamskrit, and go c̄ [phonetics](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) + [disambiguation](https://en.wikipedia.org/wiki/Lojban) for shyamskrit
+		* `/√shyamskrit/`: gödelling-inspired [b5-inspired](https://en.wikipedia.org/wiki/Interlac#Babylon_5) `/(auto|pure|numerically programmatic|programmatically numerical|(computational linguistics)?)intelligence/` ([self-answering](https://en.wikipedia.org/wiki/Autological_word) queries; kbs⊃{bootstrapped,jitted,recursive,[deductive](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction)}) … maybe just use math instead of shyamskrit, and go c̄ [phonetics](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) + [disambiguation](https://en.wikipedia.org/wiki/Lojban) + [vegan](https://qz.com/1116991/a-biologist-believes-that-trees-speak-a-language-we-can-learn/)(plant-based) + [sigils](https://indefiniteloop.com/blog/img/posts/06-10-2015/esperanto.png) for shyamskrit
 * [treasured selection criteria](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#My_Favourite_Language_Families)
 
 ---
