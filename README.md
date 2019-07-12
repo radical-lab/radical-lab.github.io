@@ -29,6 +29,15 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * swipl
 * mercury
 * lojban
+* [insuring intelligence](https://intelligence.org/2017/04/12/ensuring/)
+	* [googoltalx](https://talksat.withgoogle.com/talk/ensuring-smarter-than-human-intelligence-has-a-positive-outcome)
+* [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
+	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Ring∘Fire, but "zombies on the web"?)
+* [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
+	* [audiobook](https://from-ai-to-zombies.eu/) (unauthorized fan recording)
+	* [textbook](https://www.readthesequences.com/)
+	* [ebook](https://intelligence.org/rationality-ai-zombies/)
+	* [hpmor](https://intelligence.org/2015/03/12/rationality-ai-zombies/)
 * [hpmor](http://www.hpmor.com/)
 	* shyamscript license
 	* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the repl)
