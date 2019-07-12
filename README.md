@@ -38,8 +38,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* `/√pet/`: sigmatic emacs
 		* `/√shyamscript/`: shyamscript in √prolog
 		* `/√.*/`: for accessing `shyam://`; supporting √prolog, sigmatism, and shyamscript
-			* an opportunity presents itself for intelligent standardisation; boycotting the worst of humanity
-				* one `/image|video|audio/` file format to rule them all (dry; technological resources are now permissible, but I'm sure it can be dotadiwed c̄ glue, and version conversion subscriptions…will be automated by the server infrastructure to avoid legacy support!!! :D) …`/svg|bitmap/`
+			* an opportunity presents itself for intelligent standardisation; boycotting the worst of <s>humanity</s> stupidity
+				* one `/image|video|audio/` file format to rule them all (dry; technological resources are now permissible, but I'm sure it can be dotadiwed c̄ glue, and version conversion subscriptions…will be automated by the auto versioning server infrastructure to avoid legacy support!!! :D) …`/svg|bitmap/`
 				* one text encoding system to rule them all (unicode `/su(per|b)sets/`)
 				* and in the cyberspace; hack them
 		* `/√.*/`: an incompatible operating system that comes with a free pet, and even knows a few languages (both humanable, and computational); incompatibilities can be handled externally to maintain internal purity from the (zombie) horde of humanity
