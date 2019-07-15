@@ -42,6 +42,10 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* shyamscript license
 	* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the repl)
 		* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp)/`: self hosted prolog
+			* f(t,p) :- type checking.
+			* f(T,p) :- type inference.
+			* f(t,P) :- program synthesis, type inhabitance is the edge identity.
+			* f(T,P) :- T, P. % in that order, type inhabitance is the edge identity for P, T is infinite
 		* `/√sigmatism/`: [make a lisp](https://github.com/kanaka/mal) in √prolog (lisp machine, compiler, repl, script, [shell](https://en.wikipedia.org/wiki/Scsh))
 			* dependently typed, lazily evaluated, (- x y z) = (- 0 x y z) = 0-x-y-z = -(x+y+z) = (- 0 (+ x y z)), (- x y z) versus (- '(x y z)), all you need is the addition of signed Hindu numbers (use the tools you already have, instead of making new ones that're redundant before they even exist)
 		* `/√pet/`: sigmatic emacs
