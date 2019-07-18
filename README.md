@@ -64,6 +64,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम}
 				* configuration.kbd
 					* mods (key down)
+						* (power key for multi boot depends on driver hacking; beyond the scope of an os? maybe)
 						* meta = alt
 						* meta `/.*/` = macro modes
 						* supermod = trimod = alt + ctrl + shift
