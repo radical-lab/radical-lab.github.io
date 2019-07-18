@@ -74,7 +74,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 							* supermod escape = toggle(window manager mode, application mode)
 						* CYCLE STYLE
 							* supermod escape = cycle(window manager mode, application mode)
-						* (unless window manager is turned into an application c̄ tabs for workspaces, or some"-thing")
+						* (unless window manager is turned into an application c̄ tabs for workspaces, or some"-thing", and profiles)
 					* Rᵗʰ rows (key up)
 					* unmodded macros (key sequence; whether it backspaces, or not (for multitasking), is configurable (per application))
 			* shyam time starts from my birthplace (including `/elevation|altitude/`) during my birthday (not `/mid(night|day)/`); s is the time it takes for a `/hammer|feather|.*/` to fall 1m in a vacuum (draw 1m in the air to count 1s; mathematical counting for the purposes of time keeping is now an healthy exercise) (the spokes of time wheels would be smaller than 1m depending on how many vacuum tubes there are); s "seconds" in an earthly rotation versus degrees versus percentages (variable rotational durations means degrees, and percentages, are more favourable); d earthly rotations in a solar year versus degrees versus percentages (variable rotations means degrees, and percentages, are more favourable), where south-up mapping means clockwise day-night indicators like my phones battery indicator (night is down, day is up); y solar years in a galactic orbit versus degrees versus percentages (variable years means degrees, and percentages, are more favourable), starting from shyam time; SHYAM \y ∘ \d ∘ \s
