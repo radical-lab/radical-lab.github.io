@@ -57,6 +57,20 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* one text encoding system to rule them all (unicode `/su(per|b)sets/`)
 				* and in the cyberspace; hack them
 		* `/√.*/`: an incompatible operating system that comes with a free pet, and even knows a few languages (both humanable, and computational); incompatibilities can be handled externally to maintain internal purity from the (zombie) horde of humanity
+			* window manager
+				* calibration
+					* `eor sequence:`
+					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम}
+				* configuration.kbd
+					* mods (key down)
+						* meta = alt
+						* meta `/.*/` = macro modes
+						* supermod = trimod = alt + ctrl + shift
+						* supermod escape = window manager mode
+						* supermod escape = toggle(application mode, window manager mode)
+						* (unless window manager is turned into an application c̄ tabs for workspaces, or some"-thing")
+					* Rᵗʰ rows (key up)
+					* unmodded macros (key sequence; whether it backspaces, or not, is configurable (per application))
 			* shyam time starts from my birthplace (including `/elevation|altitude/`) during my birthday (not `/mid(night|day)/`); s is the time it takes for a `/hammer|feather|.*/` to fall 1m in a vacuum (draw 1m in the air to count 1s; mathematical counting for the purposes of time keeping is now an healthy exercise) (the spokes of time wheels would be smaller than 1m depending on how many vacuum tubes there are); s "seconds" in an earthly rotation versus degrees versus percentages (variable rotational durations means degrees, and percentages, are more favourable); d earthly rotations in a solar year versus degrees versus percentages (variable rotations means degrees, and percentages, are more favourable), where south-up mapping means clockwise day-night indicators like my phones battery indicator (night is down, day is up); y solar years in a galactic orbit versus degrees versus percentages (variable years means degrees, and percentages, are more favourable), starting from shyam time; SHYAM \y ∘ \d ∘ \s
 				* <s>since it's the planets who are named after the Roman Pantheon, and not the months, it's not offending the gods by not using them</s>; Janus, Februa, Mars, Venus, Bona Dea, Juno, Julius Cæsar, Augustus Cæsar, <s>7ᵗʰ</s> 9ᵗʰ September, <s>8ᵗʰ</s> 10ᵗʰ October, <s>9ᵗʰ</s> 11ᵗʰ November, <s>10ᵗʰ</s> 12ᵗʰ December
 				* IT'S MARKET DAY!!! work-days versus free-days can be `/customised|tailored/` instead; not everyone lives consistent c̄ "royal" stupidity (garbage in, garbage out)
