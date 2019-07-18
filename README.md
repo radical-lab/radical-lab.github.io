@@ -60,14 +60,19 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* window manager
 				* calibration
 					* `eor sequence:`
-					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम}
+					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम}
 				* configuration.kbd
 					* mods (key down)
 						* meta = alt
 						* meta `/.*/` = macro modes
 						* supermod = trimod = alt + ctrl + shift
-						* supermod escape = window manager mode
-						* supermod escape = toggle(application mode, window manager mode)
+						* MULTISTYLE (only works for two, unless there are dependencies)
+							* supermod escape = window manager mode
+							* supermod escape = application mode
+						* TOGGLE STYLE
+							* supermod escape = toggle(window manager mode, application mode)
+						* CYCLE STYLE
+							* supermod escape = cycle(window manager mode, application mode)
 						* (unless window manager is turned into an application c̄ tabs for workspaces, or some"-thing")
 					* Rᵗʰ rows (key up)
 					* unmodded macros (key sequence; whether it backspaces, or not, is configurable (per application))
