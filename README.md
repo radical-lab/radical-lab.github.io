@@ -60,6 +60,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* window manager
 				* calibration
 					* `eor sequence:`
+					* `escape sequence:`
 					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम}
 				* configuration.kbd
 					* mods (key down)
