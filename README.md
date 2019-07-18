@@ -58,13 +58,13 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* and in the cyberspace; hack them
 		* `/√.*/`: an incompatible operating system that comes with a free pet, and even knows a few languages (both humanable, and computational); incompatibilities can be handled externally to maintain internal purity from the (zombie) horde of humanity
 			* window manager
-				* calibration
+				* calibration > calibration.kbd # reusable at the application level on a case-by-case basis
 					* `eor sequence:`
 					* `escape sequence:`
 					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम}
-				* configuration.kbd
+				* cat calibration.kbd > configuration.kbd
 					* mods (key down)
-						* (power key for multi boot depends on driver hacking; beyond the scope of an os? maybe)
+						* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
 						* meta = alt
 						* meta `/.*/` = macro modes
 						* supermod = trimod = alt + ctrl + shift
