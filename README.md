@@ -62,7 +62,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 					* `eor sequence:`, almost any two keys
 					* `escape sequence:`, almost any two keys
 					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम}
-				* cat calibration.kbd > configuration.kbd
+				* cat calibration.kbd > configuration.kbd # users can modulate it, and script it together again
 					* mods (key down)
 						* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
 						* meta = alt
