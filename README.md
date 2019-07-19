@@ -57,7 +57,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* one text encoding system to rule them all (unicode `/su(per|b)sets/`)
 				* and in the cyberspace; hack them
 		* `/√.*/`: an incompatible operating system that comes with a free pet, and even knows a few languages (both humanable, and computational); incompatibilities can be handled externally to maintain internal purity from the (zombie) horde of humanity
-			* window manager
+			* window manager (logical_implications.kbs versus functional_pet.scm; kbs wins for now)
 				* calibration > calibration.kbd # reusable at the application level on a case-by-case basis
 					* `eor sequence:`, almost any two keys
 					* `escape sequence:`, almost any two keys
