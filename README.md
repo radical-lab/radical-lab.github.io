@@ -63,7 +63,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 					* `escape sequence:`, almost any two keys
 					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम}
 				* cat calibration.kbd > configuration.kbd # users can modulate it, and script it together again
-					* mods (time, key down)
+					* mods (time delay, key down)
 						* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
 						* meta = alt
 						* meta `/.*/` = macro modes
@@ -76,8 +76,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 						* CYCLE STYLE
 							* supermod escape = cycle(window manager mode, application mode)
 						* (unless window manager is turned into an application c̄ tabs for workspaces, or some"-thing", and profiles)
-					* Rᵗʰ rows (time, key up)
-					* unmodded macros (time, key sequence; whether it backspaces, or not (for multitasking), is configurable (per application))
+					* Rᵗʰ rows (time delay, key up)
+					* unmodded macros (time delay, key sequence; whether it backspaces, or not (for multitasking), is configurable (per application))
 			* shyam time starts from my birthplace (including `/elevation|altitude/`) during my birthday (not `/mid(night|day)/`); s is the time it takes for a `/hammer|feather|.*/` to fall 1m in a vacuum (draw 1m in the air to count 1s; mathematical counting for the purposes of time keeping is now an healthy exercise) (the spokes of time wheels would be smaller than 1m depending on how many vacuum tubes there are); s "seconds" in an earthly rotation versus degrees versus percentages (variable rotational durations means degrees, and percentages, are more favourable); d earthly rotations in a solar year versus degrees versus percentages (variable rotations means degrees, and percentages, are more favourable), where south-up mapping means clockwise day-night indicators like my phones battery indicator (night is down, day is up); y solar years in a galactic orbit versus degrees versus percentages (variable years means degrees, and percentages, are more favourable), starting from shyam time; SHYAM \y ∘ \d ∘ \s
 				* <s>since it's the planets who are named after the Roman Pantheon, and not the months, it's not offending the gods by not using them</s>; Janus, Februa, Mars, Venus, Bona Dea, Juno, Julius Cæsar, Augustus Cæsar, <s>7ᵗʰ</s> 9ᵗʰ September, <s>8ᵗʰ</s> 10ᵗʰ October, <s>9ᵗʰ</s> 11ᵗʰ November, <s>10ᵗʰ</s> 12ᵗʰ December
 				* IT'S MARKET DAY!!! work-days versus free-days can be `/customised|tailored/` instead; not everyone lives consistent c̄ "royal" stupidity (garbage in, garbage out)
