@@ -71,7 +71,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 						* MULTISTYLE (only works for two, unless there are dependencies)
 							* supermod escape = window manager mode
 							* supermod escape = application mode
-						* TOGGLE STYLE
+						* TOGGLE STYLE (only works for two, unless there are dependencies)
 							* supermod escape = toggle(window manager mode, application mode)
 						* CYCLE STYLE
 							* supermod escape = cycle(window manager mode, application mode)
