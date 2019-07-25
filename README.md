@@ -32,7 +32,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * [insuring intelligence](https://intelligence.org/2017/04/12/ensuring/)
 	* [googoltalx](https://talksat.withgoogle.com/talk/ensuring-smarter-than-human-intelligence-has-a-positive-outcome)
 * [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
-	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Ring∘Fire, but "zombies on the web"?)
+	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Ring∘Fire, but "zombies on the web"? Riders÷(The Storm))
 * [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
 	* [audiobook](https://from-ai-to-zombies.eu/) (unauthorized fan recording)
 	* [textbook](https://www.readthesequences.com/)
