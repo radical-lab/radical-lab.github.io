@@ -21,6 +21,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 <br>`Name :` [Shyam Has Your Anomaly Mitigated](mailto:shyam@shyam.id.au?Subject=YOU%20HAVE%20MAIL%20!!!)
 
 ## √ Ever-Changing Plan
+* [ ] HE∘12019∘08∘01ˢᵗ: overexspend on bandwidth (twofer)⁽ᵗʷᵒᶠᵉʳ⁾
 * [ ] c∘mp∘se, and then become a lispian on the HE∘12019∘09∘09ᵗʰ (or maybe the HE∘12019∘09∘07ᵗʰ)
 * emacs
 * elisp (`/electr(on)?ic lisp/`)
