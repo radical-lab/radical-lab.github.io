@@ -23,24 +23,24 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 ## √ Ever-Changing Plan
 * [ ] HE∘12019∘08∘01ˢᵗ: overexspend on bandwidth (twofer)⁽ᵗʷᵒᶠᵉʳ⁾ `/ꃔ|𐆈/`
 * [ ] c∘mp∘se, and then become a lispian on the HE∘12019∘09∘09ᵗʰ (or maybe the HE∘12019∘09∘07ᵗʰ)
-* emacs
-* elisp (`/electr(on)?ic lisp/`)
+* [ ] emacs
+* [ ] elisp (`/electr(on)?ic lisp/`)
 	* `/productivity edit(or|ing) tool/`
 		* could probably start the "learning" system since elisp is a commitment
 		* and the related "-thing"; these have probably been backed up though … luckily it is mid-way, but only `/learn/` is easily discoverable … there are only theories of what "-thing" actually is ((in)security, study,..), but it is as general as (machine) "learning"
-* swipl
-* mercury
-* lojban
-* [insuring intelligence](https://intelligence.org/2017/04/12/ensuring/)
+* [ ] swipl
+* [ ] mercury
+* [ ] lojban
+* [ ] [insuring intelligence](https://intelligence.org/2017/04/12/ensuring/)
 	* [googoltalx](https://talksat.withgoogle.com/talk/ensuring-smarter-than-human-intelligence-has-a-positive-outcome)
-* [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
+* [ ] [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
 	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Ring∘Fire, but "zombies on the web"? Riders÷(The Storm))
-* [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
+* [ ] [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
 	* [audiobook](https://from-ai-to-zombies.eu/) (unauthorized fan recording)
 	* [textbook](https://www.readthesequences.com/)
 	* [ebook](https://intelligence.org/rationality-ai-zombies/)
 	* [hpmor](https://intelligence.org/2015/03/12/rationality-ai-zombies/)
-* [hpmor](http://www.hpmor.com/)
+* [ ] [hpmor](http://www.hpmor.com/)
 	* shyamscript license
 	* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the repl)
 		* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan)/`: self hosted prolog
@@ -103,7 +103,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* <s>since it's the planets who are named after the Roman Pantheon, and not the months, it's not offending the gods by not using them</s>; Janus, Februa, Mars, Venus, Bona Dea, Juno, Julius Cæsar, Augustus Cæsar, <s>7ᵗʰ</s> 9ᵗʰ September, <s>8ᵗʰ</s> 10ᵗʰ October, <s>9ᵗʰ</s> 11ᵗʰ November, <s>10ᵗʰ</s> 12ᵗʰ December
 				* IT'S MARKET DAY!!! work-days versus free-days can be `/customised|tailored/` instead; not everyone lives consistent c̄ "royal" stupidity (garbage in, garbage out)
 		* `/√shyamskrit/`: gödelling-inspired [b5-inspired](https://en.wikipedia.org/wiki/Interlac#Babylon_5) `/(auto|pure|numerically programmatic|programmatically numerical|(computational linguistics)?)intelligence/` ([self-answering](https://en.wikipedia.org/wiki/Autological_word) queries; kbs⊃{bootstrapped,jitted,recursive,[deductive](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction)}) … maybe just use math instead of shyamskrit, and go c̄ [phonetics](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) + [disambiguation](https://en.wikipedia.org/wiki/Lojban) + [vegan](https://qz.com/1116991/a-biologist-believes-that-trees-speak-a-language-we-can-learn/)(plant-based) + [sigils](https://indefiniteloop.com/blog/img/posts/06-10-2015/esperanto.png) for shyamskrit ([order of operations](https://en.wikipedia.org/wiki/Template:Language_word_order_frequency), and [cardinality](https://en.wikipedia.org/wiki/Writing_system#Directionality), should support free will; may not even require metadata of starting point, nor programmatic reading pattern (`/spirals|hopscotch|.*/`) for `/(artistic|poetic) (expression|articulation)/` c̄ (animated) automatic translation into preferential reading pattern) … [feminist conspiracy theory](https://en.wikipedia.org/wiki/File:Interlac_Landscape.JPG) … [clicks](https://en.wikipedia.org/wiki/Click_consonant), [whistles](https://en.wikipedia.org/wiki/Whistled_language), [tones](https://en.wikipedia.org/wiki/Tone_(linguistics)), [overtones](https://en.wikipedia.org/wiki/Overtone_singing), [signs](https://en.wikipedia.org/wiki/Sign_language), [face & body](https://en.wikipedia.org/wiki/Body_language) (to say one thing with our mouth, but say another with the `/rhythmic|musical/` timing of our blinking; for example, would make game of thrones seem tame, and could be used for alien telepathy in science fiction) … no politically litigious gender pronouns; either, use their name, or `/they|them|their|me|my|i/` … no dialectal pronounciation; potatoes are botanically classified as vegetables, whilst tomatoes are botanically classified as fruit, even if an idiocratic (12006) usa judge `/nesciently|analphabetically|unletteredly|illiterately/` considered them vegetables all for the sake of taxation purposes (for some reason they taxed vegetables, but not fruit because it's `/politically|litigiously/` gay) … https://youtu.be/_UqxSq19_Aw
-* [treasured selection criteria](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#My_Favourite_Language_Families)
+* [ ] [treasured selection criteria](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#My_Favourite_Language_Families)
 
 ---
 
