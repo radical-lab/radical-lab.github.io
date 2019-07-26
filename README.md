@@ -80,7 +80,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 					* unmodded macros (time delay, key sequence; whether it backspaces, or not (for multitasking), is configurable (per application))
 						* default macros
 							* `/shyam/`: voice synthesiser enthusiastically says "has your anomaly mitigated"
-							* `/radical/`: voice synthesiser deeply says "like a boss"
+							* `/radical/`: voice synthesiser deeply says "like a boss" (movie trailer style)
 							* `/research,? and development/`: voice synthesiser `/highly|lightly|snobbishly/` says "in computation and linguistics"
 							* the users name: voice synthesiser sarcastically says "roll credits",..
 							* the computers name: voice synthesiser depressingly cycles through "hello world", "that's my name, don't wear it out(side)",..
