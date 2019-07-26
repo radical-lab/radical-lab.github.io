@@ -59,9 +59,9 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* `/√.*/`: an incompatible operating system that comes with a free pet, and even knows a few languages (both humanable, and computational); incompatibilities can be handled externally to maintain internal purity from the (zombie) horde of humanity
 			* window manager (logical_implications.kbs versus functional_pet.scm; kbs wins for now)
 				* calibration > calibration.kbd # reusable at the application level on a case-by-case basis
-					* `eor sequence:`, almost any two keys
-					* `escape sequence:`, almost any two keys
-					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम}
+					* `eor sequence:`, almost any two keys (double tap FTW!!! :D)
+					* `escape sequence:`, almost any two keys (double tap FTW!!! :D)
+					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम} (unused eor sequence'll ignore R)
 				* cat calibration.kbd > configuration.kbd # users can modulate it, and script it together again
 					* mods (time delay, key down)
 						* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
