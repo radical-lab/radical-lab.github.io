@@ -61,7 +61,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* calibration > calibration.kbd # reusable at the application level on a case-by-case basis
 					* `eor sequence:`, almost any two keys (double tap FTW!!! :D)
 					* `escape sequence:`, almost any two keys (double tap FTW!!! :D)
-					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम} (unused eor sequence'll ignore R)
+					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम} (equal eor/escape sequence'll ignore R)
 				* cat calibration.kbd > configuration.kbd # users can modulate it, and script it together again
 					* mods (time delay, key down)
 						* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
