@@ -21,8 +21,9 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 <br>`Name :` [Shyam Has Your Anomaly Mitigated](mailto:shyam@shyam.id.au?Subject=YOU%20HAVE%20MAIL%20!!!)
 
 ## √ Ever-Changing Plan
+* [ ] c∘mp∘se, and then become a lispian on the HE∘12019∘09∘09ᵗʰ (or maybe the HE∘12019∘09∘07ᵗʰ)
 * emacs
-* elisp
+* elisp (`/electr(on)?ic lisp/`)
 	* `/productivity edit(or|ing) tool/`
 		* could probably start the "learning" system since elisp is a commitment
 		* and the related "-thing"; these have probably been backed up though … luckily it is mid-way, but only `/learn/` is easily discoverable … there are only theories of what "-thing" actually is ((in)security, study,..), but it is as general as (machine) "learning"
