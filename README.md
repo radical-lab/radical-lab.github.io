@@ -91,6 +91,12 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 							* श्याम × `/./` @ n≤ t time since s software update: voice synthesiser recommends updating s
 					* `cron`
 						* m multiplier × p pattern @ t time: like `/cron\t?/` (optional p for unsupervised automation)
+						* 1 × `//` @ daily: unsafe local backup
+						* 1 × `//` @ daily: unsafe remote backup (dependency: internet connectivity)
+						* 1 × `//` @ daily: safe local backup (dependency: robotic connectivity)
+						* 1 × `//` @ daily: safe remote backup (dependency: robotic delivery)
+						* 1 × `//` @ daily: error control (optional: include backups)
+						* 1 × `//` @ daily: `/mem(check|test)/` (optional: include backups)
 			* shyam time starts from my birthplace (including `/elevation|altitude/`) during my birthday (not `/mid(night|day)/`); s is the time it takes for a `/hammer|feather|.*/` to fall 1m in a vacuum (draw 1m in the air to count 1s; mathematical counting for the purposes of time keeping is now an healthy exercise) (the spokes of time wheels would be smaller than 1m depending on how many vacuum tubes there are); s "seconds" in an earthly rotation versus degrees versus percentages (variable rotational durations means degrees, and percentages, are more favourable); d earthly rotations in a solar year versus degrees versus percentages (variable rotations means degrees, and percentages, are more favourable), where south-up mapping means clockwise day-night indicators like my phones battery indicator (night is down, day is up); y solar years in a galactic orbit versus degrees versus percentages (variable years means degrees, and percentages, are more favourable), starting from shyam time; SHYAM \y ∘ \d ∘ \s
 				* <s>since it's the planets who are named after the Roman Pantheon, and not the months, it's not offending the gods by not using them</s>; Janus, Februa, Mars, Venus, Bona Dea, Juno, Julius Cæsar, Augustus Cæsar, <s>7ᵗʰ</s> 9ᵗʰ September, <s>8ᵗʰ</s> 10ᵗʰ October, <s>9ᵗʰ</s> 11ᵗʰ November, <s>10ᵗʰ</s> 12ᵗʰ December
 				* IT'S MARKET DAY!!! work-days versus free-days can be `/customised|tailored/` instead; not everyone lives consistent c̄ "royal" stupidity (garbage in, garbage out)
