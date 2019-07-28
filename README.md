@@ -96,7 +96,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 							* 1 × `/./` @ users birthday: voice synthesiser sings happy birthday
 							* 1 × `/./` @ computers birthday: voice synthesiser says how old it is
 							* श्याम × `/./` @ n≤ t time since s software update: voice synthesiser recommends updating s
-					* `cron`
+					* `cron` (EOF by default; users must update their `cron` macros if they do not want to simply use the power of the egyptian `cat`)
 						* m multiplier × p pattern @ t time: like `/cron\t?/` (optional p for unsupervised automation)
 						* 1 × `//` @ daily: unsafe local backup
 						* 1 × `//` @ daily: unsafe remote backup (dependency: internet connectivity)
