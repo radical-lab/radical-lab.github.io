@@ -34,7 +34,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * [ ] [insuring intelligence](https://intelligence.org/2017/04/12/ensuring/)
 	* [googoltalx](https://talksat.withgoogle.com/talk/ensuring-smarter-than-human-intelligence-has-a-positive-outcome)
 * [x] [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
-	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Ring∘Fire, but "zombies on the web"? Riders÷(The Storm))
+	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Rⁱⁿᵍ∘Fⁱʳᵉ, but "zombies on the web"? Rⁱᵈᵉʳˢ÷(TʰᵉSᵗᵒʳᵐ))
 		* [hollywood zombies](https://en.wikipedia.org/wiki/Gilgamesh_in_popular_culture)
 		* [how to identify a zombie](http://thezedword.weebly.com/lesson-3.html)
 			* [zombie game idea](http://en.wikipedia.org/wiki/Zombie_process): [belly brain ∴ head shot ≠ kill shot ∵ belly brain](https://shofarmdchs.files.wordpress.com/2012/11/74345b24699142fa521f14b598a3fe29.jpg)
