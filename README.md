@@ -42,8 +42,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* functional zombies … logical zombies?
 * [ ] [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
 	* [audiobook](https://from-ai-to-zombies.eu/) (unauthorized fan recording)
-	* [textbook](https://www.readthesequences.com/)
-	* [ebook](https://intelligence.org/rationality-ai-zombies/)
+	* [ebook](https://www.readthesequences.com/) ([approximately 300 articles = over 35 hours](https://www.kickstarter.com/projects/1267969302/lesswrong-the-sequences-audiobook))
+	* [treebook](https://intelligence.org/rationality-ai-zombies/)
 	* [hpmor](https://intelligence.org/2015/03/12/rationality-ai-zombies/)
 * [ ] [hpmor](http://www.hpmor.com/)
 * [ ] [ (卐) ]
