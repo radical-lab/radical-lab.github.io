@@ -37,7 +37,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Ring∘Fire, but "zombies on the web"? Riders÷(The Storm))
 		* [hollywood zombies](https://en.wikipedia.org/wiki/Gilgamesh_in_popular_culture)
 		* [how to identify a zombie](http://thezedword.weebly.com/lesson-3.html)
-			* [zombie game idea:](https://shofarmdchs.files.wordpress.com/2012/11/74345b24699142fa521f14b598a3fe29.jpg) [belly brain ∴ head shot ≠ kill shot ∵ belly brain](http://en.wikipedia.org/wiki/Zombie_process)
+			* [zombie game idea](http://en.wikipedia.org/wiki/Zombie_process): [belly brain ∴ head shot ≠ kill shot ∵ belly brain](https://shofarmdchs.files.wordpress.com/2012/11/74345b24699142fa521f14b598a3fe29.jpg)
 		* tuism supports zombies within
 		* functional zombies … logical zombies?
 * [ ] [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
