@@ -40,7 +40,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* [zombie game idea](http://en.wikipedia.org/wiki/Zombie_process): [belly brain ∴ head shot ≠ kill shot ∵ belly brain](https://shofarmdchs.files.wordpress.com/2012/11/74345b24699142fa521f14b598a3fe29.jpg)
 		* tuism supports zombies within
 		* functional zombies … logical zombies?
-		* nazi zombies?
+		* nazi zombies? nietzschean zombies? ([scroll down](http://web.archive.org/web/20190729045106/https://www.google.com/search?q=nietzschean+andromeda), or [scroll up](http://web.archive.org/web/20190729045155/https://www.google.com/search?q=rev+bem), there's a [picture of a girl](http://web.archive.org/web/20190729050444/https://pbs.twimg.com/profile_images/490928886147194880/UL0pMXvj_400x400.jpeg) as Red Plague [#wtf](http://web.archive.org/web/20190729050438/https://twitter.com/revbem01))
 * [ ] [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
 	* [audiobook](https://from-ai-to-zombies.eu/) (unauthorized fan recording)
 	* [ebook](https://www.readthesequences.com/) ([approximately 300 articles = over 35 hours](https://www.kickstarter.com/projects/1267969302/lesswrong-the-sequences-audiobook))
