@@ -47,7 +47,13 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [hpmor](https://intelligence.org/2015/03/12/rationality-ai-zombies/)
 * [ ] [hpmor](http://www.hpmor.com/)
 * [ ] [fantasies behind bars](https://en.wikipedia.org/wiki/Mein_Kampf_in_English) (the single most influential piece of literature ever composed, even surpassing all known religious scriptures; even the war on slavery was not declared from such eloquent words of philosophical wisdom, and no other Parnassian words have been solely responsible for an entire world war involving all of humanity ∴ I must read it ∵ it's probably the rational "-thing" to do…only the weak-minded resort to book-burning in fear of serpentine knowledge; an apple a day keeps the psychiatrist away, but not the nut-ritionist)
-	* [how much german do i need to learn to be able to read this?](https://en.wikipedia.org/wiki/Mein_Kampf#German) (for some reason, I learned all the enemy languages in school; German, and Japanese; but they've since converged against the forgetting curve)
+	* [wubba lubba dub-dub](https://www.quora.com/Why-should-I-read-or-not-read-Mein-Kampf-I-heard-this-is-a-great-book-Is-this-book-all-about-hate/answer/Sriraman-Madhavan)
+	* [how much german do i need to learn to be able to read this? in 27 hours, and 17 minutes](https://en.wikipedia.org/wiki/Mein_Kampf#German) (for some reason, I learned all the enemy languages in school; German, and Japanese; but they've since converged against the forgetting curve)
+		* [member berries](https://www.memrise.com/)
+		* [omnipotence](https://www.omniglot.com/)
+		* [the 2 most useful tips to learn a new language explained by 24 experts](https://www.middleburyinteractive.com/blog/language-learning)
+		* [3 months later…](https://www.fluentin3months.com/free-links/)
+		* [actually it'll take between 75, 1000, hours](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
 * [ ] [ (卐) ]
 	* shyamscript license
 	* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
