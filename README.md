@@ -40,6 +40,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* [zombie game idea](http://en.wikipedia.org/wiki/Zombie_process): [belly brain ∴ head shot ≠ kill shot ∵ belly brain](https://shofarmdchs.files.wordpress.com/2012/11/74345b24699142fa521f14b598a3fe29.jpg)
 		* tuism supports zombies within
 		* functional zombies … logical zombies?
+		* nazi zombies?
 * [ ] [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
 	* [audiobook](https://from-ai-to-zombies.eu/) (unauthorized fan recording)
 	* [ebook](https://www.readthesequences.com/) ([approximately 300 articles = over 35 hours](https://www.kickstarter.com/projects/1267969302/lesswrong-the-sequences-audiobook))
@@ -51,9 +52,9 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [how much german do i need to learn to be able to read this? in 27 hours, and 17 minutes](https://en.wikipedia.org/wiki/Mein_Kampf#German) (for some reason, I learned all the enemy languages in school; German, and Japanese; but they've since converged against the forgetting curve)
 		* [member berries](https://www.memrise.com/)
 		* [omnipotence](https://www.omniglot.com/)
-		* [the 2 most useful tips to learn a new language explained by 24 experts](https://www.middleburyinteractive.com/blog/language-learning)
+		* [how many experts does it take to explain the 2 most useful tips to learn a new language?](https://www.middleburyinteractive.com/blog/language-learning)
 		* [3 months later…](https://www.fluentin3months.com/free-links/)
-		* [actually it'll take between 75, 1000, hours](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
+		* [actually it'll take between 75, and 1000, hours](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
 * [ ] [ (卐) ]
 	* shyamscript license
 	* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
