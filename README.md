@@ -55,6 +55,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* [how many experts does it take to explain the 2 most useful tips to learn a new language?](https://www.middleburyinteractive.com/blog/language-learning)
 		* [3 months later…](https://www.fluentin3months.com/free-links/)
 		* [actually it'll take between 75, and 1000, hours](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
+		* this is the way it must be read; in the precise wording for the `/absorption|osmosis/` of mein führers `/full|complete|total|utter/` influence c̄out external corruption ([what ℝælly happened to the dinosaurs?](https://en.wikipedia.org/wiki/Idiocracy) the dinosaurs are [the lizard people](https://xkcd.com/1274/), and they can survive `/nukes|radiation|solar flares|exotic matter|black holes/`)
+		* after learning german, I plan to `/use|maintain/` it whilst playing [secret hitler](https://secrethitler.io/) every day thereafter; to better understand the greatest human to everbe (or not to everbe; das ist die ultimative (ab)frage, die zu beantworten ist)
 * [ ] [ (卐) ]
 	* shyamscript license
 	* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
