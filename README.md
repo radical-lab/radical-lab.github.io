@@ -76,6 +76,9 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* one text encoding system to rule them all (unicode `/su(per|b)sets/`)
 				* and in the cyberspace; hack them
 		* `/√.*/`: an incompatible operating system that comes with a free pet, and even knows a few languages (both humanable, and computational); incompatibilities can be handled externally to maintain internal purity from the (zombie) horde of humanity
+			* the unix shell is like an `/operating system|file system manager|emacs|smalltalk/`
+				* assemble an address from which to compute (`cd ~`, `mkdir home`, `address='/home/sweet/home' rm -fr /$address`, `address=' home/sweet/home';rm -fr /$address`,..), but `cd` is like the illusory files of an "interactive" `/desktop|file manager/`
+				* directories will have configurable configuration protection; `/root|usr|custom/` cryptography for nth subdirectories (0=<s>sub</s>directory) when using `cd`, `rm`, `mv`, `chmod`, `chown`, `chgrp`,..
 			* window manager (logical_implications.kbs versus functional_pet.scm; kbs wins for now)
 				* calibration > calibration.kbd # reusable at the application level on a case-by-case basis
 					* `keyboard type:` (it's probably a dependency, but the user can just leave it blank, and reconfigure the unicodes, or whatever it gets replaced by; metacodes)

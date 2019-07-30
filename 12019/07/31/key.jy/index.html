@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>√ god mode</title>
+	<script src='/scripts/1.js'></script>
+</head>
+<body>
+<pre>
+### Task 3 ###
+#5.20
+# A vector-based image uses a geometrically-based markup language to define an image, providing scalability.
+# Vector-based images differ from bitmapped images by specifying the image using math instead of storing each picture element in a matrix database.
+# It is better to use a vector-based image if scalability is required and if a lower level of detail will suffice.
+
+(allcapls)=("AUTHORATATIVE! I AM A DALEK AND YOU MUST OBEY!")
+
+### Driver ###
+def driver(function):
+    # Case-Sensitive Index.
+    """
+        possible functions:
+            #5.14 - Create comic strip by putting 3-4 pictures next to each other horizontally and adding text.
+            "comic"
+            #5.15 - Using the drawing functions, draw a bull's eye.
+            "eyeTest" <-- SCALABLE!
+            A bull's eye could either be literal or the center of a target.
+            I drew the target and included a bull's eye.
+            Unless you really wanted to see a single circle centered?
+            Tricky question...
+            I was initially going to attempt this: http://aliveontheshelves.com/wp-content/uploads/2011/11/The-Wall-Street-Bull.jpg
+            Instead I just copied the Wikipedia one: https://en.wikipedia.org/wiki/Bullseye_(target)
+            #5.16 - Uising the drawing tools preseted here, draw a house - just go for the simple child's house with one door, two windows, walls and a roof.
+            "lostInSpace" <-- NEONSTYLE! (Repaired the chameleon circuit by a fraction, so now it changes colour with each pulse the dematerialisation circuit recieves.)
+            Has door, 2 window panes, walls, roof.
+            It's a house, whether you like it or not.
+            It's just bigger on the inside, is all.
+            I gave up for scalability, but atleast the text and environment intelligently changes with each function call...
+            And none of the graphical SFX are even close to completion...
+            This is still my mathematical masterpiece, nonetheless!
+            #5.17 - Draw horizontal and vertical lines on a picture with 10 pixels between the lines.
+            "chequer"
+            #5.18 - Draw diagonal lines on a picture from top left to bottom right.
+            "diagonalA"
+            #5.19 - Draw diagonal lines on a picture from top right to bottom left.
+            "diagonalB"
+            both 5.18 and 5.19 use the same function which is basically Bresenham's line algorithm.
+    """
+    if(("comic")in(function)):
+        (quantity)=(requestInteger("HOW MANY PICTURES DO YOU WANT TO INCLUDE IN YOUR COMIC?"))
+        while((quantity)<(1)):
+            (showError("QUANTITY MUST BE GREATER THAN 0!"))
+            (quantity)=(requestInteger("HOW MANY PICTURES DO YOU WANT TO INCLUDE IN YOUR COMIC?"))
+        (tally)=(0)
+        (pictureList)=([])
+        while((tally)<(quantity)):
+            try:
+                (showInformation("PLEASE LOCATE IMAGE "+str(tally+1)+"."))
+                (pictureList.append(makePicture(pickAFile())))
+                (text)=(requestString("DO YOU WANT TO ADD TEXT TO THIS PICTURE OBJECT? (Y/N)"))
+                if((text)in(["y","Y","yes","Yes","yEs","yeS","YEs","yES","YeS","YES"])):
+                    (width,height)=(getWidth(pictureList[-1]),getHeight(pictureList[-1]))
+                    (locationX)=(requestIntegerInRange("AT WHAT X COORDINATE SHOULD THE TEXT BE PLACED?\nVALID RANGE BETWEEN -1 AND "+str(width)+".",0,width))
+                    (locationY)=(requestIntegerInRange("AT WHAT Y COORDINATE SHOULD THE TEXT BE PLACED?\nVALID RANGE BETWEEN -1 AND "+str(height)+".",0,height))
+                    (textObject)=(requestString("PLEASE ENTER THE TEXT TO BE INSERTED INTO THE PICTURE OBJECT'S DNA SEQUENCE.\nIF IT IS TOO LONG THEN IT MAY NOT BE FULLY VISIBLE."))
+                    (showInformation("PLEASE SELECT THE AMOUNT OF LIGHT FOR EACH COLOUR CHANNEL OF THE TEXT.\nVALID RANGE IS BETWEEN -1 AND 256."))
+                    (redColour)=(requestIntegerInRange("HOW MUCH RED LIGHT?",0,255))
+                    (greenColour)=(requestIntegerInRange("HOW MUCH GREEN LIGHT?",0,255))
+                    (blueColour)=(requestIntegerInRange("HOW MUCH BLUE LIGHT?",0,255))
+                    (colourObject)=(makeColor(redColour,greenColour,blueColour))
+                    (addText(pictureList[-1],locationX,locationY,textObject,colourObject))
+            except:
+                (showError("INCOMPATIBLE PICTURE OBJECT!\nPLEASE TRY AGAIN."))
+                continue
+            (tally)+=(1)
+        if((1)<(quantity)):
+            (spacing)=(requestInteger("HOW MUCH PIXEL-WIDTH SPACING BETWEEN FRAMES?"))
+            while((spacing)<(0)):
+                (showError("SPACING MUST BE GREATER THAN 0!"))
+                (spacing)=(requestInteger("HOW MUCH PIXEL-WIDTH SPACING BETWEEN FRAMES?"))
+        else:
+            (spacing)=(0)
+        (showInformation("PLEASE SELECT THE AMOUNT OF LIGHT FOR EACH COLOUR CHANNEL IN THE BACKGROUND.\nVALID RANGE IS BETWEEN -1 AND 256."))
+        (redColour)=(requestIntegerInRange("HOW MUCH RED LIGHT?",0,255))
+        (greenColour)=(requestIntegerInRange("HOW MUCH GREEN LIGHT?",0,255))
+        (blueColour)=(requestIntegerInRange("HOW MUCH BLUE LIGHT?",0,255))
+        (background)=(makeColor(redColour,greenColour,blueColour))
+        (drive)=(frames(pictureList,spacing,background))
+        if((type(drive))!=(type(makeEmptyPicture(1,1)))):
+            return("-_-")
+        (openPictureTool(drive))
+        return("======= TASK COMPLETE =======")
+    if(("eyeTest")in(function)):
+        (size)=(requestInteger("PLEASE RETURN A SIZE FOR THE IMAGE.\nMINIMUM: SIXTY."))
+        if((size)<(60)):
+            (showError("SIZE CANNOT BE LESS THAN SIXTY."))
+            (size)=(requestInteger("PLEASE RETURN A SIZE FOR THE IMAGE.\nMINIMUM: SIXTY."))
+        (drive)=(midpointCircle(size))
+        if((type(drive))!=(type(makeEmptyPicture(1,1)))):
+            return("-_-")
+        (openPictureTool(drive))
+        return("======= TASK COMPLETE =======")
+    if(("lostInSpace")in(function)):
+        (drive)=(spaceHome())
+        if((type(drive))!=(type(makeEmptyPicture(1,1)))):
+            return("-_-")
+        (saveFile)=(requestString("DO YOU WANT TO SAVE THIS ART?"))
+        if((saveFile)in(["y","Y","yes","Yes","yEs","yeS","YEs","yES","YeS","YES"])):
+            (writePictureTo(drive,pickAFolder()+"TARDIS.png"))
+        return("======= TASK COMPLETE =======")
+    if((("diagonalA")in(function))or(("diagonalB")in(function))or(("chequer")in(function))):
+        (option)=(requestString("TYPE \"NEW\" IF YOU WOULD LIKE A BLANK IMAGE.\nOTHERWISE YOU WILL BE PROMPTED TO LOCATE AN IMAGE FROM STORAGE."))
+        (option)=(option.strip())
+        if((option)in(["new","New","nEw","neW","NEw","nEW","NEW"])):
+            (width)=(requestInteger("PLEASE RETURN THE WIDTH FOR YOUR NEW PICTURE OBJECT."))
+            while((width)<(1)):
+                (showError("WIDTH CANNOT BE LESS THAN 1."))
+                (width)=(requestInteger("PLEASE RETURN THE WIDTH FOR YOUR NEW PICTURE OBJECT."))
+            (height)=(requestInteger("PLEASE RETURN THE HEIGHT FOR YOUR NEW PICTURE OBJECT."))
+            while((width)<(1)):
+                (showError("HEIGHT CANNOT BE LESS THAN 1."))
+                (height)=(requestInteger("PLEASE RETURN THE HEIGHT FOR YOUR NEW PICTURE OBJECT."))
+            (option)=(requestString("TYPE \"YES\" IF YOU WOULD LIKE TO SPECIFY THE BACKGROUND COLOUR."))
+            (option)=(option.strip())
+            if((option)in(["yes","Yes","yEs","yeS","YEs","yES","YES","y","Y"])):
+                (redColour)=(requestIntegerInRange("PLEASE RETURN THE AMOUNT OF RED LIGHT FOR THE COLOUR OF YOUR BACKGROUND.",0,255))
+                (greenColour)=(requestIntegerInRange("PLEASE RETURN THE AMOUNT OF GREEN LIGHT THE COLOUR OF FOR YOUR BACKGROUND.",0,255))
+                (blueColour)=(requestIntegerInRange("PLEASE RETURN THE AMOUNT OF BLUE LIGHT FOR THE COLOUR OF YOUR BACKGROUND.",0,255))
+                (colourObject)=(makeColor(redColour,greenColour,blueColour))
+                (pictureObject)=(makeEmptyPicture(width,height,colourObject))
+            else:
+                (pictureObject)=(makeEmptyPicture(width,height))
+        else:
+            (showInformation("PLEASE LOCATE AN IMAGE FILE FROM STORAGE."))
+            (pictureObject)=(makePicture(pickAFile()))
+        (redColour)=(requestIntegerInRange("PLEASE RETURN THE AMOUNT OF RED LIGHT FOR THE COLOUR OF YOUR LINE.",0,255))
+        (greenColour)=(requestIntegerInRange("PLEASE RETURN THE AMOUNT OF GREEN LIGHT FOR THE COLOUR OF YOUR LINE.",0,255))
+        (blueColour)=(requestIntegerInRange("PLEASE RETURN THE AMOUNT OF BLUE LIGHT FOR THE COLOUR OF YOUR LINE.",0,255))
+        (colourObject)=(makeColor(redColour,greenColour,blueColour))
+        (width)=(getWidth(pictureObject))
+        (height)=(getHeight(pictureObject))
+        if(("chequer")in(function)):
+            (drive)=(cruxImmissaQuadrata(pictureObject,colourObject))
+        elif(("diagonalA")in(function)):
+            (startX,startY,endX,endY)=(0,0,width-1,height-1)
+        elif(("diagonalB")in(function)):
+            (startX,startY,endX,endY)=(width-1,0,0,height-1)
+        if(((("diagonalA")in(function))or(("diagonalB")in(function)))):
+            (drive)=(Bresenham(pictureObject,colourObject,startX,startY,endX,endY))
+        if((type(drive))!=(type(makeEmptyPicture(1,1)))):
+            return("-_-")
+        (openPictureTool(drive))
+        return("======= TASK COMPLETE =======")
+    # Function call with non-existant parametric argument.
+    return("PLEASE READ THE DOCUMENTATION STRING - IT HAS BEEN DROPPED INTO THE SAUCE.")
+
+### Task 1 ###
+# 5.20
+# 5.14
+# 5.15
+# 5.16
+# 5.18
+# 5.19
+# 5.17
+
+### Task 2 ###
+#5.14
+def frames(pictureList,spacing,background=white):
+    # Datatype validation checkpoint.
+    (borderControl)=(makeEmptyPicture(1,1))
+    (increment)=(0)
+    while((increment)<(len(pictureList))):
+        if((type(pictureList[increment]))!=(type(borderControl))):
+            return(showError("UNRECOGNISED PICTURE OBJECT FORMAT!"))
+        (increment)+=(1)
+    if((type(spacing))!=(int)):
+        return(showError("SPACING MUST BE AN INTEGER!"))
+    try:
+        (pixelObject)=(getPixelAt(borderControl,0,0))
+        (setColor(pixelObject,background))
+    except:
+        return(showError("BACKGROUND MUST BE A COLOUROBJECT!"))
+    # Check!
+    (index)=(0)
+    (widthMax,heightMax)=(0,0)
+    while((index)<(len(pictureList))):
+        (width,height)=(getWidth(pictureList[index]),getHeight(pictureList[index]))
+        (widthMax)+=(width)
+        if(((index)>(0))and((index)<(len(pictureList)))):
+            (widthMax)+=(spacing)
+        if((heightMax)<(height)):
+            (heightMax)=(height)
+        (index)+=(1)
+    (pictureObject)=(makeEmptyPicture(widthMax,heightMax,background))
+    (counter)=(0)
+    (widthCache)=(0)
+    while((counter)<(len(pictureList))):
+        if(counter)==(0):
+            (spacer)=(0)
+        else:
+            (spacer)=(spacing)
+        (printNow("INSERTING PICTURE OBJECT "+str(counter+1)+"..."))
+        (frame)=(pictureList[counter])
+        (width,height)=(getWidth(frame),getHeight(frame))
+        (frame)=(pictureList[counter])
+        (x)=(0)
+        while((x)<(width)):
+            (y)=(0)
+            while((y)<(height)):
+                (pixelObject)=(getPixelAt(pictureObject,x+widthCache+spacer,y))
+                (setColor(pixelObject,getColor(getPixelAt(frame,x,y))))
+                (y)+=(1)
+            (x)+=(1)
+        (widthCache)+=(width+spacer)
+        (counter)+=(1)
+    return(pictureObject)
+
+
+
+#5.15
+# I was going to use the midpoint circle algorithm...
+def midpointCircle(size=60):
+    # INPUT VALIDATION!
+    if((size)<(60)):
+        return(showError("DIMENSIONS MUST BE GREATER THAN 59!"))
+    # CHECK!
+    (pictureObject)=(makeEmptyPicture(size,size))
+    (colourList)=([white,black,blue,red,yellow])
+    (incrementor)=(1)
+    (colour)=(0)
+    (position)=(0)
+    (diameter)=(size-1)
+    while((incrementor)<(11)):
+        (addOvalFilled(pictureObject,position,position,int(diameter),int(diameter),colourList[int(colour)]))
+        (outline)=(black)
+        if((incrementor)==(4)): (outline)=(white)
+        (addOval(pictureObject,position,position,int(diameter),int(diameter),outline))
+        (incrementor)+=(1)
+        (colour)+=(.5)
+        (position)+=(size/20)
+        (diameter)-=(size/10)
+    (position)-=(size/40)
+    (diameter)+=(size/20)
+    (addOval(pictureObject,position,position,int(diameter),int(diameter),gray))
+    (position)+=((size/40)-1)
+    (diameter)+=((-size/20)+2)
+    (addOval(pictureObject,position,position,int(diameter),int(diameter),gray))
+    return(pictureObject)
+
+
+
+#5.16
+def spaceHome(fx="none", audio="on"):
+    (size)=(500)
+    (width,height)=(size,size)
+    from random import randint
+    (reTardis)=(makeEmptyPicture(width,height,black))
+    ##### bézier curve #####
+    def bezier(pointsX,pointsY):
+        # There is no need for input validation for internal services.
+        (basePoints)=([])
+        (point)=(0)
+        while(((point)<(len(pointsX)))and((len(pointsX))==(len(pointsY)))):
+            (basePoints.append({"x":pointsX[point],"y":pointsY[point]}))
+            (point)+=(1)
+        # the elliptic curve generator
+        from copy import copy
+        (curvature)=([])
+        (step)=(float(0))
+        (percentage)=(.005)
+        (maxStep)=(1)
+        while((step)<=(maxStep)):
+            (LOP)=(copy(basePoints)) #ListOfPoints
+            while((len(LOP))!=(1)):
+                #loop
+                (newLOP)=([])
+                (point)=(0)
+                while((point)<(len(LOP)-1)):
+                    (x0,y0,x1,y1)=(LOP[point]["x"],LOP[point]["y"],LOP[point+1]["x"],LOP[point+1]["y"])
+                    # Distance Formula = (abs(x0-x1)**2+abs(y0-y1)**2)**0.5
+                    (distanceTotal)=((abs(x0-x1)**2+abs(y0-y1)**2)**.5)
+                    # dist/maxStep*step or dist*step
+                    if((x0)<(x1)):
+                        (x)=(x0-((x0-x1)*step))
+                    else:
+                        (x)=(x1-((x1-x0)*(1-step)))
+                    if((y0)<(y1)):
+                        (y)=(y0-((y0-y1)*step))
+                    else:
+                        (y)=(y1-((y1-y0)*(1-step)))
+                    # newLOP = new point(x,y)
+                    (newLOP.append({"x":int(round(x,0)),"y":int(round(y,0))}))
+                    (point)+=(1)
+                (LOP)=(newLOP)
+            (curvature.extend(LOP))
+            (step)+=(percentage)
+        return(curvature)
+    ##### pr0n stars #####
+    # Whoups, that p must be an accidental typo in place of a t...
+    (printNow("POPULATING THE MULTIVERSES..."))
+    (density)=(width*height/256)
+    (iterator)=(0)
+    while((iterator)<(density)):
+        (pixelObject)=(getPixelAt(reTardis,randint(0,width-1),randint(0,height-1)))
+#        (setColor(pixelObject,makeColor(randint(0,255),randint(0,255),randint(0,255))))
+        (setColor(pixelObject,makeColor(randint(0,255))))
+        (iterator)+=(1)
+    ##### where are we in the big picture? #####
+    (sectorRNG)=(randint(0,1))
+    (label)=(0)
+    while((label)<(2)):
+        (RNG)=(randint(0,1))
+        if((label)==(1)):
+            (whois)=(["EARTH","THE SYSTEM OF SOL"][RNG])
+        else:
+            RNG=1
+            (whois)=(["GALLIFREY","THE CONSTELLATION OF KASTERBOROUS"][RNG])
+        if((25)<(len(whois))):
+            (sectorRNG)=(1)
+            (multiplier)=(7.6)
+            (whoisX)=(randint(100,200))
+            (whoisY)=(randint(10,75))
+        elif((10)<(len(whois))):
+            (multiplier)=(7.25)
+            if((sectorRNG)==(0)): # horizontal
+                (whoisX)=(randint(10,300))
+                (whoisY)=(randint(10,75))
+            else: # vertical
+                (whoisX)=(randint(10,25))
+                (whoisY)=(randint(10,450))
+        elif((5)<(len(whois))):
+            (multiplier)=(7.5)
+            if((sectorRNG)==(0)): # horizontal
+                (sectorRNG)=(1)
+                (whoisX)=(randint(10,400))
+                (whoisY)=(randint(10,75))
+            else: # vertical
+                (sectorRNG)=(0)
+                (whoisX)=(randint(10,75))
+                (whoisY)=(randint(10,450))
+        else:
+            (multiplier)=(8.25)
+            if((sectorRNG)==(0)): # horizontal
+                (whoisX)=(randint(10,400))
+                (whoisY)=(randint(10,75))
+            else: # vertical
+                (whoisX)=(randint(10,100))
+                (whoisY)=(randint(10,450))
+        (addRectFilled(reTardis,whoisX,whoisY,int(len(whois)*multiplier),12,white))
+        (addText(reTardis,whoisX,whoisY+10,whois,black))
+        (arrowX,arrowY)=(whoisX+int(len(whois)*multiplier),whoisY+12)
+        (pointer)=(0)
+        while((pointer)<(7)):
+            (addLine(reTardis,arrowX-pointer,arrowY,arrowX+1,arrowY+5,white))
+            (pointer)+=(1)
+        (label)+=(1)
+    ##### lightning #####
+    if(("static")in(fx)):
+        (count)=(0)
+        while((count)<(50)):
+            (pointsX)=([width/10+width/10/2])
+            (increment)=(width/10*2)
+            (iterate)=(width/10*3)
+            while((iterate)<(width/10*8.25)):
+                (pointsX.append(randint(increment,iterate)))
+                (increment)=(pointsX[-1])
+                (iterate)+=(width/10)
+            (pointsX.append(int(width/10*8.25)))
+            (pointsY)=([250,randint(125,350)])
+            while((pointsY[-2])==(pointsY[-1])):
+                del(pointsY[-1])
+                (pointsY.append(randint(125,350)))
+            (counter)=(0)
+            while((len(pointsY))!=(len(pointsX))):
+                if((pointsY[-2])<(pointsY[-1])):
+                    (pointsY.append(randint(125,250)))
+                elif((pointsY[-2])>(pointsY[-1])):
+                    (pointsY.append(randint(300,350)))
+                if((pointsY[-2])==(pointsY[-1])):
+                    del(pointsY[-1])
+            del(pointsY[-1])
+            (pointsY.append(250))
+            (electric)=(0)
+            while((electric)<(len(pointsX)-1)):
+                (addLine(reTardis,pointsX[electric],pointsY[electric],pointsX[electric+1],pointsY[electric+1],yellow))
+                (electric)+=(1)
+            (count)+=(1)
+    ##### northern aurora twilights #####
+    if(("aura")in(fx)):
+        # early attempt at using RNG to find a curve
+        (pointsX)=([width/10+width/10/2])
+        (pointsX)=([randint(width/10,width/10*2)])
+        (increment)=(width/10*2)
+        (iterate)=(width/10*3)
+        while((iterate)<(width/10*8.5)):
+            (pointsX.append(randint(increment,iterate)))
+            (increment)=(pointsX[-1])
+            (iterate)+=(width/10)
+        (pointsX.append(randint(width/10*7,width/10*8.5)))
+        (pointsY)=([randint(200,350),randint(200,350)])
+        (counter)=(0)
+        while(len(pointsY))<(len(pointsX)):
+            (pointsY.append(randint(200,350)))
+        # this will do until I can make some glowing halo FX
+        (pointsX)=([100,150,225,325,375])
+        (pointsY)=([275,225,225,300,225])
+        (curvature)=(bezier(pointsX,pointsY))
+        (loop)=(0)
+        (redColour)=(randint(0,255))
+        (greenColour)=(randint(0,255))
+        (blueColour)=(randint(0,255))
+        while((loop)<(len(curvature)-1)):
+            (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"],curvature[loop]["x"],curvature[loop]["y"]-50,makeColor(redColour,greenColour,blueColour)))
+            (addLine(reTardis,curvature[loop]["x"]+1,curvature[loop]["y"]+10,curvature[loop]["x"]+1,curvature[loop]["y"]-30,makeColor(redColour*1.5,greenColour*1.5,blueColour*1.5)))
+            (loop)+=(1)
+    ##### colour
+    (redColour)=(randint(50,205))
+    (greenColour)=(randint(50,205))
+    (blueColour)=(randint(50,205))
+    (colourObjectDark)=(makeColor(redColour/2,greenColour/2,blueColour/2))
+    (colourObject)=(makeColor(redColour,greenColour,blueColour))
+    (colourObjectLight)=(makeColor(redColour*2,greenColour*2,blueColour*2))
+    ##### cherry beacon
+    (cherryX,cherryY)=(width/100*46.25,height/100*22.75)
+    (cherryWidth,cherryHeight)=(width/100*2.5,height/100*10)
+    (addRectFilled(reTardis,int(cherryX),int(cherryY),int(cherryWidth),int(cherryHeight),colourObjectLight))
+    (addRect(reTardis,int(cherryX),int(cherryY),int(cherryWidth),int(cherryHeight),colourObjectDark))
+    (addRect(reTardis,int(cherryX+2),int(cherryY+2),int(cherryWidth-4),int(cherryHeight-4),colourObjectDark))
+    ##### main body
+    (bodyX,bodyY)=(width/100*35,height/100*25)
+    (bodyWidth,bodyHeight)=(width/100*25,height/100*50)
+    (addRectFilled(reTardis,int(bodyX),int(bodyY),int(bodyWidth),int(bodyHeight),colourObject))
+    (addRect(reTardis,int(bodyX),int(bodyY),int(bodyWidth),int(bodyHeight),colourObjectLight))
+    (addRect(reTardis,int(bodyX+2),int(bodyY+2),int(bodyWidth-4),int(bodyHeight-4),colourObjectLight))
+    ##### under
+    (underX,underY)=(width/100*33,height/100*73)
+    (underWidth,underHeight)=(width/100*29,height/100*2)
+    (addRectFilled(reTardis,int(underX),int(underY),int(underWidth),int(underHeight),colourObject))
+    (addRect(reTardis,int(underX),int(underY),int(underWidth),int(underHeight),colourObjectLight))
+    (addRect(reTardis,int(underX+2),int(underY+2),int(underWidth-4),int(underHeight-4),colourObjectLight))
+    ##### over
+    (overX,overY)=(width/100*33,height/100*27.25)
+    (overWidth,overHeight)=(width/100*29,height/100*2)
+    (addRectFilled(reTardis,int(overX),int(overY),int(overWidth),int(overHeight),colourObject))
+    (addRect(reTardis,int(overX),int(overY),int(overWidth),int(overHeight),colourObjectLight))
+    (addRect(reTardis,int(overX+2),int(overY+2),int(overWidth-4),int(overHeight-4),colourObjectLight))
+    ##### panel
+    (panelX,panelY)=(width/100*36.5,height/100*62)
+    (panelWidth,panelHeight)=(width/100*10,height/100*10)
+    (iterator)=(0)
+    while((iterator)<(3)):
+        (addRectFilled(reTardis,int(panelX),int(panelY),int(panelWidth),int(panelHeight),colourObjectDark))
+        (addRect(reTardis,int(panelX),int(panelY),int(panelWidth),int(panelHeight),colourObject))
+        (addRect(reTardis,int(panelX+2),int(panelY+2),int(panelWidth-4),int(panelHeight-4),colourObject))
+        (addRectFilled(reTardis,int(panelX+panelWidth+11),int(panelY),int(panelWidth),int(panelHeight),colourObjectDark))
+        (addRect(reTardis,int(panelX+panelWidth+11),int(panelY),int(panelWidth),int(panelHeight),colourObject))
+        (addRect(reTardis,int(panelX+2+panelWidth+11),int(panelY+2),int(panelWidth-4),int(panelHeight-4),colourObject))
+        if((iterator)==(2)):
+            (addRectFilled(reTardis,int(panelX),int(panelY),int(panelWidth),int(panelHeight),colourObjectDark))
+            (addRectFilled(reTardis,int(panelX+5),int(panelY+5),int(panelWidth-10),int(panelWidth-10),colourObjectLight))
+            (line)=(0)
+            while((line)<(11)):
+                # fake text
+                (x,y)=(randint(int(panelX+10),int(panelX+panelWidth-30)),randint(int(panelY+10),int(panelY+panelHeight-20)))
+                (x,y)=(panelX+panelWidth/2,panelY+10+line*3)
+                (length)=(randint(5,15))
+                (addLine(reTardis,int(x-length),int(y),int(x+length),int(y),colourObjectDark))
+                (line)+=(1)
+            (addRectFilled(reTardis,int(panelX+panelWidth+11),int(panelY),int(panelWidth),int(panelHeight),colourObjectDark))
+            (addRect(reTardis,int(panelX+panelWidth+11),int(panelY),int(panelWidth),int(panelHeight),colourObject))
+            (addRect(reTardis,int(panelX+2+panelWidth+11),int(panelY+2),int(panelWidth-4),int(panelHeight-4),colourObject))
+        (panelY)-=(panelHeight+3)
+        (iterator)+=(1)
+    ##### panes
+    (addRectFilled(reTardis,int(panelX),int(panelY),int(panelWidth),int(panelHeight),colourObjectLight))
+    (addRectFilled(reTardis,int(panelX+panelWidth+11),int(panelY),int(panelWidth),int(panelHeight),colourObjectLight))
+    (increment)=(0)
+    while((increment)<(2)):
+        if((increment)!=(0)):
+            (increment)+=((50-10)/2)
+        (addRectFilled(reTardis,int(panelX+5),int(panelY+5+increment),int((50-10)/3),int((50-10)/2),colourObject))
+        (addRectFilled(reTardis,int(panelX+5+(50-10)/3*1.1),int(panelY+5+increment),int((50-10)/3),int((50-10)/2),colourObject))
+        (addRectFilled(reTardis,int(panelX+5+(50-10)/3*2.15),int(panelY+5+increment),int((50-10)/3),int((50-10)/2),colourObject))
+        (addRectFilled(reTardis,int(panelX+panelWidth+11+5),int(panelY+5+increment),int((50-10)/3),int((50-10)/2),colourObject))
+        (addRectFilled(reTardis,int(panelX+panelWidth+11+5+(50-10)/3*1.1),int(panelY+5+increment),int((50-10)/3),int((50-10)/2),colourObject))
+        (addRectFilled(reTardis,int(panelX+panelWidth+11+5+(50-10)/3*2.15),int(panelY+5+increment),int((50-10)/3),int((50-10)/2),colourObject))
+        (increment)+=(1)
+    ##### separator
+    (addLine(reTardis,int(width/100*47.5),int(height/100*30),int(width/100*47.5),int(height/100*72),colourObjectLight))
+    ##### keyhole (I know it's in the wrong place, but I ran out of room!)
+    (addOvalFilled(reTardis,263,223,10,10,colourObjectLight))
+    (addLine(reTardis,268,225,268,231,colourObject))
+    ##### planetoid (If I get time, I will implement the sparation of land from water instead.)
+    (vacinity)=(400)
+    (pointsX)=([350,vacinity,500])
+    (pointsY)=([500,vacinity,350])
+    (curvature)=(bezier(pointsX,pointsY))
+    (loop)=(0)
+    (redColour)=(255-redColour)
+    (greenColour)=(255-greenColour)
+    (blueColour)=(255-blueColour)
+    (colourObjectDark)=(makeColor(redColour/2,greenColour/2,blueColour/2))
+    (colourObject)=(makeColor(redColour,greenColour,blueColour))
+    (colourObjectLight)=(makeColor(redColour*2,greenColour*2,blueColour*2))
+    while((loop)<(len(curvature)-1)):
+        (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"],width,curvature[loop]["y"],makeColor(redColour,greenColour,blueColour)))
+        (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"]-1,width,curvature[loop]["y"]-1,makeColor(redColour,greenColour,blueColour)))
+        (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"],curvature[loop]["x"],curvature[loop]["y"],makeColor(redColour*1.5,greenColour*1.5,blueColour*1.5)))
+        (addLine(reTardis,curvature[loop]["x"]-1,curvature[loop]["y"],curvature[loop+1]["x"]-1,curvature[loop+1]["y"],makeColor(redColour*.5,greenColour*.5,blueColour*.5)))
+        (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"],randint(curvature[loop]["x"],width),curvature[loop]["y"],makeColor(redColour*.8,greenColour*.8,blueColour*.8)))
+        (loop)+=(1)
+    (openPictureTool(reTardis))
+    if(("on")in(audio)):
+        ########## AUDIO CONTROLS START ##########
+        #THERE IS NO MULTIPROCESSING MODULE!!! 0;<
+        (volume)=(127)
+        ########### AUDIO CONTROLS END ###########
+        import thread
+        from datetime import datetime,timedelta
+        from time import sleep
+        (notesCh0)=([53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 53, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 55, 55, 55, 55, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 55, 55, 55, 55, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 55, 55, 55, 55, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 55, 55, 55, 55, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 55, 55, 55, 55, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 55, 55, 55, 55, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 55, 55, 55, 55, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 52, 55, 55, 55, 55, 47, 50, 36, 45, 47, 50, 36, 45, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 55, 50, 50, 50, 55, 55, 55, 50, 50, 50, 55, 55, 55, 48, 48, 48, 55, 55, 55, 48, 48, 48, 55, 55, 55, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52, 52, 52, 52, 52, 52, 52, 52, 47, 47, 47, 47, 47, 47, 47, 52, 52, 52, 52, 47, 47, 47, 47, 47, 47, 47, 52])
+        (durationCh0)=([166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 1000, 833.3333333333333, 83.33333333333333, 83.33333333333333, 1000, 833.3333333333333, 83.33333333333333, 1083.3333333333333, 1000, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 1500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 166.66666666666666, 166.66666666666666, 166.66666666666666, 500, 333.3333333333333, 166.66666666666666, 500, 4000])
+        (notesCh1)=([0, 64, 64, 67, 70, 71, 64, 71, 64, 66, 67, 64, 66, 67, 64, 66, 67, 69, 67, 66, 67, 66, 64, 64, 66, 67, 64, 66, 67, 64, 66, 67, 69, 67, 66, 67, 66, 64, 71, 59, 47, 62, 62, 62, 62, 62, 62, 69, 67, 64, 62, 64, 62, 59, 59, 59, 59, 64, 66, 67, 66, 64, 66, 67, 69, 67, 59, 72, 71])
+        (durationCh1)=([2000, 1000, 1000, 1000, 1000, 9000, 1000, 2500, 166.66666666666666, 166.66666666666666, 666.6666666666666, 166.66666666666666, 166.66666666666666, 666.6666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 666.6666666666666, 166.66666666666666, 166.66666666666666, 666.6666666666666, 166.66666666666666, 166.66666666666666, 666.6666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 166.66666666666666, 8166.666666666666, 2000, 2000, 2000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1500, 500, 500, 500, 2500, 500, 500, 500, 500, 500, 500, 500, 4000])
+        (notesCh2)=([91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 67, 71, 76, 71, 76, 79, 64, 84, 83, 86, 69, 71, 83, 79, 71, 74, 72, 71, 71, 69, 71, 72, 71, 72, 71, 71, 84, 83, 79, 83, 81, 79, 78, 79, 79, 79, 79, 88, 86, 84, 86, 79, 88, 86, 84, 86, 83, 81, 83, 84, 83, 71, 84, 83, 71, 84, 83])
+        (durationCh2)=([62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 62.5, 8062.5, 2000, 1000, 750, 125, 125, 3000, 500, 500, 3000, 500, 500, 4000, 500, 500, 1000, 750, 250, 750, 125, 125, 1750, 250, 750, 250, 6000, 500, 500, 3000, 500, 500, 750, 125, 125, 1000, 1000, 500, 500, 750, 125, 125, 500, 500, 750, 125, 125, 500, 500, 2000, 1500, 500, 3000, 500, 500, 3000, 500, 500, 4000])
+        (sink)=(datetime.now()+timedelta(seconds=2))
+        def Channel0(id,unused):
+            # There is no need for input validation for internal foundations.
+            while((datetime.now())!=(sink)):
+                pass
+            (note)=(0)
+            while((note)<(len(notesCh0))):
+                (playNote(notesCh0[note],int(durationCh0[note]),int(volume*.9)))
+                (note)+=(1)
+        def Channel1(id,unused):
+            # There is no need for input validation for internal slaves.
+            while((datetime.now())!=(sink)):
+                pass
+            (note)=(0)
+            while((note)<(len(notesCh1))):
+                (playNote(notesCh1[note],int(durationCh1[note]),int(volume)))
+                (note)+=(1)
+        def Channel2(id,unused):
+            # There is no need for input validation for internal structures.
+            while((datetime.now())!=(sink)):
+                pass
+            (note)=(0)
+            while((note)<(len(notesCh2))):
+                (playNote(notesCh2[note],int(durationCh2[note]),int(volume)))
+                (note)+=(1)
+        try:
+            (thread.start_new_thread(Channel0,("ZEROETH",1)))
+            (thread.start_new_thread(Channel1,("ONETH",1)))
+            (thread.start_new_thread(Channel2,("TWOETH",1)))
+        except(Exception, e):
+            (printNow(str(e)))
+        # I have found a way to take control from the user, now for world dominations...
+        (printNow("\nYOU CANNOT STOP THE MUSIC!\n"))
+        (delay)=(1)
+        (lag)=(1)
+        (sleep(2))
+        try:
+            # Extremely likely to be thrown out of sync if the user tries to do anything else with their PC.
+            while((lag)<(int(sum(durationCh2))/1000+1)):
+                (printNow(str(lag)+"/"+str(int(sum(durationCh2))/1000)+" SECONDS (APPROX)."))
+                (sleep(delay))
+                (lag)+=(1)
+        except: # I could have put all of this through an infinitesimal loop...
+            (printNow("\nNOBODY CAN STOP THE MUSIC!"))
+    return(reTardis)
+
+
+
+#5.17
+# I feel compelled to try (re)sampling+quantizing the average colour from the 10x10 squares to draw a new picture object...
+def cruxImmissaQuadrata(pictureObject,colourObject):
+    # Datatype validation checkpoint.
+    (borderControl)=(makeEmptyPicture(1,1))
+    if((type(pictureObject))!=(type(borderControl))):
+        return(showError("UNRECOGNISED PICTURE OBJECT FORMAT!"))
+    if((type(colourObject))!=(type(makeColor(0)))):
+        return(showError("UNRECOGNISED COLOUR OBJECT FORMAT!"))
+    # Checked!
+    (width,height)=(getWidth(pictureObject),getHeight(pictureObject))
+    (flatX,flatY,steepX,steepY)=(0,0,0,0)
+    while(((flatY)<(height))or((steepX)<(width))):
+        (flatX,steepY)=(0,0)
+        while(((flatX)<(width))or((steepY)<(height))):
+            if(((flatX)<(width))and((flatY)<(height))):
+                (pictureElement)=(getPixelAt(pictureObject,flatX,flatY))
+                (setColor(pictureElement,colourObject))
+            if(((steepX)<(width))and((steepY)<(height))):
+                (pictureElement)=(getPixelAt(pictureObject,steepX,steepY))
+                (setColor(pictureElement,colourObject))
+            (flatX)+=(1)
+            (steepY)+=(1)
+        (flatY)+=(10+1)
+        (steepX)+=(10+1)
+    return(pictureObject)
+
+
+
+#5.18 + 5.19
+# I just used Bresenham's line algorithm...
+def Bresenham(pictureObject,colourObject,x0,y0,x1,y1):
+    (width,height)=(getWidth(pictureObject),getHeight(pictureObject))
+    # Datatype validation checkpoint.
+    (borderControl)=(makeEmptyPicture(1,1))
+    if((type(pictureObject))!=(type(borderControl))):
+        return(showError("UNRECOGNISED PICTURE OBJECT FORMAT!"))
+    if((type(colourObject))!=(type(makeColor(0)))):
+        return(showError("UNRECOGNISED COLOUR OBJECT FORMAT!"))
+    if(((type(x0))!=(int))or((type(y0))!=(int))or((type(x1))!=(int))or((type(y1))!=(int))):
+        return(showError("UNRECOGNISED COORDINATES!"))
+    if(((x0)<(0))or((y0)<(0))or((x1)<(0))or((y1)<(0))or((width-1)<(x0))or((height-1)<(y0))or((width-1)<(x1))or((height-1)<(y1))):
+        return(showError("OUT OF RANGE COORDINATES!"))
+    # Checked!
+    (deltaX,deltaY)=(abs(x1-x0),abs(y1-y0))
+    if(x0<x1):
+        (sX)=(1)
+    else:
+        (sX)=(-1)
+    if(y0<y1):
+        (sY)=(1)
+    else:
+        (sY)=(-1)
+    (error)=(deltaX-deltaY)
+    while(1):
+        (pictureElement)=(getPixelAt(pictureObject,x0,y0))
+        (setColor(pictureElement,colourObject))
+        if((x0==x1)and(y0==y1)):break
+        (err)=(2*error)
+        if((err)>(-deltaY)):
+            (error)+=(-deltaY)
+            (x0)+=(sX)
+        if((err)<(deltaX)):
+            (error)+=(deltaX)
+            (y0)+=(sY)
+    return(pictureObject)
+
+# doormat
+# call jess, she'll know what to do
+# jess is the Jython Environment for StudentS
+# now goto <a href='/'>home</a>
+</pre>
+</body>
+</html>
