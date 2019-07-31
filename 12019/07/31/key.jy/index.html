@@ -22,7 +22,7 @@ def driver(function):
             #5.14 - Create comic strip by putting 3-4 pictures next to each other horizontally and adding text.
             "comic"
             #5.15 - Using the drawing functions, draw a bull's eye.
-            "eyeTest" <-- SCALABLE!
+            "eyeTest" &lt;-- SCALABLE!
             A bull's eye could either be literal or the center of a target.
             I drew the target and included a bull's eye.
             Unless you really wanted to see a single circle centered?
@@ -30,7 +30,7 @@ def driver(function):
             I was initially going to attempt this: http://aliveontheshelves.com/wp-content/uploads/2011/11/The-Wall-Street-Bull.jpg
             Instead I just copied the Wikipedia one: https://en.wikipedia.org/wiki/Bullseye_(target)
             #5.16 - Uising the drawing tools preseted here, draw a house - just go for the simple child's house with one door, two windows, walls and a roof.
-            "lostInSpace" <-- NEONSTYLE! (Repaired the chameleon circuit by a fraction, so now it changes colour with each pulse the dematerialisation circuit recieves.)
+            "lostInSpace" &lt;-- NEONSTYLE! (Repaired the chameleon circuit by a fraction, so now it changes colour with each pulse the dematerialisation circuit recieves.)
             Has door, 2 window panes, walls, roof.
             It's a house, whether you like it or not.
             It's just bigger on the inside, is all.
@@ -47,12 +47,12 @@ def driver(function):
     """
     if(("comic")in(function)):
         (quantity)=(requestInteger("HOW MANY PICTURES DO YOU WANT TO INCLUDE IN YOUR COMIC?"))
-        while((quantity)<(1)):
+        while((quantity)&lt;(1)):
             (showError("QUANTITY MUST BE GREATER THAN 0!"))
             (quantity)=(requestInteger("HOW MANY PICTURES DO YOU WANT TO INCLUDE IN YOUR COMIC?"))
         (tally)=(0)
         (pictureList)=([])
-        while((tally)<(quantity)):
+        while((tally)&lt;(quantity)):
             try:
                 (showInformation("PLEASE LOCATE IMAGE "+str(tally+1)+"."))
                 (pictureList.append(makePicture(pickAFile())))
@@ -72,9 +72,9 @@ def driver(function):
                 (showError("INCOMPATIBLE PICTURE OBJECT!\nPLEASE TRY AGAIN."))
                 continue
             (tally)+=(1)
-        if((1)<(quantity)):
+        if((1)&lt;(quantity)):
             (spacing)=(requestInteger("HOW MUCH PIXEL-WIDTH SPACING BETWEEN FRAMES?"))
-            while((spacing)<(0)):
+            while((spacing)&lt;(0)):
                 (showError("SPACING MUST BE GREATER THAN 0!"))
                 (spacing)=(requestInteger("HOW MUCH PIXEL-WIDTH SPACING BETWEEN FRAMES?"))
         else:
@@ -91,7 +91,7 @@ def driver(function):
         return("======= TASK COMPLETE =======")
     if(("eyeTest")in(function)):
         (size)=(requestInteger("PLEASE RETURN A SIZE FOR THE IMAGE.\nMINIMUM: SIXTY."))
-        if((size)<(60)):
+        if((size)&lt;(60)):
             (showError("SIZE CANNOT BE LESS THAN SIXTY."))
             (size)=(requestInteger("PLEASE RETURN A SIZE FOR THE IMAGE.\nMINIMUM: SIXTY."))
         (drive)=(midpointCircle(size))
@@ -112,11 +112,11 @@ def driver(function):
         (option)=(option.strip())
         if((option)in(["new","New","nEw","neW","NEw","nEW","NEW"])):
             (width)=(requestInteger("PLEASE RETURN THE WIDTH FOR YOUR NEW PICTURE OBJECT."))
-            while((width)<(1)):
+            while((width)&lt;(1)):
                 (showError("WIDTH CANNOT BE LESS THAN 1."))
                 (width)=(requestInteger("PLEASE RETURN THE WIDTH FOR YOUR NEW PICTURE OBJECT."))
             (height)=(requestInteger("PLEASE RETURN THE HEIGHT FOR YOUR NEW PICTURE OBJECT."))
-            while((width)<(1)):
+            while((width)&lt;(1)):
                 (showError("HEIGHT CANNOT BE LESS THAN 1."))
                 (height)=(requestInteger("PLEASE RETURN THE HEIGHT FOR YOUR NEW PICTURE OBJECT."))
             (option)=(requestString("TYPE \"YES\" IF YOU WOULD LIKE TO SPECIFY THE BACKGROUND COLOUR."))
@@ -168,7 +168,7 @@ def frames(pictureList,spacing,background=white):
     # Datatype validation checkpoint.
     (borderControl)=(makeEmptyPicture(1,1))
     (increment)=(0)
-    while((increment)<(len(pictureList))):
+    while((increment)&lt;(len(pictureList))):
         if((type(pictureList[increment]))!=(type(borderControl))):
             return(showError("UNRECOGNISED PICTURE OBJECT FORMAT!"))
         (increment)+=(1)
@@ -182,18 +182,18 @@ def frames(pictureList,spacing,background=white):
     # Check!
     (index)=(0)
     (widthMax,heightMax)=(0,0)
-    while((index)<(len(pictureList))):
+    while((index)&lt;(len(pictureList))):
         (width,height)=(getWidth(pictureList[index]),getHeight(pictureList[index]))
         (widthMax)+=(width)
-        if(((index)>(0))and((index)<(len(pictureList)))):
+        if(((index)&gt;(0))and((index)&lt;(len(pictureList)))):
             (widthMax)+=(spacing)
-        if((heightMax)<(height)):
+        if((heightMax)&lt;(height)):
             (heightMax)=(height)
         (index)+=(1)
     (pictureObject)=(makeEmptyPicture(widthMax,heightMax,background))
     (counter)=(0)
     (widthCache)=(0)
-    while((counter)<(len(pictureList))):
+    while((counter)&lt;(len(pictureList))):
         if(counter)==(0):
             (spacer)=(0)
         else:
@@ -203,9 +203,9 @@ def frames(pictureList,spacing,background=white):
         (width,height)=(getWidth(frame),getHeight(frame))
         (frame)=(pictureList[counter])
         (x)=(0)
-        while((x)<(width)):
+        while((x)&lt;(width)):
             (y)=(0)
-            while((y)<(height)):
+            while((y)&lt;(height)):
                 (pixelObject)=(getPixelAt(pictureObject,x+widthCache+spacer,y))
                 (setColor(pixelObject,getColor(getPixelAt(frame,x,y))))
                 (y)+=(1)
@@ -220,7 +220,7 @@ def frames(pictureList,spacing,background=white):
 # I was going to use the midpoint circle algorithm...
 def midpointCircle(size=60):
     # INPUT VALIDATION!
-    if((size)<(60)):
+    if((size)&lt;(60)):
         return(showError("DIMENSIONS MUST BE GREATER THAN 59!"))
     # CHECK!
     (pictureObject)=(makeEmptyPicture(size,size))
@@ -229,7 +229,7 @@ def midpointCircle(size=60):
     (colour)=(0)
     (position)=(0)
     (diameter)=(size-1)
-    while((incrementor)<(11)):
+    while((incrementor)&lt;(11)):
         (addOvalFilled(pictureObject,position,position,int(diameter),int(diameter),colourList[int(colour)]))
         (outline)=(black)
         if((incrementor)==(4)): (outline)=(white)
@@ -259,7 +259,7 @@ def spaceHome(fx="none", audio="on"):
         # There is no need for input validation for internal services.
         (basePoints)=([])
         (point)=(0)
-        while(((point)<(len(pointsX)))and((len(pointsX))==(len(pointsY)))):
+        while(((point)&lt;(len(pointsX)))and((len(pointsX))==(len(pointsY)))):
             (basePoints.append({"x":pointsX[point],"y":pointsY[point]}))
             (point)+=(1)
         # the elliptic curve generator
@@ -268,22 +268,22 @@ def spaceHome(fx="none", audio="on"):
         (step)=(float(0))
         (percentage)=(.005)
         (maxStep)=(1)
-        while((step)<=(maxStep)):
+        while((step)&lt;=(maxStep)):
             (LOP)=(copy(basePoints)) #ListOfPoints
             while((len(LOP))!=(1)):
                 #loop
                 (newLOP)=([])
                 (point)=(0)
-                while((point)<(len(LOP)-1)):
+                while((point)&lt;(len(LOP)-1)):
                     (x0,y0,x1,y1)=(LOP[point]["x"],LOP[point]["y"],LOP[point+1]["x"],LOP[point+1]["y"])
                     # Distance Formula = (abs(x0-x1)**2+abs(y0-y1)**2)**0.5
                     (distanceTotal)=((abs(x0-x1)**2+abs(y0-y1)**2)**.5)
                     # dist/maxStep*step or dist*step
-                    if((x0)<(x1)):
+                    if((x0)&lt;(x1)):
                         (x)=(x0-((x0-x1)*step))
                     else:
                         (x)=(x1-((x1-x0)*(1-step)))
-                    if((y0)<(y1)):
+                    if((y0)&lt;(y1)):
                         (y)=(y0-((y0-y1)*step))
                     else:
                         (y)=(y1-((y1-y0)*(1-step)))
@@ -299,7 +299,7 @@ def spaceHome(fx="none", audio="on"):
     (printNow("POPULATING THE MULTIVERSES..."))
     (density)=(width*height/256)
     (iterator)=(0)
-    while((iterator)<(density)):
+    while((iterator)&lt;(density)):
         (pixelObject)=(getPixelAt(reTardis,randint(0,width-1),randint(0,height-1)))
 #        (setColor(pixelObject,makeColor(randint(0,255),randint(0,255),randint(0,255))))
         (setColor(pixelObject,makeColor(randint(0,255))))
@@ -307,19 +307,19 @@ def spaceHome(fx="none", audio="on"):
     ##### where are we in the big picture? #####
     (sectorRNG)=(randint(0,1))
     (label)=(0)
-    while((label)<(2)):
+    while((label)&lt;(2)):
         (RNG)=(randint(0,1))
         if((label)==(1)):
             (whois)=(["EARTH","THE SYSTEM OF SOL"][RNG])
         else:
             RNG=1
             (whois)=(["GALLIFREY","THE CONSTELLATION OF KASTERBOROUS"][RNG])
-        if((25)<(len(whois))):
+        if((25)&lt;(len(whois))):
             (sectorRNG)=(1)
             (multiplier)=(7.6)
             (whoisX)=(randint(100,200))
             (whoisY)=(randint(10,75))
-        elif((10)<(len(whois))):
+        elif((10)&lt;(len(whois))):
             (multiplier)=(7.25)
             if((sectorRNG)==(0)): # horizontal
                 (whoisX)=(randint(10,300))
@@ -327,7 +327,7 @@ def spaceHome(fx="none", audio="on"):
             else: # vertical
                 (whoisX)=(randint(10,25))
                 (whoisY)=(randint(10,450))
-        elif((5)<(len(whois))):
+        elif((5)&lt;(len(whois))):
             (multiplier)=(7.5)
             if((sectorRNG)==(0)): # horizontal
                 (sectorRNG)=(1)
@@ -349,18 +349,18 @@ def spaceHome(fx="none", audio="on"):
         (addText(reTardis,whoisX,whoisY+10,whois,black))
         (arrowX,arrowY)=(whoisX+int(len(whois)*multiplier),whoisY+12)
         (pointer)=(0)
-        while((pointer)<(7)):
+        while((pointer)&lt;(7)):
             (addLine(reTardis,arrowX-pointer,arrowY,arrowX+1,arrowY+5,white))
             (pointer)+=(1)
         (label)+=(1)
     ##### lightning #####
     if(("static")in(fx)):
         (count)=(0)
-        while((count)<(50)):
+        while((count)&lt;(50)):
             (pointsX)=([width/10+width/10/2])
             (increment)=(width/10*2)
             (iterate)=(width/10*3)
-            while((iterate)<(width/10*8.25)):
+            while((iterate)&lt;(width/10*8.25)):
                 (pointsX.append(randint(increment,iterate)))
                 (increment)=(pointsX[-1])
                 (iterate)+=(width/10)
@@ -371,16 +371,16 @@ def spaceHome(fx="none", audio="on"):
                 (pointsY.append(randint(125,350)))
             (counter)=(0)
             while((len(pointsY))!=(len(pointsX))):
-                if((pointsY[-2])<(pointsY[-1])):
+                if((pointsY[-2])&lt;(pointsY[-1])):
                     (pointsY.append(randint(125,250)))
-                elif((pointsY[-2])>(pointsY[-1])):
+                elif((pointsY[-2])&gt;(pointsY[-1])):
                     (pointsY.append(randint(300,350)))
                 if((pointsY[-2])==(pointsY[-1])):
                     del(pointsY[-1])
             del(pointsY[-1])
             (pointsY.append(250))
             (electric)=(0)
-            while((electric)<(len(pointsX)-1)):
+            while((electric)&lt;(len(pointsX)-1)):
                 (addLine(reTardis,pointsX[electric],pointsY[electric],pointsX[electric+1],pointsY[electric+1],yellow))
                 (electric)+=(1)
             (count)+=(1)
@@ -391,14 +391,14 @@ def spaceHome(fx="none", audio="on"):
         (pointsX)=([randint(width/10,width/10*2)])
         (increment)=(width/10*2)
         (iterate)=(width/10*3)
-        while((iterate)<(width/10*8.5)):
+        while((iterate)&lt;(width/10*8.5)):
             (pointsX.append(randint(increment,iterate)))
             (increment)=(pointsX[-1])
             (iterate)+=(width/10)
         (pointsX.append(randint(width/10*7,width/10*8.5)))
         (pointsY)=([randint(200,350),randint(200,350)])
         (counter)=(0)
-        while(len(pointsY))<(len(pointsX)):
+        while(len(pointsY))&lt;(len(pointsX)):
             (pointsY.append(randint(200,350)))
         # this will do until I can make some glowing halo FX
         (pointsX)=([100,150,225,325,375])
@@ -408,7 +408,7 @@ def spaceHome(fx="none", audio="on"):
         (redColour)=(randint(0,255))
         (greenColour)=(randint(0,255))
         (blueColour)=(randint(0,255))
-        while((loop)<(len(curvature)-1)):
+        while((loop)&lt;(len(curvature)-1)):
             (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"],curvature[loop]["x"],curvature[loop]["y"]-50,makeColor(redColour,greenColour,blueColour)))
             (addLine(reTardis,curvature[loop]["x"]+1,curvature[loop]["y"]+10,curvature[loop]["x"]+1,curvature[loop]["y"]-30,makeColor(redColour*1.5,greenColour*1.5,blueColour*1.5)))
             (loop)+=(1)
@@ -447,7 +447,7 @@ def spaceHome(fx="none", audio="on"):
     (panelX,panelY)=(width/100*36.5,height/100*62)
     (panelWidth,panelHeight)=(width/100*10,height/100*10)
     (iterator)=(0)
-    while((iterator)<(3)):
+    while((iterator)&lt;(3)):
         (addRectFilled(reTardis,int(panelX),int(panelY),int(panelWidth),int(panelHeight),colourObjectDark))
         (addRect(reTardis,int(panelX),int(panelY),int(panelWidth),int(panelHeight),colourObject))
         (addRect(reTardis,int(panelX+2),int(panelY+2),int(panelWidth-4),int(panelHeight-4),colourObject))
@@ -458,7 +458,7 @@ def spaceHome(fx="none", audio="on"):
             (addRectFilled(reTardis,int(panelX),int(panelY),int(panelWidth),int(panelHeight),colourObjectDark))
             (addRectFilled(reTardis,int(panelX+5),int(panelY+5),int(panelWidth-10),int(panelWidth-10),colourObjectLight))
             (line)=(0)
-            while((line)<(11)):
+            while((line)&lt;(11)):
                 # fake text
                 (x,y)=(randint(int(panelX+10),int(panelX+panelWidth-30)),randint(int(panelY+10),int(panelY+panelHeight-20)))
                 (x,y)=(panelX+panelWidth/2,panelY+10+line*3)
@@ -474,7 +474,7 @@ def spaceHome(fx="none", audio="on"):
     (addRectFilled(reTardis,int(panelX),int(panelY),int(panelWidth),int(panelHeight),colourObjectLight))
     (addRectFilled(reTardis,int(panelX+panelWidth+11),int(panelY),int(panelWidth),int(panelHeight),colourObjectLight))
     (increment)=(0)
-    while((increment)<(2)):
+    while((increment)&lt;(2)):
         if((increment)!=(0)):
             (increment)+=((50-10)/2)
         (addRectFilled(reTardis,int(panelX+5),int(panelY+5+increment),int((50-10)/3),int((50-10)/2),colourObject))
@@ -501,7 +501,7 @@ def spaceHome(fx="none", audio="on"):
     (colourObjectDark)=(makeColor(redColour/2,greenColour/2,blueColour/2))
     (colourObject)=(makeColor(redColour,greenColour,blueColour))
     (colourObjectLight)=(makeColor(redColour*2,greenColour*2,blueColour*2))
-    while((loop)<(len(curvature)-1)):
+    while((loop)&lt;(len(curvature)-1)):
         (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"],width,curvature[loop]["y"],makeColor(redColour,greenColour,blueColour)))
         (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"]-1,width,curvature[loop]["y"]-1,makeColor(redColour,greenColour,blueColour)))
         (addLine(reTardis,curvature[loop]["x"],curvature[loop]["y"],curvature[loop]["x"],curvature[loop]["y"],makeColor(redColour*1.5,greenColour*1.5,blueColour*1.5)))
@@ -511,7 +511,7 @@ def spaceHome(fx="none", audio="on"):
     (openPictureTool(reTardis))
     if(("on")in(audio)):
         ########## AUDIO CONTROLS START ##########
-        #THERE IS NO MULTIPROCESSING MODULE!!! 0;<
+        #THERE IS NO MULTIPROCESSING MODULE!!! 0;&lt;
         (volume)=(127)
         ########### AUDIO CONTROLS END ###########
         import thread
@@ -529,7 +529,7 @@ def spaceHome(fx="none", audio="on"):
             while((datetime.now())!=(sink)):
                 pass
             (note)=(0)
-            while((note)<(len(notesCh0))):
+            while((note)&lt;(len(notesCh0))):
                 (playNote(notesCh0[note],int(durationCh0[note]),int(volume*.9)))
                 (note)+=(1)
         def Channel1(id,unused):
@@ -537,7 +537,7 @@ def spaceHome(fx="none", audio="on"):
             while((datetime.now())!=(sink)):
                 pass
             (note)=(0)
-            while((note)<(len(notesCh1))):
+            while((note)&lt;(len(notesCh1))):
                 (playNote(notesCh1[note],int(durationCh1[note]),int(volume)))
                 (note)+=(1)
         def Channel2(id,unused):
@@ -545,7 +545,7 @@ def spaceHome(fx="none", audio="on"):
             while((datetime.now())!=(sink)):
                 pass
             (note)=(0)
-            while((note)<(len(notesCh2))):
+            while((note)&lt;(len(notesCh2))):
                 (playNote(notesCh2[note],int(durationCh2[note]),int(volume)))
                 (note)+=(1)
         try:
@@ -561,7 +561,7 @@ def spaceHome(fx="none", audio="on"):
         (sleep(2))
         try:
             # Extremely likely to be thrown out of sync if the user tries to do anything else with their PC.
-            while((lag)<(int(sum(durationCh2))/1000+1)):
+            while((lag)&lt;(int(sum(durationCh2))/1000+1)):
                 (printNow(str(lag)+"/"+str(int(sum(durationCh2))/1000)+" SECONDS (APPROX)."))
                 (sleep(delay))
                 (lag)+=(1)
@@ -583,13 +583,13 @@ def cruxImmissaQuadrata(pictureObject,colourObject):
     # Checked!
     (width,height)=(getWidth(pictureObject),getHeight(pictureObject))
     (flatX,flatY,steepX,steepY)=(0,0,0,0)
-    while(((flatY)<(height))or((steepX)<(width))):
+    while(((flatY)&lt;(height))or((steepX)&lt;(width))):
         (flatX,steepY)=(0,0)
-        while(((flatX)<(width))or((steepY)<(height))):
-            if(((flatX)<(width))and((flatY)<(height))):
+        while(((flatX)&lt;(width))or((steepY)&lt;(height))):
+            if(((flatX)&lt;(width))and((flatY)&lt;(height))):
                 (pictureElement)=(getPixelAt(pictureObject,flatX,flatY))
                 (setColor(pictureElement,colourObject))
-            if(((steepX)<(width))and((steepY)<(height))):
+            if(((steepX)&lt;(width))and((steepY)&lt;(height))):
                 (pictureElement)=(getPixelAt(pictureObject,steepX,steepY))
                 (setColor(pictureElement,colourObject))
             (flatX)+=(1)
@@ -612,15 +612,15 @@ def Bresenham(pictureObject,colourObject,x0,y0,x1,y1):
         return(showError("UNRECOGNISED COLOUR OBJECT FORMAT!"))
     if(((type(x0))!=(int))or((type(y0))!=(int))or((type(x1))!=(int))or((type(y1))!=(int))):
         return(showError("UNRECOGNISED COORDINATES!"))
-    if(((x0)<(0))or((y0)<(0))or((x1)<(0))or((y1)<(0))or((width-1)<(x0))or((height-1)<(y0))or((width-1)<(x1))or((height-1)<(y1))):
+    if(((x0)&lt;(0))or((y0)&lt;(0))or((x1)&lt;(0))or((y1)&lt;(0))or((width-1)&lt;(x0))or((height-1)&lt;(y0))or((width-1)&lt;(x1))or((height-1)&lt;(y1))):
         return(showError("OUT OF RANGE COORDINATES!"))
     # Checked!
     (deltaX,deltaY)=(abs(x1-x0),abs(y1-y0))
-    if(x0<x1):
+    if(x0&lt;x1):
         (sX)=(1)
     else:
         (sX)=(-1)
-    if(y0<y1):
+    if(y0&lt;y1):
         (sY)=(1)
     else:
         (sY)=(-1)
@@ -630,10 +630,10 @@ def Bresenham(pictureObject,colourObject,x0,y0,x1,y1):
         (setColor(pictureElement,colourObject))
         if((x0==x1)and(y0==y1)):break
         (err)=(2*error)
-        if((err)>(-deltaY)):
+        if((err)&gt;(-deltaY)):
             (error)+=(-deltaY)
             (x0)+=(sX)
-        if((err)<(deltaX)):
+        if((err)&lt;(deltaX)):
             (error)+=(deltaX)
             (y0)+=(sY)
     return(pictureObject)
