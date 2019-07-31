@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>√ taking "-thing"s too far</title>
+	<script src='/scripts/1.js'></script>
+</head>
+<body>
+<pre>
+#Task 1
+# 5.21
+# 5.22
+# 5.25
+# 5.26
+# 5.23
+# 5.24
+
+##### D R I V E R #####
+def driver(function):
+    # Case-Sensitive Index.
+    """
+        possible function's:
+            #5.21 Draw a house on the beach where we put the mysterious box previously.
+            "scalableBeachHouse" <-- 3D! ...well, kind of. (The water is at least)
+            Probably, if you are reading this, I didn't get time to implement the moon/sun cycles/phases with shadows. Hopefully there are seagulls, at the very least.
+            #5.22 Write a function to draw a simple face with eyes and a mouth.
+            "lotu" Who knew orange+magenta=gold?
+            #5.23 Why do film makers use a green or blue screen for special effects instead of a red screen?
+            ANSWER: Human skin tends to contain higher levels of red coloured light. Which is why, when we attempt to film alien's, we should use a red screen instead. Otherwise they will appear to be invisible. (So that means they will not really "appear" at all.)
+            #5.24 Get some green posterboard and take a picture of a friend in front of it. Now use chromakey to put her or him in the jungle or in Paris.
+            "chromakey" To do: Make jungle and eiffel tower picture objects, to replace the background choice with.
+            #5.25 Now use your house function to draw a town with dozens of houses at different sizes. You'll probably want to modify your house function to draw at an input coordinate, then change the coordinate where each house is drawn.
+            "town" Even though this function is not properly scalable, the house function is.
+            The doors are on the other side of the house q:
+            #5.26 Draw a rainbow - use what you know about colors, pixels, and drawing operations to draw a rainbow. Is this easier to do with our drawing functions or by manipulating individual pixels? Why?
+            "whereIsGold"
+            #Optional exercise: As you did in the previous week, investigate how you can break your solutions down to separate functions.
+            I was, very much, tempted to functionalise every single line...
+            5.21 is a possible candidate for this optional exercise, even if I see no point it doing it (which is why I didn't do it for everything).
+    """
+    # 5.21
+    if "scalableBeachHouse" in function:
+        text="PLEASE RETURN A SIZE FOR THE IMAGE."
+        size=requestInteger(text)
+        while size<10:
+            showError("SIZE CANNOT BE LESS THAN 10.")
+            size=requestInteger(text)
+        scalableBeachHouse(size,randint(0,24))
+        return "======= TASK COMPLETE ======="
+    # 5.22
+    if "lotu" in function:
+        message="PLEASE STATE AN APPROPRIATE PIXEL RESOLUTION.\nA SUITABLE RESPONSE WOULD BE ABOVE 100.\nRECOMMENDED: 500."
+        scale=requestInteger(message)
+        if scale<100:
+            showError("INAPPROPRIATE PIXEL RESOLUTION!\nPLEASE TRY AGAIN.")
+            scale=requestInteger(message)
+        LordOfTheUniverse(scale)
+        return "======= TASK COMPLETE ======="
+    # 5.24
+    if "chromakey" in function:
+        prefix="PLEASE LOCATE AN IMAGE FOR USE AS THE "
+        showInformation(prefix+"FOREGROUND.")
+        filePathA = pickAFile()
+        pictureObjectA = makePicture(filePathA)
+        showInformation(prefix+"BACKGROUND.")
+        filePathB = pickAFile()
+        pictureObjectB = makePicture(filePathB)
+        printNow("PROCESSING IMAGE FILE...")
+        explore(pictureObjectA)
+        explore(pictureObjectB)
+        screenColour = requestIntegerInRange("0 = REDSCREEN\n1 = GREENSCREEN\n2 = BLUESCREEN",0,2)# The different coloured screens of death.
+        drive = chromakey(pictureObjectA,pictureObjectB,screenColour)
+        if type(drive) != type(makeEmptyPicture(1,1)):
+            return "-_-"
+        explore(drive)
+        return "======= TASK COMPLETE ======="
+    # 5.25
+    if "town" in function:
+        drive = town()
+        if type(drive) != type(makeEmptyPicture(1,1)):
+            return "-_-"
+        openPictureTool(drive)
+        return "======= TASK COMPLETE ======="
+    # 5.26
+    if "whereIsGold" in function:
+        width=requestInteger("PLEASE GIVE ME A WIDTH TO WORK WITH HERE.")
+        if width<1:
+            showError("VALUE CANNOT BE LESS THAN 100.")
+            width=requestInteger("PLEASE GIVE ME A WIDTH TO WORK WITH HERE.")
+        height=requestInteger("PLEASE GIVE ME A HEIGHT TO WORK WITH HERE.\nRECOMMENDED: <"+str(width)+".")
+        if height<1:
+            showError("VALUE CANNOT BE LESS THAN 100.")
+            height=requestInteger("PLEASE GIVE ME A HEIGHT TO WORK WITH HERE.\nRECOMMENDED: <"+str(width)+".")
+        thickness=requestInteger("PLEASE GIVE ME A THICKNESS TO WORK WITH HERE.\nRECOMMENDED: "+str(height/2)+" (NO GUARANTEE).")
+        if thickness<1:
+            showError("VALUE CANNOT BE LESS THAN 100.")
+            thickness=requestInteger("PLEASE GIVE ME A THICKNESS TO WORK WITH HERE.\nRECOMMENDED: "+str(height/2)+" (NO GUARANTEE).")
+        drive = whereIsGold(width,height,thickness)
+        if type(drive) != type(makeEmptyPicture(1,1)):
+            return "-_-"
+        openPictureTool(drive)
+        return "======= TASK COMPLETE ======="
+    # Function call with non-existant parametric argument.
+    return "PLEASE READ THE DOCUMENTATION STRING - IT HAS BEEN DROPPED INTO THE SAUCE."
+
+
+
+
+
+##### 5.21 #####
+def scalableBeachHouse(size=200,hour=0):#24==0
+    '''
+        does not need presupplied picture object
+        since it paints over whole picture object
+        it makes sense to develop the picture object inhouse
+    '''
+    percentage=.1
+    pictureObject=makeEmptyPicture(size,size)
+    iteration=0
+    percent=size*percentage
+    while((iteration*percent<size+1)and(iteration*percent<size+1)):
+        crossreference=0
+        while(crossreference*percent<size+1):
+            startX,startY,endX,endY=crossreference*percent,iteration*percent,crossreference*percent+5,iteration*percent+5
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),blue)
+            crossreference+=1
+            break
+        if(iteration*percent<size):#vertical sectional lines to form grid workspace
+            startX,startY,endX,endY=iteration*percent,0,iteration*percent,size
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        if(iteration*percent<size):#horizontal sectional lines to form grid workspace
+            startX,startY,endX,endY=0,iteration*percent,size,iteration*percent
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        iteration+=1
+    addSky(pictureObject,size,percent,hour)
+    addWater(pictureObject,size,percent,hour)
+    addSand(pictureObject,size,percent,hour)
+#    addIgloo(pictureObject,size,percent,hour)
+    addTP(pictureObject,size,percent,hour)
+#    startX,startY,width,height=2*percent,7.5*percent,.25*percent,.75*percent
+#    addOval(pictureObject,int(startX),int(startY),int(width),int(height))
+    loop=0
+    while loop<size/100*2:
+        startX,startY,endX,endY=1.5*percent,8*percent,2.5*percent,8.25*percent
+        addLine(pictureObject,int(startX),int(startY+loop),int(endX),int(endY+loop),makeColor(125,50,50))
+        startX,startY,endX,endY=1.5*percent,8.25*percent,2.5*percent,8*percent
+        addLine(pictureObject,int(startX),int(startY+loop),int(endX),int(endY+loop),makeColor(150,50,50))
+        loop+=1
+    explore(pictureObject)
+    return
+
+def addTP(pictureObject,size,percent,hour):
+    ##### H U T #####
+    ###base outline
+    pointsX=[3*percent,(6*percent-3*percent)/2+3*percent,6*percent]
+    pointsY=[7*percent,7.5*percent,7*percent]
+    curvature=bezier(pointsX,pointsY)
+    loop=0
+    redValue,greenValue,blueValue=150,75,50
+    while(loop<len(curvature)-1):
+        startX,startY,endX,endY=curvature[loop]["x"],curvature[loop]["y"],5*percent,5.5*percent
+        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+        addLine(pictureObject,int(startX-1),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+        addLine(pictureObject,int(startX-2),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+        addLine(pictureObject,int(startX-3),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+        endX,endY=curvature[loop]["x"],curvature[loop]["y"]+percent*(loop*.001+hour*.001)###shadowclock by the hour#################################################
+        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+        loop+=1
+    loop=0
+    pointsX=[]
+    pointsY=[]
+    redValue,greenValue,blueValue=redValue*1.5,greenValue*1.5,blueValue*1.5
+    while(loop<len(curvature)-1):
+        startX,startY,endX,endY=curvature[loop]["x"],curvature[loop]["y"],5*percent,5.5*percent
+        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+#        addLine(pictureObject,int(startX-1),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+#        addLine(pictureObject,int(startX-2),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+        loop+=1
+    pointsX.append(curvature[int(len(curvature)*.1)]["x"])
+    pointsY.append(curvature[int(len(curvature)*.1)]["y"])
+    pointsX.append(curvature[int(len(curvature)*.15)]["x"]+percent*1.5)
+    pointsY.append(curvature[int(len(curvature)*.15)]["y"]-percent*1.5)
+    pointsX.append(curvature[int(len(curvature)*.2)]["x"])
+    pointsY.append(curvature[int(len(curvature)*.2)]["y"])
+#    pointsX=[3*percent,(6*percent-3*percent)/2+3*percent,6*percent]
+#    pointsY=[7*percent,7.5*percent,7*percent]
+    curvatureDoor=bezier(pointsX,pointsY)
+    loop=0
+    redValue,greenValue,blueValue=int(redValue*.5),int(greenValue*.5),int(blueValue*.5)
+    while(loop<len(curvatureDoor)):
+        startX,startY,endX,endY=curvatureDoor[loop]["x"],curvatureDoor[loop]["y"],curvatureDoor[loop]["x"],curvatureDoor[loop]["y"]
+        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+        inception=int(len(curvature)*.1)
+        while(inception<int(len(curvature)*.2-1)):
+            startX,startY,endX,endY=curvature[inception]["x"],curvature[inception]["y"],startX,startY
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(redValue,greenValue,blueValue))
+            inception+=1
+        loop+=1
+
+def addSky(pictureObject,size,percent,hour):
+    ##### S K Y L I N E #####
+    skyA,skyB,skyThickness=0*percent,3*percent,3*percent-0*percent
+    #body
+    startX,startY,width,height=0,skyA,size,skyThickness
+    if 0<=hour and hour<=6:#dawn
+        blueValue=125-hour*13
+        greenValue=randint(0,int(blueValue*.5))
+    elif 6<hour and hour<=12:#morning
+        blueValue=147+(hour-6)*18
+        greenValue=randint(0,int(blueValue*.5))
+    elif 12<hour and hour<=18:#afternoon
+        blueValue=255-(hour-12)*18
+        greenValue=randint(0,int(blueValue*.5))
+    elif 18<hour and hour<=24:#night
+        blueValue=47+(hour-18)*13
+        greenValue=randint(0,int(blueValue*.5))
+    addRectFilled(pictureObject,int(startX),int(startY),int(width),int(height),makeColor(0,greenValue,blueValue))
+    #satelleite
+    if 6<hour and hour<=18:#day
+        greenValue,blueValue=greenValue*.5,blueValue*.5
+    elif (12<hour and hour<=24) or hour<=6:#night
+        greenValue,blueValue=greenValue*2,blueValue*2
+
+def addWater(pictureObject,size,percent,hour):
+    ##### W A T E R #####
+    waterA,waterB,waterThickness=3*percent,5*percent,5*percent-3*percent
+    #body
+    startX,startY,width,height=0,waterA,size,waterThickness
+    if 0<=hour and hour<=6:#dawn
+        blueValue=125-hour*13
+        greenValue=randint(0,int(blueValue*.5))
+    elif 6<hour and hour<=12:#morning
+        blueValue=147+(hour-6)*18
+        greenValue=randint(0,int(blueValue*.5))
+    elif 12<hour and hour<=18:#afternoon
+        blueValue=255-(hour-12)*18
+        greenValue=randint(0,int(blueValue*.5))
+    elif 18<hour and hour<=24:#night
+        blueValue=47+(hour-18)*13
+        greenValue=randint(0,int(blueValue*.5))
+    addRectFilled(pictureObject,int(startX),int(startY),int(width),int(height),makeColor(0,greenValue,blueValue))
+    #details
+    if 6<hour and hour<=18:#day
+        greenValue,blueValue=greenValue*.5,blueValue*.5
+    elif (12<hour and hour<=24) or hour<=6:#night
+        greenValue,blueValue=greenValue*2,blueValue*2
+    fibonacciA=1
+    fibonacciB=1
+#    waterC=waterB
+    while fibonacciB<=waterThickness:#waterC<=waterB
+        spacing=randint(0-fibonacciB,fibonacciB)
+        while spacing<size+size/2:
+#            fibonacciC=fibonacciB*randint(2,10)/float(10)#functional programming uses float(number) and while(condition) and if(condition) and for(condition)
+            threshold=[.5,1]
+            shuffle(threshold)
+            fibonacciC=fibonacciB*threshold[0]
+            startX,startY,endX,endY=spacing,waterA+fibonacciC,spacing+fibonacciB,waterA+fibonacciC
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(0,greenValue,blueValue))
+            spacing+=randint(fibonacciB/2,fibonacciB)+fibonacciB
+    #    x=randint(fibonacciB,fibonacciB*2)
+##        fibonacciC=fibonacciB
+        #fibonacciB-fibonacciA/2
+#        if fibonacciC!<width: cutdown by randint
+##        x=size/2+fibonacciB
+##        startX,startY,endX,endY=x,waterA+fibonacciB,x+fibonacciC,waterA+fibonacciB
+##        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(0,greenValue,blueValue))
+##        x=size/2-fibonacciB
+##        startX,startY,endX,endY=x,waterA+fibonacciB,x-fibonacciC,waterA+fibonacciB
+##        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(0,greenValue,blueValue))
+#        waterC+=waterC
+        fibonacciC=fibonacciB
+        fibonacciB+=fibonacciA
+        fibonacciA=fibonacciC
+
+def addSand(pictureObject,size,percent,hour):
+    ##### S A N D #####
+    sandA,sandB,sandThickness=5*percent,size-1,size-5*percent
+    #body
+    startX,startY,width,height=0,sandA,size,sandThickness
+    if 0<=hour and hour<=6:#dawn 155
+        greenValue=155+hour*8
+        blueValue=randint(0,int(greenValue*.5))
+    elif 6<hour and hour<=12:#morning 205
+        greenValue=205+(hour-6)*8
+        blueValue=randint(0,int(greenValue*.5))
+    elif 12<hour and hour<=18:#afternoon 255
+        greenValue=255-(hour-12)*8
+        blueValue=randint(0,int(greenValue*.5))
+    elif 18<hour and hour<=24:#night 205
+        greenValue=205-(hour-18)*8
+        blueValue=randint(0,int(greenValue*.5))
+    addRectFilled(pictureObject,int(startX),int(startY),int(width),int(height),makeColor(255,greenValue,blueValue))
+    #details
+    if 6<hour and hour<=18:#day
+        greenValue,blueValue=greenValue*.5,blueValue*.5
+    elif (12<hour and hour<=24) or hour<=6:#night
+        greenValue,blueValue=greenValue*2,blueValue*2
+    (density)=(size*sandThickness/(256/5))
+    (iterator)=(0)
+    while((iterator)<(density)):
+        (pixelObject)=(getPixelAt(pictureObject,randint(0,size-1),randint(sandA,sandB)))
+#        (setColor(pixelObject,makeColor(randint(0,255),randint(0,255),randint(0,255))))
+        (setColor(pixelObject,makeColor(randint(0,200))))
+#        (setColor(pixelObject,makeColor(255,greenValue,blueValue)))
+        (iterator)+=(1)
+
+
+
+
+##### 5.22 #####
+def LordOfTheUniverse(size=500):
+    percentage=.1
+    pictureObject=makeEmptyPicture(size,size,green)
+    iteration=0
+    percent=size*percentage
+    while((iteration*percent<size+1)and(iteration*percent<size+1)):
+        crossreference=0
+        while(crossreference*percent<size+1):
+            startX,startY,endX,endY=crossreference*percent,iteration*percent,crossreference*percent+5,iteration*percent+5
+#            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),blue)
+            crossreference+=1
+            break
+        if(iteration*percent<size):#vertical sectional lines to form grid workspace
+            startX,startY,endX,endY=iteration*percent,0,iteration*percent,size
+#            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        if(iteration*percent<size):#horizontal sectional lines to form grid workspace
+            startX,startY,endX,endY=0,iteration*percent,size,iteration*percent
+#            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        iteration+=1
+    # head
+    middleX,middleY=int(5*percent),int(4*percent)
+    radii=[3.5,3.25,2.8,2.5]
+    colours=[black,white,magenta,black]
+    cycle=0
+    while cycle<len(radii):
+        face=midpointCircle(pictureObject,middleX,middleY,int(radii[cycle]*percent))#size/2-1)
+        point=0
+        while point<len(face):
+            startX,startY,endX,endY=getX(face[point]),getY(face[point]),middleX,middleY
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),colours[cycle])
+            startX,startY,endX,endY=getX(face[point]),getY(face[point]),middleX,middleY-((radii[cycle]-.5)*percent)
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),colours[cycle])
+            startX,startY,endX,endY=getX(face[point]),getY(face[point]),middleX,middleY+((radii[cycle]-.5)*percent)
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),colours[cycle])
+            if cycle==3:
+                startX,startY=getX(face[point]),getY(face[point])
+                ray=0.25*percent
+                if startX<middleX:
+                    endX=startX-ray
+                if startY>middleY:
+                    endY=startY+ray
+                if startX>middleX:
+                    endX=startX+ray
+                if startY<middleY:
+                    endY=startY-ray
+                if startX==middleX or startY==middleY:
+                    pass
+                else:
+#                    if point<len(face)/1.1:
+                        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),orange)
+#                    else:
+#                        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),orange)
+            point+=1
+        cycle+=1
+    # mouth
+    cycle-=1
+    a,b=5*percent-((radii[cycle]-1)*percent),5*percent+((radii[cycle]-1)*percent)
+    c=(b-a)/2+a
+    pointsX=[a,c*.5,c,c*1.5,b]
+    a,b=middleY+.5*percent,middleY+.5*percent
+    c=middleY+1*percent
+    pointsY=[a,c*1.1,c,c*1.1,b]
+    curvature=bezier(pointsX,pointsY)
+    loop=0
+    redValue,greenValue,blueValue=150,75,50
+    while(loop<len(curvature)-1):
+        startX,startY,endX,endY=curvature[loop]["x"],curvature[loop]["y"],curvature[loop]["x"],curvature[loop]["y"]
+        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        addLine(pictureObject,int(startX-3),int(startY),int(endX),int(endY),red)
+        loop+=1
+    # eyes
+    eyes=[4,6]
+    eye=0
+    while eye<2:
+        middleX,middleY=int(eyes[eye]*percent),int(3.25*percent)
+        radii=[.75,.7,.65,.25]
+        colours=[red,black,white,black]
+        cycle=0
+        while cycle<len(radii):
+            face=midpointCircle(pictureObject,middleX,middleY,int(radii[cycle]*percent))#size/2-1)
+            point=0
+            while point<len(face):
+                startX,startY,endX,endY=getX(face[point]),getY(face[point]),middleX,middleY
+                addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),colours[cycle])
+                startX,startY,endX,endY=getX(face[point]),getY(face[point]),middleX,middleY-((radii[cycle]-.1)*percent)
+                addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),colours[cycle])
+                startX,startY,endX,endY=getX(face[point]),getY(face[point]),middleX,middleY+((radii[cycle]-.1)*percent)
+                addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),colours[cycle])
+                point+=1
+            cycle+=1
+        eye+=1
+    #SMILE
+    layer=0
+    #underlapping
+    while layer<size/100*5:
+        #S
+        startX,startY,endX,endY=1.75*percent,6*percent,.75*percent,6*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=.75*percent,6*percent,.75*percent,7*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=.75*percent,7*percent,2.75*percent,7*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=2.75*percent,7*percent,2.75*percent,9*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=2.75*percent,9*percent,.75*percent,9*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        #M
+        startX,startY,endX,endY=3.5*percent,9*percent,3.5*percent,8*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=4.5*percent,9*percent,4.5*percent,8*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=5.5*percent,9*percent,5.5*percent,8*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=3.5*percent,8*percent,5.5*percent,8*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        #I
+        startX,startY,endX,endY=6.5*percent,9*percent,6.5*percent,8*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=6.5*percent,7.25*percent,6.5*percent,7.75*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        #L
+        startX,startY,endX,endY=7.5*percent,7*percent,7.5*percent,9*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=7.5*percent,9*percent,8*percent,9*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        #E
+        startX,startY,endX,endY=8.75*percent,7*percent,8.75*percent,9*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=8.75*percent,7*percent,9.75*percent,7*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=8.75*percent,8*percent,9.75*percent,8*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=8.75*percent,9*percent,9.75*percent,9*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        startX,startY,endX,endY=9.75*percent,7*percent,9.75*percent,8*percent
+        addLine(pictureObject,int(startX-layer),int(startY+layer),int(endX-layer),int(endY+layer),blue)
+        layer+=size/100*.4
+    # can't be bothered trying to (off-)center multiple addOvalFilled() functions, could have used midpoint circle but wanted to demonstrate how insuperfluous this is.
+    startX,startY,width,height=4.5*percent,4.5*percent,size/100*3,size/100*3
+    addOvalFilled(pictureObject,int(startX),int(startY),int(width),int(height),cyan)
+    startX,startY,endX,endY=4.75*percent,2*percent,4.9*percent,3*percent
+    addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),yellow)
+    startX,startY,endX,endY=5.25*percent,2*percent,5.1*percent,3*percent
+    addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),yellow)
+    startX,startY,endX,endY=5.1*percent,3*percent,4.9*percent,3*percent
+    addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),yellow)
+    repaint(pictureObject)
+
+
+
+
+
+##### 5.24 #####
+def chromakey(pictureObjectA, pictureObjectB, screenColour=0):
+    # Datatype validation checkpoint.
+    borderControl = makeEmptyPicture(1,1)
+    if type(pictureObjectA) is not type(borderControl) or type(pictureObjectB) is not type(borderControl):
+        showError("UNRECOGNISED PICTURE OBJECT FORMAT.")
+        return
+    if type(screenColour) is not int:
+        showError("SCREENCOLOUR MUST BE REPRESENTED BY AN INTEGER.")
+        return
+    # Passed!
+    if screenColour<0 or 2<screenColour:
+        showError("I AM NOT FAMILIAR WITH THE PROVIDED COLOUR CHANNEL, PLEASE TRY AGAIN.")
+        return
+    width = getWidth(pictureObjectA)
+    height = getHeight(pictureObjectA)
+    pictureObjectC = makeEmptyPicture(width,height)
+    startX = 0
+    while startX < width:
+        startY = 0
+        while startY < height:
+            pictureElementA = getPixelAt(pictureObjectA,startX,startY)
+            pictureElementC = getPixelAt(pictureObjectC,startX,startY)
+            colourObjectA = getColor(pictureElementA)
+            setColor(pictureElementC,colourObjectA)
+            startY += 1
+        startX += 1
+    # TASK 5: INPUT VALIDATION 5.7
+    startX_A = requestIntegerInRange("PLEASE RETURN THE BEGINNING X COORDINATE OF YOUR FIRST IMAGE BETWEEN -1 AND "+str(width)+".",0,width-1)
+    startY_A = requestIntegerInRange("PLEASE RETURN THE BEGINNING Y COORDINATE OF YOUR FIRST IMAGE BETWEEN -1 AND "+str(height)+".",0,height-1)
+    endX_A = requestIntegerInRange("PLEASE RETURN THE CODA X COORDINATE OF YOUR FIRST IMAGE BETWEEN "+str(startX_A)+" AND "+str(width)+".",startX_A,width-1)# restricted pixel space
+    endY_A = requestIntegerInRange("PLEASE RETURN THE CODA Y COORDINATE OF YOUR FIRST IMAGE BETWEEN "+str(startY_A)+" AND "+str(height)+".",startY_A,height-1)# the limits of my freedom
+    startX_B = requestIntegerInRange("PLEASE RETURN THE BEGINNING X COORDINATE OF YOUR SECOND IMAGE BETWEEN -1 AND "+str(width-(endX_A-startX_A))+".",0,width-1-(endX_A-startX_A))
+    startY_B = requestIntegerInRange("PLEASE RETURN THE BEGINNING Y COORDINATE OF YOUR SECOND IMAGE BETWEEN -1 AND "+str(height-(endY_A-startY_A))+".",0,height-1-(endY_A-startY))
+    xC = startX_A
+    xB = startX_B
+    while xC < endX_A:
+        yC = startY_A
+        yB = startY_B
+        while yC < endY_A:
+            pictureElementC = getPixelAt(pictureObjectC,xC,yC)
+            pictureElementB = getPixelAt(pictureObjectB,xB,yB)
+            redColour = getRed(pictureElementC)
+            greenColour = getGreen(pictureElementC)
+            blueColour = getBlue(pictureElementC)
+            if greenColour+blueColour<redColour and screenColour==0:#red
+                colourObjectB = getColor(pictureElementB)
+                setColor(pictureElementC,colourObjectB)
+            elif redColour+blueColour<greenColour and screenColour==1:#greed
+                colourObjectB = getColor(pictureElementB)
+                setColor(pictureElementC,colourObjectB)
+            elif redColour+greenColour<blueColour and screenColour==2:#blue
+                colourObjectB = getColor(pictureElementB)
+                setColor(pictureElementC,colourObjectB)
+            yC += 1
+            yB += 1
+        xC += 1
+        xB += 1
+    return pictureObjectC
+
+
+
+
+
+##### 5.25 #####
+def town(size=500):#24==0
+    '''
+        does not need presupplied picture object
+        since it paints over whole picture object
+        it makes sense to develop the picture object inhouse
+    '''
+    percentage=.1
+    pictureObject=makeEmptyPicture(size,size)
+    iteration=0
+    percent=size*percentage
+    while((iteration*percent<size+1)and(iteration*percent<size+1)):
+        crossreference=0
+        while(crossreference*percent<size+1):
+            startX,startY,endX,endY=crossreference*percent,iteration*percent,crossreference*percent+5,iteration*percent+5
+#            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),blue)
+            crossreference+=1
+            break
+        if(iteration*percent<size):#vertical sectional lines to form grid workspace
+            startX,startY,endX,endY=iteration*percent,0,iteration*percent,size
+#            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        if(iteration*percent<size):#horizontal sectional lines to form grid workspace
+            startX,startY,endX,endY=0,iteration*percent,size,iteration*percent
+#            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        iteration+=1
+    loop=size
+    dist=5
+    while 0<loop and 0<dist:
+        locationX,locationY=loop*.8-percent,loop*.9
+        addIgloo(pictureObject,size,size*(dist/10.),locationX,locationY)
+        loop-=dist*30
+        dist-=1
+    loop=size
+    dist=5
+    while 0<loop and 0<dist:
+        locationX,locationY=loop*.007-percent,loop*.9
+        addIgloo(pictureObject,size,size*(dist/10.),locationX,locationY)
+        loop-=dist*30
+        dist-=1
+    loop=size
+    dist=5
+    while 0<loop and 0<dist:
+        locationX,locationY=loop*1.75-percent,loop*.9
+        addIgloo(pictureObject,size,size*(dist/10.),locationX,locationY)
+        loop-=dist*30
+        dist-=1
+#    startX,startY,width,height=2*percent,7.5*percent,.25*percent,.75*percent
+#    addOval(pictureObject,int(startX),int(startY),int(width),int(height))
+    return(pictureObject)
+
+def addIgloo(pictureObject,size,percent,locationX,locationY):
+    ##### H U T #####
+    radii=percent
+    #base outline
+    scale=size/percent*3
+    pointsX=[locationX,radii/2+locationX,locationX+radii]
+    pointsY=[locationY,locationY+radii*.1,locationY]
+    curvature=bezier(pointsX,pointsY)
+    loop=0
+    scaleX=scale*5
+    scaleY=scale*5.5
+    detail=[]
+    while(loop<len(curvature)-1):
+        if loop%30==0:
+            detail.append([curvature[loop]["x"],curvature[loop]["y"]])
+        startX,startY,endX,endY=curvature[loop]["x"],curvature[loop]["y"],curvature[loop+1]["x"],curvature[loop+1]["y"]
+        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(0))
+        startX,startY,endX,endY=curvature[loop]["x"],curvature[loop]["y"],scaleX,scaleY
+        loop+=1
+    #shell outline
+    pointsX=[locationX,radii/2+locationX,locationX+radii]
+    pointsY=[locationY,locationY-radii*1.25,locationY]
+    curvature=bezier(pointsX,pointsY)
+    loop=0
+    horizontalX,horizontalY=[],[]
+    while(loop<len(curvature)-1):
+        startX,startY,endX,endY=curvature[loop]["x"],curvature[loop]["y"],curvature[loop+1]["x"],curvature[loop+1]["y"]
+        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(0))
+        if loop%(len(curvature)*.1)==0 and loop<len(curvature)/2:
+            horizontalX.append(startX)
+            horizontalY.append(startY)
+        if loop%(len(curvature)*.1)==0 and loop>len(curvature)/2:
+            horizontalX.append(startX)
+            horizontalY.append(startY)
+        loop+=1
+    #brickwork outline
+    details=[]
+    loop=0
+    horizontalY=horizontalY[::-1]
+    del horizontalX[0],horizontalY[-1]
+    while(loop<len(horizontalX)/2):
+        pointsX,pointsY=[horizontalX[loop],(horizontalX[-loop-1]-horizontalX[loop])/2+horizontalX[loop],horizontalX[-loop-1]],[horizontalY[loop],horizontalY[loop]+len(horizontalY),horizontalY[loop]]
+        curvature=bezier(pointsX,pointsY)
+        details.append([])
+        inception=0
+        while inception<len(curvature)-1:
+            if inception%30==0:
+                details[-1].append([curvature[inception]["x"],curvature[inception]["y"]])
+            startX,startY,endX,endY=curvature[inception]["x"],curvature[inception]["y"],curvature[inception+1]["x"],curvature[inception+1]["y"]
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(0))
+            inception+=1
+        loop+=1
+    each=0
+    #brickwork details
+    while each<len(details)-1:
+        every=0
+        while every<len(details[each]):
+            startX,startY,endX,endY=details[each][every][0],details[each][every][1],details[each+1][every][0],details[each+1][every][1]
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(0))
+            every+=1
+        each+=1
+    each=1
+    while each<len(details):
+        startX,startY,endX,endY=details[0][each][0],details[0][each][1],detail[each][0],detail[each][1]
+        addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(0))
+        each+=1
+
+
+
+
+
+##### 5.26 #####
+def whereIsGold(width=200,height=100,thickness=50):
+    pictureObject=makeEmptyPicture(width,height)
+    colour=1
+    redValue = 255
+    greenValue = 0
+    blueValue = 0
+    channel=0
+    band=int(thickness/7)
+    while colour<band*7:
+        #red,orange,yellow,green,blue,indigo,violet = [255,0,0] ,[255,127,0],[255,255,0], [0,255,0], [0,0,255], [75,0,130], [127,0,255]
+        if channel==0:#red-orange
+            greenValue+=127./band
+            if 127<=greenValue:
+                channel+=1
+        elif channel==1:#orange-yellow
+            greenValue+=float(255-127)/band
+            if 255<=greenValue:
+                channel+=1
+        elif channel==2:#yellow-green
+            redValue-=255./band
+            if redValue<=0:
+                channel+=1
+        elif channel==3:#green-blue
+            greenValue-=255./band
+            blueValue+=255./band
+            if greenValue<=0 and 255<=blueValue:
+                channel+=1
+        elif channel==4:#blue-indigo
+            redValue+=75./band
+            blueValue-=float(255-130)/band
+            if 75<=redValue and blueValue<=130:
+                channel+=1
+        elif channel==5:#indigo-violet
+            redValue+=float(127-75)/band
+            blueValue+=(255-130.)/band
+        pointsX=[width*.1,(width-width*.2)/2+width*.1,width-width*.1]
+        pointsY=[height-height*.1,-height*.8+colour,height-height*.1]
+        curvature=bezier(pointsX,pointsY)
+        loop=0
+        detail=[]
+        while(loop<len(curvature)-1):
+            startX,startY,endX,endY=curvature[loop]["x"],curvature[loop]["y"],curvature[loop+1]["x"],curvature[loop+1]["y"]
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),makeColor(int(redValue),int(greenValue),int(blueValue)))
+            loop+=1
+        colour+=1
+    show(pictureObject)
+
+
+
+
+
+##### D E P E N D E N C I E S #####
+from random import randint,shuffle
+##### bézier curve #####
+def bezier(pointsX,pointsY):
+    basePoints=[]
+    point=0
+    while(point<len(pointsX) and len(pointsX)==len(pointsY)):
+        basePoints.append({"x":pointsX[point],"y":pointsY[point]})
+        point+=1
+    # the elliptic curve generator
+    from copy import copy
+    curvature=[]
+    step=float(0)
+    percentage=.01
+    maxStep=1
+    while(step<=maxStep):
+        LOP=copy(basePoints) #ListOfPoints
+        while(len(LOP)!=1):
+            #loop
+            newLOP=[]
+            point=0
+            while(point<len(LOP)-1):
+                x0,y0,x1,y1=LOP[point]["x"],LOP[point]["y"],LOP[point+1]["x"],LOP[point+1]["y"]
+                # Distance Formula = (abs(x0-x1)**2+abs(y0-y1)**2)**0.5
+                distanceTotal=(abs(x0-x1)**2+abs(y0-y1)**2)**.5
+                # dist/maxStep*step or dist*step
+                if(x0<x1):
+                    x=x0-((x0-x1)*step)
+                else:
+                    x=x1-((x1-x0)*(1-step))
+                if(y0<y1):
+                    y=y0-((y0-y1)*step)
+                else:
+                    y=y1-((y1-y0)*(1-step))
+                # newLOP = new point(x,y)
+                newLOP.append({"x":int(round(x,0)),"y":int(round(y,0))})
+                point+=1
+            LOP=newLOP
+        curvature.extend(LOP)
+        step+=percentage
+    return(curvature)
+##### midpoint circle #####
+def midpointCircle(pictureObject,x0=12,y0=12,radius=12,colour=black):
+    points=[]
+    f=1-radius
+    ddf_x=1
+    ddf_y=-2*radius
+    x=0
+    y=radius
+    pixelObject=getPixel(pictureObject,x0,y0+radius)
+    setColor(pixelObject,colour)
+    points.append(pixelObject)
+    pixelObject=getPixel(pictureObject,x0,y0-radius)
+    setColor(pixelObject,colour)
+    points.append(pixelObject)
+    pixelObject=getPixel(pictureObject,x0+radius,y0)
+    setColor(pixelObject,colour)
+    points.append(pixelObject)
+    pixelObject=getPixel(pictureObject,x0-radius,y0)
+    setColor(pixelObject,colour)
+    points.append(pixelObject)
+    while(x<y):
+        if(f>=0): 
+            y-=1
+            ddf_y+=2
+            f+=ddf_y
+        x+=1
+        ddf_x+=2
+        f+=ddf_x
+        pixelObject=getPixel(pictureObject,x0+x,y0+y)
+        points.append(pixelObject)
+        setColor(pixelObject,colour)
+        pixelObject=getPixel(pictureObject,x0-x,y0+y)
+        points.append(pixelObject)
+        setColor(pixelObject,colour)
+        pixelObject=getPixel(pictureObject,x0+x,y0-y)
+        points.append(pixelObject)
+        setColor(pixelObject,colour)
+        pixelObject=getPixel(pictureObject,x0-x,y0-y)
+        points.append(pixelObject)
+        setColor(pixelObject,colour)
+        pixelObject=getPixel(pictureObject,x0+y,y0+x)
+        points.append(pixelObject)
+        setColor(pixelObject,colour)
+        pixelObject=getPixel(pictureObject,x0-y,y0+x)
+        points.append(pixelObject)
+        setColor(pixelObject,colour)
+        pixelObject=getPixel(pictureObject,x0+y,y0-x)
+        points.append(pixelObject)
+        setColor(pixelObject,colour)
+        pixelObject=getPixel(pictureObject,x0-y,y0-x)
+        points.append(pixelObject)
+        setColor(pixelObject,colour)
+    return(points)
+
+#scalability
+#use variables everywhere, for everything
+#use single quotes inplace of double quotes
+#no unnecessary spaces
+#functional programming
+#better to type things out, may take more time, but improve typing
+#reduce lines intelligently, minimal by design in every capacity
+def scalableGrid():
+    #bitdepth=100./(percentage*10)/10
+    #8bit resolutiondepth = .125 = 8*8
+    percentage=.1
+    width,height=200,200
+    pictureObject=makeEmptyPicture(width,height)
+    iteration=0
+    percentX,percentY=width*percentage,height*percentage
+    while((iteration*percentX<width+1)and(iteration*percentY<height+1)):
+        crossreference=0
+        while(crossreference*percentX<width+1):
+            startX,startY,endX,endY=crossreference*percentX,iteration*percentY,crossreference*percentX+5,iteration*percentY+5
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),blue)
+            crossreference+=1
+            break
+        if(iteration*percentX<width):#vertical sectional lines to form grid workspace
+            startX,startY,endX,endY=iteration*percentX,0,iteration*percentX,height
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        if(iteration*percentY<height):#horizontal sectional lines to form grid workspace
+            startX,startY,endX,endY=0,iteration*percentY,width,iteration*percentY
+            addLine(pictureObject,int(startX),int(startY),int(endX),int(endY),red)
+        iteration+=1
+    explore(pictureObject)
+#scalableGrid()
+
+# it was always my original intention that the TARDIS would land on the planet; it just didn't turn out how I had anticipated
+# now goto <a href='/'>home</a>
+</pre>
+</body>
+</html>
