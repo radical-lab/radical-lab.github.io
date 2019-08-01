@@ -55,7 +55,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* I would rather a system that is both smarter than me, and adversarial towards me; humans are exploitative, and opportunistic; there are no examples of developing forms of life that aren't, nor can I imagine any possibilities; `/attrition|atrophy/` is objectionable; play is `/competitive|educational|developmental/`
 		* 42:00; repurposing circuitry (COULD NOT FIND PAPER), turing complete mario
 		* alignment: game theory, psychology, psychiatry, diplomacy
-		* google brain: concrete problems in a I safety
+		* google brain: [concrete problems in a I safety](https://arxiv.org/abs/1606.06565)
 		* 48:55; academic turing test
 		* 52:12; formal methods (COULD NOT FIND PAPER)
 			* intelligence needs freedom from sanity checking (bureaucratic red tape); rule breaking is a dependency for redefining moments of self-improvement
