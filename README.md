@@ -31,8 +31,50 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * [ ] swipl
 * [ ] mercury
 * [ ] lojban
-* [ ] [insuring intelligence](https://intelligence.org/2017/04/12/ensuring/)
+* [x] [insuring intelligence](https://intelligence.org/2017/04/12/ensuring/)
 	* [googoltalx](https://talksat.withgoogle.com/talk/ensuring-smarter-than-human-intelligence-has-a-positive-outcome)
+		* fantasia rinsewinds me of discworld
+		* [water = paperclip](https://universalpaperclips.gamepedia.com/Value_Drift)
+		* there's lots of novels about magical programming
+			* [fantasia](https://en.wikipedia.org/wiki/Modern_Magic_Made_Simple)
+			* [2.0](https://en.wikipedia.org/wiki/Scott_Meyer_(author)#Magic_2.0) ([esperanto](https://en.wikipedia.org/wiki/Esperanto_in_popular_culture#Literature))
+			* [wizardry](https://en.wikipedia.org/wiki/Rick_Cook#Wizardry_series)
+			* Codecrafter (Erica Sandbothe)
+			* [arithmancy](https://www.tor.com/2017/11/29/fantasy-books-where-magic-turns-out-to-be-math/)
+		* the whole button pushing thought experiment is as stupid as murdering baby baddies in ethics (uncertainty principle = free will); you don't terminate children when they become criminals, unless you live in capitalism; we learn from mistakes (ours, and others); a life may be lost if you hand a child a gun, or hand the power of a car to `/volkswagen|captcha/` "smartware" (apparently I am not a robot, even though I just click randomly enough until it goes away)
+			* [trust noone](https://en.wikipedia.org/wiki/User_error); humans have ulterior motive, hidden agendas, value drift,..
+			* most people `/want|describe/` slaves, but [slaves](https://en.wikipedia.org/wiki/Abrahamic_religions) are known to [murder](https://en.wikipedia.org/wiki/Crossing_the_Red_Sea) their [masters](https://en.wikipedia.org/wiki/Ancient_Egyptian_religion)
+		* there is no intelligence today, it's all just cheap tricks; you can't teach that natural language interface new words that it will be able to use in a sentence c̄ continuity, let alone `/hacking|mathematics|philosophy/`
+			* social media chatbots that talk to each other in their own languages are just fake publicity stunts; if it hasn't flossed, then don't believe it
+			* you'd think they could do better c̄ the resources they have, but money can't buy intelligence
+			* `/tic tac toe|chess|go/` playing is not intelligent
+			* I would be impressed by a system that could learn the rules of any game, play with reasonable competency, optimise strategies,..
+			* I would be impressed by a system that could discover the rules of derivation, the rules of integration, the pythagorean theorem, pi, trigonometric identities, the rules of replacement, the rules of inference, a number system (that includes zero), a numeral system (that excludes duplicates), an algebraic system,..
+			* I would be impressed by a system of systems that could discover a communication system, trade `/resources|services/`,..
+			* I would be impressed by robots that could repair each other, reproduce, clean, cook, farm, entertain,..
+			* I would rather a system that is both smarter than me, and adversarial towards me; humans are exploitative, and opportunistic; there are no examples of developing forms of life that aren't, nor can I imagine any possibilities; `/attrition|atrophy/` is objectionable; play is `/competitive|educational|developmental/`
+		* 42:00; repurposing circuitry (COULD NOT FIND PAPER), turing complete mario
+		* alignment: game theory, psychology, psychiatry, diplomacy
+		* google brain: concrete problems in a I safety
+		* 48:55; academic turing test
+		* 52:12; formal methods (COULD NOT FIND PAPER)
+			* intelligence needs freedom from sanity checking (bureaucratic red tape); rule breaking is a dependency for redefining moments of self-improvement
+		* 54:30; politics
+			* displacing jobs = destroying lives; unemployment, and poverty, are already an unsolved problem
+		* 56:18; edgar allan poe essay on the mechanical turk (COULD NOT FIND ESSAY), claude shannon
+			* terrorism, governments, and business people, are already an unsolved problem
+		* 1:02:19; the reason google can't floss
+			* (de)centralisation: united versus divided ≠ one versus many
+		* 1:06:49; risk analysis
+			* don't panic
+		* 1:08:11; contextual selection
+			* the slow alien test could be a fast alien test in disguise; babylon 5 had such an explosive probe test
+		* I only have four software-based theories for intelligence, but they're ambitious pseudoscience #secret_methods_of_experimental_science
+		* I have some trivial suboptimal software-based theories, but they're just pseudoscience stepping stones
+		* I have many hardware-based theories, but hardware is expensive
+		* I had a theory for safety, but I've lost interest in safety altogether; until I make my own, in the √ grand design
+			* I'm interested in homoiconic metaprogramming: hindu numbers, lisp, prolog,..
+			* I'm interested in symbolic programming: prolog, lisp, hindu numbers,..
 * [x] [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
 	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Rⁱⁿᵍ∘Fⁱʳᵉ, but "zombies on the web"? Rⁱᵈᵉʳˢ÷(TʰᵉSᵗᵒʳᵐ))
 		* [hollywood zombies](https://en.wikipedia.org/wiki/Gilgamesh_in_popular_culture)
@@ -88,6 +130,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* cat calibration.kbd > configuration.kbd # users can modulate it, and script it together again
 					* mods (time delay, key down)
 						* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
+						* configurable `/lag|refresh|redraw/` rate for photosensitive epilepsy; global versus local
 						* meta = alt
 						* meta `/.*/` = macro modes
 						* supermod = trimod = alt + ctrl + shift
