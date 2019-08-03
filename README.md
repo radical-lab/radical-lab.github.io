@@ -37,10 +37,12 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* [water = paperclip](https://universalpaperclips.gamepedia.com/Value_Drift)
 		* there's lots of novels about magical programming
 			* [fantasia](https://en.wikipedia.org/wiki/Modern_Magic_Made_Simple)
+			* [discworld](https://en.wikipedia.org/wiki/Hex_(Discworld))
 			* [2.0](https://en.wikipedia.org/wiki/Scott_Meyer_(author)#Magic_2.0) ([esperanto](https://en.wikipedia.org/wiki/Esperanto_in_popular_culture#Literature))
 			* [wizardry](https://en.wikipedia.org/wiki/Rick_Cook#Wizardry_series)
 			* Codecrafter (Erica Sandbothe)
 			* [arithmancy](https://www.tor.com/2017/11/29/fantasy-books-where-magic-turns-out-to-be-math/)
+			* [vr](https://en.wikipedia.org/wiki/Category:Virtual_reality_in_fiction)
 			* [sicp](https://docs.racket-lang.org/sicp-manual/index.html)
 		* the whole button pushing thought experiment is as stupid as murdering baby baddies in ethics (uncertainty principle = free will); you don't terminate children when they become criminals, unless you live in capitalism; we learn from mistakes (ours, and others); a life may be lost if you hand a child a gun, or hand the power of a car to `/volkswagen|captcha/` "smartware" (apparently I am not a robot, even though I just click randomly enough until it goes away)
 			* [trust noone](https://en.wikipedia.org/wiki/User_error); humans have ulterior motive, hidden agendas, value drift,..
