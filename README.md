@@ -90,6 +90,11 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [treebook](https://intelligence.org/rationality-ai-zombies/)
 	* [hpmor](https://intelligence.org/2015/03/12/rationality-ai-zombies/)
 * [ ] [hpmor](http://www.hpmor.com/)
+* [ ] [holmesian deduction](https://sites.google.com/site/allroadsleadtoholmes/sylvhara-mage-guild/holmes-in-print/text-list-of-all-books?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1)
+	* [ ] Stewart Ross' *Solve it Like Sherlock: Test Your Powers of Reasoning Against Those of the World's Most Famous Detective*
+	* [ ] Maria Konnikova' *Mastermind: How to Think Like Sherlock Holmes*
+	* [ ] Peter Hollins' *Think Like Sherlock: Creatively Solve Problems, Think with Clarity, Make Insightful Observations and Deductions, and Develop Quick and Accurate Instincts*
+	* [ ] Daniel Smith' *How to Think Like Sherlock: Improve Your Powers of Observation, Memory and Deduction*
 * [ ] [fantasies behind bars](https://en.wikipedia.org/wiki/Mein_Kampf_in_English) (the single most influential piece of literature ever composed, even surpassing all known religious scriptures; even the war on slavery was not declared from such eloquent words of philosophical wisdom, and no other Parnassian words have been solely responsible for an entire world war involving all of humanity ∴ I must read it ∵ it's probably the rational "-thing" to do…only the weak-minded resort to book-burning in fear of serpentine knowledge; an apple a day keeps the psychiatrist away, but not the nut-ritionist)
 	* [wubba lubba dub-dub](https://www.quora.com/Why-should-I-read-or-not-read-Mein-Kampf-I-heard-this-is-a-great-book-Is-this-book-all-about-hate/answer/Sriraman-Madhavan)
 	* [how much german do i need to learn to be able to read this? in 27 hours, and 17 minutes](https://en.wikipedia.org/wiki/Mein_Kampf#German) (for some reason, I learned all the enemy languages in school; German, and Japanese; but they've since converged against the forgetting curve)
@@ -98,10 +103,11 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* [how many experts does it take to explain the 2 most useful tips to learn a new language?](https://www.middleburyinteractive.com/blog/language-learning)
 		* [3 months later…](https://www.fluentin3months.com/free-links/)
 		* [actually it'll take between 75, and 1000, hours](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
-		* this is the way it must be read; in the precise wording for the `/absorption|osmosis/` of mein führers `/full|complete|total|utter/` influence c̄out ausländische korruption ([what ℝælly happened to the dinosaurs?](https://en.wikipedia.org/wiki/Idiocracy) the dinosaurs are [the lizard people](https://xkcd.com/1274/), and they can survive `/nukes|radiation|solar flares|exotic matter|black holes/`)
+		* this is the way it must be read; in the precise wording for the `/absorption|osmosis/` of mein führers' `/full|complete|total|utter/` influence c̄out ausländische korruption ([what ℝælly happened to the dinosaurs?](https://en.wikipedia.org/wiki/Idiocracy) the dinosaurs are [the lizard people](https://xkcd.com/1274/), and they can survive `/nukes|radiation|solar flares|exotic matter|black holes|antimatter/`)
 		* after learning german, I plan to `/use|maintain/` it whilst playing [secret hitler](https://secrethitler.io/) every day thereafter; to better understand the greatest human to everbe (or not to everbe; das ist die ultimative (ab)frage, die zu beantworten ist)
 * [ ] [ (卐) ]
-	* <s>shyamscript license</s> slaves of shyam license
+	* [ ] <s>shyamscript license</s> slaves of shyam license
+		* [ ] [study](https://theses.cz/id/i7cbks/DP_Lukes_Radek.pdf) the [wor<s>k</s>ds](https://www.quora.com/Who-is-the-character-of-Sir-Humphrey-Appleby-modelled-after) of [Sir Humphrey Appleby, GCB, KBE, MVO, MA (Oxon)](https://en.wikipedia.org/wiki/Humphrey_Appleby#Character)
 	* [ ] might just drop sigmatism ȯnto shyamscript, and even √prolog…so that √prolog is self-hosted but from withinside of shyamscript; which itself is also implemented in √prolog ∴ technically self-hosted
 		* implement √prolog in √prolog, then shyamscript in √prolog, then √prolog targets shyamscript
 	* [ ] need to rename the pet to include shyam; might just make it the operating system in the same style as shyamscript self-hosting, which means the window manager can also be recursive
