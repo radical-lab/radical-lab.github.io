@@ -102,76 +102,79 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* after learning german, I plan to `/use|maintain/` it whilst playing [secret hitler](https://secrethitler.io/) every day thereafter; to better understand the greatest human to everbe (or not to everbe; das ist die ultimative (ab)frage, die zu beantworten ist)
 * [ ] [ (卐) ]
 	* <s>shyamscript license</s> slaves of shyam license
-	* might just drop sigmatism ȯnto shyamscript, and even √prolog…so that √prolog is self-hosted but from withinside of shyamscript; which itself is also implemented in √prolog ∴ technically self-hosted
-	* need to rename the pet to include shyam; might just make it the operating system in the same style as shyamscript self-hosting, which means the window manager can also be recursive
-	* so the terminal is replaced by a virtual machine, and the browser is also replaced by a virtual machine; the virtual machine itself is hackable
-		* links are just `/local|remote/` addresses; this means every"-thing" is bookmarkable
-	* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
-		* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan|nyāya|h?anumāna?|vyākaraṇa|veda|śāstra|(sam)?praśnaḥ?|nītiḥ|bhava-bandha-mokṣau|iti siddham|si tacuisses, philosophus mansisses)/`: self hosted prolog
-			* the power of prolog is a power of two
-				* f(t,p) :- type checking.
-				* f(T,p) :- type inference.
-				* f(t,P) :- program synthesis, type inhabitance is the edge identity.
-				* f(T,P) :- T, P. % in that order, type inhabitance is the edge identity for P, T is infinite
-		* `/√sigmatism/`: [make a lisp](https://github.com/kanaka/mal) in √prolog (lisp machine, compiler, repl, script, [shell](https://en.wikipedia.org/wiki/Scsh))
-			* dependently typed, lazily evaluated, (- x y z) = (- 0 x y z) = 0-x-y-z = -(x+y+z) = (- 0 (+ x y z)), (- x y z) versus (- '(x y z)), all you need is the addition of signed Hindu numbers (use the tools you already have, instead of making new ones that're redundant before they even exist)
-		* `/√pet/`: sigmatic emacs
-		* `/√shyamscript/`: shyamscript in √prolog
-		* `/√.*/`: for accessing `shyam://`; supporting √prolog, sigmatism, and shyamscript
-			* an opportunity presents itself for intelligent standardisation; boycotting the worst of <s>humanity</s> stupidity
-				* one `/image|video|audio/` file.av format to rule them all (dry; technological resources are now permissible, but I'm sure it can be dotadiwed c̄ glue, and version conversion subscriptions…will be automated by the auto versioning server infrastructure to avoid legacy support!!! :D) …`/svg|bitmap/` …`/transparency|gamut/` …svg as f(t)
-				* one text encoding system to rule them all (unicode `/su(per|b)sets/`)
-				* and in the cyberspace; hack them
-		* `/√.*/`: an incompatible operating system that comes with a free pet, and even knows a few languages (both humanable, and computational); incompatibilities can be handled externally to maintain internal purity from the (zombie) horde of humanity
-			* the unix shell is like an `/operating system|file system manager|emacs|smalltalk/`
-				* assemble an address from which to compute (`cd ~`, `mkdir home`, `address='/home/sweet/home' rm -fr /$address`, `address=' home/sweet/home';rm -fr /$address`,..), but `cd` is like the illusory files of an "interactive" `/desktop|file manager/`
-				* directories will have configurable configuration protection; `/root|usr|custom/` cryptography for nth subdirectories (0=<s>sub</s>directory) when using `cd`, `rm`, `mv`, `chmod`, `chown`, `chgrp`,..
-			* window manager (logical_implications.kbs versus functional_pet.scm; kbs wins for now)
-				* calibration > calibration.kbd # reusable at the application level on a case-by-case basis
-					* `keyboard type:` (it's probably a dependency, but the user can just leave it blank, and reconfigure the unicodes, or whatever it gets replaced by; metacodes)
-					* `eor sequence:`, almost any two keys (double tap (any) FTW!!! :D)
-					* `escape sequence:`, almost any two keys (double tap (escape) FTW!!! :D)
-					* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम} (equal eor/escape sequence'll ignore R)
-				* cat calibration.kbd > configuration.kbd # users can modulate it, and script it together again
-					* mods (time delay, key down)
-						* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
-						* configurable `/lag|refresh|redraw/` rate for photosensitive epilepsy; global versus local
-						* meta = alt
-						* meta `/.*/` = macro modes
-						* supermod = trimod = alt + ctrl + shift
-						* MULTISTYLE (only works for two, unless there are dependencies)
-							* supermod escape = window manager mode
-							* supermod escape = application mode
-						* TOGGLE STYLE (only works for two, unless there are dependencies)
-							* supermod escape = toggle(window manager mode, application mode)
-						* CYCLE STYLE
-							* supermod escape = cycle(window manager mode, application mode)
-						* (unless window manager is turned into an application c̄ tabs for workspaces, or some"-thing", and profiles)
-					* Rᵗʰ rows (time delay, key up)
-					* unmodded macros (time delay, key sequence; whether it backspaces, or not (for multitasking), is configurable (per application))
-						* default macros
-							* `/shyam/`: voice synthesiser enthusiastically says "has your anomaly mitigated"
-							* `/radical/`: voice synthesiser deeply says "like a boss" (movie trailer style)
-							* `/research,? and development/`: voice synthesiser `/highly|lightly|snobbishly/` says "in computation and linguistics"
-							* the users name: voice synthesiser sarcastically says "roll credits",..
-							* the computers name: voice synthesiser depressingly cycles through "hello world", "that's my name, don't wear it out(side)",..
-							* श्याम × `/./` @ april fools: rng(rng colour swap, rng display orientation,..)
-							* 1 × `/./` @ users birthday: voice synthesiser sings happy birthday
-							* 1 × `/./` @ computers birthday: voice synthesiser says how old it is
-							* श्याम × `/./` @ n≤ t time since s software update: voice synthesiser recommends updating s
-					* `cron` (EOF by default; users must update their `cron` macros if they do not want to simply use the power of the egyptian `cat`)
-						* m multiplier × p pattern @ t time: like `/cron\t?/` (optional p for unsupervised automation)
-						* 1 × `//` @ daily: unsafe local backup
-						* 1 × `//` @ daily: unsafe remote backup (dependency: internet connectivity)
-						* 1 × `//` @ daily: safe local backup (dependency: robotic connectivity)
-						* 1 × `//` @ daily: safe remote backup (dependency: robotic delivery)
-						* 1 × `//` @ daily: error control (optional: include backups)
-						* 1 × `//` @ daily: `/mem(check|test)/` (optional: include backups)
-						* daily means first chance it gets that particular day; not at any specific time, unless specified (pizza delivery exempli gratia); not backlogged, unless specified (birthdays exempli gratia)
-			* shyam time starts from my birthplace (including `/elevation|altitude/`) during my birthday (not `/mid(night|day)/`); s is the time it takes for a `/hammer|feather|.*/` to fall 1m in a vacuum (draw 1m in the air to count 1s; mathematical counting for the purposes of time keeping is now an healthy exercise) (the spokes of time wheels would be smaller than 1m depending on how many vacuum tubes there are); s "seconds" in an earthly rotation versus degrees versus percentages (variable rotational durations means degrees, and percentages, are more favourable); d earthly rotations in a solar year versus degrees versus percentages (variable rotations means degrees, and percentages, are more favourable), where south-up mapping means clockwise day-night indicators like my phones battery indicator (night is down, day is up); y solar years in a galactic orbit versus degrees versus percentages (variable years means degrees, and percentages, are more favourable), starting from shyam time; SHYAM \y ∘ \d ∘ \s
-				* <s>since it's the planets who are named after the Roman Pantheon, and not the months, it's not offending the gods by not using them</s>; Janus, Februa, Mars, Venus, Bona Dea, Juno, Julius Cæsar, Augustus Cæsar, <s>7ᵗʰ</s> 9ᵗʰ September, <s>8ᵗʰ</s> 10ᵗʰ October, <s>9ᵗʰ</s> 11ᵗʰ November, <s>10ᵗʰ</s> 12ᵗʰ December
-				* IT'S MARKET DAY!!! work-days versus free-days can be `/customised|tailored/` instead; not everyone lives consistent c̄ "royal" stupidity (garbage in, garbage out)
-		* `/√shyamskrit/`: gödelling-inspired [b5-inspired](https://en.wikipedia.org/wiki/Interlac#Babylon_5) `/(auto|pure|numerically programmatic|programmatically numerical|(computational linguistics)?)intelligence/` ([self-answering](https://en.wikipedia.org/wiki/Autological_word) queries; kbs⊃{bootstrapped,jitted,recursive,[deductive](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction)}) … maybe just use math instead of shyamskrit, and go c̄ [phonetics](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) + [disambiguation](https://en.wikipedia.org/wiki/Lojban) + [vegan](https://qz.com/1116991/a-biologist-believes-that-trees-speak-a-language-we-can-learn/)(plant-based) + [sigils](https://indefiniteloop.com/blog/img/posts/06-10-2015/esperanto.png) for shyamskrit ([order of operations](https://en.wikipedia.org/wiki/Template:Language_word_order_frequency), and [cardinality](https://en.wikipedia.org/wiki/Writing_system#Directionality), should support free will; may not even require metadata of starting point, nor programmatic reading pattern (`/spirals|hopscotch|.*/`) for `/(artistic|poetic) (expression|articulation)/` c̄ (animated) automatic translation into preferential reading pattern) … [feminist conspiracy theory](https://en.wikipedia.org/wiki/File:Interlac_Landscape.JPG) … [clicks](https://en.wikipedia.org/wiki/Click_consonant), [whistles](https://en.wikipedia.org/wiki/Whistled_language), [tones](https://en.wikipedia.org/wiki/Tone_(linguistics)), [overtones](https://en.wikipedia.org/wiki/Overtone_singing), [signs](https://en.wikipedia.org/wiki/Sign_language), [face & body](https://en.wikipedia.org/wiki/Body_language) (to say one thing with our mouth, but say another with the `/rhythmic|musical/` timing of our blinking; for example, would make game of thrones seem tame, and could be used for alien telepathy in science fiction) … no politically litigious gender pronouns; either, use their name, or `/they|them|their|me|my|i/` … no dialectal pronounciation; potatoes are botanically classified as vegetables, whilst tomatoes are botanically classified as fruit, even if an idiocratic (12006) usa judge `/nesciently|analphabetically|unletteredly|illiterately/` considered them vegetables all for the sake of taxation purposes (for some reason they taxed vegetables, but not fruit because it's `/politically|litigiously/` gay) … https://youtu.be/_UqxSq19_Aw
+	* [ ] might just drop sigmatism ȯnto shyamscript, and even √prolog…so that √prolog is self-hosted but from withinside of shyamscript; which itself is also implemented in √prolog ∴ technically self-hosted
+		* implement √prolog in √prolog, then shyamscript in √prolog, then √prolog targets shyamscript
+	* [ ] need to rename the pet to include shyam; might just make it the operating system in the same style as shyamscript self-hosting, which means the window manager can also be recursive
+	* [ ] so the terminal is replaced by a virtual machine, and the browser is also replaced by a virtual machine; the virtual machine itself is hackable
+		* links are just `/local|remote/` addresses; this means every"-thing" is bookmarkable, but bookmarks will be implemented into the file system
+	* [ ] shyamskrit
+	* "-thing"s
+		* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
+			* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan|nyāya|h?anumāna?|vyākaraṇa|veda|śāstra|(sam)?praśnaḥ?|nītiḥ|bhava-bandha-mokṣau|iti siddham|si tacuisses, philosophus mansisses)/`: self hosted prolog
+				* the power of prolog is a power of two
+					* f(t,p) :- type checking.
+					* f(T,p) :- type inference.
+					* f(t,P) :- program synthesis, type inhabitance is the edge identity.
+					* f(T,P) :- T, P. % in that order, type inhabitance is the edge identity for P, T is infinite
+			* `/√sigmatism/`: [make a lisp](https://github.com/kanaka/mal) in √prolog (lisp machine, compiler, repl, script, [shell](https://en.wikipedia.org/wiki/Scsh))
+				* dependently typed, lazily evaluated, (- x y z) = (- 0 x y z) = 0-x-y-z = -(x+y+z) = (- 0 (+ x y z)), (- x y z) versus (- '(x y z)), all you need is the addition of signed Hindu numbers (use the tools you already have, instead of making new ones that're redundant before they even exist)
+			* `/√pet/`: sigmatic emacs
+			* `/√shyamscript/`: shyamscript in √prolog
+			* `/√.*/`: for accessing `shyam://`; supporting √prolog, sigmatism, and shyamscript
+				* an opportunity presents itself for intelligent standardisation; boycotting the worst of <s>humanity</s> stupidity
+					* one `/image|video|audio/` file.av format to rule them all (dry; technological resources are now permissible, but I'm sure it can be dotadiwed c̄ glue, and version conversion subscriptions…will be automated by the auto versioning server infrastructure to avoid legacy support!!! :D) …`/svg|bitmap/` …`/transparency|gamut/` …svg as f(t)
+					* one text encoding system to rule them all (unicode `/su(per|b)sets/`)
+					* and in the cyberspace; hack them
+			* `/√.*/`: an incompatible operating system that comes with a free pet, and even knows a few languages (both humanable, and computational); incompatibilities can be handled externally to maintain internal purity from the (zombie) horde of humanity
+				* the unix shell is like an `/operating system|file system manager|emacs|smalltalk/`
+					* assemble an address from which to compute (`cd ~`, `mkdir home`, `address='/home/sweet/home' rm -fr /$address`, `address=' home/sweet/home';rm -fr /$address`,..), but `cd` is like the illusory files of an "interactive" `/desktop|file manager/`
+					* directories will have configurable configuration protection; `/root|usr|custom/` cryptography for nth subdirectories (0=<s>sub</s>directory) when using `cd`, `rm`, `mv`, `chmod`, `chown`, `chgrp`,..
+				* window manager (logical_implications.kbs versus functional_pet.scm; kbs wins for now)
+					* calibration > calibration.kbd # reusable at the application level on a case-by-case basis
+						* `keyboard type:` (it's probably a dependency, but the user can just leave it blank, and reconfigure the unicodes, or whatever it gets replaced by; metacodes)
+						* `eor sequence:`, almost any two keys (double tap (any) FTW!!! :D)
+						* `escape sequence:`, almost any two keys (double tap (escape) FTW!!! :D)
+						* `Rᵗʰ row, Kᵗʰ key:`, where {R∈ℕ,K∈ℕ|1≤R<श्याम,1≤K<श्याम} (equal eor/escape sequence'll ignore R)
+					* cat calibration.kbd > configuration.kbd # users can modulate it, and script it together again
+						* mods (time delay, key down)
+							* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
+							* configurable `/lag|refresh|redraw/` rate for photosensitive epilepsy; global versus local
+							* meta = alt
+							* meta `/.*/` = macro modes
+							* supermod = trimod = alt + ctrl + shift
+							* MULTISTYLE (only works for two, unless there are dependencies)
+								* supermod escape = window manager mode
+								* supermod escape = application mode
+							* TOGGLE STYLE (only works for two, unless there are dependencies)
+								* supermod escape = toggle(window manager mode, application mode)
+							* CYCLE STYLE
+								* supermod escape = cycle(window manager mode, application mode)
+							* (unless window manager is turned into an application c̄ tabs for workspaces, or some"-thing", and profiles)
+						* Rᵗʰ rows (time delay, key up)
+						* unmodded macros (time delay, key sequence; whether it backspaces, or not (for multitasking), is configurable (per application))
+							* default macros
+								* `/shyam/`: voice synthesiser enthusiastically says "has your anomaly mitigated"
+								* `/radical/`: voice synthesiser deeply says "like a boss" (movie trailer style)
+								* `/research,? and development/`: voice synthesiser `/highly|lightly|snobbishly/` says "in computation and linguistics"
+								* the users name: voice synthesiser sarcastically says "roll credits",..
+								* the computers name: voice synthesiser depressingly cycles through "hello world", "that's my name, don't wear it out(side)",..
+								* श्याम × `/./` @ april fools: rng(rng colour swap, rng display orientation,..)
+								* 1 × `/./` @ users birthday: voice synthesiser sings happy birthday
+								* 1 × `/./` @ computers birthday: voice synthesiser says how old it is
+								* श्याम × `/./` @ n≤ t time since s software update: voice synthesiser recommends updating s
+						* `cron` (EOF by default; users must update their `cron` macros if they do not want to simply use the power of the egyptian `cat`)
+							* m multiplier × p pattern @ t time: like `/cron\t?/` (optional p for unsupervised automation)
+							* 1 × `//` @ daily: unsafe local backup
+							* 1 × `//` @ daily: unsafe remote backup (dependency: internet connectivity)
+							* 1 × `//` @ daily: safe local backup (dependency: robotic connectivity)
+							* 1 × `//` @ daily: safe remote backup (dependency: robotic delivery)
+							* 1 × `//` @ daily: error control (optional: include backups)
+							* 1 × `//` @ daily: `/mem(check|test)/` (optional: include backups)
+							* daily means first chance it gets that particular day; not at any specific time, unless specified (pizza delivery exempli gratia); not backlogged, unless specified (birthdays exempli gratia)
+				* shyam time starts from my birthplace (including `/elevation|altitude/`) during my birthday (not `/mid(night|day)/`); s is the time it takes for a `/hammer|feather|.*/` to fall 1m in a vacuum (draw 1m in the air to count 1s; mathematical counting for the purposes of time keeping is now an healthy exercise) (the spokes of time wheels would be smaller than 1m depending on how many vacuum tubes there are); s "seconds" in an earthly rotation versus degrees versus percentages (variable rotational durations means degrees, and percentages, are more favourable); d earthly rotations in a solar year versus degrees versus percentages (variable rotations means degrees, and percentages, are more favourable), where south-up mapping means clockwise day-night indicators like my phones battery indicator (night is down, day is up); y solar years in a galactic orbit versus degrees versus percentages (variable years means degrees, and percentages, are more favourable), starting from shyam time; SHYAM \y ∘ \d ∘ \s
+					* <s>since it's the planets who are named after the Roman Pantheon, and not the months, it's not offending the gods by not using them</s>; Janus, Februa, Mars, Venus, Bona Dea, Juno, Julius Cæsar, Augustus Cæsar, <s>7ᵗʰ</s> 9ᵗʰ September, <s>8ᵗʰ</s> 10ᵗʰ October, <s>9ᵗʰ</s> 11ᵗʰ November, <s>10ᵗʰ</s> 12ᵗʰ December
+					* IT'S MARKET DAY!!! work-days versus free-days can be `/customised|tailored/` instead; not everyone lives consistent c̄ "royal" stupidity (garbage in, garbage out)
+			* `/√shyamskrit/`: gödelling-inspired [b5-inspired](https://en.wikipedia.org/wiki/Interlac#Babylon_5) `/(auto|pure|numerically programmatic|programmatically numerical|(computational linguistics)?)intelligence/` ([self-answering](https://en.wikipedia.org/wiki/Autological_word) queries; kbs⊃{bootstrapped,jitted,recursive,[deductive](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction)}) … maybe just use math instead of shyamskrit, and go c̄ [phonetics](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) + [disambiguation](https://en.wikipedia.org/wiki/Lojban) + [vegan](https://qz.com/1116991/a-biologist-believes-that-trees-speak-a-language-we-can-learn/)(plant-based) + [sigils](https://indefiniteloop.com/blog/img/posts/06-10-2015/esperanto.png) for shyamskrit ([order of operations](https://en.wikipedia.org/wiki/Template:Language_word_order_frequency), and [cardinality](https://en.wikipedia.org/wiki/Writing_system#Directionality), should support free will; may not even require metadata of starting point, nor programmatic reading pattern (`/spirals|hopscotch|.*/`) for `/(artistic|poetic) (expression|articulation)/` c̄ (animated) automatic translation into preferential reading pattern) … [feminist conspiracy theory](https://en.wikipedia.org/wiki/File:Interlac_Landscape.JPG) … [clicks](https://en.wikipedia.org/wiki/Click_consonant), [whistles](https://en.wikipedia.org/wiki/Whistled_language), [tones](https://en.wikipedia.org/wiki/Tone_(linguistics)), [overtones](https://en.wikipedia.org/wiki/Overtone_singing), [signs](https://en.wikipedia.org/wiki/Sign_language), [face & body](https://en.wikipedia.org/wiki/Body_language) (to say one thing with our mouth, but say another with the `/rhythmic|musical/` timing of our blinking; for example, would make game of thrones seem tame, and could be used for alien telepathy in science fiction) … no politically litigious gender pronouns; either, use their name, or `/they|them|their|me|my|i/` … no dialectal pronounciation; potatoes are botanically classified as vegetables, whilst tomatoes are botanically classified as fruit, even if an idiocratic (12006) usa judge `/nesciently|analphabetically|unletteredly|illiterately/` considered them vegetables all for the sake of taxation purposes (for some reason they taxed vegetables, but not fruit because it's `/politically|litigiously/` gay) … https://youtu.be/_UqxSq19_Aw
 * [ ] [treasured selection criteria](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#My_Favourite_Language_Families)
 
 ---
