@@ -104,6 +104,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* <s>shyamscript license</s> slaves of shyam license
 	* might just drop sigmatism ȯnto shyamscript, and even √prolog…so that √prolog is self-hosted but from withinside of shyamscript; which itself is also implemented in √prolog ∴ technically self-hosted
 	* need to rename the pet to include shyam; might just make it the operating system in the same style as shyamscript self-hosting, which means the window manager can also be recursive
+	* so the terminal is replaced by a virtual machine, and the browser is also replaced by a virtual machine; the virtual machine itself is hackable
+		* links are just `/local|remote/` addresses; this means every"-thing" is bookmarkable
 	* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
 		* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan|nyāya|h?anumāna?|vyākaraṇa|veda|śāstra|(sam)?praśnaḥ?|nītiḥ|bhava-bandha-mokṣau|iti siddham|si tacuisses, philosophus mansisses)/`: self hosted prolog
 			* the power of prolog is a power of two
