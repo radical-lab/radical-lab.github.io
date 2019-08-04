@@ -136,6 +136,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* dependently typed, lazily evaluated, (- x y z) = (- 0 x y z) = 0-x-y-z = -(x+y+z) = (- 0 (+ x y z)), (- x y z) versus (- '(x y z)), all you need is the addition of signed Hindu numbers (use the tools you already have, instead of making new ones that're redundant before they even exist)
 			* `/√pet/`: sigmatic emacs
 			* `/√shyamscript/`: shyamscript in √prolog
+				* Is it possible to `/distribute|.*/` a single task? Where one node fully evaluates the head, while the other nodes partially evaluate throughout the tail.
 			* `/√.*/`: for accessing `shyam://`; supporting √prolog, sigmatism, and shyamscript
 				* an opportunity presents itself for intelligent standardisation; boycotting the worst of <s>humanity</s> stupidity
 					* one `/image|video|audio/` file.av format to rule them all (dry; technological resources are now permissible, but I'm sure it can be dotadiwed c̄ glue, and version conversion subscriptions…will be automated by the auto versioning server infrastructure to avoid legacy support!!! :D) …`/svg|bitmap/` …`/transparency|gamut/` …svg as f(t)
