@@ -92,11 +92,19 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [treebook](https://intelligence.org/rationality-ai-zombies/)
 	* [hpmor](https://intelligence.org/2015/03/12/rationality-ai-zombies/)
 * [ ] [hpmor](http://www.hpmor.com/)
-* [ ] [holmesian deduction](https://sites.google.com/site/allroadsleadtoholmes/sylvhara-mage-guild/holmes-in-print/text-list-of-all-books?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1)
-	* [ ] Stewart Ross' *Solve it Like Sherlock: Test Your Powers of Reasoning Against Those of the World's Most Famous Detective*
+* [ ] ∛ [holmesian deduction](https://sites.google.com/site/allroadsleadtoholmes/sylvhara-mage-guild/holmes-in-print/text-list-of-all-books?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1)
+	* [ ] David Acord' *Success Secrets of Sherlock Holmes: Life Lessons from the Master Detective*
 	* [ ] Maria Konnikova' *Mastermind: How to Think Like Sherlock Holmes*
+	* [ ] Stewart Ross' *Solve it Like Sherlock: Test Your Powers of Reasoning Against Those of the World's Most Famous Detective*
+	* [ ] William Neblett' *Sherlocks Logic*
+	* [ ] Louise Blackwood' *The Deduction Guide*
+	* [ ] Hannah Rogers' *The Art of Deduction: A Sherlock Holmes Collection*
+	* [ ] Hannah Rogers' *A Guide to Deduction: The Ultimate Handbook for Any Aspiring Sherlock Holmes Or Doctor Watson*
+	* [ ] Stefan Amber Cain' *Becoming Sherlock: The Power of Observation & Deduction*
 	* [ ] Peter Hollins' *Think Like Sherlock: Creatively Solve Problems, Think with Clarity, Make Insightful Observations and Deductions, and Develop Quick and Accurate Instincts*
 	* [ ] Daniel Smith' *How to Think Like Sherlock: Improve Your Powers of Observation, Memory and Deduction*
+	* [ ] Mark A. Williams' *How To Instantly Size-Up Strangers Like Sherlock Holmes*
+	* [ ] Cecil C Kuhne III' *Sherlock Holmes for Lawyers: 100 Clues for Litigators from the Master Detective* **(slaves of shyam license)**
 * [ ] [fantasies behind bars](https://en.wikipedia.org/wiki/Mein_Kampf_in_English) (the single most influential piece of literature ever composed, even surpassing all known religious scriptures; even the war on slavery was not declared from such eloquent words of philosophical wisdom, and no other Parnassian words have been solely responsible for an entire world war involving all of humanity ∴ I must read it ∵ it's probably the rational "-thing" to do…only the weak-minded resort to book-burning in fear of serpentine knowledge; an apple a day keeps the psychiatrist away, but not the nut-ritionist)
 	* [wubba lubba dub-dub](https://www.quora.com/Why-should-I-read-or-not-read-Mein-Kampf-I-heard-this-is-a-great-book-Is-this-book-all-about-hate/answer/Sriraman-Madhavan)
 	* [how much german do i need to learn to be able to read this? in 27 hours, and 17 minutes](https://en.wikipedia.org/wiki/Mein_Kampf#German) (for some reason, I learned all the enemy languages in school; German, and Japanese; but they've since converged against the forgetting curve)
