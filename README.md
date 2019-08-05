@@ -123,7 +123,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [ ] need to rename the pet to include shyam; might just make it the operating system in the same style as shyamscript self-hosting, which means the window manager can also be recursive
 	* [ ] so the terminal is replaced by a virtual machine, and the browser is also replaced by a virtual machine; the virtual machine itself is hackable
 		* links are just `/local|remote/` addresses; this means every"-thing" is bookmarkable, but bookmarks will be implemented into the file system
-		* if the host is being virtualised, the virtual machine will by default just be a `/window|portal/` into the host (shyamscript style); unless the host is actually installed inside the virtual machine
+		* if the host is being virtualised, the virtual machine will by default just be a `/window|portal/` into the host (shyamscript style); unless the host is actually installed inside the virtual machine, but even then they can configurably share resources
 	* [ ] shyamskrit
 	* "-thing"s
 		* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
