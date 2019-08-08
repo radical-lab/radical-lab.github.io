@@ -29,6 +29,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* could probably start the "learning" system since elisp is a commitment
 		* and the related "-thing"; these have probably been backed up though … luckily it is mid-way, but only `/learn/` is easily discoverable … there are only theories of what "-thing" actually is ((in)security, study,..), but it is as general as (machine) "learning"
 * [ ] swipl
+	* imputation (finance) is an interesting concept for (intelligent) programming; "the assignment of a value to something by inference from the value of the products or processes to which it contributes" sounds like a reverse precomputation, where you need to take a step back before you can take a step forward; the type of the contribution, the algorithm of the contribution, and the context of the contribution, could all be used to help determine the contributions' parameters…sound like prolog to me
+	* impute (finance) "assign (a value) to something by inference from the value of the products or processes to which it contributes"
 * [ ] mercury
 * [ ] lojban
 * [x] [insuring intelligence](https://intelligence.org/2017/04/12/ensuring/)
@@ -127,7 +129,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [ ] shyamskrit
 	* "-thing"s
 		* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
-			* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan|nyāya|h?anumāna?|vyākaraṇa|veda|śāstra|(sam)?praśnaḥ?|nītiḥ|bhava-bandha-mokṣau|iti siddham|si tacuisses, philosophus mansisses)/`: self hosted prolog
+			* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan|nyāya|h?anumāna?|vyākaraṇa|veda|śāstra|(sam)?praśnaḥ?|nītiḥ|bhava-bandha-mokṣau|iti siddham|si tacuisses, philosophus mansisses, imputation, impute, imputability, imputor, imputo, (germanic)? imp, (visigothic)? COBOLD)/`: self hosted prolog
 				* the power of prolog is a power of two
 					* f(t,p) :- type checking.
 					* f(T,p) :- type inference.
