@@ -80,6 +80,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* I had a theory for safety, but I've lost interest in safety altogether; until I make my own, in the √ grand design
 			* I'm interested in homoiconic metaprogramming: hindu numbers, lisp, prolog,..
 			* I'm interested in symbolic programming: prolog, lisp, hindu numbers,..
+	* friendly intelligence safety is already a real world threat! #robodebt
+		* [we live in a dystopian world](https://www.youtube.com/watch?v=uK__ZKAcqL4)
 * [x] [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
 	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Rⁱⁿᵍ∘Fⁱʳᵉ, but "zombies on the web"? Rⁱᵈᵉʳˢ÷(TʰᵉSᵗᵒʳᵐ))
 		* [hollywood zombies](https://en.wikipedia.org/wiki/Gilgamesh_in_popular_culture)
@@ -88,6 +90,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* tuism supports zombies within
 		* functional zombies … logical zombies?
 		* nazi zombies? nietzschean zombies? ([scroll down](http://web.archive.org/web/20190729045106/https://www.google.com/search?q=nietzschean+andromeda), or [scroll up](http://web.archive.org/web/20190729045155/https://www.google.com/search?q=rev+bem), there's a [picture of a girl](http://web.archive.org/web/20190729050444/https://pbs.twimg.com/profile_images/490928886147194880/UL0pMXvj_400x400.jpeg) as Red Plague [#wtf](http://web.archive.org/web/20190729050438/https://twitter.com/revbem01))
+	* [zombie dimension theory](https://www.youtube.com/watch?v=s5FyfQDO5g0) or [/(Frankie|Benjy)|edgar the bug/](https://www.youtube.com/watch?v=4JkIs37a2JE)?
 * [ ] [rationality](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
 	* [audiobook](https://from-ai-to-zombies.eu/) (unauthorized fan recording)
 	* [ebook](https://www.readthesequences.com/) ([approximately 300 articles = over 35 hours](https://www.kickstarter.com/projects/1267969302/lesswrong-the-sequences-audiobook))
@@ -159,6 +162,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 						* mods (time delay, key down)
 							* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
 							* configurable `/lag|refresh|redraw/` rate for photosensitive epilepsy; global versus local
+							* configurable colour schemes for [redshifted](https://en.wikipedia.org/wiki/Redshift_(software)) circadian rhythm cycles, and replacing xrandr; configurable orientation,..
+							* configurable `/active|loading/` states; no longer will firefix continue to pop in front when I'm trying to use the terminal after rebooting, and clicking to open {terminal,firefox,file manager,..}
 							* meta = alt
 							* meta `/.*/` = macro modes
 							* supermod = trimod = alt + ctrl + shift
