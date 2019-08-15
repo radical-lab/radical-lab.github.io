@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>√ the most confusing LiFe of my CRiSe</title>
+	<script src='/scripts/1.js'></script>
+</head>
+<body>
+<pre>
+#!/usr/bin/env swipl
+%# ./mid.pl
+%?- midnight("12:00am").
+%?- midday("12:00pm").
+%?- midnight(MiDnIgHt), midday(MiDdAy). halt.
+% now goto <a href='/'>home</a>
+
+midnight(T) :- chuck("11:59pm",T,"12:01am"), !.
+
+midday(T) :- chuck("11:59am",T,"12:01pm"), !.
+
+chuck(A,T,Z) :- chuc(A,T), chuc(T,Z).
+
+chuc(ST1,ST2) :- true
+	, ground(ST1)
+	, =(CT1,[HHT1,HT1,':',MMT1,MT1,T1,'m'])
+	, string_chars(ST1,CT1)
+	, chars_numbs([HHT1,HT1,MMT1,MT1],[HHN,HN,MMN,MN])
+	, essor([HHN,HN,MMN,MN],[HHK,HK,MMK,MK])
+	, meridiem([HHN,HN,T1],[HHK,HK,T2])
+	, chars_numbs([HHT2,HT2,MMT2,MT2],[HHK,HK,MMK,MK])
+	, =(CT2,[HHT2,HT2,':',MMT2,MT2,T2,'m'])
+	, string_chars(ST2,CT2)
+	.
+
+essor([0,H,MM,X],[0,H,MM,Y]) :- is(Y,+(X,1)), logiChains([[1,H,9],[0,MM,5],[0,X,Y,9]]).
+essor([1,H,MM,X],[1,H,MM,Y]) :- is(Y,+(X,1)), logiChains([[0,H,2],[0,MM,5],[0,X,Y,9]]).
+essor([0,H,X,9],[0,H,Y,0]) :- is(Y,+(X,1)), logiChains([[1,H,9],[0,X,Y,5]]).
+essor([1,H,X,9],[1,H,Y,0]) :- is(Y,+(X,1)), logiChains([[0,H,2],[0,X,Y,5]]).
+essor([0,X,5,9],[0,Y,0,0]) :- is(Y,+(X,1)), logiChains([[1,X,Y,9]]).
+essor([1,X,5,9],[1,Y,0,0]) :- is(Y,+(X,1)), logiChains([[0,X,Y,2]]).
+essor([0,9,5,9],[1,0,0,0]).
+essor([1,2,5,9],[0,1,0,0]).
+
+m(['a','p']).
+meridiem([0,X,M],[0,Y,M]) :- m(MM), member(M,MM), logiChains([[1,X,Y,9]]), is(A,+(X,1)), member(Y,[X,A]).
+meridiem([1,X,M],[1,Y,M]) :- m(MM), member(M,MM), logiChains([[0,X,Y,1]]), is(A,+(X,1)), member(Y,[X,A]).
+meridiem([1,2,M],[0,1,M]) :- m(MM), member(M,MM).
+meridiem([1,2,M],[1,2,M]) :- m(MM), member(M,MM).
+meridiem([1,1,X],[1,2,Y]) :- m(M), member(X,M), member(Y,M), \=(X,Y).
+
+logiChains(X) :- maplist(logiChain,X,_).
+
+logiChain([],_).
+logiChain([_],_).
+logiChain([H,N|T],_) :- =<(H,N), logiChain([N|T],_).
+
+chars_numbs(C,N) :- maplist(>>([IS,ON],(false
+		; ground(IS), string_chars(IS,PC), number_string(ON,PC)
+		; ground(ON), number_chars(ON,[IS])
+	)),C,N).
+</pre>
+</body>
+</html>

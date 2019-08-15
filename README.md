@@ -22,6 +22,10 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 
 ## √ Ever-Changing Plan
 * [x] HE∘12019∘08∘01ˢᵗ: overexspend on bandwidth (twofer)⁽ᵗʷᵒᶠᵉʳ⁾ `/ꃔ|𐆈/`
+* [ ] get degree (maybe in another three months at the second exam attempt; they cancelled enr208 for the foreseeable future, so an alternative minor will have to start all over again if both exams are failures)
+* [ ] work for the dole (for about 3 months after the first exam)
+	* six months each year
+	* every other half a year can be emacs, elisp, swipl, mercury, lojban, [ (卐) ],..
 * [ ] c∘mp∘se, and then become a lispian on the HE∘12019∘09∘09ᵗʰ (or maybe the HE∘12019∘09∘07ᵗʰ)
 * [ ] emacs
 * [ ] elisp (`/electr(on)?ic lisp/`)
@@ -82,11 +86,11 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* I'm interested in symbolic programming: prolog, lisp, hindu numbers,..
 	* friendly intelligence safety is already a real world threat! #robodebt
 		* [we live in a dystopian world](https://www.youtube.com/watch?v=uK__ZKAcqL4)
-	* canfp
+	* canfp#general
 		* shyam.id.au:aussie_parrot: 4:00 PM
 			* If you run out of memory on a system, but not on another; what is it called? Is it SFX? How do formal methods handle this?
 		* shyam.id.au:aussie_parrot: 4:07 PM
-			* M₁ < M₂; in terms of memory. On M₂ you take more than the M₁ maximum memory of an infinite list, and then package it into nix; someone else runs it on M₁…
+			* M₁ < M₂; in terms of memory. On M₂ you `take` more than the M₁ maximum memory of an infinite list, and then package it into nix; someone else runs it on M₁…
 			* Is there a monad for this?
 * [x] [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
 	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Rⁱⁿᵍ∘Fⁱʳᵉ, but "zombies on the web"? Rⁱᵈᵉʳˢ÷(TʰᵉSᵗᵒʳᵐ))
@@ -170,6 +174,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 							* configurable `/lag|refresh|redraw/` rate for photosensitive epilepsy; global versus local
 							* configurable colour schemes for [redshifted](https://en.wikipedia.org/wiki/Redshift_(software)) circadian rhythm cycles, and replacing xrandr; configurable orientation,..
 							* configurable `/active|loading/` states; no longer will firefix continue to pop in front when I'm trying to use the terminal after rebooting, and clicking to open {terminal,firefox,file manager,..}
+							* configurable `/(mouse|keyboard) (sensitivity|events)/` #xdotool
 							* meta = alt
 							* meta `/.*/` = macro modes
 							* supermod = trimod = alt + ctrl + shift
