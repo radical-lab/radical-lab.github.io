@@ -82,6 +82,12 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* I'm interested in symbolic programming: prolog, lisp, hindu numbers,..
 	* friendly intelligence safety is already a real world threat! #robodebt
 		* [we live in a dystopian world](https://www.youtube.com/watch?v=uK__ZKAcqL4)
+	* canfp
+		* shyam.id.au:aussie_parrot: 4:00 PM
+			* If you run out of memory on a system, but not on another; what is it called? Is it SFX? How do formal methods handle this?
+		* shyam.id.au:aussie_parrot: 4:07 PM
+			* M₁ < M₂; in terms of memory. On M₂ you take more than the M₁ maximum memory of an infinite list, and then package it into nix; someone else runs it on M₁…
+			* Is there a monad for this?
 * [x] [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
 	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Rⁱⁿᵍ∘Fⁱʳᵉ, but "zombies on the web"? Rⁱᵈᵉʳˢ÷(TʰᵉSᵗᵒʳᵐ))
 		* [hollywood zombies](https://en.wikipedia.org/wiki/Gilgamesh_in_popular_culture)
