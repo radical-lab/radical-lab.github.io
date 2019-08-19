@@ -23,8 +23,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 ## √ Ever-Changing Plan
 * [x] HE∘12019∘08∘01ˢᵗ: overexspend on bandwidth (twofer)⁽ᵗʷᵒᶠᵉʳ⁾ `/ꃔ|𐆈/`
 * [ ] get degree (maybe in another three months at the second exam attempt; they cancelled enr208 for the foreseeable future, so an alternative minor will have to start all over again if both exams are failures)
-* [ ] work for the dole (for about 3 months after the first exam)
-	* six months each year
+* [ ] work for the dole (for <s>about 3 months after the first exam</s> `20-(5+4÷7)÷20` weeks)
+	* six months each year; this is when i'll study (should have done this to begin with!)
 	* every other half a year can be emacs, elisp, swipl, mercury, lojban, [ (卐) ],..
 * [ ] c∘mp∘se, and then become a lispian on the HE∘12019∘09∘09ᵗʰ (or maybe the HE∘12019∘09∘07ᵗʰ)
 * [ ] emacs
@@ -92,6 +92,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* shyam.id.au:aussie_parrot: 4:07 PM
 			* M₁ < M₂; in terms of memory. On M₂ you `take` more than the M₁ maximum memory of an infinite list, and then package it into nix; someone else runs it on M₁…
 			* Is there a monad for this?
+		* https://en.wikipedia.org/wiki/Ravenscar_profile
 * [x] [zombies](https://en.wikipedia.org/wiki/David_Chalmers#Philosophical_work)
 	* [spiderzombies](http://consc.net/zombies-on-the-web/) (what's that song like Rⁱⁿᵍ∘Fⁱʳᵉ, but "zombies on the web"? Rⁱᵈᵉʳˢ÷(TʰᵉSᵗᵒʳᵐ))
 		* [hollywood zombies](https://en.wikipedia.org/wiki/Gilgamesh_in_popular_culture)
