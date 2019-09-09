@@ -37,7 +37,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* could probably start the "learning" system since elisp is a commitment
 		* and the related "-thing"; these have probably been backed up though … luckily it is mid-way, but only `/learn/` is easily discoverable … there are only theories of what "-thing" actually is ((in)security, study,..), but it is as general as (machine) "learning"
 * [ ] reconfigure emacs keybindings; it's easier to rtfm without this
-* [ ] Master Plan: [M.IT](https://www.handbook.unsw.edu.au/postgraduate/programs/2020/8543)([AI](https://www.handbook.unsw.edu.au/postgraduate/specialisations/2020/COMPAS))@UNSW
+* [ ] Master Plan: [M.IT](https://www.handbook.unsw.edu.au/postgraduate/programs/2020/8543)([AI](https://www.handbook.unsw.edu.au/postgraduate/specialisations/2020/COMPAS))@[UNSW](https://www.engineering.unsw.edu.au/study-with-us/current-students/academic-information/electives/pg-electives)
 	* [ ] **[Principles of Programming](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9021/)**
 	* [ ] **[Data Structures and Algorithms](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9024/)**
 	* [ ] **[Database Systems](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9311/)**
