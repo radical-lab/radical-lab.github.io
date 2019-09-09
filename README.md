@@ -37,6 +37,47 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* could probably start the "learning" system since elisp is a commitment
 		* and the related "-thing"; these have probably been backed up though … luckily it is mid-way, but only `/learn/` is easily discoverable … there are only theories of what "-thing" actually is ((in)security, study,..), but it is as general as (machine) "learning"
 * [ ] reconfigure emacs keybindings; it's easier to rtfm without this
+* [ ] Master Plan: [M.IT](https://www.handbook.unsw.edu.au/postgraduate/programs/2020/8543)([AI](https://www.handbook.unsw.edu.au/postgraduate/specialisations/2020/COMPAS))@UNSW
+	* [ ] **[Principles of Programming](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9021/)**
+	* [ ] **[Data Structures and Algorithms](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9024/)**
+	* [ ] **[Database Systems](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9311/)**
+	* [ ] **[Computer Networks and Applications](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9331/)**
+	* [ ] **[Artificial Intelligence](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9414/)**
+		* I want to replace this with [Extended Artificial Intelligence](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9814)
+	* [ ] **[Information Technology Project](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9900/)**
+	* [ ] **[Engineering Project Management](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/GSOE9820/)**
+	* specialisation
+		* [ ] [Knowledge Representation and Reasoning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4418/)
+		* [ ] [Machine Learning and Data Mining](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9417/)
+		* [ ] [Neural Networks and Deep Learning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9444/)
+	* [ ] **[Foundations of Computer Science](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9020/)**
+		* dependency for [Knowledge Representation and Reasoning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4418/), but some course outlines indicate alternative dependencies not mentioned in the handbook, and some course outlines are inaccessible!
+	* electives A: formal methods *#wanted*
+		* [ ] [Theory of Computation](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4141/)
+		* [ ] [Algorithmic Verification](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9153/)
+		* [ ] [Advanced Topics in Software Verification](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4161/)
+		* [ ] [(In-)Formal Methods: The Lost Art](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP6721)
+		* [ ] [Extended Design & Analysis of Algorithms](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9801)
+	* electives B: intelligence
+		* [ ] [Robotic Software Architecture](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9434/) *#wanted*
+		* [ ] [Information Retrieval and Web Search](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP6714) *#wanted*
+		* [ ] [Advanced Topics in Statistical Machine Learning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9418)
+		* [ ] [Computer Vision](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9517)
+		* [ ] [Data Warehousing and Data Mining](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9318) or [Web Data Compression and Search](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9319)
+	* thoughts
+		* `/extended|advanced topics in/` courses claim more breadth, and depth; ANU `/advanced topics in/` is more like UNSW security engineering masterclass (all depth, no breadth)
+		* programming language implementation is using java to implement c; who needs to do this for [class](http://stevehanov.ca/blog/?id=56)?
+		* i doubt i would get a job implementing languages, or operating systems; these are just personal projects for my own sanity
+		* alternative electives
+			* security
+				* formal methods is the best approach to security; first, and foremost
+			* optimisation (multithreading, multicoring, multiprocessing, parallel, concurrent, distributed, asychronous,..)
+				* formal methods is better than having more bugs faster
+				* programming language implementations can automate this; given target resources, and using artificial intelligence
+		* potential jobs
+			* floss artificial intelligence; what are you hiding? you won't have control over a general intelligence
+			* floss formal methods; now that you have no bugs, there's no reason to hide them from the public (even though we know they're a front for illegal activity)
+			* floss frontend javascript; this is already floss, you phb!
 * [ ] swipl
 	* imputation (finance) is an interesting concept for (intelligent) programming; "the assignment of a value to something by inference from the value of the products or processes to which it contributes" sounds like a reverse precomputation, where you need to take a step back before you can take a step forward; the type of the contribution, the algorithm of the contribution, and the context of the contribution, could all be used to help determine the contributions' parameters…sound like prolog to me
 	* impute (finance) "assign (a value) to something by inference from the value of the products or processes to which it contributes"
