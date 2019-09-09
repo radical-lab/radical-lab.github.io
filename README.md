@@ -36,6 +36,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* `/productivity edit(or|ing) tool/`
 		* could probably start the "learning" system since elisp is a commitment
 		* and the related "-thing"; these have probably been backed up though … luckily it is mid-way, but only `/learn/` is easily discoverable … there are only theories of what "-thing" actually is ((in)security, study,..), but it is as general as (machine) "learning"
+* [ ] reconfigure emacs keybindings; it's easier to rtfm without this
 * [ ] swipl
 	* imputation (finance) is an interesting concept for (intelligent) programming; "the assignment of a value to something by inference from the value of the products or processes to which it contributes" sounds like a reverse precomputation, where you need to take a step back before you can take a step forward; the type of the contribution, the algorithm of the contribution, and the context of the contribution, could all be used to help determine the contributions' parameters…sound like prolog to me
 	* impute (finance) "assign (a value) to something by inference from the value of the products or processes to which it contributes"
