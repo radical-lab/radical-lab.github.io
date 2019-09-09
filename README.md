@@ -61,9 +61,9 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* electives B: intelligence
 		* [ ] [Robotic Software Architecture](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9434/) *#wanted*
 		* [ ] [Information Retrieval and Web Search](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP6714) *#wanted*
-		* [ ] [Advanced Topics in Statistical Machine Learning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9418)
-		* [ ] [Computer Vision](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9517)
-		* [ ] [Data Warehousing and Data Mining](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9318) or [Web Data Compression and Search](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9319)
+		* [ ] [Advanced Topics in Statistical Machine Learning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9418) (i value breadth over depth)
+		* [ ] [Computer Vision](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9517) (there are other `/sensors|senses/`, like `/echolocation|sonar/`, radar, `/blind feeling|flatland feelers|bumper cars/`,..)
+		* [ ] [Data Warehousing and Data Mining](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9318) or [Web Data Compression and Search](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9319) (they both have "-thing"s to offer)
 	* thoughts
 		* `/extended|advanced topics in/` courses claim more breadth, and depth; ANU `/advanced topics in/` is more like UNSW security engineering masterclass (all depth, no breadth)
 		* programming language implementation is using java to implement c; who needs to do this for [class](http://stevehanov.ca/blog/?id=56)?
