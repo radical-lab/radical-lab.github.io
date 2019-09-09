@@ -26,8 +26,11 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * [ ] work for the dole (for <s>about 3 months after the first exam</s> `20-(5+4÷7)÷20` weeks)
 	* six months each year; this is when i'll study (should have done this to begin with!)
 	* every other half a year can be emacs, elisp, swipl, mercury, lojban, [ (卐) ],..
-* [ ] c∘mp∘se, and then become a lispian on the HE∘12019∘09∘09ᵗʰ (or maybe the HE∘12019∘09∘07ᵗʰ)
+* [x] c∘mp∘se, and then become a lispian on the HE∘12019∘09∘09ᵗʰ (or maybe the HE∘12019∘09∘07ᵗʰ)
+	* this is a commitment to emacs; i will not use vim (unless i have no choice, for files like vimcrypt; until i get emacs to handle those kinds of files)
 * [ ] emacs
+	* do i check this now? or after i finish rtfm? after i finish rtfm since it starts from today
+	* i will `/spend|invest/` at least an hour per day, every day, rtfm; after i check this, i will `/spend|invest/` less time, every day, rtfm
 * [ ] elisp (`/electr(on)?ic lisp/`)
 	* `/productivity edit(or|ing) tool/`
 		* could probably start the "learning" system since elisp is a commitment
