@@ -32,7 +32,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* do i check this now? or after i finish rtfm? after i finish rtfm since it starts from today
 	* i will `/spend|invest/` at least an hour per day, every day, rtfm; after i check this, i will `/spend|invest/` less time, every day, rtfm
 * [ ] elisp (`/electr(on)?ic lisp/`)
-	* i will `/spend|invest/` at least an hour per day, every day, rtfm; after i check this, i will `/spend|invest/` less 	* `/productivity edit(or|ing) tool/`
+	* i will `/spend|invest/` at least an hour per day, every day, rtfm; after i check this, i will `/spend|invest/` less
+	* `/productivity edit(or|ing) tool/`
 		* could probably start the "learning" system since elisp is a commitment
 		* and the related "-thing"; these have probably been backed up though … luckily it is mid-way, but only `/learn/` is easily discoverable … there are only theories of what "-thing" actually is ((in)security, study,..), but it is as general as (machine) "learning"
 * [ ] swipl
