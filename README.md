@@ -53,7 +53,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [ ] **[Foundations of Computer Science](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9020/)** (all of this is (recognisably) good stuff; electively competitive: formal languages, induction, O notation, (decision trees?) expected value)
 		* dependency for [Knowledge Representation and Reasoning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4418/), but some course outlines indicate alternative dependencies not mentioned in the handbook, and some course outlines are inaccessible!
 	* electives A: formal methods *#wanted*
-		* [ ] [Theory of Computation](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4141/) (Formal Languages, Complexity)
+		* [ ] [Theory of Computation](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4141/) (Formal Languages, Complexity) *#wanted*
 		* [ ] [Algorithmic Verification](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9153/) (Predicate Logic, BDD, nuXmv, SPIN, CBMC, Skink, Uppaal) ***#wanted***
 		* [ ] [Advanced Topics in Software Verification](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4161/) ((Typed) Lambda Calculus, Isabelle, HOL, Term Rewriting, Induction, [Hoare Logic](https://www.youtube.com/watch?v=GQi-6-d5ooQ)) ***#wanted***
 		* [ ] [(In-)Formal Methods: The Lost Art](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP6721) (Dafny, [Hoare Logic](https://www.youtube.com/watch?v=GQi-6-d5ooQ), Probabilistic Programming, Semantics, Program Algebra for Cybersecurity) ***#wanted***
