@@ -42,7 +42,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [ ] **[Data Structures and Algorithms](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9024/)**
 	* [ ] **[Database Systems](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9311/)**
 	* [ ] **[Computer Networks and Applications](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9331/)**
-	* [ ] **[Artificial Intelligence](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9414/)**
+	* [ ] **[Artificial Intelligence](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9414/)** (HTTP 403)
 		* I want to replace this with [Extended Artificial Intelligence](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9814)
 	* [ ] **[Information Technology Project](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9900/)**
 	* [ ] **[Engineering Project Management](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/GSOE9820/)**
@@ -50,16 +50,16 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* [ ] [Knowledge Representation and Reasoning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4418/)
 		* [ ] [Machine Learning and Data Mining](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9417/)
 		* [ ] [Neural Networks and Deep Learning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9444/)
-	* [ ] **[Foundations of Computer Science](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9020/)**
+	* [ ] **[Foundations of Computer Science](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9020/)** (all of this is (recognisably) good stuff; electively competitive: formal languages, induction, O notation, (decision trees?) expected value)
 		* dependency for [Knowledge Representation and Reasoning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4418/), but some course outlines indicate alternative dependencies not mentioned in the handbook, and some course outlines are inaccessible!
 	* electives A: formal methods *#wanted*
 		* [ ] [Theory of Computation](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4141/) (Formal Languages, Complexity)
 		* [ ] [Algorithmic Verification](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9153/) (Predicate Logic, BDD, nuXmv, SPIN, CBMC, Skink, Uppaal)
-		* [ ] [Advanced Topics in Software Verification](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4161/) ((Typed) Lambda Calculus, Isabelle, HOL, Term Rewriting, Induction, [Hoare Logic](https://www.youtube.com/watch?v=GQi-6-d5ooQ))
+		* [ ] [Advanced Topics in Software Verification](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4161/) ((Typed) Lambda Calculus, Isabelle, HOL, Term Rewriting, Induction, [Hoare Logic](https://www.youtube.com/watch?v=GQi-6-d5ooQ)) ***#wanted***
 		* [ ] [(In-)Formal Methods: The Lost Art](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP6721) (Dafny, [Hoare Logic](https://www.youtube.com/watch?v=GQi-6-d5ooQ), Probabilistic Programming, Semantics, Program Algebra for Cybersecurity)
 		* [ ] [Extended Design & Analysis of Algorithms](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9801) ((relative frequency density histogram) O notation, (relative frequency density histogram) flow networks, [dcg](https://en.wikipedia.org/wiki/String-searching_algorithm), [optimisation](https://en.wikipedia.org/wiki/Linear_programming), [approximation](https://en.wikipedia.org/wiki/Approximation_algorithm))
 	* electives B: intelligence
-		* [ ] [Robotic Software Architecture](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9434/) ([ROS](https://en.wikipedia.org/wiki/Robot_Operating_System), `/(2|3)D/` Robot Vision, Planning, Learning(Genetic Algorithms), [K(R)&R](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4418/)) *#wanted*
+		* [ ] [Robotic Software Architecture](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9434/) ([ROS](https://en.wikipedia.org/wiki/Robot_Operating_System), `/(2|3)D/` Robot Vision, Planning, Learning(Genetic Algorithms), [K(R)&R](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP4418/)) ***#wanted***
 		* [ ] [Information Retrieval and Web Search](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP6714) (‽) *#wanted*
 		* [ ] [Advanced Topics in Statistical Machine Learning](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9418) (i value breadth over depth)
 		* [ ] [Computer Vision](https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9517) (there are other `/sensors|senses/`, like `/echolocation|sonar/`, radar, `/blind feeling|flatland feelers|bumper cars/`,..)
