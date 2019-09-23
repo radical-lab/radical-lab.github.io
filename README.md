@@ -130,6 +130,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* I had a theory for safety, but I've lost interest in safety altogether; until I make my own, in the √ grand design
 			* I'm interested in homoiconic metaprogramming: hindu numbers, lisp, prolog,..
 			* I'm interested in symbolic programming: prolog, lisp, hindu numbers,..
+			* Incompleteness makes formal methods vestigial.
 	* friendly intelligence safety is already a real world threat! #robodebt
 		* [we live in a dystopian world](https://www.youtube.com/watch?v=uK__ZKAcqL4)
 	* canfp#general
