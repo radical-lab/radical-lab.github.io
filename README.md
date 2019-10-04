@@ -219,7 +219,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 					* cat calibration.kbd > configuration.kbd # users can modulate it, and script it together again
 						* mods (time delay, key down)
 							* (power key for multiboot depends on driver hacking; beyond the scope of an os? maybe)
-							* configurable `/lag|refresh|redraw/` rate for photosensitive epilepsy; global versus local
+							* configurable `/lag|refresh|redraw/` rate for photosensitive epilepsy; global versus local, including `√pet`
 							* configurable colour schemes for [redshifted](https://en.wikipedia.org/wiki/Redshift_(software)) circadian rhythm cycles, and replacing xrandr; configurable orientation,..
 							* configurable `/active|loading/` states; no longer will firefix continue to pop in front when I'm trying to use the terminal after rebooting, and clicking to open {terminal,firefox,file manager,..}
 							* configurable `/(mouse|keyboard) (sensitivity|events)/` #xdotool
