@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 	document.body.style.overflow = 'hidden';
 	document.body.style.cursor = 'none';
 	document.body.addEventListener("click", ()=>document.body.requestPointerLock(), false); // s/click/mousemove
-	// TODO /catch|disable/ \esc
+	// TODO /catch|disable/ /\esc|any browser shortcuts to close (tabs|windows)|any window manager shortcuts to (close browser|reboot|unplug|power off|change channels)/
 });
 window.addEventListener("resize", resize, false);
 // the dereference of this pointer is inline.css.js
