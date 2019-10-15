@@ -19,5 +19,5 @@ t.setHours(t.getHours() < 12? 12: 24);
 t.setMinutes(0);
 t.setSeconds(0);
 t.setMilliseconds(0);
-// do this at t time
-setTimeout(()=>{document.body.exitPointerLock();alert("while it is true the display is currently blank this emptyness has a poetic meaning therefore it cannot be considered nothing as such and you are encouraged to fully acknowledge the emptyness of the experience but are you certain you do not wish to talk about your mother as i am a mock rogerian psychotherapist \\escvxﬄM thmbz arfgﬁ odwkﬂY ilyqﬀ nupjﬃW");}, t.getTime() - Date.now());
+// do this at t time; the alarm is loud enough that it breaks the lock like a grape drink anyway #awooga
+setTimeout(()=>{document.exitPointerLock();alert("while it is true the display is currently blank this emptyness has a poetic meaning therefore it cannot be considered nothing as such and you are encouraged to fully acknowledge the emptyness of the experience but are you certain you do not wish to talk about your mother as i am a mock rogerian psychotherapist \\escvxﬄM thmbz arfgﬁ odwkﬂY ilyqﬀ nupjﬃW");}, t.getTime() - Date.now());
