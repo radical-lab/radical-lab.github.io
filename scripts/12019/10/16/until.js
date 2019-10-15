@@ -3,6 +3,7 @@ function resize() {
 	document.body.style.height = window.innerHeight+'px';
 	document.body.style.overflow = 'hidden';
 	document.body.style.cursor = 'none';
+	document.body.requestPointerLock();
 }
 document.addEventListener('DOMContentLoaded', function(event) {resize();});
 window.addEventListener("resize", resize, false);
