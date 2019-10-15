@@ -1,3 +1,4 @@
+document.body.style.cursor = 'none';
 // the dereference of this pointer is inline.css.js
 alert("fullscreen the window yourself and go complain to the world that windows should be able to fullscreen themselves");
 // now it is t time
