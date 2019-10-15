@@ -1,12 +1,11 @@
 function resize() {
 	document.body.style.width = window.innerWidth+'px';
 	document.body.style.height = window.innerHeight+'px';
-}
-window.addEventListener("resize", resize, false);
-document.addEventListener('DOMContentLoaded', function(event) {
-	resize();
+	document.body.style.overflow = 'hidden';
 	document.body.style.cursor = 'none';
-});
+}
+document.addEventListener('DOMContentLoaded', function(event) {resize();});
+window.addEventListener("resize", resize, false);
 // the dereference of this pointer is inline.css.js
 alert("fullscreen the window yourself and go complain to the world that windows should be able to fullscreen themselves");
 // now it is t time
