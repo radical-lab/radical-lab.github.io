@@ -15,7 +15,7 @@ window.addEventListener("resize", resize, false);
 alert("fullscreen the window yourself and go complain to the world that windows should be able to fullscreen themselves");
 // now it is t time
 var t = new Date();
-// rescheduling t time to <span> the rest of the /day|night/ until some midpoint; excluding /mid((mou?rn|odd)|(even|bir?th?))ing/
+// rescheduling t time to <span> the rest of the /day|night/ until some midpoint; excluding /mid((mou?rn|dawn|odd)|(even|dusk|bir?th?))ing/
 t.setHours(t.getHours() < 12? 12: 24);
 t.setMinutes(0);
 t.setSeconds(0);
