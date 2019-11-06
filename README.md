@@ -260,6 +260,27 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 					* IT'S MARKET DAY!!! work-days versus free-days can be `/customised|tailored/` instead; not everyone lives consistent c̄ "royal" stupidity (garbage in, garbage out)
 			* `/√shyamskrit/`: gödelling-inspired [b5-inspired](https://en.wikipedia.org/wiki/Interlac#Babylon_5) `/(auto|pure|numerically programmatic|programmatically numerical|(computational linguistics)?)intelligence/` ([self-answering](https://en.wikipedia.org/wiki/Autological_word) queries; kbs⊃{bootstrapped,jitted,recursive,[deductive](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction)}) … maybe just use math instead of shyamskrit, and go c̄ [phonetics](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) + [disambiguation](https://en.wikipedia.org/wiki/Lojban) + [vegan](https://qz.com/1116991/a-biologist-believes-that-trees-speak-a-language-we-can-learn/)(plant-based) + [sigils](https://indefiniteloop.com/blog/img/posts/06-10-2015/esperanto.png) for shyamskrit ([order of operations](https://en.wikipedia.org/wiki/Template:Language_word_order_frequency), and [cardinality](https://en.wikipedia.org/wiki/Writing_system#Directionality), should support free will; may not even require metadata of starting point, nor programmatic reading pattern (`/spirals|hopscotch|.*/`) for `/(artistic|poetic) (expression|articulation)/` c̄ (animated) automatic translation into preferential reading pattern) … [feminist conspiracy theory](https://en.wikipedia.org/wiki/File:Interlac_Landscape.JPG) … [clicks](https://en.wikipedia.org/wiki/Click_consonant), [whistles](https://en.wikipedia.org/wiki/Whistled_language), [tones](https://en.wikipedia.org/wiki/Tone_(linguistics)), [overtones](https://en.wikipedia.org/wiki/Overtone_singing), [signs](https://en.wikipedia.org/wiki/Sign_language), [face & body](https://en.wikipedia.org/wiki/Body_language) (to say one thing with our mouth, but say another with the `/rhythmic|musical/` timing of our blinking; for example, would make game of thrones seem tame, and could be used for alien telepathy in science fiction) … no politically litigious gender pronouns; either, use their name, or `/they|them|their|me|my|i/` … no dialectal pronounciation; potatoes are botanically classified as vegetables, whilst tomatoes are botanically classified as fruit, even if an idiocratic (12006) usa judge `/nesciently|analphabetically|unletteredly|illiterately/` considered them vegetables all for the sake of taxation purposes (for some reason they taxed vegetables, but not fruit because it's `/politically|litigiously/` gay) … https://youtu.be/_UqxSq19_Aw
 * [ ] [treasured selection criteria](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#My_Favourite_Language_Families)
+* neural net synthesis
+	* stable cell cultures for inputs
+	* /elevators|overflow gravity tubes|membranes/ for weighting
+	* /(spectrum|death) rays|membranes/ for /purification|food production/
+	* biochemical wash; /graphene|cpu/ (is this for the biocomputing? i'm sure this is for this as well)
+	* 99.99% output
+	* pros
+		* better than stirring barrels
+		* no byproducts
+	* cons
+		* way more expensive for mass production, and in general
+		* no byproducts
+* perpetual motion machines
+	* all i said was spinning chemicals around a string of metal beads for arcing electricity through the /wave|tube/
+	* it may be tmi
+* brain scans
+	* i mentioned it, but i said it in an obfuscated way (maybe); /sleeping|waking/ /lucid dreams|hallucinations/
+	* krsna describes self hypnosis in the gita; look at the point (of your nose)
+* the ultimate answer
+	* i didn't mention it, but this is a cheap way to unload some of this mental /stress|fatigue/, or maybe i just need to repair my circadian rhythme; so i can watch subtitled foreign languages, play games that aren't /mindless|repetitive/,..
+	* probably no way to do mass production, so just auction 108, and leave it as a mystery for the ages
 
 ---
 
