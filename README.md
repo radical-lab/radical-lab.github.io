@@ -263,7 +263,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * neural net synthesis
 	* stable cell cultures for inputs
 	* /elevators|overflow gravity tubes|membranes/ for weighting
-	* /(spectrum|death) rays|thermal|atmospheric pressure|environmental|membranes/ for /purification|food production/
+	* /(spectrum|death) rays|thermal|atmospheric (pressure)?|environmental|membranes/ for /purification|food production/
 	* biochemical wash; /graphene|cpu/ (is this for the biocomputing? i'm sure this is for this as well)
 	* 99.99% output
 	* pros
