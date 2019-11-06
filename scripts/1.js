@@ -24,4 +24,9 @@ document.addEventListener('DOMContentLoaded', function(event) {
     // https://en.wikipedia.org/wiki/Block_Elements
     // https://medium.com/@chuckdries/traversing-the-dom-with-filter-map-and-arrow-functions-1417d326d2bc
     Array.prototype.map.call(document.getElementsByClassName('monocodært'), x => {x.style.lineHeight = '1'});
+	 try {
+		  var home = document.getElementById('homeoraknalirs');
+		  home.href = Math.random() < 0.5? 'file:///': '/';
+		  home.innerHTML = '\\o/';
+	 } catch(up) {}
 });
