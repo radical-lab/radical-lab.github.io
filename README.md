@@ -202,10 +202,11 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* `/√shyamscript/`: shyamscript in √prolog
 				* Is it possible to `/distribute|.*/` a single task? Where one node fully evaluates the head, while the other nodes partially evaluate throughout the tail.
 				* `{-श्याम,-0,+0,+श्याम}`; `[+0,+श्याम] = true, where 0 is assumed true until proven otherwise #hotfuzz` versus `[-श्याम,-0] = false, where no assumptions are made` versus `0 = /undefined|unkown/`
-					* /false|true/ /negatives|positives/
+					* `/(false|true) (negatives|positives)/`
 					* if: `[+0,+श्याम] = true`
 					* iff: `[-श्याम,-0] = false`
 					* ifff: `0 = /undefined|unkown/`
+					* some other mantra can be empty box versus full box; use a scale to s`if`t through the weights, and measures
 			* `/√.*/`: for accessing `shyam://`; supporting √prolog, sigmatism, and shyamscript
 				* an opportunity presents itself for intelligent standardisation; boycotting the worst of <s>humanity</s> stupidity
 					* one `/image|video|audio/` file.av format to rule them all (dry; technological resources are now permissible, but I'm sure it can be dotadiwed c̄ glue, and version conversion subscriptions…will be automated by the auto versioning server infrastructure to avoid legacy support!!! :D) …`/svg|bitmap/` …`/transparency|gamut/` …svg as f(t)
