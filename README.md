@@ -206,7 +206,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 					* if: `[+0,+श्याम] = true`
 					* iff: `[-श्याम,-0] = false`
 					* ifff: `0 = /undefined|unkown/`
-					* some other mantra can be empty box versus full box; use a scale to s`if`t through the weights, and measures
+					* some other mantra can be empty box versus full box; use a scale to s`if`t through the weights, and measures #compare
 			* `/√.*/`: for accessing `shyam://`; supporting √prolog, sigmatism, and shyamscript
 				* an opportunity presents itself for intelligent standardisation; boycotting the worst of <s>humanity</s> stupidity
 					* one `/image|video|audio/` file.av format to rule them all (dry; technological resources are now permissible, but I'm sure it can be dotadiwed c̄ glue, and version conversion subscriptions…will be automated by the auto versioning server infrastructure to avoid legacy support!!! :D) …`/svg|bitmap/` …`/transparency|gamut/` …svg as f(t)
