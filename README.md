@@ -280,7 +280,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* way more expensive for mass production, and in general
 		* no byproducts
 * perpetual motion machines
-	* all i said was spinning /chemicals|metals/ around a string of metal beads for arcing electricity through the /wave|tube/
+	* all i said was spinning /chemicals|metals/ around a string of metal beads for arcing electricity through the /wave|drain|tube/
 	* it may be tmi
 * brain scans
 	* i mentioned it, but i said it in an obfuscated way (maybe); /sleeping|waking/ /lucid dreams|hallucinations/
