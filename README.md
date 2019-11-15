@@ -289,6 +289,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * the ultimate answer
 	* i didn't mention it, but this is a cheap way to unload some of this mental /stress|fatigue/, or maybe i just need to repair my circadian rhythme; so i can watch subtitled foreign languages, play games that aren't /mindless|repetitive/,..
 	* probably no way to do mass production, so just auction 108, and leave it as a mystery of mysteries for the ages
+* śyāma-āśrama or Shyamashram
+	* mahā-ātmā or Mahatma; when i use this, i mean the supersoul
 
 ---
 
