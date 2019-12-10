@@ -9,7 +9,7 @@
 #!/usr/local/bin/emacs --script
 (progn; here lies declarative impurities
   ; lava
-  (fset (quote declare) (lambda (f y) (fset f y) (set f (symbol-function f)) (byte-compile f) (symbol-value f))); now goto home <a id='homeoraknalirs'/>
+  (fset (quote declare) (lambda (f y) (fset f y) (set f (symbol-function f)) (byte-compile f) (symbol-value f))); now goto home <a id='homeoraknalirs'></a>
   (fset (quote anama) (lambda (new-name prev-name) (setf (symbol-function new-name) (symbol-function prev-name)))); avatar
   (declare (quote ∩) (lambda (x) (anama x x))); set theoretic cl dialect
   ; hard builtins
