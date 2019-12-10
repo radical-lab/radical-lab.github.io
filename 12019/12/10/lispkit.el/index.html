@@ -25,14 +25,15 @@
   (∩ (quote mod)); per century age
   (anama (quote rem) (quote mod)); sleep
   ; soft builtins
-  (declare (quote if) (lambda (a b c) (if a b c))); iff
-  (declare (quote add) (lambda (x y) (if (eq 0 y) x (add (1+ x) (1- y))))); i once made an adder in redstone, but watched an episode of computerphile shortly thereafter, which reminded me of twos' complement, and broke my adder when i tried to implement it (my goal is to renovate a nether fortress into a computer, bedrock to bedrock, without breaking spawners; but bill gates added too many new features, and now i don't have a computer powerful enough to play the game; this is a conspiracy to make us pay to play, because hardware is getting more difficult to sell, so they don't optimise software anymore, and instead deliberately bloating it out with cruft)
+  (anama (quote iff) (quote if)); iff
+  (declare (quote if) (lambda (a b c) (iff a b c))); this breaks the old /add|sub/, which means it probably breaks every"-thing" else…
+  (declare (quote add) (lambda (x y) (+ x y))); i once made an adder in redstone, but watched an episode of computerphile shortly thereafter, which reminded me of twos' complement, and broke my adder when i tried to implement it (my goal is to renovate a nether fortress into a computer, bedrock to bedrock, without breaking spawners; but bill gates added too many new features, and now i don't have a computer powerful enough to play the game; this is a conspiracy to make us pay to play, because hardware is getting more difficult to sell, so they don't optimise software anymore, and instead deliberately bloating it out with cruft)
   ;(declare (quote car) (lambda (x) (apply (lambda (h &rest t+) h) x))); wts does not this work‽
   ;(declare (quote cdr) (lambda (x) (apply (lambda (h &rest t+) t+) x))); wts does not this work‽
   (declare (quote div) (lambda (n d) (/ n d))); &#60;tag&#62;
   (declare (quote leq) (lambda (x y) (&lt;= x y))); morbidly obese arrow
   (declare (quote mul) (lambda (x y) (* x y))); 4:20
-  (declare (quote sub) (lambda (x y) (if (eq 0 y) x (sub (1- x) (1- y))))); ordinate
+  (declare (quote sub) (lambda (x y) (- x y))); ordinate
 ); why can not this be a supercurvy ((lambda))‽
 </pre>
 </body>
