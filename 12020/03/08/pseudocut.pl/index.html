@@ -7,17 +7,18 @@
 <body>
 <pre>
 tr(A,Z). % compiler
-tr(tr(A,Z),ZZ). % /self-(host|modify)ing ($compiler &lt;compiler.e &gt;compiler).
+tr(tr(A,Z),ZZ). % /self-(host|modify|apply)ing ($compiler &lt;compiler.e &gt;compiler).
+tr([swipl,tr(A,Z)],[√prolog,SRC]). % afterthought
 expert(Q,A). % ¿p=np?
 rng(N). % thinks for itself #sentience #universallanguage #bodylanguage #dancing
 golf(A,Z). % optimal refactoring
 golf(golf(A,Z),ZZ). % code golf vs space golf vs time golf vs space:time golf #sizematters
 golf(quine(),Z).
-% self application
+% self-application
 % f(x) = y
 % f(f(x)) = f′(x) = y′
 % f(x) = f′(x)
-selfie(A,Z). % Z is the self application of A, not selfie/2 unless unification is sated for the sake of satiety
+selfie(A,Z). % Z is the self-application of A, not selfie/2 unless unification is sated for the sake of satiety
 selfie(tr(A,Z),ZZ).
 selfie(golf(A,Z),ZZ).
 selfie(selfie(A,Z),ZZ).
