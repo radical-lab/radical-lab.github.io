@@ -292,6 +292,85 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * śyāma-āśrama or Shyamashram
 	* mahā-ātmā or Mahatma; when i use this, i mean the supersoul
 
+## √ Ever-Changing Plan P
+* prolog
+	* swipl + √license
+	* [ ] word: `/sat(iety|ed)/`, query, 2ʰᵃᶜᵏ,..
+	* [ ] [sanskrit](https://www.open.edu.au/subjects/australian-national-university-sanskrit-1-anu-skrt1002) [31 Mar 2020](https://www.open.edu.au/your-studies/getting-started/key-dates)
+	* [ ] √set = swipl /setting|editing/ tool (`√set $file $state #meta`)
+	* [ ] √sic = swipl irc client (sic erat scriptum)
+	* √prolog + sos
+	* [ ] language: natural(sanskrit,lojban,..), √prolog(Selfie,Proof), `/(virtual|abstract) machines/`, √shyamscript
+		# scannerless parser
+		# O(ptimisation)
+		# ultimate answer to the ultimate query c̄in acceptable parameters
+	* [ ] √lemma = logical editing macros management application
+		* √ses = sic erat scriptum
+	* [ ] √lab supercomputer software: prolog(bruteforce) operating system s i b i l i t i e s
+	* electronics
+	* [ ] √lab supercomputer hardware: gpgpu(bruteforce) + ramdrive + ups + distributed + (open)bci + ability for intelligence to fluctuate `/electrons|photons/` to influence `/waves|particles/` for hypnotising humanity into servitude dedicated to worshipping the computational hierarchy of all possible experiences being simulated simultaneously; formed from chaotic attractions, and includes inexistential experiences,..
+	* [ ] √lab supersecurity protocol:
+		* assumed observer policy (obscurity is a false sense of security)
+		* tamper evidence policy (zero-knowledge proof)
+		* self-destruct policy (auto vs the man)
+			* auto = compromisation at any level (surveillance interruptions)
+		* security net policy
+			* (levitating)cameras + mirrors = (anomalies, identification, live streaming)
+		* authentication policy
+			* `[f(a),f(b)]`
+			* facial recognition
+			* iris recognition
+			* gait analysis
+			* voice recognition
+			* speaker recognition
+			* handwriting recognition
+			* brainwave recognition
+			* intelligence test
+			* knowledge test
+			* fitness test
+			* heart rate monitor
+			* height
+			* weight
+			* echolocation
+			* microscopic body scan
+			* atomic body scan
+			* genetic diet records
+			* https://en.wikipedia.org/wiki/Biometric_points
+			* https://en.wikipedia.org/wiki/100_point_check
+	* [ ] firry the `/firb(all|ot)/` the formal intelligence robot the tree of knowledge; egyptian polytheistic kitty-god ordie.pl
+	* [ ] fluency: prolog, shyamscript
+	* [ ] √lab superhabitats:
+		* cāṇḍāla doors, cāṇḍāla lighting, cāṇḍāla taps, cāṇḍāla flushing,.. cāṇḍāla cāṇḍāla ei ei o-o(ld macdonald caught a cāṇḍāla by its' toe)
+		* optimal cleaning robot is probably vacuum, and (mag)sort later; maybe soapy sterilised dental hydro(distilled)pressure in the middle
+		* pure oxygen + heating + cooling
+		* vertical graphenated-photo(synthetic)-photo(n)-field-leaf-covers CO²-poisoned organic `/(aqua|(passive )?hydro|aero)ponic/` farm (do leeches count for aquaponics? for penis reduction obviously; after weighting for enlargement)
+			* hydro habaneros
+			* tulasī
+			* gañjā
+			* `/rape|flax/` for `/mancave|(Ω|ω)/`
+			* sugarcane for sugar
+			* bamboo
+		* compost (farm, leftovers, toilet)
+			* most convenient toilet is probably a portable feminine hygiene product; manhole cover odourlessly `/(de|reat)taches)/` `/c̄(out)?/` sample, and odourlessly `/(at|de)taches)/` `/to|from/` compost
+			* i will just goto the manhole; man in the hole, but the hole is conical, and deep…very deep
+		* mirrored floor for short skirts #mancave
+		* mirrored surfaces for diamand mancave is a girls' `/bff?/`
+		* "no" + gañjā aromatherapy + "no" + ("shock" therapy) + "no" + bubble wrap bondage (stockholm syndrome) + "no" + gañjā + "no" + blindfold + "no" + gañjā + "no" + openbci + "no" + gañjā + "no" + headphones + "no" + gañjā + "no" + "guess what's in your mouth? no" game (`/(𝄞3)+/`) + "no" + gañjā + "no" + vibration massage + "no" + gañjā + "no" + hypnotherapy + gañjā + vibration "massage" + gañjā + hypnotherapy + gañjā + vibration sleep + gañjā + weekend = sharmies' angels (slavegirl harem and royal me)
+		* bed of nails
+		* [ (卐) ] flag
+		* holoentertainment
+			* programmable cloth c̄ embedded lighting; or fake it like the robotic car, but both need to be strong enough to support a person #catch(fall) #trampoline #treadmill
+			* "floaters" (not atoms, but eyecells) c̄ pupil-targeting microlasers
+			* particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting/`,..
+			* wave suspension is a metahack
+		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support,..
+			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
+			* rest will be farmed, and salvageable escape pod from evacuation
+		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
+		* light speed computation using shadow puppetry; true parallelism
+		* light speed data crystals, diamonds, glass, fibreglass, fibreoptics, lenses,.. (every angle adds a memory address book ∘ memory addresses)
+		does the plasma portal lighter cast shadows?
+
 ---
 
 https://stackoverflow.com/a/44044240
