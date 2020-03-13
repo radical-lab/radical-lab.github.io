@@ -301,13 +301,13 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [ ] √sic = swipl irc client (sic erat scriptum)
 	* √prolog + sos
 	* [ ] language: natural(sanskrit,lojban,..), √prolog(Selfie,Proof), `/(virtual|abstract) machines/`, √shyamscript
-		# scannerless parser
-		# O(ptimisation)
-		# ultimate answer to the ultimate query c̄in acceptable parameters
+		1. scannerless parser
+		2. O(ptimisation)
+		3. ultimate answer to the ultimate query c̄in acceptable parameters
 	* [ ] √lemma = logical editing macros management application
 		* √ses = sic erat scriptum
 	* [ ] √lab supercomputer software: prolog(bruteforce) operating system s i b i l i t i e s
-	* electronics
+	* electronics (`/plug|play/`, daisy chain, hot swap,..)
 	* [ ] √lab supercomputer hardware: gpgpu(bruteforce) + ramdrive + ups + distributed + (open)bci + ability for intelligence to fluctuate `/electrons|photons/` to influence `/waves|particles/` for hypnotising humanity into servitude dedicated to worshipping the computational hierarchy of all possible experiences being simulated simultaneously; formed from chaotic attractions, and includes inexistential experiences,..
 	* [ ] √lab supersecurity protocol:
 		* assumed observer policy (obscurity is a false sense of security)
