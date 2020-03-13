@@ -363,7 +363,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* "floaters" (not atoms, but eyecells) c̄ pupil-targeting microlasers
 			* particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting/`,..
 			* wave suspension is a metahack
-		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support,..
+		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support, atom powered atom bots,..
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
