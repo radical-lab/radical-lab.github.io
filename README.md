@@ -367,7 +367,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
-		* light speed computation using shadow puppetry; true parallelism
+		* light speed computation using shadow puppetry; true parallelism #3Dhacking #flipdot
 		* light speed data crystals, diamonds, glass, fibreglass, fibreoptics, lenses,.. (every angle adds a memory address book ∘ memory addresses)
 		does the plasma portal lighter cast shadows?
 
