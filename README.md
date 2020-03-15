@@ -304,6 +304,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		1. scannerless parser
 		2. O(ptimisation)
 		3. ultimate answer to the ultimate query c̄in acceptable parameters
+	* [ ] √lab prolog machine (as in; √lab lisp machine); where prolog is to lisp is to asm
 	* [ ] √lemma = logical editing macros management application
 		* √ses = sic erat scriptum
 	* [ ] √lab supercomputer software: prolog(bruteforce) operating system s i b i l i t i e s
@@ -367,7 +368,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
-		* light speed computation using shadow puppetry; true parallelism #3Dhacking #flipdot
+		* light speed computation using (/shade|binary/ vs /electromagnetic spectrum filter|n-ary/) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
 		* light speed data crystals, diamonds, glass, fibreglass, fibreoptics, lenses,.. (every angle adds a memory address book ∘ memory addresses)
 		does the plasma portal lighter cast shadows?
 
