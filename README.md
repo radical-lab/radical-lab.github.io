@@ -297,9 +297,10 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* swipl + √license
 	* [ ] word: `/sat(iety|ed)/`, query, 2ʰᵃᶜᵏ,..
 	* [ ] [sanskrit](https://www.open.edu.au/subjects/australian-national-university-sanskrit-1-anu-skrt1002) [31 Mar 2020](https://www.open.edu.au/your-studies/getting-started/key-dates)
-	* [ ] √set = swipl /setting|editing/ tool (`√set $file $state #meta`)
+	* [ ] √set = swipl `/setting|editing/` tool (`√set $file $state #meta`)
 	* [ ] √sic = swipl irc client (sic erat scriptum)
-	* √prolog + sos
+	* [ ] √3e = every word define-able (√dictionary) + ethical + educational (augmented learning = intelligence amplification; black mirror pornadware)
+	* √prolog + sos(√3e)
 	* [ ] language: natural(sanskrit,lojban,..), √prolog(Selfie,Proof), `/(virtual|abstract) machines/`, √shyamscript
 		1. scannerless parser
 		2. O(ptimisation)
@@ -350,6 +351,13 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* gañjā
 			* `/rape|flax/` for `/mancave|(Ω|ω)/`
 			* sugarcane for sugar
+			* honeysuckle
+			* passionfruit
+			* strawberries
+			* raspberries
+			* blackberries
+			* roses
+			* lotus
 			* bamboo
 		* compost (farm, leftovers, toilet)
 			* most convenient toilet is probably a portable feminine hygiene product; manhole cover odourlessly `/(de|reat)taches)/` `/c̄(out)?/` sample, and odourlessly `/(at|de)taches)/` `/to|from/` compost
@@ -359,7 +367,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* "no" + gañjā aromatherapy + "no" + ("shock" therapy) + "no" + bubble wrap bondage (stockholm syndrome) + "no" + gañjā + "no" + blindfold + "no" + gañjā + "no" + openbci + "no" + gañjā + "no" + headphones + "no" + gañjā + "no" + "guess what's in your mouth? no" game (`/(𝄞3)+/`) + "no" + gañjā + "no" + vibration massage + "no" + gañjā + "no" + hypnotherapy + gañjā + vibration "massage" + gañjā + hypnotherapy + gañjā + vibration sleep + gañjā + weekend = sharmies' angels (slavegirl harem and royal me)
 		* bed of nails
 		* [ (卐) ] flag
-		* holoentertainment
+		* holoentertainment #trueman
 			* programmable cloth c̄ embedded lighting; or fake it like the robotic car, but both need to be strong enough to support a person #catch(fall) #trampoline #treadmill
 			* "floaters" (not atoms, but eyecells) c̄ pupil-targeting microlasers
 			* particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting/`,..
@@ -368,7 +376,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
-		* light speed computation using (/shade|binary/ vs /electromagnetic spectrum filter|n-ary/) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
+		* light speed computation using (`/shade|binary/` vs `/electromagnetic spectrum filter|n-ary/`) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
 		* light speed data crystals, diamonds, glass, fibreglass, fibreoptics, lenses,.. (every angle adds a memory address book ∘ memory addresses)
 		does the plasma portal lighter cast shadows?
 
