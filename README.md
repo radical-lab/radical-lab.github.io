@@ -304,7 +304,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [ ] language: natural(sanskrit,lojban,..), √prolog(Selfie,Proof), `/(virtual|abstract) machines/`, √shyamscript
 		1. scannerless parser
 		2. O(ptimisation)
-		3. ultimate answer to the ultimate query c̄in acceptable parameters
+		3. ultimate answer to the ultimate query c̄in acceptable parameters `(≠ 2ᵃʳⁱᵗʸ /2)`
 	* [ ] √lab prolog machine (as in; √lab lisp machine); where prolog is to lisp is to asm
 	* [ ] √lemma = logical editing macros management application
 		* √ses = sic erat scriptum

@@ -11,9 +11,13 @@ tr(tr(A,Z),ZZ). % /self-(host|modify|apply)ing ($compiler &lt;compiler.e &gt;com
 tr([swipl,tr(A,Z)],[√prolog,SRC]). % afterthought
 expert(Q,A). % ¿p=np?
 rng(N). % thinks for itself #sentience #universallanguage #bodylanguage #dancing
-golf(A,Z). % optimal refactoring
+golf(A,Z). % self-improving (optimal refactoring)
 golf(golf(A,Z),ZZ). % code golf vs space golf vs time golf vs space:time golf #sizematters
 golf(quine(),Z).
+vulnerabilities(A,Z). % if Z is silent then A is invulnerable
+vulnerabilities(vulnerabilities(A,Z),ZZ). % self-destructive vulnerabilities can be "undetectable"
+formal(X). % ∄y
+formal(formal(X)). % ¿is there such a "-thing" as too formal?
 % self-application
 % f(x) = y
 % f(f(x)) = f′(x) = y′
@@ -21,6 +25,8 @@ golf(quine(),Z).
 selfie(A,Z). % Z is the self-application of A, not selfie/2 unless unification is sated for the sake of satiety
 selfie(tr(A,Z),ZZ).
 selfie(golf(A,Z),ZZ).
+selfie(vulnerabilities(A,Z),ZZ).
+selfie(formal(A,_),_).
 selfie(selfie(A,Z),ZZ).
 % self awareness
 </pre>
