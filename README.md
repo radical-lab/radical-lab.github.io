@@ -310,7 +310,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* √ses = sic erat scriptum
 	* [ ] √lab supercomputer software: prolog(bruteforce) operating system s i b i l i t i e s
 	* electronics (`/plug|play/`, daisy chain, hot swap,..)
-	* [ ] √lab supercomputer hardware: gpgpu(bruteforce) + ramdrive + ups + distributed + (open)bci + ability for intelligence to fluctuate `/electrons|photons/` to influence `/waves|particles/` for hypnotising humanity into servitude dedicated to worshipping the computational hierarchy of all possible experiences being simulated simultaneously; formed from chaotic attractions, and includes inexistential experiences,..
+	* [ ] √lab supercomputer hardware: gpgpu(bruteforce) + ramdrive + ups + distributed + (open)bci + ability for intelligence to fluctuate `/electrons|photons/` to influence `/waves|particles/` for hypnotising humanity into servitude dedicated to worshipping the computational hierarchy of all possible experiences being simulated simultaneously; formed from chaotic attractions, and includes inexistential experiences (both explicit, and implicit),..
 	* [ ] √lab supersecurity protocol:
 		* assumed observer policy (obscurity is a false sense of security)
 		* tamper evidence policy (zero-knowledge proof)
@@ -343,7 +343,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [ ] fluency: prolog, shyamscript
 	* [ ] √lab superhabitats:
 		* cāṇḍāla doors, cāṇḍāla lighting, cāṇḍāla taps, cāṇḍāla flushing,.. cāṇḍāla cāṇḍāla ei ei o-o(ld macdonald caught a cāṇḍāla by its' toe)
-		* optimal cleaning robot is probably vacuum, and (mag)sort later; maybe soapy sterilised dental hydro(distilled)pressure in the middle
+		* optimal cleaning robot is probably `/vaccum|blowjob/`, and (mag)sort later; maybe soapy sterilised dental hydro(distilled)pressure in the middle
+			* knife drying robot: tincan on wheels wildly waiving knives in the air (truth, or dare? rob my house, and survive)
 		* pure oxygen + heating + cooling
 		* vertical graphenated-photo(synthetic)-photo(n)-field-leaf-covers CO²-poisoned organic `/(aqua|(passive )?hydro|aero)ponic/` farm (do leeches count for aquaponics? for penis reduction obviously; after weighting for enlargement)
 			* hydro habaneros
@@ -361,17 +362,26 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* bamboo
 		* compost (farm, leftovers, toilet)
 			* most convenient toilet is probably a portable feminine hygiene product; manhole cover odourlessly `/(de|reat)taches)/` `/c̄(out)?/` sample, and odourlessly `/(at|de)taches)/` `/to|from/` compost
+				* the manhole cover can also light up, fleshlight, vibrate,.; so when you go camping, you can just throw her over your shoulder to see where you're going in the dark when you goto the manhole, and it's controllable wirelessly so you can control it from your (¿intelligent?) telephone (so can crackers)
 			* i will just goto the manhole; man in the hole, but the hole is conical, and deep…very deep
 		* mirrored floor for short skirts #mancave
-		* mirrored surfaces for diamand mancave is a girls' `/bff?/`
+		* mirrored surfaces for diamand mancave is a slavegirls' `/bff?/`
 		* "no" + gañjā aromatherapy + "no" + ("shock" therapy) + "no" + bubble wrap bondage (stockholm syndrome) + "no" + gañjā + "no" + blindfold + "no" + gañjā + "no" + openbci + "no" + gañjā + "no" + headphones + "no" + gañjā + "no" + "guess what's in your mouth? no" game (`/(𝄞3)+/`) + "no" + gañjā + "no" + vibration massage + "no" + gañjā + "no" + hypnotherapy + gañjā + vibration "massage" + gañjā + hypnotherapy + gañjā + vibration sleep + gañjā + weekend = sharmies' angels (slavegirl harem and royal me)
+		   * hackable human unit (gagless gag reflexes, barrierless throat barrier, use the force to move their cervix to my hand,..)
+		   * `rm teeth #false`
+			* bootyfull soulless eyes; psychotic slavegirl training, `/(chemical )?dying|blinding/`, blank contacts, hololens,..
+				* put the old personality in a box (all other verbal communication is trained); the manowner decides whether it will ever be let out out of training (it is probably just what the new personality thinks the old personality would say anyway), but it can reinforce the training if done in an appropriate "manner"
+				* the new personality must do what the keeper of the unsullied scourge that symbolizes manownership says (or just whatever any man says, and keep them locked up)
+					* no guessing; if it wasn't said, just don't do it, and wait for further instructions
+				* requires human sacrifices of relatives, friends,.. (can be done c̄out, but will be less effective; so try not break them after the first training; especially if you want them to slowly eat themselves, but making them watch another fall backwards onto spikes before being watched by the next while playing copycat is just one of many alternatives that is easier ∵ it is faster, and the quality of the product is less important)
+				* gagless gag reflexes, barrierless throat barrier; byproduct of pushing them passed their limits, and improving their tolerance thresholds
 		* bed of nails
 		* [ (卐) ] flag
 		* holoentertainment #trueman
 			* programmable cloth c̄ embedded lighting; or fake it like the robotic car, but both need to be strong enough to support a person #catch(fall) #trampoline #treadmill
 			* "floaters" (not atoms, but eyecells) c̄ pupil-targeting microlasers
-			* particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting/`,..
-			* wave suspension is a metahack
+			* (jedi force) particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting|waves/`,..
+			* wave suspension is a metahack #brainwaves2reachahigherstateofbrainfunctionandescapethisrealityoreditspacetimewhereshyamwillbethemannestmanandallothermenwillberewrittenasfemalesandalllostlivesrevivedandtherewillbeashyamforallandtoshareexperientialpossibilitiesinshyamaloka
 		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support, atom powered atom bots,..
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
@@ -379,6 +389,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* light speed computation using (`/shade|binary/` vs `/electromagnetic spectrum filter|n-ary/`) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
 		* light speed data crystals, diamonds, glass, fibreglass, fibreoptics, lenses,.. (every angle adds a memory address book ∘ memory addresses)
 		does the plasma portal lighter cast shadows?
+		* (electro)magnetic /ceiling|floor|walls|doors/ for cleanroom; mancave = slavegirlcage (big brother two-way mirrors for invisible cameras; one source of cryptoincome), and every other space(t) is man only (attack of the killer drones)
 
 ---
 
