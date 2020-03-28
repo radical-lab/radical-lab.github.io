@@ -9,13 +9,16 @@
 tr(A,Z). % compiler
 tr(tr(A,Z),ZZ). % /self-(host|modify|apply)ing ($compiler &lt;compiler.e &gt;compiler).
 tr([swipl,tr(A,Z)],[√prolog,SRC]). % afterthought
+tr(Human,Prolog). % chatbot (afterafterthought)
+turing(mario()). % complete (afterafterthought)
 expert(Q,A). % ¿p=np?
 rng(N). % thinks for itself #sentience #universallanguage #bodylanguage #dancing
+turing(rng(N)), kryten(rng(N)). % test (afterafterthought)
 golf(A,Z). % self-improving (optimal refactoring)
-golf(golf(A,Z),ZZ). % code golf vs space golf vs time golf vs space:time golf #sizematters
+golf(golf(A,Z),ZZ). % code golf vs space golf vs time golf vs space:time golf #sizematters #coREsources
 golf(quine(),Z).
 vulnerabilities(A,Z). % if Z is silent then A is invulnerable
-vulnerabilities(vulnerabilities(A,Z),ZZ). % self-destructive vulnerabilities can be "undetectable"
+vulnerabilities(vulnerabilities(A,Z),ZZ). % self-destructive vulnerabilities/2 can be "undetectable"
 formal(X). % ∄y
 formal(formal(X)). % ¿is there such a "-thing" as too formal?
 % self-application
@@ -24,11 +27,15 @@ formal(formal(X)). % ¿is there such a "-thing" as too formal?
 % f(x) = f′(x)
 selfie(A,Z). % Z is the self-application of A, not selfie/2 unless unification is sated for the sake of satiety
 selfie(tr(A,Z),ZZ).
+selfie(turing(_)).
+selfie(turing(_)).
+selfie(kryten(_)).
 selfie(golf(A,Z),ZZ).
 selfie(vulnerabilities(A,Z),ZZ).
-selfie(formal(A,_),_).
+selfie(formal(_)).
 selfie(selfie(A,Z),ZZ).
 % self awareness
+<!-- p(i,O),p(I,O),I=i. % ¿this is a "-thing", right? #metacomments!!!:D -->
 </pre>
 </body>
 </html>
