@@ -191,7 +191,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* "-thing"s
 		* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
 			* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan|nyāya|h?anumāna?|vyākaraṇa|veda|śāstra|(sam)?praśnaḥ?|nītiḥ|bhava-bandha-mokṣau|iti siddham|si tacuisses, philosophus mansisses, imputation, impute, imputability, imputor, imputo, (germanic)? imp, (visigothic)? COBOLD)/`: self hosted prolog
-				* the power of prolog is a power of two
+				* the power of prolog is a power of two; prolog can verify computations faster than `/computing|bruteforcing/` them (query_caching@home #covid-19)
 					* f(t,p) :- type checking.
 					* f(T,p) :- type inference.
 					* f(t,P) :- program synthesis, type inhabitance is the edge identity.
@@ -296,7 +296,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 * prolog
 	* swipl + √license
 	* [ ] word: `/sat(iety|ed)/`, query, 2ʰᵃᶜᵏ,..
-	* [ ] [sanskrit](https://www.open.edu.au/subjects/australian-national-university-sanskrit-1-anu-skrt1002) [31 Mar 2020](https://www.open.edu.au/your-studies/getting-started/key-dates)
+	* [x] [<s>sanskrit</s>](https://www.open.edu.au/subjects/australian-national-university-sanskrit-1-anu-skrt1002) [31 Mar 2020](https://www.open.edu.au/your-studies/getting-started/key-dates)
+	* [ ] development "environment"; at least another ten boxes, and probably a new (sturdier) shelf (since it has to reach further than ever before; and maybe need two, three, or more, this time… #360° #suspendedanimation(projection))
 	* [ ] √set = swipl `/setting|editing/` tool (`√set $file $state #meta`)
 	* [ ] √sic = swipl irc client (sic erat scriptum)
 	* [ ] √3e = every word define-able (√dictionary) + ethical + educational (augmented learning = intelligence amplification; black mirror pornadware)
@@ -382,9 +383,12 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* "floaters" (not atoms, but eyecells) c̄ pupil-targeting microlasers
 			* (jedi force) particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting|waves/`,..
 			* wave suspension is a metahack #brainwaves2reachahigherstateofbrainfunctionandescapethisrealityoreditspacetimewhereshyamwillbethemannestmanandallothermenwillberewrittenasfemalesandalllostlivesrevivedandtherewillbeashyamforallandtoshareexperientialpossibilitiesinshyamaloka
+			* single source, single projection; (3D) whispering gallery (diamond mancave)
 		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support, atom powered atom bots,..
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
+			* probably best to layer every"-thing"; macrodrone `/dis(c|k)s?/` (originally it was just the top; some plants are taller than others, but they can be sorted by height, unless structural support demands reconfiguration)
+			* Korins' Tower space elevator will be in Egypt; beans will be grown inside, but don't put all your' beans in one pod!
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
 		* light speed computation using (`/shade|binary/` vs `/electromagnetic spectrum filter|n-ary/`) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
 		* light speed data crystals, diamonds, glass, fibreglass, fibreoptics, lenses,.. (every angle adds a memory address book ∘ memory addresses)
