@@ -419,7 +419,10 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 * [ ] yoga
 	* become one with the ātmā
 
-√april will probably be a syllogism.pl file that says roughly we can make a turing complete system inside this reality ∴ this reality is a turing commplete system; but it needs a third premise… (¿or not?)
+√april will probably be a syllogism.pl file that says roughly we can make a turing complete system inside this reality ∴ this reality is a turing complete system; but it needs a third premise… (¿or not?)
+* that would be along the lines of; a turing complete system is provably a turing complete system if it can completely `mkturing system`
+* a computer can `mkbot` to hack itself to bits; one way of physical metaprogramming, but programmable materials are on the horizon
+* microverse battery
 
 ---
 
