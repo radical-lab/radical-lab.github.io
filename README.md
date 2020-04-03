@@ -346,7 +346,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* cāṇḍāla doors, cāṇḍāla lighting, cāṇḍāla taps, cāṇḍāla flushing,.. cāṇḍāla cāṇḍāla ei ei o-o(ld macdonald caught a cāṇḍāla by its' toe)
 		* optimal cleaning robot is probably `/vaccum|blowjob/`, and (mag)sort later; maybe soapy sterilised dental hydro(distilled)pressure in the middle
 			* knife drying robot: tincan on wheels wildly waiving knives in the air (truth, or dare? rob my house, and survive)
-		* pure oxygen + heating + cooling
+		* nitrox + heating + cooling
 		* vertical graphenated-photo(synthetic)-photo(n)-field-leaf-covers CO²-poisoned organic `/(aqua|(passive )?hydro|aero)ponic/` farm (do leeches count for aquaponics? for penis reduction obviously; after weighting for enlargement)
 			* hydro habaneros
 			* tulasī
@@ -368,7 +368,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* mirrored floor for short skirts #mancave
 		* mirrored surfaces for diamand mancave is a slavegirls' `/bff?/`
 		* "no" + gañjā aromatherapy + "no" + ("shock" therapy) + "no" + bubble wrap bondage (stockholm syndrome) + "no" + gañjā + "no" + blindfold + "no" + gañjā + "no" + openbci + "no" + gañjā + "no" + headphones + "no" + gañjā + "no" + "guess what's in your mouth? no" game (`/(𝄞3)+/`) + "no" + gañjā + "no" + vibration massage + "no" + gañjā + "no" + hypnotherapy + gañjā + vibration "massage" + gañjā + hypnotherapy + gañjā + vibration sleep + gañjā + weekend = sharmies' angels (slavegirl harem and royal me)
-		   * hackable human unit (gagless gag reflexes, barrierless throat barrier, use the force to move their cervix to my hand,..)
+		   * hackable human unit (gagless gag reflexes, barrierless throat barrier, use the force to move their cervix to my hand,.. #noresistance #resistanceisfutile #assimilation)
 		   * `rm teeth #false`
 			* bootyfull soulless eyes; psychotic slavegirl training, `/(chemical )?dying|blinding/`, blank contacts, hololens,..
 				* put the old personality in a box (all other verbal communication is trained); the manowner decides whether it will ever be let out out of training (it is probably just what the new personality thinks the old personality would say anyway), but it can reinforce the training if done in an appropriate "manner"
@@ -391,9 +391,35 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* Korins' Tower space elevator will be in Egypt; beans will be grown inside, but don't put all your' beans in one pod!
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
 		* light speed computation using (`/shade|binary/` vs `/electromagnetic spectrum filter|n-ary/`) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
+			* https://www.sciencealert.com/faster-than-light-speed-in-jets-that-produce-gamma-ray-bursts
+			* https://www.forbes.com/sites/startswithabang/2019/10/05/ask-ethan-can-gamma-ray-jets-really-travel-faster-than-the-speed-of-light/#34de17432578
 		* light speed data crystals, diamonds, glass, fibreglass, fibreoptics, lenses,.. (every angle adds a memory address book ∘ memory addresses)
 		does the plasma portal lighter cast shadows?
 		* (electro)magnetic /ceiling|floor|walls|doors/ for cleanroom; mancave = slavegirlcage (big brother two-way mirrors for invisible cameras; one source of cryptoincome), and every other space(t) is man only (attack of the killer drones)
+
+i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs to be developed, and i gave all my spare money to relatives to clear debts before anyone leaves like a leaf on the wind (watch how they soar away) c̄ my karma (hopefully the karma roi outways whatever the future brings; otherwise i'll go walkabout, and follow the ancients; india, australia, polynesia,..); i'm not even sure if openbci can be used for my 3D purposes…
+* [x] foreskin (abrahamic religions lead me to believe this is significant; otherwise, why do they do it for? it's like having a facehugger attached to my rock!!! :D)
+* [x] renounce wealth
+* [ ] renounce material possessions
+* [ ] bush tracking
+	* become one with the land
+* [ ] wave surfing
+	* become one with the water
+* [ ] moto riding
+	* i need to save up for a suzuki hayabusa so I can hit 𝄞3 hundred km/hr across the outback, and the helmet is also good to hide `id(shyam)=shyam`; especially when i'm riding c̄out plates (`wipe prints;rm plates`)
+	* i'll dismantle it, and reassemble it, and train myself to feel how much parts weigh in my hands down to a gram (if not 0.001g); so that when i hit that sweet spot, with a big hunk of metal between my legs, and can feel every individual part vibrating (nuts unscrewing, parts bending,.; i'll know when to brake way before any"-thing" gives way); i also need a parachute (strapped to my waistband, and cervix)
+	* i'll know that bike better than i know myself!
+	* 90 mile straight
+	* camo
+	* ideally i'd like to break the sound barrier; so i need about four… (or become one with the air #wingsuit)
+	* can a jar of earth substitute the planet? is that how they make spaceships? rocketships do hit those sweet g spots… (and become one with the fire)
+	* but there's no"-thing" quite like wrapping yourself around a beast of burden, and leaning into turns as a single unit; become one with the machine, and assimilate into the borg
+* [ ] echolocation
+* [ ] sanskrit fluency
+* [ ] yoga
+	* become one with the ātmā
+
+√april will probably be a syllogism.pl file that says roughly we can make a turing complete system inside this reality ∴ this reality is a turing commplete system; but it needs a third premise… (¿or not?)
 
 ---
 
