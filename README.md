@@ -400,11 +400,16 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs to be developed, and i gave all my spare money to relatives to clear debts before anyone leaves like a leaf on the wind (watch how they soar away) c̄ my karma (hopefully the karma roi outways whatever the future brings; otherwise i'll go walkabout, and follow the ancients; india, australia, polynesia,..); i'm not even sure if openbci can be used for my 3D purposes…
 * [x] foreskin (abrahamic religions lead me to believe this is significant; otherwise, why do they do it for? it's like having a facehugger attached to my rock!!! :D)
 * [x] renounce wealth
-* [ ] renounce material possessions
+* [ ] experiment c̄ expired coconuts; maybe wait until after covid-19… (i already have a cough, but they refused to swab me)
+* [ ] renounce material possessions #digitisation
 * [ ] bush tracking
 	* become one with the land
-* [ ] wave surfing
+* [ ] wave surfing c̄ dolphins, stick charts, birds, stars, weather anomalies, wayfinding,..
 	* become one with the water
+	* https://www.nytimes.com/2019/08/13/science/what-makes-a-red-sky-at-night-and-at-morning.html
+	* coconuts only last a week, but they should remain edible; we'll see…
+	* gandi fasted for 3 weeks
+	* voyagers are bottlecerviced by at least a month, but breathing pure oxygen for half an hour can extend prāṇāyāma; just eat a feast before leaving on the wind (watch how i soar), fast, save the coconuts for later, fast, and feast upon settling
 * [ ] moto riding
 	* i need to save up for a suzuki hayabusa so I can hit 𝄞3 hundred km/hr across the outback, and the helmet is also good to hide `id(shyam)=shyam`; especially when i'm riding c̄out plates (`wipe prints;rm plates`)
 	* i'll dismantle it, and reassemble it, and train myself to feel how much parts weigh in my hands down to a gram (if not 0.001g); so that when i hit that sweet spot, with a big hunk of metal between my legs, and can feel every individual part vibrating (nuts unscrewing, parts bending,.; i'll know when to brake way before any"-thing" gives way); i also need a parachute (strapped to my waistband, and cervix)
@@ -415,14 +420,16 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 	* can a jar of earth substitute the planet? is that how they make spaceships? rocketships do hit those sweet g spots… (and become one with the fire)
 	* but there's no"-thing" quite like wrapping yourself around a beast of burden, and leaning into turns as a single unit; become one with the machine, and assimilate into the borg
 * [ ] echolocation
+* [ ] tuvan throat singing, voice acting; `mkany sound` is to `mkany brainwave`
 * [ ] sanskrit fluency
 * [ ] yoga
 	* become one with the ātmā
 
 √april will probably be a syllogism.pl file that says roughly we can make a turing complete system inside this reality ∴ this reality is a turing complete system; but it needs a third premise… (¿or not?)
 * that would be along the lines of; a turing complete system is provably a turing complete system if it can completely `mkturing system`
-* a computer can `mkbot` to hack itself to bits; one way of physical metaprogramming, but programmable materials are on the horizon
+* a computer can `mkbot` to hack itself to bits; one way of physical metaprogramming, but programmable materials are on the horizon; `computer(fuel)` #interconnectedness
 * microverse battery
+* biocomputing
 
 ---
 
