@@ -453,12 +453,15 @@ north = disease
 	* I haven't found (nor looked for) a strain for headaches, frustration, and mental wall blocks for problem solving
 	* I can bring papers, and matches, to relieve the stress involved therein; post-post. #mail-order
 	* COVID-19 gives the streets to me; I feel like a wild west bandit, and everyone is hiding away.
-i'll be 🕉 nom noming vegan margheritas in a beach house somewhere; probably in the bahamas, or some other tax haven…
-* [ ] ¿$?
-* [ ] ¿$?
-i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
-* [x] mask + goggles + gloves
-* [ ] I need to get some"-thing" to wipe down every"-thing" as I bring into my room…
+* i'll be 🕉 nom noming vegan margheritas in a beach house somewhere; probably in the bahamas, or some other tax haven…
+	* [ ] ¿$?
+	* [ ] ¿$?
+* i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
+	* [x] filter water
+	* [x] mask + goggles + gloves
+	* [ ] I need to get some"-thing" to wipe down every"-thing" as I bring into my room…
+	* [ ] heat all bodily inputs; including grape drink, and the water filter probably isn't enough
+* the devas just said; if you get a degree, your reward is gañjā, and doing no"-thing" for the dole because of fires, pandemics, skynet, higher dimensional aliens,..
 
 ---
 
