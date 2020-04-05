@@ -408,7 +408,7 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 	* become one with the water
 	* https://www.nytimes.com/2019/08/13/science/what-makes-a-red-sky-at-night-and-at-morning.html
 	* coconuts only last a week, but they should remain edible; we'll see…
-	* gandhi fasted for 3 weeks
+	* gandhi fasted for 𝄞3 weeks
 	* voyagers are bottlecerviced by at least a month, but breathing pure oxygen for half an hour can extend prāṇāyāma; just eat a feast before leaving on the wind (watch how i soar), fast, save the coconuts for later, fast, and feast upon settling
 	* rain water; rain dance, weather anomalies,.. #coconutwater
 	* no multivitamins, because i don't want to be handicapped by the future; the ancients didn't use stims either…
@@ -436,7 +436,7 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 * that would be along the lines of; a turing complete system is provably a turing complete system if it can completely `mkturing system`
 * a computer can `mkbot` to hack itself to bits; one way of physical metaprogramming, but programmable materials are on the horizon; `computer(fuel)` #interconnectedness
 * microverse battery
-	* is interdimensional cable just tv from different realities, or is the cable itself interdimensional? the cable could go through portals, or it could be `/\dD/`
+	* is interdimensional cable just tv from different realities, or is the cable itself interdimensional? the cable could go through portals, or it could be `/(-|+)\dD/`
 	* rick ∧ morty `/(-|+)\dD/` realities
 * biocomputing
 
@@ -456,7 +456,7 @@ north = disease
 i'll be 🕉 nom noming vegan margheritas in a beach house somewhere; probably in the bahamas, or some other tax haven…
 * [ ] ¿$?
 * [ ] ¿$?
-i'll be wearing a shirt that reads /i survived covid\-(19|20)/
+i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
 * [x] mask + goggles + gloves
 * [ ] I need to get some"-thing" to wipe down every"-thing" as I bring into my room…
 
