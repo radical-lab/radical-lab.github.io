@@ -408,8 +408,10 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 	* become one with the water
 	* https://www.nytimes.com/2019/08/13/science/what-makes-a-red-sky-at-night-and-at-morning.html
 	* coconuts only last a week, but they should remain edible; we'll see…
-	* gandi fasted for 3 weeks
+	* gandhi fasted for 3 weeks
 	* voyagers are bottlecerviced by at least a month, but breathing pure oxygen for half an hour can extend prāṇāyāma; just eat a feast before leaving on the wind (watch how i soar), fast, save the coconuts for later, fast, and feast upon settling
+	* rain water; rain dance, weather anomalies,.. #coconutwater
+	* no multivitamins, because i don't want to be handicapped by the future; the ancients didn't use stims either…
 * [ ] moto riding
 	* i need to save up for a suzuki hayabusa so I can hit 𝄞3 hundred km/hr across the outback, and the helmet is also good to hide `id(shyam)=shyam`; especially when i'm riding c̄out plates (`wipe prints;rm plates`)
 	* i'll dismantle it, and reassemble it, and train myself to feel how much parts weigh in my hands down to a gram (if not 0.001g); so that when i hit that sweet spot, with a big hunk of metal between my legs, and can feel every individual part vibrating (nuts unscrewing, parts bending,.; i'll know when to brake way before any"-thing" gives way); i also need a parachute (strapped to my waistband, and cervix)
@@ -419,6 +421,11 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 	* ideally i'd like to break the sound barrier; so i need about four… (or become one with the air #wingsuit)
 	* can a jar of earth substitute the planet? is that how they make spaceships? rocketships do hit those sweet g spots… (and become one with the fire)
 	* but there's no"-thing" quite like wrapping yourself around a beast of burden, and leaning into turns as a single unit; become one with the machine, and assimilate into the borg
+	* my uncle huggie textually telephoned "Heard a good saying yesterday", "Let's not endeavour on the pursuit of happiness, but instead the happiness of pursuit", "I think some wrote a book on that theme as well"
+		* So I should pursue the police if they give chase?
+		* I'll do donuts around them…
+		* I'll have to bake a box of vegan dough with nuts in it, and put it on their' car!!! :D
+		* I'll spray the bike different colours, each time I reconfigure the plates…
 * [ ] echolocation
 * [ ] tuvan throat singing, voice acting; `mkany sound` is to `mkany brainwave`
 * [ ] sanskrit fluency
@@ -429,7 +436,29 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 * that would be along the lines of; a turing complete system is provably a turing complete system if it can completely `mkturing system`
 * a computer can `mkbot` to hack itself to bits; one way of physical metaprogramming, but programmable materials are on the horizon; `computer(fuel)` #interconnectedness
 * microverse battery
+	* is interdimensional cable just tv from different realities, or is the cable itself interdimensional? the cable could go through portals, or it could be `/\dD/`
+	* rick ∧ morty `/(-|+)\dD/` realities
 * biocomputing
+
+south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
+east = spiritual
+west = wealth
+north = disease
+* i started sleeping with my head to the west, and the government gave me stims, and a promotion
+* i voted for the first time (uncle huggie peer pressured me into it), and the government legalised gañjā
+	* I discovered I can get mail-order through Tor, and there are `/THC|CBD/` test kits you can get to make sure it's the good stuff.
+	* Cryptocurrency has escrow.
+	* An ounce is under 50g; mmm, those sweet G spots… #mail-order
+	* I want to order Bubba Kush for sleep, but all my money is gone now; otherwise i want strains with names that include words like Shiva, Himalaya, Hindu, Ganja,..
+	* I haven't found (nor looked for) a strain for headaches, frustration, and mental wall blocks for problem solving
+	* I can bring papers, and matches, to relieve the stress involved therein; post-post. #mail-order
+	* COVID-19 gives the streets to me; I feel like a wild west bandit, and everyone is hiding away.
+i'll be 🕉 nom noming vegan margheritas in a beach house somewhere; probably in the bahamas, or some other tax haven…
+* [ ] ¿$?
+* [ ] ¿$?
+i'll be wearing a shirt that reads /i survived covid\-(19|20)/
+* [x] mask + goggles + gloves
+* [ ] I need to get some"-thing" to wipe down every"-thing" as I bring into my room…
 
 ---
 
