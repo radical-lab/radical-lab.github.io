@@ -430,7 +430,7 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 * [ ] tuvan throat singing, voice acting; `mkany sound` is to `mkany brainwave`
 * [ ] sanskrit fluency
 * [ ] yoga
-	* become one with the ātmā
+	* become one with the ātmā #interconnectedness #stargate_ascension #wave_theory #..
 
 √april will probably be a syllogism.pl file that says roughly we can make a turing complete system inside this reality ∴ this reality is a turing complete system; but it needs a third premise… (¿or not?)
 * that would be along the lines of; a turing complete system is provably a turing complete system if it can completely `mkturing system`
@@ -439,11 +439,12 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 	* is interdimensional cable just tv from different realities, or is the cable itself interdimensional? the cable could go through portals, or it could be `/(-|+)\dD/`
 	* rick ∧ morty `/(-|+)\dD/` realities
 * biocomputing
+* If you give `id` a Turing complete system; does that make `id` Turing complete?
 
 south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
-east = spiritual
-west = wealth
-north = disease
+<br>east = spiritual
+<br>west = wealth
+<br>north = disease
 * i started sleeping with my head to the west, and the government gave me stims, and a promotion
 * i voted for the first time (uncle huggie peer pressured me into it), and the government legalised gañjā
 	* I discovered I can get mail-order through Tor, and there are `/THC|CBD/` test kits you can get to make sure it's the good stuff.
@@ -451,7 +452,7 @@ north = disease
 	* An ounce is under 50g; mmm, those sweet G spots… #mail-order
 	* I want to order Bubba Kush for sleep, but all my money is gone now; otherwise i want strains with names that include words like Shiva, Himalaya, Hindu, Ganja,..
 	* I haven't found (nor looked for) a strain for headaches, frustration, and mental wall blocks for problem solving
-	* I can bring papers, and matches, to relieve the stress involved therein; post-post. #mail-order
+	* I can bring papers, and matches, to `/relieve|alleviate/` the stress involved therein; post-post. #mail-order
 	* COVID-19 gives the streets to me; I feel like a wild west bandit, and everyone is hiding away.
 * i'll be 🕉 nom noming vegan margheritas in a beach house somewhere; probably in the bahamas, or some other tax haven…
 	* [ ] ¿$?
