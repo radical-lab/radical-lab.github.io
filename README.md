@@ -442,13 +442,13 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 	* is interdimensional cable just tv from different realities, or is the cable itself interdimensional? the cable could go through portals, or it could be `/(-|+)\dD/`
 	* rick ∧ morty `/(-|+)\dD/` realities
 * biocomputing
-* If you give `id` a Turing complete system; does that make `id` Turing complete?
-syllorg.asm
-logism.syl (shyams' yelling language)
-: any"-thing" that takes /inputs?/ is turing complete; f(x) = x, where x = "turing complete system"
-: a turing complete system is provably a turing complete system if it can completely `mkturing system`
-: we can completely `mkturing system` in this reality
-∴ this reality is a turing complete system
+* If you give `id` a Turing complete system; does that make `id` Turing complete?\
+syllorg.asm\
+logism.syl (√ shyams' yelling language)\
+: any"-thing" that takes /inputs?/ can be turing complete; id(x) = x, where x = "turing complete system"; personality box rewrites;..\
+: a turing complete system is provably a turing complete system if it can completely `mkturing system`\
+: we can completely `mkturing system` in this reality\
+∴ this reality is a turing complete system, and श्याम is an input
 
 south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
 east = spiritual\
