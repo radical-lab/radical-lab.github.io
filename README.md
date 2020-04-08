@@ -443,12 +443,18 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 	* rick ∧ morty `/(-|+)\dD/` realities
 * biocomputing
 * If you give `id` a Turing complete system; does that make `id` Turing complete?
+syllorg.asm
+logism.syl (shyams' yelling language)
+: any"-thing" that takes /inputs?/ is turing complete; f(x) = x, where x = "turing complete system"
+: a turing complete system is provably a turing complete system if it can completely `mkturing system`
+: we can completely `mkturing system` in this reality
+∴ this reality is a turing complete system
 
 south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
-<br>east = spiritual
-<br>west = wealth
-<br>north = disease
-* i started sleeping with my head to the west, and the government gave me stims, and a promotion
+east = spiritual\
+west = wealth\
+north = disease
+* i started sleeping with my head to the west, and the government gave me stims, and a promotion; 3D compass for space travel
 * i voted for the first time (uncle huggie peer pressured me into it), and the government legalised gañjā
 	* I discovered I can get mail-order through Tor, and there are `/THC|CBD/` test kits you can get to make sure it's the good stuff.
 	* Cryptocurrency has escrow.
@@ -462,7 +468,7 @@ south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
 		* they can have a protective suit for the pockets of harmful holowaves; temporal anomalies #mr_bean_vr
 		* ¿maybe have a (bungie) nitrox tether?
 	* [ ] ¿$?
-		* put them to "work"
+		* put them to "work"; uncanny valley #3dar
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
 	* [x] filter water
 	* [x] mask + goggles + gloves
