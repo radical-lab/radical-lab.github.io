@@ -300,8 +300,9 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* [ ] development "environment"; at least another ten boxes, and probably a new (sturdier) shelf (since it has to reach further than ever before; and maybe need two, three, or more, this time… #360° #suspendedanimation(projection))
 	* [ ] √set = swipl `/setting|editing/` tool (`√set $file $state #meta`)
 	* [ ] √sic = swipl irc client (sic erat scriptum)
-	* [ ] √3e = every word define-able (√dictionary) + ethical + educational (augmented learning = intelligence amplification; black mirror pornadware)
-	* √prolog + sos(√3e)
+	* [ ] √t = time since my birth; Shyam∘Sūrya°Year∘Bhūmi°Day∘RNG = (30÷83)∘360°83∘360°365∘/\d*/
+	* [ ] √𝄞3e = every word define-able (√dictionary) + ethical + educational (augmented learning = intelligence amplification; black mirror pornadware; attention span special breaks under routine guidance entering recovery)
+	* √prolog + sos(√t,√𝄞3e)
 	* [ ] language: natural(sanskrit,lojban,..), √prolog(Selfie,Proof), `/(virtual|abstract) machines/`, √shyamscript
 		1. scannerless parser
 		2. O(ptimisation)
@@ -426,11 +427,13 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 		* I'll do donuts around them…
 		* I'll have to bake a box of vegan dough with nuts in it, and put it on their' car!!! :D
 		* I'll spray the bike different colours, each time I reconfigure the plates…
+		* the base coat will be neither
 * [ ] echolocation
 * [ ] tuvan throat singing, voice acting; `mkany sound` is to `mkany brainwave`
 * [ ] sanskrit fluency
 * [ ] yoga
-	* become one with the ātmā #interconnectedness #stargate_ascension #wave_theory #..
+	* become one with the ātmā #interconnectedness #stargate_ascension #starwars_holoprojections #omnipresence #wave_theory #..
+	* i will project myself into the sky, but only from everyones' illusory perspectives; the a/v will be directly transmitted to the biological inter(dimensional) "faces" #i_am_in_your_eyeballs_like_a_weeping_angel_but_at_this_stage_all_your_base_are_belong_to_श्याम
 
 √april will probably be a syllogism.pl file that says roughly we can make a turing complete system inside this reality ∴ this reality is a turing complete system; but it needs a third premise… (¿or not?)
 * that would be along the lines of; a turing complete system is provably a turing complete system if it can completely `mkturing system`
@@ -455,7 +458,8 @@ south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
 	* I can bring papers, and matches, to `/relieve|alleviate/` the stress involved therein; post-post. #mail-order
 	* COVID-19 gives the streets to me; I feel like a wild west bandit, and everyone is hiding away.
 * i'll be 🕉 nom noming vegan margheritas in a beach house somewhere; probably in the bahamas, or some other tax haven…
-	* [ ] ¿$?
+	* [ ] a building that people can walk into, walk down the (rotating) hallway, to the door they walked in through, but told it's the matrix; if you die `/itg|igl/`, you die irl
+		* they can have a protective suit for the pockets of harmful holowaves; temporal anomalies #mr_bean_vr
 	* [ ] ¿$?
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
 	* [x] filter water
