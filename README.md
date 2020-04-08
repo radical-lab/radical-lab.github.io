@@ -460,7 +460,9 @@ south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
 * i'll be 🕉 nom noming vegan margheritas in a beach house somewhere; probably in the bahamas, or some other tax haven…
 	* [ ] a building that people can walk into, walk down the (rotating) hallway, to the door they walked in through, but told it's the matrix; if you die `/itg|igl/`, you die irl
 		* they can have a protective suit for the pockets of harmful holowaves; temporal anomalies #mr_bean_vr
+		* ¿maybe have a (bungie) nitrox tether?
 	* [ ] ¿$?
+		* put them to "work"
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
 	* [x] filter water
 	* [x] mask + goggles + gloves
