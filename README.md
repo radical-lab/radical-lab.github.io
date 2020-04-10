@@ -477,6 +477,11 @@ north = disease
 	* [ ] heat all bodily inputs; including grape drink, and the water filter probably isn't enough
 * the devas just said; if you get a degree, your reward is gañjā, and doing no"-thing" for the dole because of fires, pandemics, skynet, higher dimensional aliens,..
 
+spinning particle entanglement c̄ information about last real experiment like atomic temporal invariant velocity in the yeah!!! :D
+* [ ] shoot a₀ at b₀ to know b₁
+* [ ] shoot b₁ at c₀ to know c₁, knowing b₁
+* [ ] every combination
+
 ---
 
 https://stackoverflow.com/a/44044240
