@@ -486,7 +486,7 @@ spinning particle entanglement c̄ information about last real experiment like a
 * [ ] shoot c₀ at d₀ to know d₁
 * [ ] shoot b₁ at d₁
 * [ ] every combination
-* historic entanglement, time(s),..
+* entwined through time(s)
 
 ---
 
