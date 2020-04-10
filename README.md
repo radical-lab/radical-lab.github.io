@@ -401,6 +401,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs to be developed, and i gave all my spare money to relatives to clear debts before anyone leaves like a leaf on the wind (watch how they soar away) c̄ my karma (hopefully the karma roi outways whatever the future brings; otherwise i'll go walkabout, and follow the ancients; india, australia, polynesia,..); i'm not even sure if openbci can be used for my 3D purposes…
 * [x] foreskin (abrahamic religions lead me to believe this is significant; otherwise, why do they do it for? it's like having a facehugger attached to my rock!!! :D)
 * [x] renounce wealth
+* [x] renounce humanity; year ∘ hatred
 * [ ] experiment c̄ expired coconuts; maybe wait until after covid-19… (i already have a cough, but they refused to swab me)
 * [ ] renounce material possessions #digitisation
 * [ ] bush tracking
