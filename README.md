@@ -481,6 +481,7 @@ spinning particle entanglement c̄ information about last real experiment like a
 * [ ] shoot a₀ at b₀ to know b₁
 * [ ] shoot b₁ at c₀ to know c₁, knowing b₁
 * [ ] every combination
+* if you can control the spin; you can control space(t)
 
 ---
 
