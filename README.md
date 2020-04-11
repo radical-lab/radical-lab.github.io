@@ -389,6 +389,8 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
 			* probably best to layer every"-thing"; macrodrone `/dis(c|k)s?/` (originally it was just the top; some plants are taller than others, but they can be sorted by height, unless structural support demands reconfiguration)
+				* they should be able to fly through any turbulence (including storms); by sucking in the air, and pushing it out the other side #occupy_gas_giants
+				* this is like the towers should survive the harshest environments, and natural disasters, and the bottom of the ocean, and maybe even places like inner planets, and stars #the_safest_place
 			* Korins' Tower space elevator will be in Egypt; beans will be grown inside, but don't put all your' beans in one pod!
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
 		* light speed computation using (`/shade|binary/` vs `/electromagnetic spectrum filter|n-ary/`) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
