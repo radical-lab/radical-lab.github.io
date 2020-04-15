@@ -369,7 +369,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* mirrored floor for short skirts #mancave
 		* mirrored surfaces for diamand mancave is a slavegirls' `/bff?/`
 		* at some point, (`/purple|white/`) ribbon necklace collar for pachadak nadapa (गन्धर्व विवाह; gañjā plant can bear witness), but she cam't wear any"-thing" else, not even jewelry, so it's a more meaningful moment in her life (until she is dismissed; but i'll bear her the gift of life, as a gift that keeps on giving (life), before that happens; her dismissal involes pulling on the ribbon to "set her free"; unless she agrees to follow me into the afterlife)
-		* what's my favourite joke? what do you say to a bitch with two black eyes? no"-thing"; you done told that bitch twice already #all𝄞about𝄞that𝄞bitch (math = all about that base = game)
+		* what's my favourite joke? what do you say to a bitch with two black eyes? no"-thing"; you done told that bitch twice already #all𝄞about𝄞that𝄞bitch (math = all𝄞about𝄞that𝄞base = game) (i'll dish out black eyed peas when you need to be told; you got served, manned, `(o|p)wned`, teabagged, lawyered, scienced, cured, logicised, (hippo)criticised,..)
 		* gañjā teabagging
 		* "no" + gañjā aromatherapy + "no" + ("shock" therapy) + "no" + bubble wrap bondage (stockholm syndrome) + "no" + gañjā + "no" + blindfold + "no" + gañjā + "no" + openbci + "no" + gañjā + "no" + headphones + "no" + gañjā + "no" + "guess what's in your mouth? no" game (`/(𝄞3)+/`) + "no" + gañjā + "no" + vibration massage + "no" + gañjā + "no" + hypnotherapy + gañjā + vibration "massage" + gañjā + hypnotherapy + gañjā + vibration sleep + gañjā + weekend = sharmies' angels (slavegirl harem and royal me)
 		   * hackable human unit (gagless gag reflexes, barrierless throat barrier, use the force to move their cervix to my hand,.. #noresistance #resistanceisfutile #assimilation)
@@ -488,8 +488,10 @@ north = disease
 		* ¿maybe have a (bungie) nitrox tether?
 		* casino betting; what will you see when you open the other door? (ugly) "betty" will provide "customer service" (happy ending)
 		* `/run|sprint|race(condition)?/` through a gañjā forest? you must sign a death, and injury waiver ∵ if you disturb gañjā; the sprinklers will disperse, and the drones will descend
-		* there's only two opposing doors (in the shape of thumbs?)
+		* there's only two opposable doors (in the shape of thumbs?)
 		* this is similar to the shipping container, and tentacle toke, and satellite maze; moving `/walls|floors|ceilings/`,.. #asian_e0l #alien_abduction #i_am_sure_i_`mv brain computer`_before…
+		* small ones can be: `/balancing beam|tight rope/` over water, tethered protective suited walkway,..
+		* big ones can be: gañjā jungle gym obstacle course (ninja warrior style), maze runner,..
 	* [ ] ¿$?
 		* put them to "work"; uncanny valley #3dar
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
@@ -510,6 +512,9 @@ spinning particle entanglement c̄ information about last real experiment like a
 * [ ] every combination
 * entwined through time(s)
 * one time messages; this is part of the supersecurity protocol, and is tamper proof
+* functional one time pads; you can do it in your head, like memorising π, or other patterns
+* foo = functional otp otm
+* moo = mathematical otp otm #go #go_passed_the_wizard
 
 remains: each denomination is denoted their' share of the numerator
 dividend, divisor
