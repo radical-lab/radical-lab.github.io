@@ -368,15 +368,25 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* i will just goto the manhole; man in the hole, but the hole is conical, and deep…very deep
 		* mirrored floor for short skirts #mancave
 		* mirrored surfaces for diamand mancave is a slavegirls' `/bff?/`
+		* at some point, (`/purple|white/`) ribbon necklace collar for pachadak nadapa (गन्धर्व विवाह; gañjā plant can bear witness), but she cam't wear any"-thing" else, not even jewelry, so it's a more meaningful moment in her life (until she is dismissed; but i'll bear her the gift of life, as a gift that keeps on giving (life), before that happens; her dismissal involes pulling on the ribbon to "set her free"; unless she agrees to follow me into the afterlife)
+		* what's my favourite joke? what do you say to a bitch with two black eyes? no"-thing"; you done told that bitch twice already #all𝄞about𝄞that𝄞bitch (math = all about that base = game)
+		* gañjā teabagging
 		* "no" + gañjā aromatherapy + "no" + ("shock" therapy) + "no" + bubble wrap bondage (stockholm syndrome) + "no" + gañjā + "no" + blindfold + "no" + gañjā + "no" + openbci + "no" + gañjā + "no" + headphones + "no" + gañjā + "no" + "guess what's in your mouth? no" game (`/(𝄞3)+/`) + "no" + gañjā + "no" + vibration massage + "no" + gañjā + "no" + hypnotherapy + gañjā + vibration "massage" + gañjā + hypnotherapy + gañjā + vibration sleep + gañjā + weekend = sharmies' angels (slavegirl harem and royal me)
 		   * hackable human unit (gagless gag reflexes, barrierless throat barrier, use the force to move their cervix to my hand,.. #noresistance #resistanceisfutile #assimilation)
 		   * `rm teeth #false`
 			* bootyfull soulless eyes; psychotic slavegirl training, `/(chemical )?dying|blinding/`, blank contacts, hololens,..
-				* put the old personality in a box (all other verbal communication is trained); the manowner decides whether it will ever be let out out of training (it is probably just what the new personality thinks the old personality would say anyway), but it can reinforce the training if done in an appropriate "manner"
+				* put the old personality in a box (all other verbal communication is trained; black mirror teddy bear); the manowner decides whether it will ever be let out out of training (it is probably just what the new personality thinks the old personality would say anyway), but it can reinforce the training if done in an appropriate "manner"
 				* the new personality must do what the keeper of the unsullied scourge that symbolizes manownership says (or just whatever any man says, and keep them locked up)
 					* no guessing; if it wasn't said, just don't do it, and wait for further instructions
-				* requires human sacrifices of relatives, friends,.. (can be done c̄out, but will be less effective; so try not break them after the first training; especially if you want them to slowly eat themselves, but making them watch another fall backwards onto spikes before being watched by the next while playing copycat is just one of many alternatives that is easier ∵ it is faster, and the quality of the product is less important)
+				* requires human sacrifices of `/descend(a|e)nts/`, relatives, friends, strangers,.. (can be done c̄out, but will be less effective; so try not break them after the first training; especially if you want them to slowly eat themselves, but making them watch another fall backwards onto spikes before being watched by the next while playing copycat is just one of many alternatives that is easier ∵ it is faster, and the quality of the product is less important)
 				* gagless gag reflexes, barrierless throat barrier; byproduct of pushing them passed their limits, and improving their tolerance thresholds
+				* loyalty test; give a gun, hold the paper, draw the target, she empties it into the target, but she doesn't aim at other people until told otherwise; she will take a bullet to save me; i will drown myself, and she must revive me by performing first aid, but we can start with massages, bruises, cuts,.. #bodyguard #therapist.com
+				* honesty test; how do you feel towards certain "-thing"s (relatives, friends, strangers,..), favourites (food, colours, sounds,..) #openbci
+				* initiative test; incompletely tell her to do some"-thing", she will initiatively query for requirements analysis, then she will "do the \"-thing\"!" #me_julie #https://avatar.fandom.com/wiki/Zhu_Li_Moon #wow
+				* cumposure test; she can only /cry|make bodily noises|produce bodily fluids|be (wet|horny)|breathe|eat|drink|feel (emotions|pain|happyness) (\#openbci)?/ when given permission (and her tears must taste good) #¿rose? #i_think_she_had_a_nose_ring
+				* when i fart, or give my "whoremoans" signal; she will moan, call me eminence, admire my aura,..
+				* the girl next door must lick my cum, and taste the L-worldy flavours
+				* when i piss; she will hold it with her lips
 		* bed of nails
 		* [ (卐) ] flag
 		* holoentertainment #trueman
@@ -391,6 +401,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* probably best to layer every"-thing"; macrodrone `/dis(c|k|x)s?/` (originally it was just the top; some plants are taller than others, but they can be sorted by height, unless structural support demands reconfiguration)
 				* they should be able to fly through any turbulence (including storms); by sucking in the air, and pushing it out the other side #occupy_gas_giants
 				* this is like the towers should survive the harshest environments, and natural disasters, and the bottom of the ocean, and maybe even places like inner planets, and stars #the_safest_place
+				* the occupants (all life) should not be aware of any externalities unless they query the meta.kbs; not even aware of movements like walking in a straight line, but going back, and forths, across the same street #shyams'beach
 			* Korins' Tower space elevator will be in Egypt; beans will be grown inside, but don't put all your' beans in one pod!
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
 		* light speed computation using (`/shade|binary/` vs `/electromagnetic spectrum filter|n-ary/`) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
@@ -451,7 +462,12 @@ logism.syl (√ shyams' yelling language)\
 : any"-thing" that takes /inputs?/ can be turing complete; id(x) = x, where x = "turing complete system"; personality box rewrites;..\
 : a turing complete system is provably a turing complete system if it can completely `mkturing system`\
 : we can completely `mkturing system` in this reality\
-∴ this reality is a turing complete system, and श्याम is an input
+∴ this reality is a turing complete system, and श्याम is an input\
+: god has free will\
+:\
+∴ therefore we have free will\
+ȡ (what is this? the hindu number in anglo hex)
+√ kbs ftw (or has this been done?)
 
 south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
 east = spiritual\
@@ -466,10 +482,14 @@ north = disease
 	* I haven't found (nor looked for) a strain for headaches, frustration, and mental wall blocks for problem solving
 	* I can bring papers, and matches, to `/relieve|alleviate/` the stress involved therein; post-post. #mail-order
 	* COVID-19 gives the streets to me; I feel like a wild west bandit, and everyone is hiding away.
-* i'll be 🕉 nom noming vegan margheritas in a beach house somewhere; probably in the bahamas, or some other tax haven…
+* i'll be 🕉 nom noming vegan margheritas in a beach mansion somewhere; probably in the bahamas, or some other tax haven…
 	* [ ] a building that people can walk into, walk down the (rotating) hallway, to the door they walked in through, but told it's the matrix; if you die `/itg|igl/`, you die irl
 		* they can have a protective suit for the pockets of harmful holowaves; temporal anomalies #mr_bean_vr
 		* ¿maybe have a (bungie) nitrox tether?
+		* casino betting; what will you see when you open the other door? (ugly) "betty" will provide "customer service" (happy ending)
+		* `/run|sprint|race(condition)?/` through a gañjā forest? you must sign a death, and injury waiver ∵ if you disturb gañjā; the sprinklers will disperse, and the drones will descend
+		* there's only two opposing doors (in the shape of thumbs?)
+		* this is similar to the shipping container, and tentacle toke, and satellite maze; moving `/walls|floors|ceilings/`,.. #asian_e0l #alien_abduction #i_am_sure_i_`mv brain computer`_before…
 	* [ ] ¿$?
 		* put them to "work"; uncanny valley #3dar
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
@@ -489,6 +509,10 @@ spinning particle entanglement c̄ information about last real experiment like a
 * [ ] shoot b₁ at d₁
 * [ ] every combination
 * entwined through time(s)
+* one time messages; this is part of the supersecurity protocol, and is tamper proof
+
+remains: each denomination is denoted their' share of the numerator
+dividend, divisor
 
 ---
 
