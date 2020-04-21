@@ -473,7 +473,7 @@ logism.syl (√ shyams' yelling language)\
 : the decalogue opposes euthanasia; including our neighbouring species (apes, mammals,., life,..)\
 ∴ the followers of abraham who kill, or eat, animals are sinners; according to their own religion\
 ȡ (what is this? the hindu number in anglo hex) u+221=ȡ\
-√ kbs ftw (or has this been done?) (i forgot what this was supposed to be)…
+√ kbs ftw (or has this been done?) (i forgot what this was supposed to be…)
 "to the United States of America, to found at Washington, under the name of the Smithsonian Institution, an Establishment for the increase & diffusion of knowledge among men"; i need to put quotes like this together in one place…
 
 south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
@@ -500,7 +500,7 @@ north = disease
 		* small ones can be: `/balancing beam|tight rope/` over water, tethered protective suited walkway,..
 		* big ones can be: gañjā jungle gym obstacle course (ninja warrior style), maze runner,..
 		* vertical elevator; walkways can be underground #get_smart #two_way_mirror #dark_russian_room
-		* the quoted speed is halved to allow observational analysis; if it looks like they `/know|think/` that it's moving, it will 360° (instead of 180°) #mit_vidmag
+		* the "speed" is halved to allow observational analysis; if it looks like they `/know|think/` that it's moving, it will 360° (instead of 180°) #mit_vidmag
 		* the otherside can be a mirror image of the only door; the projected surface will move out of the way, but precisely maintain the projection relative to the beyond (of the doorway frame); in other words, it will not be noticeable that the otherside is fake until it perfectly aligns perfectly with the doorway frame (the light at the end of the tunnel); (intelligent) alignment is not fake
 		* i want to break minds; including my own!!! :D
 	* [ ] ¿$?
@@ -550,20 +550,25 @@ if rms ℝ wants to disrupt the nsa attention `(let alone (* 5 e))` #√git.txt
 * especially the bar tenders...
 * world domination is in my graps!!! :D
 * humanity will be forced into nuclear disarmament...
-* i'll takedown all the tech giants....
+* i'll takedown all the tech giants...
 * humanity will be forced into proprietary disarmament...
 * i'll be like thanos, and this new infinite-gauntlet-style power at my finger tips!!! :D
 * sdos = scandal dos
 * sdos = shyams' dos
+* …
+* the police probably sell confiscated contraband online; if you're over the limit…
+* otherwise it probably goes to the politicians, and up,..
 
 why so serious? #jk
-* [ ] hands in mouth; facing away from each other #smile(i remember a dream about watching a mover that had a potato sack; the little bomber held hands c̄ their little L-worder as he self-destructed in the end #membeerberries)
+* [ ] hands in mouth; facing away from each other #smiley(i remember a dream about watching a mover that had a potato sack; the little bomber (demolitions expert) held hands c̄ their little L-worder as he self-destructed in the end #membeerberries) #lighter
 * [ ] rip face in half #face_off
 * probably easier to `/t(a|o)ke/` them from behind
-* is covid-19 `/(dust|air)-borne/`? #humidity
+* is covid-19 `/(dust|air|water)-borne/`? #humidity
 * people who vape in the company of others can get covid-19, and (forcibly) remove themselves from the gene pool; they deserve the darwin award if i rip their face off, shove it up their uranus, rip out their intestines, shove them down their throat, cave in their chest c̄ my `/fists|feet|elbows|knees|head/`, rip out their organs,.. #$rc
 
 one $rc of income can be the dole, and the other can be $uing people
+
+egyptian is the original emoji
 
 ---
 
