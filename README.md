@@ -369,7 +369,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* mirrored floor for short skirts #mancave
 		* mirrored surfaces for diamand mancave is a slavegirls' `/bff?/`
 		* at some point, (`/purple|white/`) ribbon necklace collar for pachadak nadapa (गन्धर्व विवाह; gañjā plant can bear witness), but she cam't wear any"-thing" else, not even jewelry, so it's a more meaningful moment in her life (until she is dismissed; but i'll bear her the gift of life, as a gift that keeps on giving (life), before that happens; her dismissal involes pulling on the ribbon to "set her free"; unless she agrees to follow me into the afterlife)
-		* what's my favourite joke? what do you say to a bitch with two black eyes? no"-thing"; you done told that bitch twice already #all𝄞about𝄞that𝄞bitch (math = all𝄞about𝄞that𝄞base = game) (i'll dish out black eyed peas when you need to be told; you got served, manned, `(o|p)wned`, teabagged, lawyered, scienced, cured, logicised, (hippo)criticised,..)
+		* what's my favourite joke? what do you say to a bitch with two black eyes? no"-thing"; you done told that bitch twice already #all𝄞about𝄞that𝄞bitch (math = all𝄞about𝄞that𝄞base = game) (i'll dish out black eyed peas when you need to be told; you got served, manned, `(o|p)wned`, teabagged, lawyered, scienced, cured, logicised, (hippo)criticised, disproven,..)
 		* gañjā teabagging
 		* "no" + gañjā aromatherapy + "no" + ("shock" therapy) + "no" + bubble wrap bondage (stockholm syndrome) + "no" + gañjā + "no" + blindfold + "no" + gañjā + "no" + openbci + "no" + gañjā + "no" + headphones + "no" + gañjā + "no" + "guess what's in your mouth? no" game (`/(𝄞3)+/`) + "no" + gañjā + "no" + vibration massage + "no" + gañjā + "no" + hypnotherapy + gañjā + vibration "massage" + gañjā + hypnotherapy + gañjā + vibration sleep + gañjā + weekend = sharmies' angels (slavegirl harem and royal me)
 		   * hackable human unit (gagless gag reflexes, barrierless throat barrier, use the force to move their cervix to my hand,.. #noresistance #resistanceisfutile #assimilation)
@@ -465,9 +465,16 @@ logism.syl (√ shyams' yelling language)\
 ∴ this reality is a turing complete system, and श्याम is an input\
 : god has free will\
 :\
-∴ therefore we have free will\
-ȡ (what is this? the hindu number in anglo hex)
-√ kbs ftw (or has this been done?)
+∴ we have free will\
+: free will is a feature of god\
+: god created us in HIS image\
+∴ free will is a feature of all life\
+: adam, and eve, wore leaves in the garden of eden; instead of wearing dead animals\
+: the decalogue opposes euthanasia; including our neighbouring species (apes, mammals,., life,..)\
+∴ the followers of abraham who kill, or eat, animals are sinners; according to their own religion\
+ȡ (what is this? the hindu number in anglo hex) u+221=ȡ\
+√ kbs ftw (or has this been done?) (i forgot what this was supposed to be)…
+"to the United States of America, to found at Washington, under the name of the Smithsonian Institution, an Establishment for the increase & diffusion of knowledge among men"; i need to put quotes like this together in one place…
 
 south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
 east = spiritual\
@@ -492,6 +499,10 @@ north = disease
 		* this is similar to the shipping container, and tentacle toke, and satellite maze; moving `/walls|floors|ceilings/`,.. #asian_e0l #alien_abduction #i_am_sure_i_`mv brain computer`_before…
 		* small ones can be: `/balancing beam|tight rope/` over water, tethered protective suited walkway,..
 		* big ones can be: gañjā jungle gym obstacle course (ninja warrior style), maze runner,..
+		* vertical elevator; walkways can be underground #get_smart #two_way_mirror #dark_russian_room
+		* the quoted speed is halved to allow observational analysis; if it looks like they `/know|think/` that it's moving, it will 360° (instead of 180°) #mit_vidmag
+		* the otherside can be a mirror image of the only door; the projected surface will move out of the way, but precisely maintain the projection relative to the beyond (of the doorway frame); in other words, it will not be noticeable that the otherside is fake until it perfectly aligns perfectly with the doorway frame (the light at the end of the tunnel); (intelligent) alignment is not fake
+		* i want to break minds; including my own!!! :D
 	* [ ] ¿$?
 		* put them to "work"; uncanny valley #3dar
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
@@ -515,9 +526,44 @@ spinning particle entanglement c̄ information about last real experiment like a
 * functional one time pads; you can do it in your head, like memorising π, or other patterns
 * foo = functional otp otm
 * moo = mathematical otp otm #go #go_passed_the_wizard
+* f(t); time = t = tamper-evidence
+* i want to `rm secrecy`…
+* i want to `mkvacwm 99.(9)%`… (𝄞⅓)
 
 remains: each denomination is denoted their' share of the numerator
 dividend, divisor
+(ab)surd is probably from the middle east; i imagine towel heads when i think of "surds", but i don't think of hindus, even though curd steaks…
+
+alice in wonderland c̄ playboy bunnygirl who is late for a date c̄ the mad hatter; gañjā teaparty, kāmasūtra chuckie chuckie,..
+fritz the cat; wubba lubba dub-dub in the tub,.. #get_schwifty! #got_milk?
+
+if rms ℝ wants to disrupt the nsa attention `(let alone (* 5 e))` #√git.txt
+* assassinate donald trump
+* bomb the white house
+* ...
+* mail-order drugs to unsolicited addresses via tor via cryptocurrency
+* i bet i can singlehandedly takedown every world leader...
+* like ddos attack...
+* i'll target every politician in the world...
+* all military personnel as well...
+* all government workers; including bar tenders...
+* especially the bar tenders...
+* world domination is in my graps!!! :D
+* humanity will be forced into nuclear disarmament...
+* i'll takedown all the tech giants....
+* humanity will be forced into proprietary disarmament...
+* i'll be like thanos, and this new infinite-gauntlet-style power at my finger tips!!! :D
+* sdos = scandal dos
+* sdos = shyams' dos
+
+why so serious? #jk
+* [ ] hands in mouth; facing away from each other #smile(i remember a dream about watching a mover that had a potato sack; the little bomber held hands c̄ their little L-worder as he self-destructed in the end #membeerberries)
+* [ ] rip face in half #face_off
+* probably easier to `/t(a|o)ke/` them from behind
+* is covid-19 `/(dust|air)-borne/`? #humidity
+* people who vape in the company of others can get covid-19, and (forcibly) remove themselves from the gene pool; they deserve the darwin award if i rip their face off, shove it up their uranus, rip out their intestines, shove them down their throat, cave in their chest c̄ my `/fists|feet|elbows|knees|head/`, rip out their organs,.. #$rc
+
+one $rc of income can be the dole, and the other can be $uing people
 
 ---
 

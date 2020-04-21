@@ -17,10 +17,13 @@ turing(rng(T)), kryten(rng(T)). % test (afterafterthought)
 golf(A,Z). % self-improving (optimal refactoring)
 golf(golf(A,Z),ZZ). % code golf vs space golf vs time golf vs space:time golf #sizematters #coREsources
 golf(quine(),Z).
+eta(A(T),E), E = [Min,.,Max]. % are we there yet? E :- sort(Avg,Mæn,..). % but Mæn must always be last ∵ nice𝄞guys𝄞finish𝄞last #size_matters
+esa(A(S),E), E = [Min,.,Max]. % only bring needs! E :- sort(Avg,Mæn,..). % but Mæn must always be last ∵ nice𝄞guys𝄞finish𝄞last #size_matters
 vulnerabilities(A,Z). % if Z is silent then A is invulnerable
 vulnerabilities(vulnerabilities(A,Z),ZZ). % self-destructive vulnerabilities/2 can be "undetectable"
 formal(X). % ∄y
 formal(formal(X)). % ¿is there such a "-thing" as too formal?
+middle_terms(X,Y,Z). % common factors
 % self-application
 % f(x) = y
 % f(f(x)) = f′(x) = y′
