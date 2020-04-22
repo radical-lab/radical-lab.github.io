@@ -570,6 +570,26 @@ one $rc of income can be the dole, and the other can be $uing people
 
 egyptian is the original emoji
 
+unix.pl
+* [ ] diff/2
+* [ ] diff/3
+* [ ] tr/2
+
+plan goku
+* [ ] get covid-19
+* [ ] recover from the debilitating viral strain that's had me out of commission for so long
+* [ ] ready to put my plan into action
+* [ ] get into fighting shape
+* [ ] get a years worth of intense training in just one day
+* at some point i need to wave a hyperbolic time chamber in a microverse battery; or just a paradoxical time loop (my otherselves can break me out when i am ready)
+* time capsule…
+bruce lee = master roshi + goku z = super saiyan turtle hermit
+i thought gohan was the first super saiyan… (the first time garlic junior was sent to the void?)
+rick sanchez looks like a saiyan…
+toei is toy; right?
+db is a rock, and two nuts; right? got balls? "pat you \"down\"" has new meaning; braille ballz
+dbz is plural db; right? dragonball -> dragonballs -> dragonballz -> dragonball z
+
 ---
 
 https://stackoverflow.com/a/44044240
