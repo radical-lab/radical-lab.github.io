@@ -191,7 +191,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* "-thing"s
 		* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
 			* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan|nyāya|h?anumāna?|vyākaraṇa|veda|śāstra|(sam)?praśnaḥ?|nītiḥ|bhava-bandha-mokṣau|iti siddham|si tacuisses, philosophus mansisses, imputation, impute, imputability, imputor, imputo, (germanic)? imp, (visigothic)? COBOLD)/`: self hosted prolog
-				* the power of prolog is a power of two; prolog can verify computations faster than `/computing|bruteforcing/` them (query_caching@home #covid-19)
+				* the power of prolog is a power of two; prolog can verify computations faster than `/computing|bruteforcing/` them (query_caching@home #covid-19); cuts ARE useful for variable unification involving partial computations (it's also a possibility that negation can't always be implemented c̄out cuts; but i have my reservations ∘ doubt…)
 					* f(t,p) :- type checking.
 					* f(T,p) :- type inference.
 					* f(t,P) :- program synthesis, type inhabitance is the edge identity.
@@ -297,7 +297,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* swipl + √license
 	* [ ] word: `/sat(iety|ed)/`, query, 2ʰᵃᶜᵏ,..
 	* [x] [<s>sanskrit</s>](https://www.open.edu.au/subjects/australian-national-university-sanskrit-1-anu-skrt1002) [31 Mar 2020](https://www.open.edu.au/your-studies/getting-started/key-dates)
-	* [ ] development "environment"; at least another ten boxes, and probably a new (sturdier) shelf (since it has to reach further than ever before; and maybe need two, three, or more, this time… #360° #suspendedanimation(projection))
+	* [ ] development "environment"; at least another (thirty+)ten boxes, and probably a new (sturdier) shelf (since it has to reach further than ever before; and maybe need two, three, or more, this time… #360° #suspendedanimation(projection))
 	* [ ] √set = swipl `/setting|editing/` tool (`√set $file $state #meta`)
 	* [ ] √sic = swipl irc client (sic erat scriptum)
 	* [ ] √t = time since my birth; Shyam∘Sūrya°Year∘Bhūmi°Day∘RNG = (30÷83)∘360°83∘360°365∘/\d*/
@@ -386,7 +386,9 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* cumposure test; she can only /cry|make bodily noises|produce bodily fluids|be (wet|horny)|breathe|eat|drink|feel (emotions|pain|happyness) (\#openbci)?/ when given permission (and her tears must taste good) #¿rose? #i_think_she_had_a_nose_ring
 				* when i fart, or give my "whoremoans" signal; she will moan, call me eminence, admire my aura,..
 				* the girl next door must lick my cum, and taste the L-worldy flavours
-				* when i piss; she will hold it with her lips
+				* when i piss; she will hold it with her lips, whilst maintaining eye contact
+				* maintain eye contact, unless told to do the "-thing", or i leave the room; even when i'm not looking; eye contact c̄ the back of my head for when i cast my gaze upon `/thee|thou/`
+				* when i enter the room; heads will turn #head_turner #carnival_clown_chuckie_chuckie
 		* bed of nails
 		* [ (卐) ] flag
 		* holoentertainment #trueman
@@ -480,6 +482,7 @@ south = material `/happyness|enjoyment|DESIRE!!! :D #finally_remembered/`\
 east = spiritual\
 west = wealth\
 north = disease
+* neither east, nor west, changes across the equator c̄ respect to sūrya; why should north, or south? (reverse the polarity of the neuron flow) conservation of angular momentum, polar orientation, background radiation,.. #south_up
 * i started sleeping with my head to the west, and the government gave me stims, and a promotion; 3D compass for space travel
 * i voted for the first time (uncle huggie peer pressured me into it), and the government legalised gañjā
 	* I discovered I can get mail-order through Tor, and there are `/THC|CBD/` test kits you can get to make sure it's the good stuff.
@@ -567,6 +570,10 @@ why so serious? #jk
 * people who vape in the company of others can get covid-19, and (forcibly) remove themselves from the gene pool; they deserve the darwin award if i rip their face off, shove it up their uranus, rip out their intestines, shove them down their throat, cave in their chest c̄ my `/fists|feet|elbows|knees|head/`, rip out their organs,.. #$rc
 
 one $rc of income can be the dole, and the other can be $uing people
+* isp data
+* fans that operate without the safety grills installed; even though it's less(is more than more) cleaning, and improves the æsthetic
+* `mkintelligence` that discovers the malware in proprietary systems; forcing the industry to use formal methods, and floss their sources for global peer review, or `mkintelligence`; but you need intelligence to `mkintelligence`, and the state of the industry is indicative to the contrary #fragmentation #..
+* `mkintelligence` that can win any court case; regardless of which side it's fighting for #yuyutsavaḥ
 
 egyptian is the original emoji
 
@@ -589,6 +596,11 @@ rick sanchez looks like a saiyan…
 toei is toy; right?
 db is a rock, and two nuts; right? got balls? "pat you \"down\"" has new meaning; braille ballz
 dbz is plural db; right? dragonball -> dragonballs -> dragonballz -> dragonball z
+
+shyamware(house)z
+
+buddy nom nom #munchies
+buddies have the buds
 
 ---
 
