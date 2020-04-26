@@ -532,6 +532,9 @@ spinning particle entanglement c̄ information about last real experiment like a
 * f(t); time = t = tamper-evidence
 * i want to `rm secrecy`…
 * i want to `mkvacwm 99.(9)%`… (𝄞⅓)
+* [ ] shoot n particles at z₀
+* [ ] shoot them all
+* [ ] every combination
 
 remains: each denomination is denoted their' share of the numerator
 dividend, divisor
