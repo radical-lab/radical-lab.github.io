@@ -191,7 +191,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* "-thing"s
 		* programming language implementations: virtual machines (generalised src-src compiler), n-ary compiler (optimiser), interactive interpreter (repl; just jit the instructions through the compiler with `/minimal|timed|optimised/` optimisations), scripting interpreter (unix shell scripts; just map the script through the repl, or map the repl over the script), unix shell interpreter (could just perl it, and `/merge|fuse|parasit(e|ism)|cleaner fish/` [unix](https://www.iflscience.com/plants-and-animals/cleaner-fish-may-make-other-fish-in-the-sea-smarter/) into the language)
 			* `/√(rules|assumptions|arguments|parameters|falsified realities|kbs|intelligences?|powers?|impossibilities|anomalies|mitigations|linguist|brute|force|jedi|mind|tricks|brain|cellular automata|systems?|logic|flp|vulcan|nyāya|h?anumāna?|vyākaraṇa|veda|śāstra|(sam)?praśnaḥ?|nītiḥ|bhava-bandha-mokṣau|iti siddham|si tacuisses, philosophus mansisses, imputation, impute, imputability, imputor, imputo, (germanic)? imp, (visigothic)? COBOLD)/`: self hosted prolog
-				* the power of prolog is a power of two; prolog can verify computations faster than `/computing|bruteforcing/` them (query_caching@home #covid-19); cuts ARE useful for variable unification involving partial computations (it's also a possibility that negation can't always be implemented c̄out cuts; but i have my reservations ∘ doubt…)
+				* the power of prolog is a power of two; prolog can verify computations faster than `/computing|bruteforcing/` them (query_caching@home #covid-19) (hardware fault detection); cuts ARE useful for variable unification involving partial computations (it's also a possibility that negation can't always be implemented c̄out cuts; but i have my reservations ∘ doubt…)
 					* f(t,p) :- type checking.
 					* f(T,p) :- type inference.
 					* f(t,P) :- program synthesis, type inhabitance is the edge identity.
@@ -397,13 +397,17 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* (jedi force) particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting|waves/`,..
 			* wave suspension is a metahack #brainwaves2reachahigherstateofbrainfunctionandescapethisrealityoreditspacetimewhereshyamwillbethemannestmanandallothermenwillberewrittenasfemalesandalllostlivesrevivedandtherewillbeashyamforallandtoshareexperientialpossibilitiesinshyamaloka
 			* single source, single projection; (3D) whispering gallery (diamond mancave)
-		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support, atom powered atom bots,..
+		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support (cooling for controlled descent, and even controlled ascent; shifting weights are low tech stabilisers, and also good for manual override, but minimal science kbs for thermal control units is a good idea too), atom powered atom bots,..
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
+			* satellites can be at any altitude
 			* probably best to layer every"-thing"; macrodrone `/dis(c|k|x)s?/` (originally it was just the top; some plants are taller than others, but they can be sorted by height, unless structural support demands reconfiguration)
 				* they should be able to fly through any turbulence (including storms); by sucking in the air, and pushing it out the other side #occupy_gas_giants
 				* this is like the towers should survive the harshest environments, and natural disasters, and the bottom of the ocean, and maybe even places like inner planets, and stars #the_safest_place
 				* the occupants (all life) should not be aware of any externalities unless they query the meta.kbs; not even aware of movements like walking in a straight line, but going back, and forths, across the same street #shyams'beach
+				* hackable materials can detect err; parallel signals indicate bending moment, sheer force,.. (this belongs in the construction materials supersection, but; whatever, whatever,..)
+				* solar power top; air locks, and wind turbines, underneath
+				* sailing on a silver mist; it can be weighted, balanced, and thermally controled, to sit on the clouds, and even collect "rain" water, and also create stealth clouds
 			* Korins' Tower space elevator will be in Egypt; beans will be grown inside, but don't put all your' beans in one pod!
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
 		* light speed computation using (`/shade|binary/` vs `/electromagnetic spectrum filter|n-ary/`) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
@@ -444,6 +448,10 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 		* I'll have to bake a box of vegan dough with nuts in it, and put it on their' car!!! :D
 		* I'll spray the bike different colours, each time I reconfigure the plates…
 		* the base coat will be neither
+	* nitrox? is(n't) that a "-thing"?
+	* shifting weights as tank(s) empties, but not specifically for human detection
+	* shifting weights in different places; known vs unkown(rng), for human detection
+	* when the bike is not level, the parachute will be triggered; gyroscopes,.. (water levelling probably won't operate correctly under these conditions)
 * [ ] echolocation
 * [ ] tuvan throat singing, voice acting; `mkany sound` is to `mkany brainwave`
 * [ ] sanskrit fluency
@@ -599,11 +607,104 @@ rick sanchez looks like a saiyan…
 toei is toy; right?
 db is a rock, and two nuts; right? got balls? "pat you \"down\"" has new meaning; braille ballz
 dbz is plural db; right? dragonball -> dragonballs -> dragonballz -> dragonball z
+bakoooom is kaboooom; right?
+bouncey bouncey is pafu pafu is fapu fapu; right? or is it ufap ufap? like fook yu, and fook mi?
+some think goku never earned his living; but the ox king was fortunate enough, and frequented regularly enough #fan_theory_busted
+i also remember claims that he shouldn't be able to ride clouds;..
+* what happens if you keep your muscles contracted? like staying super saiyan all of the time
 
 shyamware(house)z
 
-buddy nom nom #munchies
-buddies have the buds
+i might start a business that combines gañjā c̄ mahā-prasāda for one "special" $auce, and promotes # as a good character
+* name: buddy nom nom #munchies #hash #..
+* /tagline|motto/: buddies have the buds
+a foreign "buddy" just threatened me, after attempting to scam me out of desperation before fleeing the country, but i know where he lives, and i'm planning to make it look like covid-19 to cast away any suspicions… (burn buddy burn!!! :D …this event further fuels my raging 12020 hatred ∘ humanity)
+
+openbci + education = augmented learning #lobes #ferengi
+parkour game = jumping cellular automata gaps bridges them closer together like shenmue fighting they will value drift ÷ t time
+how do you control the (sub)pixels at the electrical level? black light ≠ off, disable all blue subpixels,..
+
+mental health, and physical health, can be two $rc; my exception for both is f(x)=(श्याम×(x+1×[x=2×⌈y⌉]))÷2
+shyamscript dīkṣās improve mathematics; f(x) can be f×(x), unless explicit notation is constant
+…
+: \implies{, z: \and{, a, b, c,..}}
+…
+: premise
+: s
+∴ conclusion
+∵ docommentation \: string
+…
+∴ conclusion: premise :s(ic)
+…
+(implies z (and a b c …))
+(implied-by z (and a b c …))
+(conclusion-premises z (and a b c …))
+…
+(<- z (and a b c …))
+(<- z (and a b c /(.+)?/))
+(<- z T)
+…
+(<= z (and a b c …))
+(<= z (and a b c /(.+)?/))
+(<= z ⊤)
+…
+black background
+white textground
+orange is whatever is most important; perhaps unification? unless i used more than just unification to implement reversible negation c̄out cuts
+⊤ = green ≠ T
+⊥ = red ≠ err
+
+mexican tacos
+* [x] can of diced tomatoes (vegan)
+* [ ] gañjā c̄ immersion circulator
+* [x] salt; himalayan, but need to try cruelty free black salt, herbamere(kelp? they could've avoided my /reluctance|indecisiveness|undecidability/),..
+* [x] habanero (wash the skin before ripping it apart like it's somebodies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D)
+* [x] can of corns (vegan)
+* [x] can of beans (vegan, organic)
+* [x] rice cooker
+* coolants
+	* dairy
+		* [ ] milk (vegan, organic; especially if it's /soupy|watery/, which is better than it drying out, which makes it difficult to clean the rice cooker c̄ toilet paper, which i can stop doing again after covid-19; just keep cooking, just keep cooking, just keep cooking, cooking, cooking, what do we do? we cook, cook, cook,.; i am sometimes known to clean my rice cooker if i haven't used it in a while…)
+		* [x] cheese (vegan, melted; i hate vegan cheddar, but i think it's better than vegan mozzarella; need to give it a chance, but not eat it out of the bag this time)
+		* [ ] butter (vegan; this doesn't make it murky like the milk, but it did taste good, but i put way too much in trying to make it murky, and i thought i was going to die, but maybe i shouldn't have eaten it all in one go…)
+	* [x] avocado (wash the skin before peeling) c̄ bamboo cutlery (scrape it into guacamole)
+* [ ] vegvit
+* [ ] flaxseed oil
+* [x] tacos = bread c̄ vegan butter c̄ bamboo cutlery
+* n taco per hour
+
+all the "-thing"s
+* [ ] clothes; all black, like a ninja, but i need a (quadruple:normal,black,disguise,black,normal) disguise to kill a "buddy" (/double|multi/ quick change)
+* [ ] lock picks; better to make my own to avoid any evidence against my alibi(s)
+* [ ] metal baseball bat (i guess i also need an alibi ball to go c̄…)
+* [ ] knife (i can make a case for it; out of /cardboard|paper/, and tape, but it should look like a baseball prop; a katana could fit in a tee…)
+* [ ] whetstone
+* [ ] molotov cocktails
+* [ ] drone(s) (recon, police tracking, neighbour hood watch watching, lock picking, window scratching, gasing, gagging, bondaging, extraction, torturing, forced labour whipping, speech synthesis, avian camouflage,..)
+* i need to make my own communication hardware from scratch; cryptography isn't enough
+* [ ] gun(s) c̄ silencer(s) (whisper "(hello)" to my little friend; /hit?h/' name is World)
+* [ ] gañjā (i'm running low; oṃ śivāya namaḥ, patraṁ puṣpaṁ phalaṁ toyaṁ,..)
+* [ ] 0.001 scale
+* [ ] a dozen boveda packs
+* [ ] hippy smokebuddy (i already have a rasta grinder; i need a śiva chillum)
+* [ ] immersion circulator
+* [ ] hydrology9
+* [ ] vegvit
+* [ ] flaxseed oil
+* [ ] universal_pseudointelligent-telephone_chargers.usb (wait; this is just a standard usb? who needs turbo charge…)
+* [ ] 2, or 3, cheapest android phones
+* [ ] boxes
+* [ ] watt meters
+* [ ] extensions
+* [ ] powerboards
+* [ ] vegan
+	* [ ] headphones: (no plastic; gloves + habanero = headphone microplastics are insignificant), wired, noise cancelling, over ear,..
+	* [ ] gumboots
+	* [ ] van: gear stick inbetween the middle seat legs, mattress in the windowless back, tinted windows, roll cage, rear view s/mirror/camera/,.. (diy security system: 360°×360° cameras, echolocation sonar, radar,., blackbox, jamming pings to toggle stealth-mode, live streaming, gps tracking,..)
+* [ ] linux compatible hardware: raspberry pi + raspbian = √radical + prolog + (hydro)electronics + ☥42 + 𝄞03 + $rc +..
+* [ ] entertainment hardware: apu(amd + ati = i like when brickworks together; expection = intel + nvidia; nvidia claims invention of gpu, kind of like intel, and cpu, but they both overcharge, and none of the big s/four/three/ are open)
+* [ ] openbci
+* [ ] debt($0÷$36872.18@help) …i have $272.97 super; why can't they put that into it? that /coupled|paired/ c̄ promotion should even it out to $30k (it's kind of an odd even though)
 
 ---
 
