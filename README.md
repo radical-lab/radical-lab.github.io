@@ -397,7 +397,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* (jedi force) particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting|waves/`,..
 			* wave suspension is a metahack #brainwaves2reachahigherstateofbrainfunctionandescapethisrealityoreditspacetimewhereshyamwillbethemannestmanandallothermenwillberewrittenasfemalesandalllostlivesrevivedandtherewillbeashyamforallandtoshareexperientialpossibilitiesinshyamaloka
 			* single source, single projection; (3D) whispering gallery (diamond mancave)
-		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support (cooling for controlled descent, and even controlled ascent; shifting weights are low tech stabilisers, and also good for manual override, but minimal science kbs for thermal control units is a good idea too), atom powered atom bots,..
+		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support (cooling for controlled descent, and even heating for controlled ascent; shifting weights are low tech stabilisers, and also good for manual override, but minimal science kbs for thermal control units is a good idea too), atom powered atom bots,..
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
 			* satellites can be at any altitude
@@ -407,7 +407,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 				* the occupants (all life) should not be aware of any externalities unless they query the meta.kbs; not even aware of movements like walking in a straight line, but going back, and forths, across the same street #shyams'beach
 				* hackable materials can detect err; parallel signals indicate bending moment, sheer force,.. (this belongs in the construction materials supersection, but; whatever, whatever,..)
 				* solar power top; air locks, and wind turbines, underneath
-				* sailing on a silver mist; it can be weighted, balanced, and thermally controled, to sit on the clouds, and even collect "rain" water, and also create stealth clouds
+				* sailing on a silver mist; it can be weighted, balanced, and thermally controlled, to sit on the clouds, and even harvest "rain" water, and also create stealth clouds
 			* Korins' Tower space elevator will be in Egypt; beans will be grown inside, but don't put all your' beans in one pod!
 		* instant (redundant replicators) teleportation + anti-gravity (no design limitations like 3 dimensional printing) = bypass tongue + most convenient toilet (there is no toilet,..) +..
 		* light speed computation using (`/shade|binary/` vs `/electromagnetic spectrum filter|n-ary/`) shadow puppetry; true parallelism #3Dhacking #flipdot #microcellularautomata(3D)
@@ -447,11 +447,13 @@ i just discovered how to do some"-thing" remarkable c̄ my brain, but it needs t
 		* I'll do donuts around them…
 		* I'll have to bake a box of vegan dough with nuts in it, and put it on their' car!!! :D
 		* I'll spray the bike different colours, each time I reconfigure the plates…
-		* the base coat will be neither
+		* the /base|intermediary/ coat(s) will be neither
 	* nitrox? is(n't) that a "-thing"?
 	* shifting weights as tank(s) empties, but not specifically for human detection
-	* shifting weights in different places; known vs unkown(rng), for human detection
+	* shifting weights in different places; known vs unkown(rng), specifically for human detection
 	* when the bike is not level, the parachute will be triggered; gyroscopes,.. (water levelling probably won't operate correctly under these conditions)
+	* a smaller parachute will be exploded out, like an air bag of /(pre|de)?compressed/ air, to drag the bigger parachute
+	* maybe an iron man suit; maybe an iron man moto
 * [ ] echolocation
 * [ ] tuvan throat singing, voice acting; `mkany sound` is to `mkany brainwave`
 * [ ] sanskrit fluency
@@ -504,7 +506,7 @@ north = disease
 	* [ ] a building that people can walk into, walk down the (rotating) hallway, to the door they walked in through, but told it's the matrix; if you die `/itg|igl/`, you die irl
 		* they can have a protective suit for the pockets of harmful holowaves; temporal anomalies #mr_bean_vr
 		* ¿maybe have a (bungie) nitrox tether?
-		* casino betting; what will you see when you open the other door? (ugly) "betty" will provide "customer service" (happy ending)
+		* casino betting; what will you see when you open the other door? (ugly) "betty" will provide "customer service" (happy ending); betty can have a shiny \H on her forehead so the gamblers know she is a smoke-mechanical lighty-light undulating holographical projection so they don't touch her time dilating "hotness", and she can wear mutated vampire glitter-girl makeup, and no genitalia, and a third undulating /boobie|nipple/, and a gañjā fish bowl bubble bobble over her head (covid-19 sho; safety first, and get the job done (in time; deliberate ambiguity to further reduce productivity, and thereby `rm ambiguity` which establishes a time loop just to erase it in)), ugly betty must also have big openbci ferengi lobes, and maybe an openbci trunk, and maybe even magical unicorn tusks that holȯght up, and an openbci back tail that can reach her trunk in 4D, and openbci playboy bunny ears, and bootyfull soulless eyes, and have a luck of the irish accent, and winners dump a load of smeg on her head (cold doodle bukkake), and she can have openbci chicken wings, and she will be nude to support the topless movement (or topfree, but less is more than more; √pseudocut.pl), and losers must wear \H tilaka whilst /chanting|singing/ happy bettys' name (actress + goddess = this is going to look so good on the old cv), and winners can use jedi mind tricks to control her openbci ∵ winners rebel against the system,..
 		* `/run|sprint|race(condition)?/` through a gañjā forest? you must sign a death, and injury waiver ∵ if you disturb gañjā; the sprinklers will disperse, and the drones will descend
 		* there's only two opposable doors (in the shape of thumbs?)
 		* this is similar to the shipping container, and tentacle toke, and satellite maze; moving `/walls|floors|ceilings/`,.. #asian_e0l #alien_abduction #i_am_sure_i_`mv brain computer`_before…
@@ -514,8 +516,16 @@ north = disease
 		* the "speed" is halved to allow observational analysis; if it looks like they `/know|think/` that it's moving, it will 360° (instead of 180°) #mit_vidmag
 		* the otherside can be a mirror image of the only door; the projected surface will move out of the way, but precisely maintain the projection relative to the beyond (of the doorway frame); in other words, it will not be noticeable that the otherside is fake until it perfectly aligns perfectly with the doorway frame (the light at the end of the tunnel); (intelligent) alignment is not fake
 		* i want to break minds; including my own!!! :D
-	* [ ] ¿$?
-		* put them to "work"; uncanny valley #3dar
+		* put them to "work"; uncanny valley #3dar #bonu$
+	* [ ] a building that is bigger on the inside
+		* moving /mazes|stairs|ventilation (ducts|shafts|crawl spaces)/ #asian_e0l #alien_abduction #i_am_sure_i_`mv brain computer`_before…
+		* ∞ mirrors
+		* distorting mirrors
+		* house of mirrors
+		* ames (artificial gravity) /rooms|spaces/
+		* get smart air-lock tardis; oh, this is not really a new $rc after all…
+			* air-lock, and floor, both move diametrically opposite; imperfect cell(z)…
+			* biometric authentication is time consuming…
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
 	* [x] filter water
 	* [x] mask + goggles + gloves
@@ -615,10 +625,15 @@ i also remember claims that he shouldn't be able to ride clouds;..
 
 shyamware(house)z
 
-i might start a business that combines gañjā c̄ mahā-prasāda for one "special" $auce, and promotes # as a good character
+i might start a business that combines gañjā c̄ mahā-prasāda for one "special" $auce, and promotes \# as a good character
+* uniform: https://github.com/radical-lab/con/blob/master/art
+* banner: sideways flag flapping down an intimidating stone cold græy building, like dænerys' hatred ∘ humanity
+* flag: [ (卐) ]
+* logo: ॐ (nom nom)
 * name: buddy nom nom #munchies #hash #..
 * /tagline|motto/: buddies have the buds
 a foreign "buddy" just threatened me, after attempting to scam me out of desperation before fleeing the country, but i know where he lives, and i'm planning to make it look like covid-19 to cast away any suspicions… (burn buddy burn!!! :D …this event further fuels my raging 12020 hatred ∘ humanity)
+maybe i just want to kill somebuddy…
 
 openbci + education = augmented learning #lobes #ferengi
 parkour game = jumping cellular automata gaps bridges them closer together like shenmue fighting they will value drift ÷ t time
@@ -652,13 +667,14 @@ black background
 white textground
 orange is whatever is most important; perhaps unification? unless i used more than just unification to implement reversible negation c̄out cuts
 ⊤ = green ≠ T
-⊥ = red ≠ err
+⊥ = red ≠ err = græy
+(maybe swap err, and textground)
 
 mexican tacos
 * [x] can of diced tomatoes (vegan)
 * [ ] gañjā c̄ immersion circulator
 * [x] salt; himalayan, but need to try cruelty free black salt, herbamere(kelp? they could've avoided my /reluctance|indecisiveness|undecidability/),..
-* [x] habanero (wash the skin before ripping it apart like it's somebodies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D)
+* [x] habanero (wash the skin before ripping it apart like it's somebuddies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D)
 * [x] can of corns (vegan)
 * [x] can of beans (vegan, organic)
 * [x] rice cooker
@@ -680,10 +696,11 @@ all the "-thing"s
 * [ ] knife (i can make a case for it; out of /cardboard|paper/, and tape, but it should look like a baseball prop; a katana could fit in a tee…)
 * [ ] whetstone
 * [ ] molotov cocktails
-* [ ] drone(s) (recon, police tracking, neighbour hood watch watching, lock picking, window scratching, gasing, gagging, bondaging, extraction, torturing, forced labour whipping, speech synthesis, avian camouflage,..)
+* [ ] drone(s) (recon, police tracking, neighbour hood watch watching, lock picking, beak window scratching, gasing, gagging, bondaging, extraction, torturing, forced labour whipping, speech synthesis, avian camouflage,..)
 * i need to make my own communication hardware from scratch; cryptography isn't enough
 * [ ] gun(s) c̄ silencer(s) (whisper "(hello)" to my little friend; /hit?h/' name is World)
 * [ ] gañjā (i'm running low; oṃ śivāya namaḥ, patraṁ puṣpaṁ phalaṁ toyaṁ,..)
+* [X] colourful qizen plasma portal lighter; this only took about two months to get to me, it should be delivered to my bedroom tomorrow as demanded (i am still waiting before i order any"-thing" else, so i'm not expecting, nor unsuspecting, but iprefer gañjā)
 * [ ] 0.001 scale
 * [ ] a dozen boveda packs
 * [ ] hippy smokebuddy (i already have a rasta grinder; i need a śiva chillum)
@@ -702,9 +719,15 @@ all the "-thing"s
 	* [ ] gumboots
 	* [ ] van: gear stick inbetween the middle seat legs, mattress in the windowless back, tinted windows, roll cage, rear view s/mirror/camera/,.. (diy security system: 360°×360° cameras, echolocation sonar, radar,., blackbox, jamming pings to toggle stealth-mode, live streaming, gps tracking,..)
 * [ ] linux compatible hardware: raspberry pi + raspbian = √radical + prolog + (hydro)electronics + ☥42 + 𝄞03 + $rc +..
+* [ ] carpentry tools: (s/bookcase/ramdisx drivebays (make it look dangerous, and `$command @args` instead of a booklever)/ hydro) computer tower, ups, massive battery, redundancy systems, easy-clean-filter positive turbofan, electromagnetic-surfaced /clean|cool|vacwm/ room, faraday cage, (¿bubbly=dusty? iprefer filterless) mineral oil immersion circulator in a tub
 * [ ] entertainment hardware: apu(amd + ati = i like when brickworks together; expection = intel + nvidia; nvidia claims invention of gpu, kind of like intel, and cpu, but they both overcharge, and none of the big s/four/three/ are open)
 * [ ] openbci
 * [ ] debt($0÷$36872.18@help) …i have $272.97 super; why can't they put that into it? that /coupled|paired/ c̄ promotion should even it out to $30k (it's kind of an odd even though)
+
+human perception
+it's not only /visual|auditory|illusory/ phenomenon; but also biochemical,..
+dna testing for intoxicants isn't indicative of intoxicating experience; just like allergies,..
+brainwaves may even appear to be equal, but each odd perspective can be different
 
 ---
 
