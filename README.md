@@ -777,6 +777,23 @@ i think i need to forget about electronics, and go for parallel distributed comp
 who needs speed? i just want fault tolerance!
 technically, i'm getting two sources of income from the dole; my vedic astrology is keeping true to his word, and this recent even is indicative that my life will be peaceful, and prosperous (after i improve my hardware problems)
 
+the macrodrone disxs will be continuously replaced like the ship∘theseus; preferrably every /(milli|micro|nano|pico|femto|atto|zepto|yocto)?second|planx t time/ so it can act as a /shield|force field/ (space debris, cosmic rays,..)
+flat disxs
+…
+next replacement
+↓
+_
+_| ← outside external hull
+↑
+replaced
+…
+_
+‗|
+‗|
+‗|
+‗|
+_|
+
 ---
 
 https://stackoverflow.com/a/44044240
