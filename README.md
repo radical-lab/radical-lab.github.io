@@ -547,7 +547,7 @@ north = disease
 			* some letters are fake dead ends; don't waste your time following their leads, but remember their p∘o if they're an easy catch
 			* gifts: wisdom (word), bow (ribbon),..
 		* bendable materials make it possible to do alice in chuckie chuckie land; /(expanding|shrinking) (shelves|(trees|leaves) are more difficult)/
-		* black: betty, the whore master (s/master/mistress|dominatrix/),..
+		* black: betty, the whore master (s/master/mistress|dominatrix|pimp/),..
 		* blonde: doctor whore (but she's black underneath; especially her facial hair is not even blonde #attention2details #spoilers?)
 	* [ ] i might start a business that combines gañjā c̄ mahā-prasāda for one "special" $auce, and promotes \# as a good character
 		* uniform: https://github.com/radical-lab/con/blob/master/art
@@ -722,7 +722,7 @@ all the "-thing"s
 * i need to make my own communication hardware from scratch; cryptography isn't enough
 * [ ] gun(s) c̄ silencer(s) (whisper "(hello)" to my little friend; /hit?h/' name is World)
 * [ ] gañjā (i'm running low; oṃ śivāya namaḥ, patraṁ puṣpaṁ phalaṁ toyaṁ,..)
-* [x] colourful qizen plasma portal lighter; this only took about two months to get to me, it should be delivered to my bedroom tomorrow as demanded (i am still waiting before i order any"-thing" else, so i'm not expecting, nor unsuspecting, but iprefer gañjā) …this "-thing" freaks me out whenever i turn it on; the first time it arc'd out beyond the second dimension; closing it will turn it off manually; it doesn't change colour when i move it around
+* [x] colourful qizen plasma portal lighter; this only took about two months to get to me, it should be delivered to my bedroom tomorrow as demanded (i am still waiting before i order any"-thing" else, so i'm not expecting, nor unsuspecting, but iprefer gañjā) …this "-thing" freaks me out whenever i turn it on; the first time it arc'd out beyond the second dimension (it still does from time to time); closing it will turn it off manually; it doesn't change colour when i move it around
 * [ ] 0.001 scale
 * [ ] a dozen boveda packs
 * [ ] hippy smokebuddy (i already have a rasta grinder; i need a śiva chillum)
@@ -770,6 +770,12 @@ interdimensional is between dimensions?
 * श्याम; 1÷0
 * …
 * √; i am radical (like a boss)
+
+my charger just started cracking, and popping, before taking my lalptop with it, in the middle of file transfers; my life is falling apart…
+is it possible to have redundancy systems?
+i think i need to forget about electronics, and go for parallel distributed computing; like raid for backup, over capacity…
+who needs speed? i just want fault tolerance!
+technically, i'm getting two sources of income from the dole; my vedic astrology is keeping true to his word, and this recent even is indicative that my life will be peaceful, and prosperous (after i improve my hardware problems)
 
 ---
 
