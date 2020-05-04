@@ -539,11 +539,14 @@ north = disease
 					* when they escape their fate, the whore master will ninja away in a puff of gañjā
 					* intelligence reduireq? nah; doctor whore can scream instructions (c̄ delight), and also signal c̄ eyes, t time-goddess titties (actress + goddess = this is going to look so good on the old cv), shoulders, hands, feet,..
 				* this is more like a holiday resort; the nightmare cafe of second chances
+				* doctor whore will make sure that the door is air tight or you won't get to see anymore of the tour
+				* doctor whore will bend the knee; or she gets the "sack" (there's two "-thing"s in there; one on eitherside)
 		* (the lion, the witch, and) the wardrobe; not as mind stoning as the tardis, since it's just a hole in the wall (but the style is the same as the clown doctor version)
 			* snow gear in the wardrobe that leads to indoor snowboarding; it just got "cool" (gotta add some letters to s/nobody/clue holmesian deduction towards the next letter/ to catch 'em all to some schwifty music; letters can hang from branches, hang above gaps, hang over ledges, hang on handrails, parkour,..)
 			* intelligence reduireq; ninja warrior training not included
 			* some letters are fake dead ends; don't waste your time following their leads, but remember their p∘o if they're an easy catch
 			* gifts: wisdom (word), bow (ribbon),..
+		* bendable materials make it possible to do alice in chuckie chuckie land; /(expanding|shrinking) (shelves|(trees|leaves) are more difficult)/
 		* black: betty, the whore master (s/master/mistress|dominatrix/),..
 		* blonde: doctor whore (but she's black underneath; especially her facial hair is not even blonde #attention2details #spoilers?)
 	* [ ] i might start a business that combines gañjā c̄ mahā-prasāda for one "special" $auce, and promotes \# as a good character
@@ -754,7 +757,7 @@ interstellar is between stars?
 intergalactic is between galaxies?
 interdimensional is between dimensions?
 
-nāma
+śyāmanāma
 * śyāma; the #1 guy (tweezer tongs included; for gañjā,..)
 * sharmies' angels; it takes two to tango
 * shyam has your anomaly mitigated; 𝄞3
