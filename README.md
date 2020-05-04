@@ -793,6 +793,9 @@ _
 ‗|
 ‗|
 _|
+…
+now i just need to figure out the robotics, reinforcement, miniaturisation,..
+robotics = conveyor belt; the rest will follow
 
 ---
 
