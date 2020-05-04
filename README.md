@@ -517,15 +517,44 @@ north = disease
 		* the otherside can be a mirror image of the only door; the projected surface will move out of the way, but precisely maintain the projection relative to the beyond (of the doorway frame); in other words, it will not be noticeable that the otherside is fake until it perfectly aligns perfectly with the doorway frame (the light at the end of the tunnel); (intelligent) alignment is not fake
 		* i want to break minds; including my own!!! :D
 		* put them to "work"; uncanny valley #3dar #bonu$
-	* [ ] a building that is bigger on the inside
-		* moving /mazes|stairs|ventilation (ducts|shafts|crawl spaces)/ #asian_e0l #alien_abduction #i_am_sure_i_`mv brain computer`_before…
-		* ∞ mirrors
-		* distorting mirrors
-		* house of mirrors
-		* ames (artificial gravity) /rooms|spaces/
-		* get smart air-lock tardis; oh, this is not really a new $rc after all…
-			* air-lock, and floor, both move diametrically opposite; imperfect cell(z)…
-			* biometric authentication is time consuming…
+		* a building that is bigger on the inside
+			* moving /mazes|stairs|ventilation (ducts|shafts|crawl spaces)/ #asian_e0l #alien_abduction #i_am_sure_i_`mv brain computer`_before…
+			* ∞ mirrors
+			* distorting mirrors
+			* house of mirrors
+			* ames (artificial gravity) /rooms|spaces/
+			* get smart air-lock tardis; oh, this is not really a new $rc after all…
+				* air-lock, and floor, both move diametrically opposite; imperfect cell(z)…
+				* biometric authentication is time consuming…
+				* an aircraft hanger (or bigger) where the floor lifts up around; the door opens in to block the opposable door, and they have to stand in the corner to close it before opening the next from the opposable corner
+				* the floor, and the underground can quake; allowing for easier transportation to an alternate reality
+				* they can be greeted by a doctor whore who is there to guide them on their holographical adventure together; escape room sho
+				* this is just a live-action science museum though (c̄out the history lecture, nor any explanation); the tour is over when they get /tranquilised|(laughing|helium|the opposite of helium)?gased/
+				* there can be multiple whore-house tardises sandwiched between alien worlds to explore (underground); it's just a big drop to reach the floor again
+				* need to squeeze into the corner c̄ doctor whore; nice, and tight (fat thresholds apply)
+				* skies: ames ∞ mirrors coated c̄ dyed graphenated arc lighting; alternatively, projectors may work
+				* the lowest alien world is just projected "space" (stars); x-men sphere of "influence"
+				* the whore master will give chase; armed c̄ t time toke meds in a top hat, moustache, monocle,.. (they will wake up tied to the train tracks)
+					* the whore master will spank doctor whore like in game of thrones (geoffrey is tied to the rail way; or in jail like in face off)
+					* when they escape their fate, the whore master will ninja away in a puff of gañjā
+					* intelligence reduireq? nah; doctor whore can scream instructions (c̄ delight), and also signal c̄ eyes, t time-goddess titties (actress + goddess = this is going to look so good on the old cv), shoulders, hands, feet,..
+				* this is more like a holiday resort; the nightmare cafe of second chances
+		* (the lion, the witch, and) the wardrobe; not as mind stoning as the tardis, since it's just a hole in the wall (but the style is the same as the clown doctor version)
+			* snow gear in the wardrobe that leads to indoor snowboarding; it just got "cool" (gotta add some letters to s/nobody/clue holmesian deduction towards the next letter/ to catch 'em all to some schwifty music; letters can hang from branches, hang above gaps, hang over ledges, hang on handrails, parkour,..)
+			* intelligence reduireq; ninja warrior training not included
+			* some letters are fake dead ends; don't waste your time following their leads, but remember their p∘o if they're an easy catch
+			* gifts: wisdom (word), bow (ribbon),..
+		* black: betty, the whore master (s/master/mistress|dominatrix/),..
+		* blonde: doctor whore (but she's black underneath; especially her facial hair is not even blonde #attention2details #spoilers?)
+	* [ ] i might start a business that combines gañjā c̄ mahā-prasāda for one "special" $auce, and promotes \# as a good character
+		* uniform: https://github.com/radical-lab/con/blob/master/art
+		* banner: sideways flag flapping down an intimidating stone cold græy building, like dænerys' hatred ∘ humanity
+		* flag: [ (卐) ]
+		* logo: ॐ (nom nom)
+		* name: buddy nom nom #munchies #hash #..
+		* /tagline|motto/: buddies have the buds
+		a foreign "buddy" just threatened me, after attempting to scam me out of desperation before fleeing the country, but i know where he lives, and i'm planning to make it look like covid-19 to cast away any suspicions… (burn buddy burn!!! :D …this event further fuels my raging 12020 hatred ∘ humanity)
+		maybe i just want to kill somebuddy…
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
 	* [x] filter water
 	* [x] mask + goggles + gloves
@@ -625,16 +654,6 @@ i also remember claims that he shouldn't be able to ride clouds;..
 
 shyamware(house)z
 
-i might start a business that combines gañjā c̄ mahā-prasāda for one "special" $auce, and promotes \# as a good character
-* uniform: https://github.com/radical-lab/con/blob/master/art
-* banner: sideways flag flapping down an intimidating stone cold græy building, like dænerys' hatred ∘ humanity
-* flag: [ (卐) ]
-* logo: ॐ (nom nom)
-* name: buddy nom nom #munchies #hash #..
-* /tagline|motto/: buddies have the buds
-a foreign "buddy" just threatened me, after attempting to scam me out of desperation before fleeing the country, but i know where he lives, and i'm planning to make it look like covid-19 to cast away any suspicions… (burn buddy burn!!! :D …this event further fuels my raging 12020 hatred ∘ humanity)
-maybe i just want to kill somebuddy…
-
 openbci + education = augmented learning #lobes #ferengi
 parkour game = jumping cellular automata gaps bridges them closer together like shenmue fighting they will value drift ÷ t time
 how do you control the (sub)pixels at the electrical level? black light ≠ off, disable all blue subpixels,..
@@ -700,7 +719,7 @@ all the "-thing"s
 * i need to make my own communication hardware from scratch; cryptography isn't enough
 * [ ] gun(s) c̄ silencer(s) (whisper "(hello)" to my little friend; /hit?h/' name is World)
 * [ ] gañjā (i'm running low; oṃ śivāya namaḥ, patraṁ puṣpaṁ phalaṁ toyaṁ,..)
-* [X] colourful qizen plasma portal lighter; this only took about two months to get to me, it should be delivered to my bedroom tomorrow as demanded (i am still waiting before i order any"-thing" else, so i'm not expecting, nor unsuspecting, but iprefer gañjā)
+* [x] colourful qizen plasma portal lighter; this only took about two months to get to me, it should be delivered to my bedroom tomorrow as demanded (i am still waiting before i order any"-thing" else, so i'm not expecting, nor unsuspecting, but iprefer gañjā) …this "-thing" freaks me out whenever i turn it on; the first time it arc'd out beyond the second dimension; closing it will turn it off manually; it doesn't change colour when i move it around
 * [ ] 0.001 scale
 * [ ] a dozen boveda packs
 * [ ] hippy smokebuddy (i already have a rasta grinder; i need a śiva chillum)
@@ -728,6 +747,26 @@ human perception
 it's not only /visual|auditory|illusory/ phenomenon; but also biochemical,..
 dna testing for intoxicants isn't indicative of intoxicating experience; just like allergies,..
 brainwaves may even appear to be equal, but each odd perspective can be different
+
+karma entanglement theory and m i n e
+interplanetary petri plates
+interstellar is between stars?
+intergalactic is between galaxies?
+interdimensional is between dimensions?
+
+nāma
+* śyāma; the #1 guy (tweezer tongs included; for gañjā,..)
+* sharmies' angels; it takes two to tango
+* shyam has your anomaly mitigated; 𝄞3
+* shyamakunda mandepanda mahesh uthappa; fla
+* the man who knows every"-thing"; fla
+* हरि (harī) ಪಾಟರ್ (pāṭar); 666 forbidden magixal fruit (i dream of jeannie)
+* makunda; slw
+* …8
+* …9
+* श्याम; 1÷0
+* …
+* √; i am radical (like a boss)
 
 ---
 
