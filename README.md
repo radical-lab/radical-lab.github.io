@@ -691,6 +691,30 @@ orange is whatever is most important; perhaps unification? unless i used more th
 ⊤ = green ≠ T
 ⊥ = red ≠ err = græy
 (maybe swap err, and textground)
+…
+(f (list value x) (list variable y))
+(f (list input x) (list output y))
+no "lists" (no ['l','i','s','t','s'])
+no case sensitivity; no (explicit) "variables"
+no (lisp-2) binary states
+symbolic_atoms (atomic_symbols)
+	constraints: hindu numbers (specialisation; special case of symbolic_atoms)
+		constraints: āryabhaṭa_place_value (not just the number of decimal places; includes the otherside)
+		constraints: āryabhaṭa_base
+(compound_terms)
+	symbolic_structures (atomic structures)
+symbols, and metasymbols (symbols of symbols)
+nested metasymbols are /lazy|quoted/
+constraint_x(X,B) :- constraint_hindu_number(X), constraint_base(X,B).
+(<- (c_base x y) (and
+	(unify y 10)
+	(in x (list 0 1 2 3 4 5 6 7 8 9))
+))
+(c_base (output z) (input 10))?
+¿c_base ¿z? 10?
+…
+domain, range
+implicit vs explicit; false vs truth
 
 mexican tacos
 * [x] can of diced tomatoes (vegan)
@@ -794,8 +818,12 @@ _
 ‗|
 _|
 …
-now i just need to figure out the robotics, reinforcement, miniaturisation,..
+now i just need to figure out the robotics, reinforcement, miniaturisation, atomisation,..
 robotics = conveyor belt; the rest will follow
+rotating walls can adjust (delay the optimable) frequency to compensate for rng weapons
+rotating walls can be colour changing for pixellation
+…
+light speed computing can detect anomalies; seismic activity, solar flares,..
 
 ---
 
