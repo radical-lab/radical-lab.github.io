@@ -706,7 +706,7 @@ symbolic_atoms (atomic_symbols)
 symbols, and metasymbols (symbols of symbols)
 nested metasymbols are /lazy|quoted/
 constraint_x(X,B) :- constraint_hindu_number(X), constraint_base(X,B).
-(<- (c_base x y) (and
+(<- (c_base x y) (/and|(premisory\_)?conjuction/
 	(unify y 10)
 	(in x (list 0 1 2 3 4 5 6 7 8 9))
 ))
@@ -714,26 +714,82 @@ constraint_x(X,B) :- constraint_hindu_number(X), constraint_base(X,B).
 ¿c_base ¿z? 10?
 …
 domain, range
-implicit vs explicit; false vs truth
+implicit vs explicit; falsth vs truth
+…
+shyamscript has some logic, and /spe?rm/; grepping is a good idea…
+	[terms]
+	 ├─────────────────────────────────┐
+	[simple terms]                    [complex terms]
+	 ├──────────────────────┐          │
+	[constants]             │         [compound terms]
+	 ├───────────────┐      │          │
+	[numbers]        │      │          │
+	 ├────────┐      │      │          │
+	[integer][float][atoms][variables][terms]
+becomes
+	[symbols]
+	 ├───────┐
+	[symbol][symbols]
+shyams' homoiconic yelling abstract metahacking /articulation|argot/
+sootb-ly built-in
+	(¡mk! x) #¡vulerability!
+	(¡rm! x) #¡vulerability!
+	(and (unified x) (cat x) (unified x))
+	(and (not (unified x)) (cat x) (unified x) (unlisted x)) #ode_to_spot
+	(and (not (unified x)) (cat x) (unified x) (listed x)) #lister_lister_the_deva_of_listing #rimmer_rimmer_the_deva_of_(salad)_tossing
+	(⸘prune‽) #⸘irreversible‽
+	(⸘sheer‽) #⸘irreversible‽ prunes are for old people; i will never be old enough to want to eat them
+	(halt) #unsolved_problem
+	…
+	.., rng(t), (_;recurse),.. % no backtracking
+	cuts: rng, io(user,file,transceive,..),.. (no cut/_; but empty output can cut; it can be cut from the implementation)
+…
+(∵ z (∧ a b c …))
+(∵ z (: a b c …))
+(∵ (get 0 (dnct) (eol)) (true)) % dnct = don't care term
+(∵ (get N L G) (∧
+	(car L H)
+	(cdr L T)
+	(+ (list N -1) X)
+	(cons H Y G)
+	(get X T Y) % cnht = can't happen term
+)) % this is supposed to be lazy somehow… unix|based|stream|processing|filter|pipelines (like the text machines from shyamscript/prolog; or it can just recursively consume the producer instead of the listed final product)
+(∵ (get M F Y) (∧
+	(nextgen F G H) % different nextgen/S can accept Arbitrary unbounded lists; or just return a (list)
+	(+ (list M -1) N)
+	(get N G X) % here's the problem; it doesn't have the cons to do what i want it to do (is no go)
+	(cons H X Y)
+)) % some"-thing" tells me this is fawlty too…
+(∵ (car L X) (dex 1 L X))
+(∵ (rac L X) (dex -1 L X))
+(∵ (rdc L X) (dex (interval 1 -2) L X))
+(∵ (cdr L X) (dex (interval 2 -1) L X))
 
 mexican tacos
 * [x] can of diced tomatoes (vegan)
 * [ ] gañjā c̄ immersion circulator
-* [x] salt; himalayan, but need to try cruelty free black salt, herbamere(kelp? they could've avoided my /reluctance|indecisiveness|undecidability/),..
-* [x] habanero (wash the skin before ripping it apart like it's somebuddies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D)
+* [ ] sugar (vegan, organic; haven't tried this yet, but it will help to use it up so i can boost the $ales for /supply|demand/, and outcompete the non-vegan-labelled competition to support upstream veganisation)
+* [x] salt; himalayan, but need to try cruelty free black salt, herbamere(kelp? they could've avoided my /reluctance|indecisiveness|undecidability/),.. need to avoid unsalted corn; i will avoid salt unless the black salt sates my satiety; maybe check once a month, quarter, halfer, fuller,..
+* [x] habanero (wash the skin before ripping it apart like it's somebuddies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D iprefer the biggest mannest icare even though they only have 4pkz #size_matterz #quality÷quantity)
 * [x] can of corns (vegan)
 * [x] can of beans (vegan, organic)
 * [x] rice cooker
 * coolants
 	* dairy
 		* [ ] milk (vegan, organic; especially if it's /soupy|watery/, which is better than it drying out, which makes it difficult to clean the rice cooker c̄ toilet paper, which i can stop doing again after covid-19; just keep cooking, just keep cooking, just keep cooking, cooking, cooking, what do we do? we cook, cook, cook,.; i am sometimes known to clean my rice cooker if i haven't used it in a while…)
-		* [x] cheese (vegan, melted; i hate vegan cheddar, but i think it's better than vegan mozzarella; need to give it a chance, but not eat it out of the bag this time)
+		* [x] cheese (vegan, melted; i hate vegan cheddar, but i think it's better than vegan mozzarella; need to give it a chance, but not eat it out of the bag this time; it tasted the same this time so last time was probably just a bad batch but now i just get the cheapest)
 		* [ ] butter (vegan; this doesn't make it murky like the milk, but it did taste good, but i put way too much in trying to make it murky, and i thought i was going to die, but maybe i shouldn't have eaten it all in one go…)
 	* [x] avocado (wash the skin before peeling) c̄ bamboo cutlery (scrape it into guacamole)
 * [ ] vegvit
-* [ ] flaxseed oil
+* [x] flaxseed oil (vegan, organic)
 * [x] tacos = bread c̄ vegan butter c̄ bamboo cutlery
 * n taco per hour
+* n days between eva (guard the /trolley|basket/; last time i checked out c̄ less than what i had, and the only time they could've picked it was when i was dragging it behind me; aggravated assault is like self /defen(c|s)e/, right? ∵ there's no way i'd make such a clumsy √mistake as to leave it in there…)
+* [x] drink (vegan; organic milk + sugar; filtered tap water)
+* [x] jalapeño-stuffed olives (vegan; i eat these by the jar when i am just way too lazy to effortuously cook, nor even prepare bread)
+* i am done experimenting; just mexican + bread + olives + drink + tofu (maybe try rice-cooking (it into cheese))
+* one day i will `rm inorganic` from my diet
+* the bamboo cutlery just says wooden cutlery so it isn't even bamboo but the cups are bamboo now but i only use them to bucket water from the tap into the filtration system
 
 all the "-thing"s
 * [ ] clothes; all black, like a ninja, but i need a (quadruple:normal,black,disguise,black,normal) disguise to kill a "buddy" (/double|multi/ quick change)
