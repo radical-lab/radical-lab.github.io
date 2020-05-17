@@ -634,6 +634,13 @@ unix.pl
 * [ ] diff/2
 * [ ] diff/3
 * [ ] tr/2
+* [ ] cat/2 (id/2)
+	* cat
+	* mk#lines
+	* cat
+	* sed
+	* rm#lines
+* [ ] wc (loc, coc, boc,..)
 
 plan goku
 * [ ] get covid-19
@@ -731,6 +738,7 @@ becomes
 	 ├───────┐
 	[symbol][symbols]
 shyams' homoiconic yelling abstract metahacking /articulation|argot/
+shyams' homoiconic yelling abstract mæch symbols
 sootb-ly built-in
 	(¡mk! x) #¡vulerability!
 	(¡rm! x) #¡vulerability!
@@ -764,19 +772,24 @@ sootb-ly built-in
 (∵ (rac L X) (dex -1 L X))
 (∵ (rdc L X) (dex (interval 1 -2) L X))
 (∵ (cdr L X) (dex (interval 2 -1) L X))
+(dcg P L (get N L Y)) % higher order thinking is hot
+(declaration 1 2 3 …) % arity is -1; iprefer lisp
+(vegan)
+(organic)
+(recyclable)
 
 mexican tacos
-* [x] can of diced tomatoes (vegan)
-* [ ] gañjā c̄ immersion circulator
-* [ ] sugar (vegan, organic; haven't tried this yet, but it will help to use it up so i can boost the $ales for /supply|demand/, and outcompete the non-vegan-labelled competition to support upstream veganisation)
+* [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
+* [ ] gañjā c̄ immersion circulator; decarb by /water-foiling|foil-drowning|no microplastics|7f (dr karl kruszelnicki said 8 folds will have the structural integrity of steel but the gañjā needs to be accessible)?|(corked)? glass mason jars can break from (thermal (stress|shock|rsi))/ it in the rice cooker for 2 hours; regardless of the thc:cbd (unless you have home test kits; gotta cross-reference 'em all)
+* [ ] sugar (vegan, organic, recyclable; haven't tried this yet, but it will help to use it up so i can boost the $ales for /supply|demand/, and outcompete the non-vegan-labelled competition to support upstream veganisation)
 * [x] salt; himalayan, but need to try cruelty free black salt, herbamere(kelp? they could've avoided my /reluctance|indecisiveness|undecidability/),.. need to avoid unsalted corn; i will avoid salt unless the black salt sates my satiety; maybe check once a month, quarter, halfer, fuller,..
 * [x] habanero (wash the skin before ripping it apart like it's somebuddies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D iprefer the biggest mannest icare even though they only have 4pkz #size_matterz #quality÷quantity)
-* [x] can of corns (vegan)
-* [x] can of beans (vegan, organic)
+* [x] can of corns (vegan, recyclable)
+* [x] can of beans (vegan, organic, recyclable)
 * [x] rice cooker
 * coolants
 	* dairy
-		* [ ] milk (vegan, organic; especially if it's /soupy|watery/, which is better than it drying out, which makes it difficult to clean the rice cooker c̄ toilet paper, which i can stop doing again after covid-19; just keep cooking, just keep cooking, just keep cooking, cooking, cooking, what do we do? we cook, cook, cook,.; i am sometimes known to clean my rice cooker if i haven't used it in a while…)
+		* [ ] milk (vegan, organic, recyclable; especially if it's /soupy|watery/, which is better than it drying out, which makes it difficult to clean the rice cooker c̄ toilet paper, which i can stop doing again after covid-19; just keep cooking, just keep cooking, just keep cooking, cooking, cooking, what do we do? we cook, cook, cook,.; i am sometimes known to clean my rice cooker if i haven't used it in a while…)
 		* [x] cheese (vegan, melted; i hate vegan cheddar, but i think it's better than vegan mozzarella; need to give it a chance, but not eat it out of the bag this time; it tasted the same this time so last time was probably just a bad batch but now i just get the cheapest)
 		* [ ] butter (vegan; this doesn't make it murky like the milk, but it did taste good, but i put way too much in trying to make it murky, and i thought i was going to die, but maybe i shouldn't have eaten it all in one go…)
 	* [x] avocado (wash the skin before peeling) c̄ bamboo cutlery (scrape it into guacamole)
@@ -785,9 +798,10 @@ mexican tacos
 * [x] tacos = bread c̄ vegan butter c̄ bamboo cutlery
 * n taco per hour
 * n days between eva (guard the /trolley|basket/; last time i checked out c̄ less than what i had, and the only time they could've picked it was when i was dragging it behind me; aggravated assault is like self /defen(c|s)e/, right? ∵ there's no way i'd make such a clumsy √mistake as to leave it in there…)
-* [x] drink (vegan; organic milk + sugar; filtered tap water)
-* [x] jalapeño-stuffed olives (vegan; i eat these by the jar when i am just way too lazy to effortuously cook, nor even prepare bread)
-* i am done experimenting; just mexican + bread + olives + drink + tofu (maybe try rice-cooking (it into cheese))
+* [x] drink (vegan, recyclable; organic milk + sugar; filtered tap water)
+* [x] jalapeño-stuffed olives (vegan, recyclable; i eat these by the jar when i am just way too lazy to effortuously cook, nor even laboriously prepare bread; i do like me a hot crossed b-girl who can really spread her breads like ty lee (kaylee is also a valleygirl; right? amy wong too; right? post-modern(femin)ism; right? i really need  to learn varma kalai, dim mak,..))
+* [x] oranges (not vegan, nor organic, nor recyclable; the drink is vegan, so maybe i should wait until they 𝄞can it…)
+* i am done experimenting; just mexican + bread + olives + drink + tofu (maybe try rice-cooking (it into cheese (oven-baking is a good idea)))
 * one day i will `rm inorganic` from my diet
 * the bamboo cutlery just says wooden cutlery so it isn't even bamboo but the cups are bamboo now but i only use them to bucket water from the tap into the filtration system
 
