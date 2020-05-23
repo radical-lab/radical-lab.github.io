@@ -668,7 +668,7 @@ shyamware(house)z
 openbci + education = augmented learning #lobes #ferengi
 parkour game = jumping cellular automata gaps bridges them closer together like shenmue fighting they will value drift ÷ t time
 how do you control the (sub)pixels at the electrical level? black light ≠ off, disable all blue subpixels,..
-how do you control the maximum /dB|Hz/ thresholds? vegan /headsets|(head|ear|tele|smart)phones/ should include safety switches; head chop vs warp drive vs predictive preprocessing vs intelligent preprocessing vs.. #attenuation
+how do you control the maximum /dB|Hz/ thresholds? vegan /headsets|(head|ear|tele|smart|shoe)?phones/ should include safety switches; head chop vs warp drive vs predictive preprocessing vs intelligent preprocessing vs.. #attenuation #distortion
 
 mental health, and physical health, can be two $rc; my exception for both is f(x)=(श्याम×(x+1×[x=2×⌈y⌉]))÷2
 shyamscript dīkṣās improve mathematics; f(x) can be f×(x), unless explicit notation is constant
@@ -785,7 +785,7 @@ mexican tacos
 * [ ] gañjā c̄ immersion circulator; decarb by /water-foiling|foil-drowning|no microplastics|7f (dr karl kruszelnicki said 8 folds will have the structural integrity of steel but the gañjā needs to be accessible)?|(corked)? glass mason jars can break from (thermal (stress|shock|rsi))/ it in the rice cooker for 2 hours; regardless of the thc:cbd (unless you have home test kits; gotta cross-reference 'em all)
 * [x] sugar (vegan, organic, recyclable; haven't tried this yet, but it will help to use it up so i can boost the $ales for /supply|demand/, and outcompete the non-vegan-labelled competition to support upstream veganisation; a spoon is unnoticeable)
 * [x] salt; himalayan, but need to try cruelty free black salt, herbamere(kelp? they could've avoided my /reluctance|indecisiveness|undecidability/),.. need to avoid unsalted corn; i will avoid salt unless the black salt sates my satiety; maybe check once a month, quarter, halfer, fuller,..
-* [x] habanero (wash the skin before ripping it apart like it's somebuddies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D iprefer the biggest mannest icare even though they only have 4pkz #size_matterz #quality÷quantity)
+* [x] habanero (s/wash the skin before/cooking kills 99.99% of germs/ ripping it apart like it's somebuddies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D iprefer the biggest mannest icare even though they only have 4pkz #size_matterz #quality÷quantity)
 * [x] can of corns (vegan, recyclable)
 * [x] can of beans (vegan, organic, recyclable)
 * [x] rice cooker
@@ -800,7 +800,7 @@ mexican tacos
 * [x] tacos = bread c̄ vegan butter c̄ bamboo cutlery
 * n taco per hour
 * n days between eva (guard the /trolley|basket/; last time i checked out c̄ less than what i had, and the only time they could've picked it was when i was dragging it behind me; aggravated assault is like self /defen(c|s)e/, right? ∵ there's no way i'd make such a clumsy √mistake as to leave it in there…)
-* [x] drink (vegan, recyclable; organic milk + sugar (pinch the microplastic bag, and pour through the hole; no need for a cloggy funnel,..); filtered tap water)
+* [x] drink (vegan, recyclable; organic milk + sugar (pinch the microplastic bag opening, and pour through the hole; no need for a cloggy funnel,..); filtered tap water)
 * [x] jalapeño-stuffed olives (vegan, recyclable; i eat these by the jar when i am just way too lazy to effortuously cook, nor even laboriously prepare bread; i do like me a hot crossed b-girl who can really spread her breads like ty lee (kaylee is also a valleygirl; right? amy wong too; right? rebooty boomer as well; right? and mary ann? post-modern(femin)ism; right? i really need to learn varma kalai, dim mak, carotid compression, brain stem deoxygenation,..))
 * [x] oranges (not vegan, nor organic, nor recyclable; the drink is vegan, so maybe i should wait until they 𝄞can it…)
 * i am done experimenting; just mexican + bread + olives + drink + tofu (maybe try rice-cooking (it into cheese (oven-baking is a good idea)))
@@ -867,6 +867,7 @@ interdimensional is between dimensions?
 * …
 * √; i am radical (like a boss)
 …
+covid-19 promotion:
 * [x] 05∘07
 * [x] 05∘21
 * [ ] 06∘04
@@ -923,6 +924,7 @@ if i start a bank, i can borrow from myself; i can encourage others to start ban
 i just discovered interdimensional travel to alternate realities; based on an old theory from when i was young, and naive; as related to the jumper theory, but includes planetary alignment; the moon is significant, the sun is probably significant, but it can be done from earth; a lock can be placed to block it though; really easily; there is a chance it's already blocked; it's more than likely; this would require international cooperation; never going to happen; elon musks' satellite network could be repurposed to break the lock (but this is counterintuitive since it most likely reinforces it); or just move the moon; assuming its' speed is variable depending on its' relative distance to earth; it makes sense for it to cycle its' directional orientation; drifts away, drifts closer; like a life sign; where was i? is it the moon moving, or the earth, or both? i was phaseshifting in between the harmonic vibrational frequencies to rip a hole through spacetime to really stone humanity while i transcend this existence using their annihilation to slingshot me to catch the higher plane (of existence); they all deserve it anyway
 either that, or elon musk is locking it, and it was never locked, but it could be c̄out elon musk; this is based on the theory that locking it is either impractical (/unlikely|improbable/), or it is already being used #network_topological_quasiisometry
 aliens throw a spanner into the works
+solar laser blackholes (in space)
 
 i feel like i'm navigating the /slipstream|bonsai/ from andromeda
 
