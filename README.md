@@ -913,8 +913,10 @@ rotating walls can be colour changing for pixellation
 light speed computing can detect anomalies; seismic activity, solar flares,..
 
 the cancers of society: i'm going to reattach their intestines, and urethras, to their throats; i will leave their tongues, but ply out their teeth; one, by one, slowly, so ever slowly; i will take my /bitter|sweet/ time; i will rip their faces open like nṛsiṁha to make it easier to access their teeth; i will box their personalities; they will feel pain until they die; that will never happen if i /reverse|pause/ their aging process; they will only ever /see|hear/ me to remind them why; i will put them in chastity belts, and inject viagra; i will force feed them down their noses; i will force breath them down their noses; i will cyber their hearts; they will not die ∵ dying is not good enough; s/i/they/ will cure neurodegeneration; they will slave;..
+a labotomy could probably enhance pain receptors
 
 my theory is that neurodegenerates just don't use their brains (/in certain ways|the airheads probably just sit there doing nothing while their sanity drifts away unweighted by any density (this is what i imagine all other humans actually do irl)?/); i have subjected myself to personal experiences to support it, and i /(sus|ex)pect/ most people are where i am now; i will recover ∵ my experiential theories just make sense; but, before i begin, i need to wait until i can get an openbci, microphones, cameras (eye-tracking pov, 1ˢᵗ person pov, 3ʳᵈ person pov),.; the goal sates ascension, but big data is a dependency; i think it's better to just leave everybody else here in the loop; lock it up, and throw away the key (desynchronisation; the loop is reasonable, ∧ ∴ can't be trusted c̄out supervision; i will leave like a leaf on the wind, watch how i soar)
+personality boxes can be therapeutic…
 
 if i ascend at 31; my life will be peaceful, and prosperous
 this sates occult research, and secret methods of experimental science; it's all (in) my head, but the openbci is compromised by management engines,..
