@@ -295,7 +295,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 ## √ Ever-Changing Plan P
 * prolog
 	* swipl + √license
-	* [ ] word: `/sat(iety|ed)/`, query, 2ʰᵃᶜᵏ,..
+	* [ ] word: `/sat(iety|e(d|s))/`, query, 2ʰᵃᶜᵏ,..
 	* [x] [<s>sanskrit</s>](https://www.open.edu.au/subjects/australian-national-university-sanskrit-1-anu-skrt1002) [31 Mar 2020](https://www.open.edu.au/your-studies/getting-started/key-dates)
 	* [ ] development "environment"; at least another (thirty+)ten boxes, and probably a new (sturdier) shelf (since it has to reach further than ever before; and maybe need two, three, or more, this time… #360° #suspendedanimation(projection))
 	* [ ] √set = swipl `/setting|editing/` tool (`√set $file $state #meta`)
@@ -631,8 +631,8 @@ one $rc of income can be the dole, and the other can be $uing people
 egyptian is the original emoji
 
 unix.pl
-* [ ] diff/2
-* [ ] diff/3
+* [ ] diff/2 (not/1)
+* [ ] diff/3 (not/1)
 * [ ] tr/2
 * [ ] cat/2 (id/2)
 	* cat
@@ -658,6 +658,7 @@ db is a rock, and two nuts; right? got balls? "pat you \"down\"" has new meaning
 dbz is plural db; right? dragonball -> dragonballs -> dragonballz -> dragonball z
 bakoooom is kaboooom; right?
 bouncey bouncey is pafu pafu is fapu fapu; right? or is it ufap ufap? like fook yu, and fook mi?
+worrying gives you wrinkles; right?
 some think goku never earned his living; but the ox king was fortunate enough, and frequented regularly enough #fan_theory_busted
 i also remember claims that he shouldn't be able to ride clouds;..
 * what happens if you keep your muscles contracted? like staying super saiyan all of the time
@@ -667,6 +668,7 @@ shyamware(house)z
 openbci + education = augmented learning #lobes #ferengi
 parkour game = jumping cellular automata gaps bridges them closer together like shenmue fighting they will value drift ÷ t time
 how do you control the (sub)pixels at the electrical level? black light ≠ off, disable all blue subpixels,..
+how do you control the maximum /dB|Hz/ thresholds? vegan /headsets|(head|ear|tele|smart)phones/ should include safety switches; head chop vs warp drive vs predictive preprocessing vs intelligent preprocessing vs.. #attenuation
 
 mental health, and physical health, can be two $rc; my exception for both is f(x)=(श्याम×(x+1×[x=2×⌈y⌉]))÷2
 shyamscript dīkṣās improve mathematics; f(x) can be f×(x), unless explicit notation is constant
@@ -692,7 +694,7 @@ shyamscript dīkṣās improve mathematics; f(x) can be f×(x), unless explicit 
 (<= z (and a b c /(.+)?/))
 (<= z ⊤)
 …
-black background
+black background (s/whitespace/blackspace/; tables are superior to /spacemæns|spacegirls|airheads/ # s p a c e c a s e )
 white textground
 orange is whatever is most important; perhaps unification? unless i used more than just unification to implement reversible negation c̄out cuts
 ⊤ = green ≠ T
@@ -781,7 +783,7 @@ sootb-ly built-in
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
 * [ ] gañjā c̄ immersion circulator; decarb by /water-foiling|foil-drowning|no microplastics|7f (dr karl kruszelnicki said 8 folds will have the structural integrity of steel but the gañjā needs to be accessible)?|(corked)? glass mason jars can break from (thermal (stress|shock|rsi))/ it in the rice cooker for 2 hours; regardless of the thc:cbd (unless you have home test kits; gotta cross-reference 'em all)
-* [ ] sugar (vegan, organic, recyclable; haven't tried this yet, but it will help to use it up so i can boost the $ales for /supply|demand/, and outcompete the non-vegan-labelled competition to support upstream veganisation)
+* [x] sugar (vegan, organic, recyclable; haven't tried this yet, but it will help to use it up so i can boost the $ales for /supply|demand/, and outcompete the non-vegan-labelled competition to support upstream veganisation; a spoon is unnoticeable)
 * [x] salt; himalayan, but need to try cruelty free black salt, herbamere(kelp? they could've avoided my /reluctance|indecisiveness|undecidability/),.. need to avoid unsalted corn; i will avoid salt unless the black salt sates my satiety; maybe check once a month, quarter, halfer, fuller,..
 * [x] habanero (wash the skin before ripping it apart like it's somebuddies' face…) c̄ $13 sustain microplastic gloves (i also need to buy icare toilet paper, because icare enough to $upport all the causes!!! :D …and now i have more funding to do so (no go yo;); but i want to buy all the "-thing"s!!! :D iprefer the biggest mannest icare even though they only have 4pkz #size_matterz #quality÷quantity)
 * [x] can of corns (vegan, recyclable)
@@ -792,14 +794,14 @@ mexican tacos
 		* [ ] milk (vegan, organic, recyclable; especially if it's /soupy|watery/, which is better than it drying out, which makes it difficult to clean the rice cooker c̄ toilet paper, which i can stop doing again after covid-19; just keep cooking, just keep cooking, just keep cooking, cooking, cooking, what do we do? we cook, cook, cook,.; i am sometimes known to clean my rice cooker if i haven't used it in a while…)
 		* [x] cheese (vegan, melted; i hate vegan cheddar, but i think it's better than vegan mozzarella; need to give it a chance, but not eat it out of the bag this time; it tasted the same this time so last time was probably just a bad batch but now i just get the cheapest)
 		* [ ] butter (vegan; this doesn't make it murky like the milk, but it did taste good, but i put way too much in trying to make it murky, and i thought i was going to die, but maybe i shouldn't have eaten it all in one go…)
-	* [x] avocado (wash the skin before peeling) c̄ bamboo cutlery (scrape it into guacamole)
+	* [x] avocado (s/wash the skin before/i am just too lazy/ peeling upside-down like an icecream cone; beware the /navel?/) c̄ bamboo cutlery (scrape it into guacamole)
 * [ ] vegvit
 * [x] flaxseed oil (vegan, organic)
 * [x] tacos = bread c̄ vegan butter c̄ bamboo cutlery
 * n taco per hour
 * n days between eva (guard the /trolley|basket/; last time i checked out c̄ less than what i had, and the only time they could've picked it was when i was dragging it behind me; aggravated assault is like self /defen(c|s)e/, right? ∵ there's no way i'd make such a clumsy √mistake as to leave it in there…)
-* [x] drink (vegan, recyclable; organic milk + sugar; filtered tap water)
-* [x] jalapeño-stuffed olives (vegan, recyclable; i eat these by the jar when i am just way too lazy to effortuously cook, nor even laboriously prepare bread; i do like me a hot crossed b-girl who can really spread her breads like ty lee (kaylee is also a valleygirl; right? amy wong too; right? post-modern(femin)ism; right? i really need  to learn varma kalai, dim mak,..))
+* [x] drink (vegan, recyclable; organic milk + sugar (pinch the microplastic bag, and pour through the hole; no need for a cloggy funnel,..); filtered tap water)
+* [x] jalapeño-stuffed olives (vegan, recyclable; i eat these by the jar when i am just way too lazy to effortuously cook, nor even laboriously prepare bread; i do like me a hot crossed b-girl who can really spread her breads like ty lee (kaylee is also a valleygirl; right? amy wong too; right? rebooty boomer as well; right? and mary ann? post-modern(femin)ism; right? i really need to learn varma kalai, dim mak, carotid compression, brain stem deoxygenation,..))
 * [x] oranges (not vegan, nor organic, nor recyclable; the drink is vegan, so maybe i should wait until they 𝄞can it…)
 * i am done experimenting; just mexican + bread + olives + drink + tofu (maybe try rice-cooking (it into cheese (oven-baking is a good idea)))
 * one day i will `rm inorganic` from my diet
@@ -864,6 +866,20 @@ interdimensional is between dimensions?
 * श्याम; 1÷0
 * …
 * √; i am radical (like a boss)
+…
+* [x] 05∘07
+* [x] 05∘21
+* [ ] 06∘04
+* [ ] 06∘18
+* [ ] 07∘02
+* [ ] 07∘16
+* [ ] 07∘30
+* [ ] 08∘13 (thursday, a day before; march, and november, wære superstitious)
+* [ ] 08∘27
+* [ ] 09∘10
+* [ ] 09∘24
+* [ ] 10∘08
+* 1008 is influential…
 
 my charger just started cracking, and popping, before taking my lalptop with it, in the middle of file transfers; my life is falling apart…
 is it possible to have redundancy systems?
@@ -894,6 +910,23 @@ rotating walls can adjust (delay the optimable) frequency to compensate for rng 
 rotating walls can be colour changing for pixellation
 …
 light speed computing can detect anomalies; seismic activity, solar flares,..
+
+the cancers of society: i'm going to reattach their intestines, and urethras, to their throats; i will leave their tongues, but ply out their teeth; one, by one, slowly, so ever slowly; i will take my /bitter|sweet/ time; i will rip their faces open like nṛsiṁha to make it easier to access their teeth; i will box their personalities; they will feel pain until they die; that will never happen if i /reverse|pause/ their aging process; they will only ever /see|hear/ me to remind them why; i will put them in chastity belts, and inject viagra; i will force feed them down their noses; i will force breath them down their noses; i will cyber their hearts; they will not die ∵ dying is not good enough; s/i/they/ will cure neurodegeneration; they will slave;..
+
+my theory is that neurodegenerates just don't use their brains (/in certain ways|the airheads probably just sit there doing nothing while their sanity drifts away unweighted by any density (this is what i imagine all other humans actually do irl)?/); i have subjected myself to personal experiences to support it, and i /(sus|ex)pect/ most people are where i am now; i will recover ∵ my experiential theories just make sense; but, before i begin, i need to wait until i can get an openbci, microphones, cameras (eye-tracking pov, 1ˢᵗ person pov, 3ʳᵈ person pov),.; the goal sates ascension, but big data is a dependency; i think it's better to just leave everybody else here in the loop; lock it up, and throw away the key (desynchronisation; the loop is reasonable, ∧ ∴ can't be trusted c̄out supervision; i will leave like a leaf on the wind, watch how i soar)
+
+if i ascend at 31; my life will be peaceful, and prosperous
+this sates occult research, and secret methods of experimental science; it's all (in) my head, but the openbci is compromised by management engines,..
+but my longevity is querious; but t time is partially querious
+if i start a bank, i can borrow from myself; i can encourage others to start banks so i can borrow from them, bringing them up to my level, while slingshotting off them to a higher plane (well beyond that of the mile high club)
+
+i just discovered interdimensional travel to alternate realities; based on an old theory from when i was young, and naive; as related to the jumper theory, but includes planetary alignment; the moon is significant, the sun is probably significant, but it can be done from earth; a lock can be placed to block it though; really easily; there is a chance it's already blocked; it's more than likely; this would require international cooperation; never going to happen; elon musks' satellite network could be repurposed to break the lock (but this is counterintuitive since it most likely reinforces it); or just move the moon; assuming its' speed is variable depending on its' relative distance to earth; it makes sense for it to cycle its' directional orientation; drifts away, drifts closer; like a life sign; where was i? is it the moon moving, or the earth, or both? i was phaseshifting in between the harmonic vibrational frequencies to rip a hole through spacetime to really stone humanity while i transcend this existence using their annihilation to slingshot me to catch the higher plane (of existence); they all deserve it anyway
+either that, or elon musk is locking it, and it was never locked, but it could be c̄out elon musk; this is based on the theory that locking it is either impractical (/unlikely|improbable/), or it is already being used #network_topological_quasiisometry
+aliens throw a spanner into the works
+
+i feel like i'm navigating the /slipstream|bonsai/ from andromeda
+
+war against the chinese firewall: steganographic protocols (tcp/ip,udp,osi,tor,bittorrent,phreaking,powerplugs,waterpipes,/(radiation|air|sound)waves/,boneconduction,.. (this is how they spy network)); wasn't there a `succ osi`? or is that just one of mine?); their deep packet analysis is fawlty
 
 ---
 
