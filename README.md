@@ -921,11 +921,18 @@ personality boxes can be therapeutic…
 if i ascend at 31; my life will be peaceful, and prosperous
 this sates occult research, and secret methods of experimental science; it's all (in) my head, but the openbci is compromised by management engines,..
 but my longevity is querious; but t time is partially querious
-if i start a bank, i can borrow from myself; i can encourage others to start banks so i can borrow from them, bringing them up to my level, while slingshotting off them to a higher plane (well beyond that of the mile high club) #metameta
+if i start a bank, i can borrow from myself; i can encourage others to start banks so i can borrow from them, bringing them up to my level, while slingshotting off them to a higher plane (well beyond that of the mile high club) #metameta #mce
 they can take a dependent leap of faith, and lend it all for #meta
 i can collapse all of the economys into a state of /crippling|(ir|dis)reparable/ catastrophic failure by unleashing my /(meta)*/ wealth that every tax agency will beg me not to bring into their borders (conflict of interest); no "tax evasion", no "injustice"
 they can't boycott me ∵ i will metatarget them through f(x) trading; or is it fₓ trading ∘ (higher order) currency pairs? fₓ(B,S). % does swipl support unicode functors?
 the (charitable founding) microsoft rocking (/phaseshifted|photoshopped/ rocking chair), and (camera covering) facebook laughing (boosted paparazzi circus), public humiliations wære intimidation tactics for (sp)ywarez (corruption at the highest level) #mib
+i am like seinfeld; but i just don't use a towel ∵ i am just too lazy, and my clothing will eventually dry out after soaking up the residual water; at some point it is no different than wasting time using a towel, which wastes resources during laundry; i wear /thongz|flipflopz/ in the shower
+they use foreign aid to keep /dictators|tyrants/ in check; that's why they don't care where it goes
+they defeated isis similarly; exploiting technicalities like ninjaz #plausible_deniability
+doctor who is nārada; music box,.. (i put this somewhere; probably where i put twin towers)
+twin towers was a 911 ddos, fight club,.. (terrorists would target mount rushmore, the statue of liberty,.; much easier than orchestrating planes, which is more like a moon landing; as easy as the geometry involved c̄ launching missiles at your own /10|20/ trillion dollar militarys' pentagonal headquarters; flossed formal methods are superior to whatever /dysfunctional|illogical/ languages they use (for tacamo, milstar, nuclear football,.; they don't just let just anyone win the elections, or mexico would be a "-thing" of the past); probably /cobol|java/ since it's popular amongst the evil business people who control the big bad corporations)
+china: cracking, dprk nukes, /sars|covid-19/,..
+leaders are vulnerable to man in the middle attacks; by humans, aliens, aliens,.. #truman
 
 i just discovered interdimensional travel to alternate realities; based on an old theory from when i was young, and naive; as related to the jumper theory, but includes planetary alignment; the moon is significant, the sun is probably significant, but it can be done from earth; a lock can be placed to block it though; really easily; there is a chance it's already blocked; it's more than likely; this would require international cooperation; never going to happen; elon musks' satellite network could be repurposed to break the lock (but this is counterintuitive since it most likely reinforces it); or just move the moon; assuming its' speed is variable depending on its' relative distance to earth; it makes sense for it to cycle its' directional orientation; drifts away, drifts closer; like a life sign; where was i? is it the moon moving, or the earth, or both? i was phaseshifting in between the harmonic vibrational frequencies to rip a hole through spacetime to really stone humanity while i transcend this existence using their annihilation to slingshot me to catch the higher plane (of existence); they all deserve it anyway
 either that, or elon musk is locking it, and it was never locked, but it could be c̄out elon musk; this is based on the theory that locking it is either impractical (/unlikely|improbable/), or it is already being used #network_topological_quasiisometry
@@ -940,9 +947,11 @@ i want to do websites like this; avoiding the browser features
 * "authentication(at least two fields; user identifier, email address, other contact details, /(bio)?crypto/,.; i suppose registration, and forgetting curves, need to be compensated for)" -> "lower left corner menu" -> "vertical menu" -> "dotadiw horizontal menu (tabs, bookmarks,..)" -> "lower left corner menu"
 * once you are in; you connect to the internal isp; only need one domain to rule them all
 * [menu] [command line]
-* this is how the √os will be; forget the browser.js(i tried webasm, and i thiknk it needed to be hosted ∴ i couldn't run my code, and decided it wasn't even worth it if it couldn't even work like normal files; js is hacking, and /html|css/ are turing complete, so why not webasm? is web.js the same? compiling to js works; i hate the world i live in; it was bad enough that it needed a js wrapper like android needs java wrappers; interpreted languages, and cross compilers, make java portability redundant; business people are evil, and they control the big bad corporations), they can use √os to access the isp, dns,.. (need to avoid the man in the middling governments, isp,..)
+* this is how the √os will be; forget the browser.js(i tried webasm, and i think it needed to be hosted ∴ i couldn't run my code, and decided it wasn't even worth it if it couldn't even work like normal files; js is hacking, and /html|css/ are turing complete, so why not webasm? is web.js the same? compiling to js works; i hate the world i live in; it was bad enough that it needed a js wrapper like android needs java wrappers; interpreted languages, and cross compilers, make java portability redundant; business people are evil, and they control the big bad corporations), they can use √os to access the isp, dns,.. (need to avoid the man in the middling governments, isp, management engines,..)
 * only horizontal spaces, and vertical spaces, but no tables; /\n(\s+)[^\s]/ will configure indentation width
 * openbci vs √keyboard; can others think like me? haptic feedback vs /intrusive|invasive/ stimulus
+
+the best way to smoke gañjā = śilā + agni + kīcaka
 
 ---
 
