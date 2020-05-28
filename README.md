@@ -938,6 +938,8 @@ i just discovered interdimensional travel to alternate realities; based on an ol
 either that, or elon musk is locking it, and it was never locked, but it could be c̄out elon musk; this is based on the theory that locking it is either impractical (/unlikely|improbable/), or it is already being used #network_topological_quasiisometry
 aliens throw a spanner into the works
 solar laser blackholes (in space)
+where did i put the stargate theory? extracting the cores of stars, and inverting ships to bring them through,..
+fluxtuations
 
 i feel like i'm navigating the /slipstream|bonsai/ from andromeda
 
@@ -950,8 +952,24 @@ i want to do websites like this; avoiding the browser features
 * this is how the √os will be; forget the browser.js(i tried webasm, and i think it needed to be hosted ∴ i couldn't run my code, and decided it wasn't even worth it if it couldn't even work like normal files; js is hacking, and /html|css/ are turing complete, so why not webasm? is web.js the same? compiling to js works; i hate the world i live in; it was bad enough that it needed a js wrapper like android needs java wrappers; interpreted languages, and cross compilers, make java portability redundant; business people are evil, and they control the big bad corporations), they can use √os to access the isp, dns,.. (need to avoid the man in the middling governments, isp, management engines,..)
 * only horizontal spaces, and vertical spaces, but no tables; /\n(\s+)[^\s]/ will configure indentation width
 * openbci vs √keyboard; can others think like me? haptic feedback vs /intrusive|invasive/ stimulus
+* media player; subtitle navigation for video, music, games, cut scenes,..
 
 the best way to smoke gañjā = śilā + agni + kīcaka
+/usd|inverted/ plants?
+sex toy vibrators vs music vs hypnotically (audible) linguistic communication?
+plant communication
+bees poke /bio(chemical|(electric)?)/ salivating holes in leaves to speed up flowering by a month; stressors like light, drought, heat, wind,..
+chimpanzees throw śilā at trees
+
+https://www.youtube.com/watch?v=WPPPFqsECz0
+gratitude journaling: list [5,10] "-thing"s you're grateful for for a few minutes [1,3] times per week
+why not daily? bedtime moralstorys are social coked up psychoanalytical self reflection is better than peer pressuring (/(de)?constructive/) critical review; pros ∨ cons
+it's natural to pay more attention more on more impactful negatives than underappreciated positives
+
+c̄ = cum = with
+∨ = versus ≠ v
+
+I can block the sun with a sustained eclipse; humanity will bend the knee.
 
 ---
 
