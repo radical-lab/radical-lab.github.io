@@ -990,15 +990,22 @@ probing the dark stars is an alien test; babylon 5 inverted
 eof ≠ \n, but configuration can simulate it; maybe i should make a date for the editor…
 
 a movie where everybody is uncomfortably close; "there's going to be a full moon tonight" in an alternate world where you can touch it
-the most handsome man; who is blind (oh, i thought you were a child; your voice is so high pitched! for a moment there i was sure there was a mouse in the room, as i am frequently mistaken by squeaky voices, and i am especially fond of the three blind mice, which taught me to be more sympathetic towards other wild, and perhaps even downright dastardly, adventurous tails (sic) of other mice, of whom occasionally possess the super power of speech, but now it seems that either you've lost your tongue, as i did my eyes, or i believe it's gone subsonic! (or even so supersonic that it loops around to the otherside of the vibe spectrum) they usually do that when i mistake them for children; but not the other way around oddly enough; you'd expect it wasn't so, but it is for some reason that avoids my handsome grasp; or so i'm told…) (likes to swing his cane around like the bananas in pyjamas; some even whisper their suspicions to each other; he has supersensitive hearing #asmr #pawn_for_the_blind)
+the most handsome man; who is blind (oh, i thought you were a child; your voice is so high pitched! for a moment there i was sure there was a mouse in the room, as i am frequently mistaken by squeaky voices, and i am especially fond of the three blind mice, which taught me to be more sympathetic towards other wild, and perhaps even downright dastardly, adventurous tails (sic) of other mice, of whom occasionally possess the super power of speech, but now it seems that either you've lost your tongue, as i did my eyes, or i believe it's gone subsonic! (or even so supersonic that it loops around to the otherside of the vibe spectrum) they usually do that when i mistake them for children; but not the other way around oddly enough; you'd expect it wasn't so, but it is for some reason that avoids my handsome grasp; or so i'm told…) (likes to swing his cane around like the bananas in pyjamas; some even whisper their suspicions to each other; he has supersensitive hearing #asmr #pawn_for_the_blind) (dbz)
 
 dyslexia is responsible for the confusion between /r|L/, /v|w/,.. (i've heard people who shouldn't, but could)
 
-ice ages could be when the planet rebounds (like the moon) off the outer edge of the goldilocks zone; like black holes that are lost in space
+ice ages could be when the planet rebounds (like the moon) off the outer edge of the goldilocks' zone; like black holes that are lost in space
+tectonics could influence the /periodicity|frequency|interval notation|maturation|iteration|circumflex|trajectory|(bullet|elemental|planet) bending|orbit/
 
 shoe testing: different sizes per foot (i have gumboots now; this is the first time i ever tried this testing style, and it is second only to tailored scanning)
 i couldn't fit my foot into 8
 9 + 10 = undecidable, until i permuted them through to iff 9; permuting 10 out of the equation
+
+they don't give gambling addicts more money to gamble away; why give any other addicts more addiction? why outlaw addictions for those who are not addicted? addiction is merely an excuse for a habit taken too far; too much of any"-thing" is a bad habit detrimental to health, the environment, and every"-thing"
+otherwise we should all get free money (specifically for gambling); except for mental disabilities that claim they /aren't addicted|don't gamble/, comatose smegheads who can't gamble (until two way bci supports their gambling habits),..
+addictions ≠ allergies
+neuroplasticity, phenotypic plasticity,..
+learning is instantaneous; internalisation becomes utilisation c̄out human perceptible delay
 
 ---
 
