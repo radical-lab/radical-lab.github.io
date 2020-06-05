@@ -627,6 +627,8 @@ one $rc of income can be the dole, and the other can be $uing people
 * fans that operate without the safety grills installed; even though it's less(is more than more) cleaning, and improves the æsthetic
 * `mkintelligence` that discovers the malware in proprietary systems; forcing the industry to use formal methods, and floss their sources for global peer review, or `mkintelligence`; but you need intelligence to `mkintelligence`, and the state of the industry is indicative to the contrary #fragmentation #..
 * `mkintelligence` that can win any court case; regardless of which side it's fighting for #yuyutsavaḥ
+	* turing completeness could loop though…
+	* motivational chatbot #wavenet #(re)dubbing #voice_recognition_cracking #nuclear_football
 
 egyptian is the original emoji
 
@@ -779,6 +781,11 @@ sootb-ly built-in
 (vegan)
 (organic)
 (recyclable)
+…
+deadend = unconditionally false; iprefer reversible backtracking ∨ irreversible pruning
+game theory ∨ botanical nomenclature
+…
+under the hood; a symbol is a list of symbols is a list of numbers like shyamscript
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -970,6 +977,28 @@ c̄ = cum = with
 ∨ = versus ≠ v
 
 I can block the sun with a sustained eclipse; humanity will bend the knee.
+…
+other texts included; carving my name into the moon, the man on the moon, moon cheese pizzas, break tony hawks' record,..
+blame the sustained eclipse to find them again
+
+i suspect foul play when the top olive has a pit in it instead of an jalapeño; when i read this reality like a book, i will pit them for it (like majin buu)
+
+imagine if every /star|galaxy|universe/ was eclipsed; even if it was unsustained, it would be equivalent to planetary alignment balanced on a bigger scale
+some stars are missing, and some are fake; some stars are (holo)waved out #dark_matter
+probing the dark stars is an alien test; babylon 5 inverted
+
+eof ≠ \n, but configuration can simulate it; maybe i should make a date for the editor…
+
+a movie where everybody is uncomfortably close; "there's going to be a full moon tonight" in an alternate world where you can touch it
+the most handsome man; who is blind
+
+dyslexia is responsible for the confusion between /r|L/, /v|w/,.. (i've heard people who shouldn't, but could)
+
+ice ages could be when the planet rebounds off the outer edge of the goldilocks zone; like black holes that are lost in space
+
+shoe testing: different sizes per foot (i have gumboots now; this is the first time i ever tried this testing style, and it is second only to tailored scanning)
+i couldn't fit my foot into 8
+9 + 10 = undecidable, until i permuted them through to iff 9; permuting 10 out of the equation
 
 ---
 
