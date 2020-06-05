@@ -627,7 +627,7 @@ one $rc of income can be the dole, and the other can be $uing people
 * fans that operate without the safety grills installed; even though it's less(is more than more) cleaning, and improves the æsthetic
 * `mkintelligence` that discovers the malware in proprietary systems; forcing the industry to use formal methods, and floss their sources for global peer review, or `mkintelligence`; but you need intelligence to `mkintelligence`, and the state of the industry is indicative to the contrary #fragmentation #..
 * `mkintelligence` that can win any court case; regardless of which side it's fighting for #yuyutsavaḥ
-	* turing completeness could loop though…
+	* turing completeness could loop though… #fork_bomb
 	* motivational chatbot #wavenet #(re)dubbing #voice_recognition_cracking #nuclear_football
 
 egyptian is the original emoji
