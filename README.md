@@ -1008,6 +1008,8 @@ neuroplasticity, phenotypic plasticity,..
 learning is instantaneous; internalisation becomes utilisation c̄out human perceptible delay
 decisions are /guided by|piggybacked on/ gamma ray bursts
 
+-monads = type-theoretic file formats + file_changed_since_read error_messages, user_prompts, control_flows,..
+
 ---
 
 https://stackoverflow.com/a/44044240
