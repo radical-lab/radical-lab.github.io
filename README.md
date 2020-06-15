@@ -1053,10 +1053,10 @@ i have a working theory of how to think higher dimensionally
 i should have wrote it down
 
 like stormtroopers, all weapons of śyāmaloka will be inaccurate; so if they fall into enemy hands, they can't be used against us; if they are copycats then rng frequencies, rng triggers, rng rng,..
-stormtroopers ∨ mastermind world conqueror
+leadership: stormtroopers ∨ mastermind world conqueror
 
 free weight machine
-shaped rings on eitherside; rings can be square, oval,.. (square allows for more dimensions of freedom)
+shaped rings on eitherside; rings can be square, oval,.. (square allows for more dimensions of freedom of movement)
 pull the the bar down to pull the rings down
 pushing up will set the rings in position
 pump
@@ -1076,7 +1076,7 @@ next year is a palindrome that could represent the turning point in my life; tur
 
 my plan is to `ascend -q`, allow full lives to accumulate reasons for me to want to torment their souls, catch them at the time of death, projecting a dead body in their place, read their thoughts, knowing their worst nightmares, and give them eternal damnation far beyond their worst nightmares of their limited imaginations; i can "curse" at them to be born into new lives of /mental|(physical|gender)/ disabilities by rewriting their /memories|bodies/, and /(re)?pla(c|nt)ing/ them into the seeds of life; i can keep track of who's who; i will be relentless; they will never escape; they will never ascend; they will only descend lower than conditioned souls; they will never die; they will never take a new life; they will never leave their body; their body will be rewritten; i will always remind them, after rewriting their memories for the lives they /deserve|beg for/; or i can just replace them all with zombies as soon as i ascend; the zombies will do what they would've, while they suffer for it; they'll pay for so much as a fleeting thought i have an infinitesimal disagreement with; like covert racism,..
 
-just as i began this life by passing the book test by going for the money, and falling onto the book after krishna pulled be back; i will end this life in much the same way
+just as i began this life by passing the book test by going for the money, and falling onto the book after krishna pulled me back; i will end this life in much the same way
 
 krishna has shown me my rewards; and i'll enjoy them all
 
