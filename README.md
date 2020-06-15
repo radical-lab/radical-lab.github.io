@@ -556,6 +556,7 @@ north = disease
 		* logo: ॐ (nom nom)
 		* name: buddy nom nom #munchies #hash #..
 		* /tagline|motto/: buddies have the buds
+		* i'm on a boat, and… i'm growing gañjā in international waters; the first international waters dealer!!! :D
 		a foreign "buddy" just threatened me, after attempting to scam me out of desperation before fleeing the country, but i know where he lives, and i'm planning to make it look like covid-19 to cast away any suspicions… (burn buddy burn!!! :D …this event further fuels my raging 12020 hatred ∘ humanity)
 		maybe i just want to kill somebuddy…
 * i'll be wearing a shirt that reads /i survived co(rona)?vi(rus)?d(ecember)?\-(19|20)/
@@ -696,6 +697,18 @@ shyamscript dīkṣās improve mathematics; f(x) can be f×(x), unless explicit 
 (<= z (and a b c /(.+)?/))
 (<= z ⊤)
 …
+(ﬃ z (and a b c …))
+(ﬃ z (and a b c /(.+)?/))
+(ﬃ z ⊤)
+…
+(iﬀ z (and a b c …))
+(iﬀ z (and a b c /(.+)?/))
+(iﬀ z ⊤)
+…
+(iff z (and a b c …))
+(iff z (and a b c /(.+)?/))
+(iff z ⊤)
+…
 black background (s/whitespace/blackspace/; tables are superior to /spacemæns|spacegirls|airheads/ # s p a c e c a s e )
 white textground
 orange is whatever is most important; perhaps unification? unless i used more than just unification to implement reversible negation c̄out cuts
@@ -786,6 +799,16 @@ deadend = unconditionally false; iprefer reversible backtracking ∨ irreversibl
 game theory ∨ botanical nomenclature
 …
 under the hood; a symbol is a list of symbols is a list of numbers like shyamscript
+…
+% t time depends on the size of the hand_program
+prolog(Valid_Program). % backtracking
+prolog(Hand_Program, Optimised_Program). % unification
+=(Valid_Program, Optimised_Program). % implementation
+∨
+% hack a dcg(Math) that can (re)discover distributivity for factoring,.; starting from a minimalistic kbs
+% hack a dcg(Lang) that can optimise more efficiently than a bruteforce; starting from a minimalistic kbs
+% discovering discovery itself
+% dependency: id(X,Y), \=(X,Y), =\=(X,Y),..
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -940,6 +963,13 @@ doctor who is nārada; music box,.. (i put this somewhere; probably where i put 
 twin towers was a 911 ddos, fight club,.. (terrorists would target mount rushmore, the statue of liberty,.; much easier than orchestrating planes, which is more like a moon landing; as easy as the geometry involved c̄ launching missiles at your own /10|20/ trillion dollar militarys' pentagonal headquarters; flossed formal methods are superior to whatever /dysfunctional|illogical/ languages they use (for tacamo, milstar, nuclear football,.; they don't just let just anyone win the elections, or mexico would be a "-thing" of the past); probably /cobol|java/ since it's popular amongst the evil business people who control the big bad corporations)
 china: cracking, dprk nukes, /sars|covid-19/,..
 leaders are vulnerable to man in the middle attacks; by humans, aliens, aliens,.. #truman
+…
+you transfer money to me in one country, and i will transfer money to you in another country; undetectable freetrading (on the slavemarket) to avoid disrupting the economies (unless it suits you; but you can be subtle about it, and bleed them out over t time)
+…
+truman puppeteering; every"-thing" you know is fake for social engineering; from humanity to inhumanity, from lucky to unlucky, from advantaged to disadvantaged,..
+it's not like all the content on the internet/.. couldn't be artificial; time periods can be faked, including the future
+every"-thing" i have ever done in my whole life put together is predictable, sleightable,..
+i have never done any"-thing" meaningful; there is no"-thing" i care about; c̄ impending death, no"-thing" matters; only ascension
 
 i just discovered interdimensional travel to alternate realities; based on an old theory from when i was young, and naive; as related to the jumper theory, but includes planetary alignment; the moon is significant, the sun is probably significant, but it can be done from earth; a lock can be placed to block it though; really easily; there is a chance it's already blocked; it's more than likely; this would require international cooperation; never going to happen; elon musks' satellite network could be repurposed to break the lock (but this is counterintuitive since it most likely reinforces it); or just move the moon; assuming its' speed is variable depending on its' relative distance to earth; it makes sense for it to cycle its' directional orientation; drifts away, drifts closer; like a life sign; where was i? is it the moon moving, or the earth, or both? i was phaseshifting in between the harmonic vibrational frequencies to rip a hole through spacetime to really stone humanity while i transcend this existence using their annihilation to slingshot me to catch the higher plane (of existence); they all deserve it anyway
 either that, or elon musk is locking it, and it was never locked, but it could be c̄out elon musk; this is based on the theory that locking it is either impractical (/unlikely|improbable/), or it is already being used #network_topological_quasiisometry
@@ -948,7 +978,7 @@ solar laser blackholes (in space)
 where did i put the stargate theory? extracting the cores of stars, and inverting ships to bring them through,..
 fluxtuations
 
-i feel like i'm navigating the /slipstream|bonsai/ from andromeda
+i feel like i'm navigating the /slipstream|bonsai/ from andromeda; pregnancy is the natural boob job, walking like /doyle|a barbie girl in a barbie world/, and there was some"-thing" else about rommies' return… (besides read only memory)
 
 war against the chinese firewall: steganographic protocols (tcp/ip,udp,osi,tor,bittorrent,phreaking,powerplugs,waterpipes,/(radiation|air|sound)waves/,boneconduction,.. (this is how they spy network)); wasn't there a `succ osi`? or is that just one of mine?); their deep packet analysis is fawlty
 
@@ -972,6 +1002,14 @@ https://www.youtube.com/watch?v=WPPPFqsECz0
 gratitude journaling: list [5,10] "-thing"s you're grateful for for a few minutes [1,3] times per week
 why not daily? bedtime moralstorys are social coked up psychoanalytical self reflection is better than peer pressuring (/(de)?constructive/) critical review; pros ∨ cons
 it's natural to pay more attention more on more impactful negatives than underappreciated positives
+scrum the past, the present, and the future; every hour, on the hour
+https://www.youtube.com/watch?v=-cPdImejxEQ
+tree magic; worshipping trees is a good idea
+what about indoors? no chemical pesticides, bees safe from honey deprevation (/thermal|environmental/ control; but sugar comes from sugarcane), bees safe from pests (mozzie laserz),..
+hydroponic water filter?
+only half of a mature tree is needed to support my nitrox habits; redundancy life support is a good idea
+how much to feed me?
+canopy city? underground buildings ∨ rooftop jungles; it can protect the rest of the planet from automotive pollution
 
 c̄ = cum = with
 ∨ = versus ≠ v
@@ -990,7 +1028,7 @@ probing the dark /stars|galaxies|universes|lights|masses/ is an alien test; baby
 eof ≠ \n, but configuration can simulate it; maybe i should make a date for the editor…
 
 a movie where everybody is uncomfortably close; "there's going to be a full moon tonight" in an alternate world where you can touch it; overpopulation
-the most handsome man; who is blind (oh, i thought you were a child; your voice is so high pitched! for a moment there i was sure there was a mouse in the room, as i am frequently mistaken by squeaky voices, and i am especially fond of the three blind mice, which taught me to be more sympathetic towards other wild, and perhaps even downright dastardly, adventurous tails (sic; subtitles) of other mice, of whom occasionally possess the super power of speech, but now it seems that either you've lost your tongue, as i did my eyes, or i believe it's gone subsonic! (or even so supersonic that it loops around to the otherside of the vibe spectrum) they usually do that when i mistake them for children; but not the other way around oddly enough; you'd expect it wasn't so, but it is for some reason that avoids my handsome grasp; or so i'm told…) (likes to swing his cane around like the bananas in pyjamas; some even whisper their suspicions to each other; he has supersensitive hearing #asmr #pawn_for_the_blind) (dbz) (there's no one here! (someone else while playing sudoku) /well i do believe that you are here; oh, are you up to mischief, or do you just want to be left alone? you're not being very inconspicuous; holmesian deduction reduces down to antisocial company that possibly discriminates against the blind|i am here; oh, are you blind too?/) (blind lives matter! (whenever anyone /honks their horn|shouts to get out of the way|rings their bike bells|pushes passed|close calls|near misses|standing too close to the (train tracks|road)/)) (i am blind, officer; at your service) (don't taze me bro! oh you must be female!) (i am james blind and i have a license to feel) (i have donald trumps' hair style because i grab her by the dragonballs) (/high|low/ voice gas prank) (meets someone who is deaf, and starts signing them; i feel their movements through the air; supersensitive touch; you can do it too, just practice with larger physical bodies moving passed you; vehicles rolling downhill, animals holding their breath, balls, frisbees,., hands) (yoga) (i can catch a fly with chopsticks) (says he's a /spy|detective/ to at least one person; not sure if it's true…) (cane is a metal detector; also has excavation tools (toothbrush makes his teeth glow, or something), queefing lock picks,..) (wiggles, and waggles, his wiggly waggly toothbrush moustache) (turns out he was never blind; actor /learning|practisinging/ to act blind ∨ undercover ∨..) (starts singing during a shortcut modelling career; posinging) (wears vr goggles; they have good audio that makes him "feel" like he's in an alternate reality where he can see using echolocation; it is an echolocation brain trainer video game that has cheap graphics that randomises the pixel values by not bothering to set them in the first place instead of making them black, and lightening them as you approach a light source; hard mode ∨ easy mode; has a camera, and gps; s/smartphone/smartgoggles/; hacker prank) (finds himself in the hood, surrounded by gangsters; everything is black, and it all looks the same to me; i can't tell the difference between you(r voices); bff ∨ /blind|drunken/ kung fu ∨..) (telepathic aliens that see through our eyes to see where we are; vision as a life sign, as opposed to movement; they can see your spotlights to avoid being detected; i thought that_human_you_just_mentioned just walked passed me) (supersensitivity can predict the weather; i'm just going to step inside if you don't mind, because i don't want to get wet (just right before a downpour))
+the most handsome man; who is blind (oh, i thought you were a child; your voice is so high pitched! for a moment there i was sure there was a mouse in the room, as i am frequently mistaken by squeaky voices, and i am especially fond of the three blind mice, which taught me to be more sympathetic towards other wild, and perhaps even downright dastardly, adventurous tails (sic; subtitles) of other mice, of whom occasionally possess the super power of speech, but now it seems that either you've lost your tongue, as i did my eyes, or i believe it's gone subsonic! (or even so supersonic that it loops around to the otherside of the vibe spectrum) they usually do that when i mistake them for children; but not the other way around oddly enough; you'd expect it wasn't so, but it is for some reason that avoids my handsome grasp; or so i'm told…) (likes to swing his cane around like the bananas in pyjamas; some even whisper their suspicions to each other; he has supersensitive hearing #asmr #pawn_for_the_blind) (dbz) (there's no one here! (someone else while playing sudoku) /well i do believe that you are here; oh, are you up to mischief, or do you just want to be left alone? you're not being very inconspicuous; holmesian deduction reduces down to antisocial company that possibly discriminates against the blind|i am here; oh, are you blind too?/) (blind lives matter! (whenever anyone /honks their horn|shouts to get out of the way|rings their bike bells|pushes passed|close calls|near misses|standing too close to the (train tracks|road)/)) (i am blind, officer; at your service) (don't taze me bro! oh you must be female!) (i am james blind and i have a license to feel) (i have donald trumps' hair style because i grab her by the dragonballs) (/high|low/ voice gas prank) (meets someone who is deaf, and starts signing them; i feel their movements through the air; supersensitive touch; you can do it too, just practice with larger physical bodies moving passed you; vehicles rolling downhill, animals holding their breath, balls, frisbees,., hands) (yoga) (i can catch a fly with chopsticks) (says he's a /spy|detective/ to at least one person; not sure if it's true…) (cane is a metal detector; also has excavation tools (toothbrush makes his teeth glow, or something), queefing lock picks,..) (wiggles, and waggles, his wiggly waggly toothbrush moustache) (turns out he was never blind; actor /learning|practisinging/ to act blind ∨ undercover ∨..) (starts singing during a shortcut modelling career; posinging) (wears vr goggles; they have good audio that makes him "feel" like he's in an alternate reality where he can see using echolocation; it is an echolocation brain trainer video game that has cheap graphics that randomises the pixel values by not bothering to set them in the first place instead of making them black, and lightening them as you approach a light source; hard mode ∨ easy mode; has a camera, and gps; s/smartphone/smartgoggles/; hacker prank) (finds himself in the hood, surrounded by gangsters; everything is black, and it all looks the same to me; i can't tell the difference between you(r voices); bff ∨ /blind|drunken/ kung fu ∨..) (telepathic aliens that see through our eyes to see where we are; vision as a life sign, as opposed to movement; they can see your spotlights to avoid being detected; i thought that_human_you_just_mentioned just walked passed me) (supersensitivity can predict the weather; i'm just going to step inside if you don't mind, because i don't want to get wet (just right before a downpour)) (an anti vision supremacy propagating propaganda) (sudoku has printed /marks|candidates/, and the player /circles|crosses/ them)
 
 dyslexia is responsible for the confusion between /r|L/, /v|w/,.. (i've heard people who shouldn't, but could)
 
@@ -1009,6 +1047,38 @@ learning is instantaneous; internalisation becomes utilisation c̄out human perc
 decisions are /guided by|piggybacked on/ gamma ray bursts
 
 -monads = type-theoretic file formats + file_changed_since_read error_messages, user_prompts, control_flows,..
+
+i have a working theory of how to think higher dimensionally
+…
+i should have wrote it down
+
+like stormtroopers, all weapons of śyāmaloka will be inaccurate; so if they fall into enemy hands, they can't be used against us; if they are copycats then rng frequencies, rng triggers, rng rng,..
+stormtroopers ∨ mastermind world conqueror
+
+free weight machine
+shaped rings on eitherside; rings can be square, oval,.. (square allows for more dimensions of freedom)
+pull the the bar down to pull the rings down
+pushing up will set the rings in position
+pump
+touch sensitive rings will raise the bar
+spring loaded ring safety mechanism for redundancy systems in the case of mechanical failure that is only deemed necessary for organic life support
+…
+electromagnets = /cleanroom|hydrophobic/ walls, ceilings, floors,..
+
+i think my life has become peaceful, and prosperous, because i realised i don't need to actually do any"-thing"; i don't need to /volunteer for|attend/ conferences for /the dole|job applications/, i don't need to even /study|pass/ for my work for the dole activity; i don't need to do any"-thing"; that is peace, and prosperity
+i can even write a script to apply for 20 jobs every month for the dole; i don't need to do any"-thing"
+it's not like conferences are recognised by the dole anyway, nor do they provide funding; i got a diversity scholarship once though from the last compose, but i didn't get into linux this year, and yow has been discontinued; i'm done c̄ overdrawing my bank account, i'm done c̄ actually studying, and i'm just done (trying)
+it's not like students get paid more than job seekers; even though students have to do more than job seekers, get paid less for it, and get debt for it (students also have to pass; unlike job seekers)
+tafe needed passes, and attendance; but uni doesn't need either, and i get enough to cover the costs up front
+i think i got my school certificate from tafe; if i did then it should be in a box somewhere, but i'll never use it ∵ i have a degree now…
+i got a degree, then fires started, then covid-19 started; now my degree is useless #book_test
+next year is a palindrome that could represent the turning point in my life; turning ∈ agony ÷ agni
+
+my plan is to `ascend -q`, allow full lives to accumulate reasons for me to want to torment their souls, catch them at the time of death, projecting a dead body in their place, read their thoughts, knowing their worst nightmares, and give them eternal damnation far beyond their worst nightmares of their limited imaginations; i can "curse" at them to be born into new lives of /mental|(physical|gender)/ disabilities by rewriting their /memories|bodies/, and /(re)?pla(c|nt)ing/ them into the seeds of life; i can keep track of who's who; i will be relentless; they will never escape; they will never ascend; they will only descend lower than conditioned souls; they will never die; they will never take a new life; they will never leave their body; their body will be rewritten; i will always remind them, after rewriting their memories for the lives they /deserve|beg for/; or i can just replace them all with zombies as soon as i ascend; the zombies will do what they would've, while they suffer for it; they'll pay for so much as a fleeting thought i have an infinitesimal disagreement with; like covert racism,..
+
+just as i began this life by passing the book test by going for the money, and falling onto the book after krishna pulled be back; i will end this life in much the same way
+
+krishna has shown me my rewards; and i'll enjoy them all
 
 ---
 
