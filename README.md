@@ -708,6 +708,8 @@ shyamscript dīkṣās improve mathematics; f(x) can be f×(x), unless explicit 
 (iff z (and a b c …))
 (iff z (and a b c /(.+)?/))
 (iff z ⊤)
+(iff z y x …)
+(equivalence (and (iff …)..) (iffs (z1 y1 x1 …)..)))
 …
 black background (s/whitespace/blackspace/; tables are superior to /spacemæns|spacegirls|airheads/ # s p a c e c a s e )
 white textground
@@ -809,6 +811,12 @@ prolog(Hand_Program, Optimised_Program). % unification
 % hack a dcg(Lang) that can optimise more efficiently than a bruteforce; starting from a minimalistic kbs
 % discovering discovery itself
 % dependency: id(X,Y), \=(X,Y), =\=(X,Y),..
+% pattern matching transformations
+∨
+% /syntactic|cosmetic/ dsl is to be (partially) ignored
+(and (not (diff X Y Z)) (modulate Z) (s/ (X | Y) / Z /))
+(and (not (diff X Y Z)) (modulate Z S) (s/ Z / S / X Y))
+(and (not (diff X Y Z)) (modulate Z S) (s/ Z / S /))
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -825,7 +833,7 @@ mexican tacos
 		* [x] cheese (vegan, melted; i hate vegan cheddar, but i think it's better than vegan mozzarella; need to give it a chance, but not eat it out of the bag this time; it tasted the same this time so last time was probably just a bad batch but now i just get the cheapest)
 		* [ ] butter (vegan; this doesn't make it murky like the milk, but it did taste good, but i put way too much in trying to make it murky, and i thought i was going to die, but maybe i shouldn't have eaten it all in one go…)
 	* [x] avocado (s/wash the skin before/i am just too lazy/ peeling upside-down like an icecream cone; beware the /navel?/) c̄ bamboo cutlery (scrape it into guacamole)
-* [ ] vegvit
+* [x] vegvit
 * [x] flaxseed oil (vegan, organic)
 * [x] tacos = bread c̄ vegan butter c̄ bamboo cutlery
 * n taco per hour
@@ -854,8 +862,8 @@ all the "-thing"s
 * [ ] hippy smokebuddy (i already have a rasta grinder; i need a śiva chillum)
 * [ ] immersion circulator
 * [ ] hydrology9
-* [ ] vegvit
-* [ ] flaxseed oil
+* [x] vegvit
+* [x] flaxseed oil
 * [ ] universal_pseudointelligent-telephone_chargers.usb (wait; this is just a standard usb? who needs turbo charge…)
 * [ ] 2, or 3, cheapest android phones
 * [ ] boxes
@@ -864,7 +872,7 @@ all the "-thing"s
 * [ ] powerboards
 * [ ] vegan
 	* [ ] headphones: (no plastic; gloves + habanero = headphone microplastics are insignificant), wired, noise cancelling, over ear,..
-	* [ ] gumboots
+	* [x] gumboots (not vegan labelled, but has no /souls?/)
 	* [ ] van: gear stick inbetween the middle seat legs, mattress in the windowless back, tinted windows, roll cage, rear view s/mirror/camera/,.. (diy security system: 360°×360° cameras, echolocation sonar, radar,., blackbox, jamming pings to toggle stealth-mode, live streaming, gps tracking,..)
 * [ ] linux compatible hardware: raspberry pi + raspbian = √radical + prolog + (hydro)electronics + ☥42 + 𝄞03 + $rc +..
 * [ ] carpentry tools: (s/bookcase/ramdisx drivebays (make it look dangerous, and `$command @args` instead of a booklever)/ hydro) computer tower, ups, massive battery, redundancy systems, easy-clean-filter positive turbofan, electromagnetic-surfaced /clean|cool|vacwm/ room, faraday cage, (¿bubbly=dusty? iprefer filterless) mineral oil immersion circulator in a tub
@@ -1006,9 +1014,11 @@ scrum the past, the present, and the future; every hour, on the hour
 https://www.youtube.com/watch?v=-cPdImejxEQ
 tree magic; worshipping trees is a good idea
 what about indoors? no chemical pesticides, bees safe from honey deprevation (/thermal|environmental/ control; but sugar comes from sugarcane), bees safe from pests (mozzie laserz),..
-hydroponic water filter?
+hydroponic water filter? tailored nutrients is an obstacle, but periodic fluxtuations could open a window of opportunity
 only half of a mature tree is needed to support my nitrox habits; redundancy life support is a good idea
 how much to feed me?
+* (2 cows ÷ 1 year) c̄ surplus; i lived on raw milk straight from the udder for 3 months, so maybe grass is all i really need? i need enough for 108 go that will last me the next 50 years, which just happens to be their maximum life expectancy rate; 7' height + 7' moonjump + 1' horns = 16' is the minimum distance between the grass, and the lights, so the ceiling must be higher than the lights, and the floor must be lower than the grass; total mixed rations can hang from the ceiling, mazes, tunnels, /(scratch|rub) (posts|(car wash)? rollers)/, /salt|mineral/ licks can be on the walls for bipedal indoor rock climbing, swimming pools, rain pools, rain, rng rain, sprinklers, bubbles, chocolate factories, rat parks, /tmr|lick/ treadmills, carrot on a /stick|snowman/,..
+* for plants; divide the year into partitions; 365xp = daily consistency, where p matches /patraṁ|puṣpaṁ|phalaṁ/, and x is a multiplier (some plants have only one output; ears,..)
 canopy city? underground buildings ∨ rooftop jungles; it can protect the rest of the planet from automotive pollution
 
 c̄ = cum = with
@@ -1074,11 +1084,17 @@ i think i got my school certificate from tafe; if i did then it should be in a b
 i got a degree, then fires started, then covid-19 started; now my degree is useless #book_test
 next year is a palindrome that could represent the turning point in my life; turning ∈ agony ÷ agni
 
-my plan is to `ascend -q`, allow full lives to accumulate reasons for me to want to torment their souls, catch them at the time of death, projecting a dead body in their place, read their thoughts, knowing their worst nightmares, and give them eternal damnation far beyond their worst nightmares of their limited imaginations; i can "curse" at them to be born into new lives of /mental|(physical|gender)/ disabilities by rewriting their /memories|bodies/, and /(re)?pla(c|nt)ing/ them into the seeds of life; i can keep track of who's who; i will be relentless; they will never escape; they will never ascend; they will only descend lower than conditioned souls; they will never die; they will never take a new life; they will never leave their body; their body will be rewritten; i will always remind them, after rewriting their memories for the lives they /deserve|beg for/; or i can just replace them all with zombies as soon as i ascend; the zombies will do what they would've, while they suffer for it; they'll pay for so much as a fleeting thought i have an infinitesimal disagreement with; like covert racism,..
+my plan is to `ascend -q`, allow full lives to accumulate reasons for me to want to torment their souls, catch them at the time of death, projecting a dead body in their place, read their thoughts, knowing their worst nightmares, and give them eternal damnation far beyond their worst nightmares of their limited imaginations; i can "curse" at them to be born into new lives of /mental|(physical|gender)/ disabilities by rewriting their /memories|bodies/, and /(re)?pla(c|nt)ing/ them into the seeds of life; i can keep track of who's who; i will be relentless; they will never escape; they will never ascend; they will only descend lower than conditioned souls; they will never die; they will never take a new life; they will never leave their body; their body will be rewritten; i will always remind them, after rewriting their memories for the lives they /deserve|beg for/; or i can just replace them all with zombies as soon as i ascend; the zombies will do what they would've, while they suffer for it; they'll pay for so much as a fleeting thought i have an infinitesimal disagreement with; like covert racism, covert stockholm syndrome, neurodegenerative diseases,..
 
 just as i began this life by passing the book test by going for the money, and falling onto the book after krishna pulled me back; i will end this life in much the same way
 
 krishna has shown me my rewards; and i'll enjoy them all
+
+my age: ॐ
+next year: 12021
+
+it's nice to know copbots will only target uncanny valley white people; considering the rest of us adversarial apes
+they don't use technological /cops|soldiers/ ∵ compromisation phobia
 
 ---
 
