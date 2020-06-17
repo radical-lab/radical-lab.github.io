@@ -872,7 +872,7 @@ all the "-thing"s
 * [ ] powerboards
 * [ ] vegan
 	* [ ] headphones: (no plastic; gloves + habanero = headphone microplastics are insignificant), wired, noise cancelling, over ear,..
-	* [x] gumboots (not vegan labelled, but has no /souls?/)
+	* [x] gumboots (not vegan labelled, but has no /souls?/, and is 50% recycled, but probably not recyclable)
 	* [ ] van: gear stick inbetween the middle seat legs, mattress in the windowless back, tinted windows, roll cage, rear view s/mirror/camera/,.. (diy security system: 360°×360° cameras, echolocation sonar, radar,., blackbox, jamming pings to toggle stealth-mode, live streaming, gps tracking,..)
 * [ ] linux compatible hardware: raspberry pi + raspbian = √radical + prolog + (hydro)electronics + ☥42 + 𝄞03 + $rc +..
 * [ ] carpentry tools: (s/bookcase/ramdisx drivebays (make it look dangerous, and `$command @args` instead of a booklever)/ hydro) computer tower, ups, massive battery, redundancy systems, easy-clean-filter positive turbofan, electromagnetic-surfaced /clean|cool|vacwm/ room, faraday cage, (¿bubbly=dusty? iprefer filterless) mineral oil immersion circulator in a tub
@@ -964,7 +964,7 @@ they can take a dependent leap of faith, and lend it all for #meta
 i can collapse all of the economys into a state of /crippling|(ir|dis)reparable/ catastrophic failure by unleashing my /(meta)*/ wealth that every tax agency will beg me not to bring into their borders (conflict of interest); no "tax evasion", no "injustice"
 they can't boycott me ∵ i will metatarget them through f(x) trading; or is it fₓ trading ∘ (higher order) currency pairs? fₓ(B,S). % does swipl support unicode functors?
 the (charitable founding) microsoft rocking (/phaseshifted|photoshopped/ rocking chair), and (camera covering) facebook laughing (boosted paparazzi circus), public humiliations wære intimidation tactics for (sp)ywarez (corruption at the highest level) #mib
-i am like seinfeld; but i just don't use a towel ∵ i am just too lazy, and my clothing will eventually dry out after soaking up the residual water; at some point it is no different than wasting time using a towel, which wastes resources during laundry; i wear /thongz|flipflopz/ in the shower
+i am like seinfeld; but i just don't use a towel ∵ i am just too lazy, and my clothing will eventually dry out after soaking up the residual water; at some point it is no different than wasting time using a towel, which wastes resources during laundry; i wear /thongz|flipflopz/ in the shower (i just got the b-movie joke!!! :D)
 they use foreign aid to keep /dictators|tyrants/ in check; that's why they don't care where it goes
 they defeated isis similarly; exploiting technicalities like ninjaz #plausible_deniability
 doctor who is nārada; music box,.. (i put this somewhere; probably where i put twin towers)
@@ -1017,8 +1017,8 @@ what about indoors? no chemical pesticides, bees safe from honey deprevation (/t
 hydroponic water filter? tailored nutrients is an obstacle, but periodic fluxtuations could open a window of opportunity
 only half of a mature tree is needed to support my nitrox habits; redundancy life support is a good idea
 how much to feed me?
-* (2 cows ÷ 1 year) c̄ surplus; i lived on raw milk straight from the udder for 3 months, so maybe grass is all i really need? i need enough for 108 go that will last me the next 50 years, which just happens to be their maximum life expectancy rate; 7' height + 7' moonjump + 1' horns = 16' is the minimum distance between the grass, and the lights, so the ceiling must be higher than the lights, and the floor must be lower than the grass; total mixed rations can hang from the ceiling, mazes, tunnels, /(scratch|rub) (posts|(car wash)? rollers)/, /salt|mineral/ licks can be on the walls for bipedal indoor rock climbing, swimming pools, rain pools, rain, rng rain, sprinklers, bubbles, chocolate factories, rat parks, /tmr|lick/ treadmills, carrot on a /stick|snowman/,..
-* for plants; divide the year into partitions; 365xp = daily consistency, where p matches /patraṁ|puṣpaṁ|phalaṁ/, and x is a multiplier (some plants have only one output; ears,..)
+* (2 cows ÷ 1 year) c̄ surplus; i lived on raw milk straight from the udder for 3 months, so maybe grass is all i really need? i need enough for 108 go that will last me the next 50 years, which just happens to be their maximum life expectancy rate; 7' height + 7' moonjump + 1' horns = 16' is the minimum distance between the grass, and the lights, so the ceiling must be higher than the lights, and the floor must be lower than the grass; total mixed rations can hang from the ceiling, mazes, tunnels, /(scratch|rub) (posts|(car wash)? rollers)/, /salt|mineral/ licks can be on the walls for bipedal indoor rock climbing, swimming pools, waterfalls, wind farms, rng winds, rain pools, rain, rng rain, sprinklers, bubbles, chocolate factories, rat parks, /tmr|lick/ treadmills, rocky carrot on a /stick|snowman/,.. (cows will top the disxs, followed by plants, starting c̄ grass, and humans will be last; so as not to walk above them spirit beings, but we can visit them on the side as equals; spiritual plants will top the slave plants will top the spirit plants; by creed of śyāmāśrama, this is the way; clans of subways?)
+* for plants; divide the year into partitions; 365xp = daily consistency, where p matches /patraṁ|puṣpaṁ|phalaṁ/, and x is a multiplier (some plants have only one output; ears,..); colour picker (probably no need to detect quality, but i could just click to collect, and snake the camera around, or even 3d scan for holobservation deck)
 canopy city? underground buildings ∨ rooftop jungles; it can protect the rest of the planet from automotive pollution
 
 c̄ = cum = with
@@ -1084,7 +1084,7 @@ i think i got my school certificate from tafe; if i did then it should be in a b
 i got a degree, then fires started, then covid-19 started; now my degree is useless #book_test
 next year is a palindrome that could represent the turning point in my life; turning ∈ agony ÷ agni
 
-my plan is to `ascend -q`, allow full lives to accumulate reasons for me to want to torment their souls, catch them at the time of death, projecting a dead body in their place, read their thoughts, knowing their worst nightmares, and give them eternal damnation far beyond their worst nightmares of their limited imaginations; i can "curse" at them to be born into new lives of /mental|(physical|gender)/ disabilities by rewriting their /memories|bodies/, and /(re)?pla(c|nt)ing/ them into the seeds of life; i can keep track of who's who; i will be relentless; they will never escape; they will never ascend; they will only descend lower than conditioned souls; they will never die; they will never take a new life; they will never leave their body; their body will be rewritten; i will always remind them, after rewriting their memories for the lives they /deserve|beg for/; or i can just replace them all with zombies as soon as i ascend; the zombies will do what they would've, while they suffer for it; they'll pay for so much as a fleeting thought i have an infinitesimal disagreement with; like covert racism, covert stockholm syndrome, neurodegenerative diseases,..
+my plan is to `ascend -q`, allow full lives to accumulate reasons for me to want to torment their souls, catch them at the time of death, projecting a dead body in their place, read their thoughts, knowing their worst nightmares, and give them eternal damnation far beyond their worst nightmares of their limited imaginations; i can "curse" at them to be born into new lives of /mental|(physical|gender)/ disabilities by rewriting their /memories|bodies/, and /(re)?pla(c|nt)ing/ them into the seeds of life; i can keep track of who's who; i will be relentless; they will never escape; they will never ascend; they will only descend lower than conditioned souls; they will never die; they will never take a new life; they will never leave their body; their body will be rewritten; i will always remind them, after rewriting their memories for the lives they /deserve|beg for/; or i can just replace them all with zombies as soon as i ascend; the zombies will do what they would've, while they suffer for it; they'll pay for so much as a fleeting thought i have an infinitesimal disagreement with; like covert racism, covert stockholm syndrome, neurodegenerative diseases, bystanders,..
 
 just as i began this life by passing the book test by going for the money, and falling onto the book after krishna pulled me back; i will end this life in much the same way
 
@@ -1092,9 +1092,32 @@ krishna has shown me my rewards; and i'll enjoy them all
 
 my age: ॐ
 next year: 12021
+my deadline: 12073∘07∘04
 
-it's nice to know copbots will only target uncanny valley white people; considering the rest of us adversarial apes
+it's nice to know copbots will only target uncanny valley white people; considering the rest of us adversarial apes (we won't be considered evolved ∵ apes can already hack, drive, act, deafly communicate,.; universal translators must include signals)
 they don't use technological /cops|soldiers/ ∵ compromisation phobia
+how many cops, and bullets, does it take to put somebodies lights out?
+we're all brown inside; you sack ∘ brick
+
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Text-Garbled.html
+$ printf \\ec;emacs -nw --no-splash # shell understands C-m
+C-m
+C-x
+C-h l
+…
+ C-x C-x C-x ESC [ > [nil]
+ 1 [self-insert-command]
+ ; [self-insert-command]
+ 5 [self-insert-command]
+ 2 [self-insert-command]
+ 0 [self-insert-command]
+ 2 [self-insert-command]
+ ; [self-insert-command]
+ 0 [self-insert-command]
+ c [self-insert-command]
+ C-h l [view-lossage]
+…
+what does this even mean? the colour is different too! (but probably not on the inside)
 
 ---
 
