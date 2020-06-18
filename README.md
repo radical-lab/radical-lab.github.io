@@ -1119,6 +1119,17 @@ C-h l
 …
 what does this even mean? the colour is different too! (but probably not on the inside)
 
+supply my demands; or else↷.
+elect me into power, and i will make your country great again; by banishing all the unemployed to mexico, and employing mexico as our human resource manager to s/help// fund their wall efforts; i will also call the dprk bluff, by launching first strikes back at their borders, and target han chinese majority cities if china wants to get involved ∵ their trust is their weakness, and i'll introduce my own social credit system bill that is better than theirs ∵ only citizens will be considered trustworthy, just to rub it in; i will also launch a temporal attack at t time against the russians to counter their british intelligence; and i will establish law, and order, by policing police policies; i'll befriend gangsters, instead of celebrities, by legalising, and thereby taxiing, their dealerships; on my campaign to take back the far north for getting involved in your politics whilst simultaneously attempting to claim independence, i will liberate the north from the wildlings ∵ they'll politely oblige, and i'll enslave said free folk, in much the same fashion, so they can earn their freedom once more by supporting mexicos wall as atlas did the world #united_north
+i will expand the whitehouse into a whitemansion, airlift the /whitemansion|sand from every (desert|beach)/ to stone canyon reservoir, remove term limits, rule as the fresh prince, and after i rightfully take out back australia, and india; the empire will fall #united_humanity #united_apes #united_mammals #..
+the world will bend the knee if i just invade england(commonwealth,..), france(polynesia,..), spain(mexico,..), china(dprk,..), russia(tanu tuva,..), germany(japan,..),.; or i could invade italy(christians), india(hindus),.; invading the holy land will magically force the followers of abraham to bend the knee, or i will threaten to "curse" at them↷!!! :D
+i will airlift nasa to lutruwita; alien interpretation will turbolate (diplomatic translation will stabilise)
+i will airlift area 51 to stonehenge; both a mystery (i will airlift stonehenge to hide area 51)
+i will airlift the pentagon to isis; that'll give them some"-thing" to think about (but who "them" is↷?)
+i will /(air|space)lift/ the un to the moon, and the pentagon to mars; after they enslave isis, and pay off their debt (their tribute can goto our human resource manager)
+i will move our star closer to the black holes; for a closer look (s/eternal youth/immortality/ for one, and all; mwho ho ho!!! :D)
+`mv sun blackhole;sync#ackn`
+
 ---
 
 https://stackoverflow.com/a/44044240
