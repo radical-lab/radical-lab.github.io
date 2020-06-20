@@ -297,6 +297,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 	* swipl + √license
 	* [ ] word: `/sat(iety|e(d|s))/`, query, 2ʰᵃᶜᵏ,..
 	* [x] [<s>sanskrit</s>](https://www.open.edu.au/subjects/australian-national-university-sanskrit-1-anu-skrt1002) [31 Mar 2020](https://www.open.edu.au/your-studies/getting-started/key-dates)
+	* [ ] [foenix](https://www.open.edu.au/subjects/university-of-new-england-introduction-to-programming-and-the-unix-environment-une-cosc110)
 	* [ ] development "environment"; at least another (thirty+)ten boxes, and probably a new (sturdier) shelf (since it has to reach further than ever before; and maybe need two, three, or more, this time… #360° #suspendedanimation(projection))
 	* [ ] √set = swipl `/setting|editing/` tool (`√set $file $state #meta`)
 	* [ ] √sic = swipl irc client (sic erat scriptum)
@@ -865,7 +866,7 @@ all the "-thing"s
 * [x] vegvit
 * [x] flaxseed oil
 * [ ] universal_pseudointelligent-telephone_chargers.usb (wait; this is just a standard usb? who needs turbo charge…)
-* [ ] 2, or 3, cheapest android phones
+* [ ] 2, or 3, cheapest android phones (magixal boots recover lost signals; just when you think you need a new phone…)
 * [ ] boxes
 * [ ] watt meters
 * [ ] extensions
@@ -1103,7 +1104,7 @@ how many cops, and bullets, does it take to put somebodies lights out?
 we're all brown inside; you sack ∘ brick
 
 https://www.gnu.org/software/emacs/manual/html_node/emacs/Text-Garbled.html
-$ printf \\ec;emacs -nw --no-splash # shell understands C-m
+$ printf \\ec;emacs -nw --no-splash # shell understands C-m, C-_
 C-m
 C-x
 C-h l
