@@ -879,7 +879,7 @@ all the "-thing"s
 * [ ] carpentry tools: (s/bookcase/ramdisx drivebays (make it look dangerous, and `$command @args` instead of a booklever)/ hydro) computer tower, ups, massive battery, redundancy systems, easy-clean-filter positive turbofan, electromagnetic-surfaced /clean|cool|vacwm/ room, faraday cage, (¿bubbly=dusty? iprefer filterless) mineral oil immersion circulator in a tub
 * [ ] entertainment hardware: apu(amd + ati = i like when brickworks together; expection = intel + nvidia; nvidia claims invention of gpu, kind of like intel, and cpu, but they both overcharge, and none of the big s/four/three/ are open)
 * [ ] openbci
-* [ ] debt($0÷$36872.18@help) …i have $272.97 super; why can't they put that into it? that /coupled|paired/ c̄ promotion should even it out to $30k (it's kind of an odd even though)
+* [ ] debt($0÷$39072.18@help) …i have $272.97 super; why can't they put that into it? that /coupled|paired/ c̄ promotion should even it out to $30k (it's kind of an odd even though)
 
 human perception
 it's not only /visual|auditory|illusory/ phenomenon; but also biochemical,..
@@ -979,6 +979,13 @@ truman puppeteering; every"-thing" you know is fake for social engineering; from
 it's not like all the content on the internet/.. couldn't be artificial; time periods can be faked, including the future
 every"-thing" i have ever done in my whole life put together is predictable, sleightable,..
 i have never done any"-thing" meaningful; there is no"-thing" i care about; c̄ impending death, no"-thing" matters; only ascension
+…
+if i have 2 debts that are both -1 dollars, then -1+-1=-2, but -1×2=+1, and this's the mce exploit
+-1+-1=-2, -1×2=+1; -1, where you only have to pay off ½ of the original debt using the debt itself
+-2+-2=-4, -2×2=+4; ∓0
+{-x+-x=-y, -x×z=+y, -y++y=∓0 | 1<a, a∈{x,z}}
+more debt breaks even, but this doesn't include the debt itself, which pays itself off; so the money doubles, and you walk away with the accrued debt
+then you just offer creditors just enough to make it worth their sated while loop; more than any alternative; an offer they cann't refuse; peanuts for peasants #interesting (but not ∵ sant=saint in sanskrit, from /san(ta?|skrit)/ #cryptosanskritisation #covertsanskritisation #beds #brooms #musixs #entendres #exsrayz #exswavez #10rayz #10wavez #romanisation)
 
 i just discovered interdimensional travel to alternate realities; based on an old theory from when i was young, and naive; as related to the jumper theory, but includes planetary alignment; the moon is significant, the sun is probably significant, but it can be done from earth; a lock can be placed to block it though; really easily; there is a chance it's already blocked; it's more than likely; this would require international cooperation; never going to happen; elon musks' satellite network could be repurposed to break the lock (but this is counterintuitive since it most likely reinforces it); or just move the moon; assuming its' speed is variable depending on its' relative distance to earth; it makes sense for it to cycle its' directional orientation; drifts away, drifts closer; like a life sign; where was i? is it the moon moving, or the earth, or both? i was phaseshifting in between the harmonic vibrational frequencies to rip a hole through spacetime to really stone humanity while i transcend this existence using their annihilation to slingshot me to catch the higher plane (of existence); they all deserve it anyway
 either that, or elon musk is locking it, and it was never locked, but it could be c̄out elon musk; this is based on the theory that locking it is either impractical (/unlikely|improbable/), or it is already being used #network_topological_quasiisometry
