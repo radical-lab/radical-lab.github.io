@@ -398,7 +398,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 			* (jedi force) particle suspension c̄ wind turbines, audio speakers, explosions, bullets, full(electromagnetic)spectrum `/lasers|lighting|waves/`,..
 			* wave suspension is a metahack #brainwaves2reachahigherstateofbrainfunctionandescapethisrealityoreditspacetimewhereshyamwillbethemannestmanandallothermenwillberewrittenasfemalesandalllostlivesrevivedandtherewillbeashyamforallandtoshareexperientialpossibilitiesinshyamaloka
 			* single source, single projection; (3D) whispering gallery (diamond mancave)
-		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support (cooling for controlled descent, and even heating for controlled ascent; shifting weights are low tech stabilisers, and also good for manual override, but minimal science kbs for thermal control units is a good idea too), atom powered atom bots,..
+		* construction materials will be programmable, supercomputational, faraday shielded, soundproof, elementalproof, computationally heated `/hydrogen|helium/` for vertical support (cooling for controlled descent, and even heating for controlled ascent; shifting weights are low tech stabilisers, and also good for manual override, but minimal science kbs for thermal control units is a good idea too) (line-x+aerogel? there's a better way; like water is just liquid air, and ice is powerful, but /antigravity|teleportation/ is more holo), atom powered atom bots, waves can suspend to absolute zero (movement,temperature,.; perpetual (im)motion, zero point module, microverse battery,..),..
 			* peak will be goldilocks' zone escape pod for evacuation procedure during natural disasters, attacks,..
 			* rest will be farmed, and salvageable escape pod from evacuation
 			* satellites can be at any altitude
@@ -818,6 +818,12 @@ prolog(Hand_Program, Optimised_Program). % unification
 (and (not (diff X Y Z)) (modulate Z) (s/ (X | Y) / Z /))
 (and (not (diff X Y Z)) (modulate Z S) (s/ Z / S / X Y))
 (and (not (diff X Y Z)) (modulate Z S) (s/ Z / S /))
+…
+(higher dimensional) dragon curves are computational; binary directions (perhaps algebra can automathemagixally optimise)
+flowcharts are also computational, but more abstract; dot, prolog,..
+prolog = /graph|maze/
+lisp = function composition + do notation - do notation; (compute_list l) ∨ (compute_parameters a…)
+golf for reading (/function|predicate/ ∨ delimiter ∨ file ∨ directory ∨..) + golf for computing
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -949,6 +955,8 @@ robotics = conveyor belt; the rest will follow
 rotating walls can adjust (delay the optimable) frequency to compensate for rng weapons
 rotating walls can be colour changing for pixellation
 …
+pixels are ((fully) visible) holo, and can be repurposed as a force field shield
+…
 light speed computing can detect anomalies; seismic activity, solar flares,..
 
 the cancers of society: i'm going to reattach their intestines, and urethras, to their throats; i will leave their tongues, but ply out their teeth; one, by one, slowly, so ever slowly; i will take my /bitter|sweet/ time; i will rip their faces open like nṛsiṁha to make it easier to access their teeth; i will box their personalities; they will feel pain until they die; that will never happen if i /reverse|pause/ their aging process; they will only ever /see|hear/ me to remind them why; i will put them in chastity belts, and inject viagra; i will force feed them down their noses; i will force breath them down their noses; i will cyber their hearts; they will not die ∵ dying is not good enough; s/i/they/ will cure neurodegeneration; they will slave;..
@@ -1028,6 +1036,8 @@ how much to feed me?
 * (2 cows ÷ 1 year) c̄ surplus; i lived on raw milk straight from the udder for 3 months, so maybe grass is all i really need? i need enough for 108 go that will last me the next 50 years, which just happens to be their maximum life expectancy rate; 7' height + 7' moonjump + 1' horns = 16' is the minimum distance between the grass, and the lights, so the ceiling must be higher than the lights, and the floor must be lower than the grass; total mixed rations can hang from the ceiling, mazes, tunnels, /(scratch|rub) (posts|(car wash)? rollers)/, /salt|mineral/ licks can be on the walls for bipedal indoor rock climbing, swimming pools, waterfalls, wind /((pl|f)a(nt|rm)|tunnel)s/, rng winds, trampolines, bouncy keyboards, rain pools, rain, rng rain, sprinklers, bubbles, chocolate factories, rat parks, /tmr|lick/ treadmills (diving boards?), rocky carrot on a /stick|snowman/,.. (cows will top the disxs, followed by plants, starting c̄ grass, and humans will be last; so as not to walk above them spirit beings, but we can visit them on the side as equals; spiritual plants will top the slave plants will top the spirit plants; by creed of śyāmāśrama, this is the way; clans of subways?)
 * for plants; divide the year into partitions; 365xp = daily consistency, where p matches /patraṁ|puṣpaṁ|phalaṁ/, and x is a multiplier (some plants have only one output; ears,..); colour picker (probably no need to detect quality, but i could just click to collect, and snake the camera around, or even 3d scan for holobservation deck)
 canopy city? underground buildings ∨ rooftop jungles; it can protect the rest of the planet from automotive pollution
+https://www.youtube.com/watch?v=BickMFHAZR0
+water elevators; trees are grandly designed specifically for this purpose (/air hangar|vab/ scoop)
 
 c̄ = cum = with
 ∨ = versus ≠ v
@@ -1142,6 +1152,10 @@ i will move our star closer to the black holes; for a closer look (s/eternal you
 `mv sun blackhole;sync#ackn`
 s/(air|space)lift/rocketlift/ #doyouevenlift?
 i will ascend inside the blackhole, while observing everyone elses' immortality
+
+sign language to speech, and bci, gives apes a voice; and also the deaf (an enabled voice) #wavenet
+human tears from a crocodiles' perspective; wearing their skin, just to rub it in; do they hunt for sport? or is this another excuse for animals having no feelings, nor intelligence? just because humans don't, doesn't mean animals don't; and i haven't seen any bci proof of lobes, just idiocracy (like whether the apes actually understand language, or are simply doing a clever trick for a reward; just like the skeptical humans who are what they say they are ∵ humans are apes)
+chimp an' z
 
 ---
 
