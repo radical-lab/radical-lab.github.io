@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>√ has kell?</title>
+	<script src='/scripts/1.js'></script>
+</head>
+<body>
+<pre>
+{-# OPTIONS_GHC -fno-warn-tabs -fno-warn-unrecognised-pragmas #-}
+import Acme.Dont
+import System.IO.Unsafe
+main = do
+	putStr "\128406 hello; what is your' name?\n" -- s/\n
+	putChar . unsafePerformIO $ getChar
+	putStr "\b\x1b[1A\27[Kroll credits\128372\n]\b]\b" -- s/\n
+	return undefined
+	don't (say "another word.\n") where say = putStr -- s/\n
+{-# spacial escape velocity is terminal #-}
+</pre>
+</body>
+</html>

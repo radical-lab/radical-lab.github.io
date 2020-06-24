@@ -823,7 +823,7 @@ prolog(Hand_Program, Optimised_Program). % unification
 flowcharts are also computational, but more abstract; dot, prolog,..
 prolog = /graph|maze/
 lisp = function composition + do notation - do notation; (compute_list l) ∨ (compute_parameters a…)
-golf for reading (/function|predicate/ ∨ delimiter ∨ file ∨ directory ∨..) + golf for computing
+golf for reading (/function|predicate/ ∨ (multi)delimiter ∨ file ∨ directory ∨..) + golf for computing
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
