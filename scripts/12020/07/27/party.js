@@ -2,7 +2,7 @@
 window.onload = () => {
 	time = t => performance.now().toString().slice(-t); // space = NaN
 	rng = t => Number(time(t));
-	window.history.pushState('', '', '');
+	window.history.pushState('', '', rng(1).toString(2));
 	c = 0;
 	setInterval(() => {
 		const deep = c;
