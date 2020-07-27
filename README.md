@@ -1189,7 +1189,7 @@ i remember being called over the landline, over half a decade ago, but it wasn't
 …
 the rude awakening means i need to start hosting my own /dns|superintelligent search engine that ignores robots/, sofware from scratch,..
 how do i prevent /(router|isp)s/ from middle trumanning me?
-how do i detect observation?
+how do i detect observation? /vanta (darkness|surfaces)|spectr.*|(subatomic)? particle detectors/ for the observer paradox
 i need to make hardware from household products, and software; incompatibility is as good as isolation during covid-19 (or all of t time to avoid the darwinian sfx byproduct of animalery)
 i need to start /spoofing|spamming|d?dossing/ them back; i might as well start playing in the deep web playground too…
 i need to hack my phone to transmit that feedback noise when microphones are in front of speakers, turned up to level 11 to permanently damage their hearing
