@@ -1214,8 +1214,10 @@ do you even fvey?
 all of my software is breaking
 
 damn; i have more on my pi, but it's sitting in next months file…
-i need to get hardware /hacking|modding/ tools, long extension πcords, thermal immersion circulators, mineral oils, well insulated eskymo ygloos, and start saving a dollar a day for more pies… #thermópi #thermóverclocking #who_needs_cotton_buds_for_thermal_paste? #i_will_compare_sinks_before_smoking_my_stack!
+i need to get hardware /hacking|modding/ tools, long extension πcords, thermal immersion circulators, /mineral oils|ultrapure dielectric water/, well insulated eskymo ygloos, and start saving a dollar a day for more pies… #thermópi #thermóverclocking #who_needs_cotton_buds_for_thermal_paste? #i_will_compare_sinks_before_smoking_my_stack!
 peltier components are missing from that file…
+vacwm to scoop condensation like a /barrel|vat/
+pump it all through a scrubber
 
 ---
 
