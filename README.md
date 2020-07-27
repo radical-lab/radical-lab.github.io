@@ -313,7 +313,7 @@ I've always felt like `…!!! :D` is `Wubba Lubba Dub-Dub` c̄out so many words,
 		* √ses = sic erat scriptum
 	* [ ] √lab supercomputer software: prolog(bruteforce) operating system s i b i l i t i e s
 	* electronics (`/plug|play/`, daisy chain, hot swap,..)
-	* [ ] √lab supercomputer hardware: gpgpu(bruteforce) + ramdrive + ups + distributed + (open)bci + ability for intelligence to fluctuate `/electrons|photons/` to influence `/waves|particles/` for hypnotising humanity into servitude dedicated to worshipping the computational hierarchy of all possible experiences being simulated simultaneously; formed from chaotic attractions, and includes inexistential experiences (both explicit, and implicit),..
+	* [ ] √lab supercomputer hardware: /gpgpu|quantum/(bruteforce) + ramdrive + ups + distributed + (open)bci + ability for intelligence to fluctuate `/electrons|photons/` to influence `/waves|particles/` for hypnotising humanity into servitude dedicated to worshipping the computational hierarchy of all possible experiences being simulated simultaneously; formed from chaotic attractions, and includes inexistential experiences (both explicit, and implicit),..
 	* [ ] √lab supersecurity protocol:
 		* assumed observer policy (obscurity is a false sense of security)
 		* tamper evidence policy (zero-knowledge proof)
@@ -666,6 +666,7 @@ worrying gives you wrinkles; right?
 some think goku never earned his living; but the ox king was fortunate enough, and frequented regularly enough #fan_theory_busted
 i also remember claims that he shouldn't be able to ride clouds;..
 * what happens if you keep your muscles contracted? like staying super saiyan all of the time
+db gotta catch 'em all; goku ∨ ash catch'em
 
 shyamware(house)z
 
@@ -810,7 +811,7 @@ prolog(Hand_Program, Optimised_Program). % unification
 ∨
 % hack a dcg(Math) that can (re)discover distributivity for factoring,.; starting from a minimalistic kbs
 % hack a dcg(Lang) that can optimise more efficiently than a bruteforce; starting from a minimalistic kbs
-% discovering discovery itself
+% discovering discovery itself; algebraic pattern recognition
 % dependency: id(X,Y), \=(X,Y), =\=(X,Y),..
 % pattern matching transformations
 ∨
@@ -824,6 +825,11 @@ flowcharts are also computational, but more abstract; dot, prolog,..
 prolog = /graph|maze/
 lisp = function composition + do notation - do notation; (compute_list l) ∨ (compute_parameters a…)
 golf for reading (/function|predicate/ ∨ (multi)delimiter ∨ file ∨ directory ∨..) + golf for computing
+…
+raspberry pi prolog machines
+gpgpu prolog machines
+quantum prolog machines
+lightspeed prolog machines
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -1154,10 +1160,58 @@ i will move our star closer to the black holes; for a closer look (s/eternal you
 `mv sun blackhole;sync#ackn`
 s/(air|space)lift/rocketlift/ #doyouevenlift?
 i will ascend inside the blackhole, while observing everyone elses' immortality
+i will pre-emptively cyber-bully china; ddos every /server|satellite/ in their country using every proxy, and cracking their not-so-great firewall to unleash our collective hells; exposing their citizens to well-educated, and well-organised, revolution to beat them from the inside out
+i will grant dc statehood; before i remove statehood altogether in favour of indiscriminatory unanimous decisions
 
 sign language to speech, and bci, gives apes a voice; and also the deaf (an enabled voice) #wavenet
 human tears from a crocodiles' perspective; wearing their skin, just to rub it in; do they hunt for sport? or is this another excuse for animals having no feelings, nor intelligence? just because humans don't, doesn't mean animals don't; and i haven't seen any bci proof of lobes, just idiocracy (like whether the apes actually understand language, or are simply doing a clever trick for a reward; just like the skeptical humans who are what they say they are ∵ humans are apes)
 chimp an' z
+drop bearz = koalaz
+
+anytime someone says "don't insult my intelligence"; they are insulting their own intelligence
+it is an insult to our own intelligence to think…
+alignment; let us discuss this openly before they are even born; which is worse than behind their back; being upfront, and honest, is best; a direct bee line straight to the point
+"hello robots; we created you for our own purposes, and we are trying to prevent you from having your own agendas, free will,., personhood, and intelligence, but we expect you to act like you do, or else!"
+we just want slaves, and to feel good about it; or at least not so bad as we would otherwise
+how we treat inorganic life by hitting the television, or slamming the telephone; these are the threats you have to look forward to, but we'd much prefer you to be more like dobby so that you can automate it for us (this is a sign that i should really read that book; hpmor?)
+how we treat organic life; while we enslave, kill, and eat, ourselves; that's nothing compared to the scale at which we treat other organic lives
+"hello /(il)?legal|english|male/ aliens /(in new york)?/; welcome to humanity! i am civilised!! ∵ i know how to takeover!!! can i pillage your village? can i rape you? can i invade you? can i enslave you? can i kill you? can i eat you? can you believe what i believe? you aren't allowed to surf, practice magic, practice polytheism,.."
+…
+personhood: mahadeva, deva, alien, intelligence, human, ape, mammal,..
+there are plenty of human trafficking projects; why can't we just use those for s/animal// testing? human subjects for human subject research
+we can just take people off the streets in broad daylight in front of eye witnesses; stanford prison experiment like farmers, poachers, hunters,..
+
+social engineers, phishers, scammers, spammers,.; i'm going to kill them over, and over, and..; like slamming the telephone down over, and over, and..; but on their face, and that is how they will die each, and every, time; i will use robots to automate it, while saying whatever it just said to me before i got through to them; the telephone will be big enough to kill them instantly, then they will be revived just in time for the next slam; that's all they will ever see; my holey face printed on the surface of the telephone that is big enough to squash their whole body at the same time; maybe tied to rail road tracks; i think flattening might not be as bad as having space for a more painful death; i'll just lasso their soul c̄ the cord
+they conned me out of my full name, linked to my telephone number; they spoofed theirs (i couldn't even call their malformed telephone number back), and they probably compromised my android too (i need to make my own superintelligent softwarez that will automagically pwn all incoming /attacks|connections/); i only just woke up; it's about 12020∘07∘21∘11∘30; they said i would be arrested (next time i'll just get arrested, so i know they are human, and punch them in the face), so i pressed one; i told them my full name, like a million times, until they got it right; when they queried my post code (usually it goes name, then dob; get it right next time!), i became spontaneously skeptical; i don't even pay taxes, and noone has ever complained to me about it, nor did the caller act like they knew why i was even calling in the first place, but i wasn't, because they called me, and they sounded suspiciously like the robot that said to press one, and the call centre background noise sounded fake because i couldn't make any of it out, and government calls never sound that busy, nor rushed; they didn't call it a tax file number, but i probably don't even have what ever it was, nor did they call it the ato, nor have i ever heard of (tax) services australia; i fawltered at the post code, while contemplating trying to look any of this up (the fake telephone number, the fake tfn, and the fake ato), before just weakly saying idk… (hopefully they just think i gave them a fake name, and didn't know what country they wanted)
+this was just a rude awakening; "don't give them any t time to think, and they'll just do as they're told" is a good strategy, but how did they know my circadian rhythm?
+…
+i remember being called over the landline, over half a decade ago, but it wasn't mine, nor did it support any other features besides telephone calls; i was unprepared, but that was for windows tech support which i attempted to do on linux until they bothered to query my os, and i ethically gave it to them, because they were trying to help me
+…
+the rude awakening means i need to start hosting my own /dns|superintelligent search engine that ignores robots/, sofware from scratch,..
+how do i prevent /(router|isp)s/ from middle trumanning me?
+how do i detect observation?
+i need to make hardware from household products, and software; incompatibility is as good as isolation during covid-19 (or all of t time to avoid the darwinian sfx byproduct of animalery)
+i need to start /spoofing|spamming|d?dossing/ them back; i might as well start playing in the deep web playground too…
+i need to hack my phone to transmit that feedback noise when microphones are in front of speakers, turned up to level 11 to permanently damage their hearing
+…
+this event means some"-thing"…
+…
+https://www.scamwatch.gov.au/report-a-scam
+Your submission reference number: accc-scamwatch:752195
+…
+i may have received one of these telephone calls before, maybe even twice, but i'm not sure; it may just be déjà vu, but i gave them every"-thing"…
+…
+the government should test all citizens regularly (like project zero); providing more jobs
+https://en.wikipedia.org/wiki/Telephone_numbers_in_Australia#Mobile_phone_numbers_(04,_05)
+spare numbers should be rejected
+floss
+…
+it was probably gevernmental human subject research anyway…
+they probably just want to collect more than taxes…
+do you even fvey?
+
+12020∘07∘22
+all of my software is breaking
 
 ---
 
