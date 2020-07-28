@@ -829,7 +829,7 @@ golf for reading (/function|predicate/ ∨ (multi)delimiter ∨ file ∨ directo
 raspberry pi prolog machines
 gpgpu prolog machines
 quantum prolog machines
-lightspeed prolog machines
+lightspeed prolog machines (/holey|ping/ computer, double slit computer,..)
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -1177,7 +1177,7 @@ how we treat inorganic life by hitting the television, or slamming the telephone
 how we treat organic life; while we enslave, kill, and eat, ourselves; that's nothing compared to the scale at which we treat other organic lives
 "hello /(il)?legal|english|male/ aliens /(in new york)?/; welcome to humanity! i am civilised!! ∵ i know how to takeover!!! can i pillage your village? can i rape you? can i invade you? can i enslave you? can i kill you? can i eat you? can you believe what i believe? you aren't allowed to surf, practice magic, practice polytheism,.."
 …
-personhood: mahadeva, deva, alien, intelligence, human, ape, mammal,..
+personhood: mahādeva, deva, alien, intelligence, human, ape, mammal,..
 there are plenty of human trafficking projects; why can't we just use those for s/animal// testing? human subjects for human subject research
 we can just take people off the streets in broad daylight in front of eye witnesses; stanford prison experiment like farmers, poachers, hunters,..
 
