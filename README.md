@@ -829,7 +829,7 @@ golf for reading (/function|predicate/ ∨ (multi)delimiter ∨ file ∨ directo
 raspberry pi prolog machines
 gpgpu prolog machines
 quantum prolog machines
-lightspeed prolog machines (/holey|ping/ computer, double slit computer,..)
+lightspeed prolog machines (/holey|ping/ computer, /double|n/ slit computer,..)
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -1040,7 +1040,7 @@ what about indoors? no chemical pesticides, bees safe from honey deprevation (/t
 hydroponic water filter? tailored nutrients is an obstacle, but periodic fluxtuations could open a window of opportunity
 only half of a mature tree is needed to support my nitrox habits; redundancy life support is a good idea
 how much to feed me?
-* (2 cows ÷ 1 year) c̄ surplus; i lived on raw milk straight from the udder for 3 months, so maybe grass is all i really need? i need enough for 108 go that will last me the next 50 years, which just happens to be their maximum life expectancy rate; 7' height + 7' moonjump + 1' horns = 16' is the minimum distance between the grass, and the lights, so the ceiling must be higher than the lights, and the floor must be lower than the grass; total mixed rations can hang from the ceiling, mazes, tunnels, /(scratch|rub) (posts|(car wash)? rollers)/, /salt|mineral/ licks can be on the walls for bipedal indoor rock climbing, swimming pools, waterfalls, wind /((pl|f)a(nt|rm)|tunnel)s/, rng winds, trampolines, bouncy keyboards, rain pools, rain, rng rain, sprinklers, bubbles, chocolate factories, rat parks, /tmr|lick/ treadmills (diving boards?), rocky carrot on a /stick|snowman/,.. (cows will top the disxs, followed by plants, starting c̄ grass, and humans will be last; so as not to walk above them spirit beings, but we can visit them on the side as equals; spiritual plants will top the slave plants will top the spirit plants; by creed of śyāmāśrama, this is the way; clans of subways?)
+* (2 cows ÷ 1 year) c̄ surplus; i lived on raw milk straight from the udder for 3 months, so maybe grass is all i really need? i need enough for 108 go that will last me the next 50 years, which just happens to be their maximum life expectancy rate; 7' height + 7' moonjump + 1' horns = 16' is the minimum distance between the grass, and the lights, so the ceiling must be higher than the lights, and the floor must be lower than the grass; total mixed rations can hang from the ceiling, mazes, tunnels, /(scratch|rub) (posts|(car wash)? rollers)/, /salt|mineral/ licks can be on the walls for bipedal indoor rock climbing, swimming pools, waterfalls, wind /((pl|f)a(nt|rm)|tunnel)s/, rng winds, trampolines, bouncy keyboards, rain pools, rain, rng rain, sprinklers, bubbles, chocolate factories, rat parks, /tmr|lick/ treadmills (diving boards?), rocky carrot on a /stick|snowman/, /(head|nose)balls/,.. (cows will top the disxs, followed by plants, starting c̄ grass, and humans will be last; so as not to walk above them spirit beings, but we can visit them on the side as equals; spiritual plants will top the slave plants will top the spirit plants; by creed of śyāmāśrama, this is the way; clans of subways?)
 * for plants; divide the year into partitions; 365xp = daily consistency, where p matches /patraṁ|puṣpaṁ|phalaṁ/, and x is a multiplier (some plants have only one output; ears,..); colour picker (probably no need to detect quality, but i could just click to collect, and snake the camera around, or even 3d scan for holobservation deck)
 canopy city? underground buildings ∨ rooftop jungles; it can protect the rest of the planet from automotive pollution
 https://www.youtube.com/watch?v=BickMFHAZR0
@@ -1211,13 +1211,61 @@ they probably just want to collect more than taxes…
 do you even fvey?
 
 12020∘07∘22
-all of my software is breaking
+all of my software is breaking; fawlty raspberry pi /hardware|software|forum moderators|community/
+...
+i'm going to permanently /ban(ish)/ all mods from existence by boxing their personalities, and replacing it with self-destructive self-hatred
 
 damn; i have more on my pi, but it's sitting in next months file…
 i need to get hardware /hacking|modding/ tools, long extension πcords, thermal immersion circulators, /mineral oils|ultrapure dielectric water/, well insulated eskymo ygloos, and start saving a dollar a day for more pies… #thermópi #thermóverclocking #who_needs_cotton_buds_for_thermal_paste? #i_will_compare_sinks_before_smoking_my_stack!
 peltier components are missing from that file…
 vacwm to scoop condensation like a /barrel|vat/
 pump it all through a scrubber
+
+12020∘07∘30∘03∓
+¡FUCK; WHOEVER FUCKING THE FUCK JUST FUCKING VOMITED, FUCKING OR FUCKING WHATEVER FUCKING THE FUCK THAT FUCKING WAS FUCKING OUTSIDE FUCKING MY FUCKING WINDOW, FUCKING CAN FUCKING GET FUCKING DATE FUCKING RAPED FUCKING BY FUCKING A FUCKING KNIFE; FUCKING IN FUCKING THEIR FUCKING WHORE FUCKING WHOLES, FUCKING EYES, FUCKING NOSES, FUCKING EARS, FUCKING NAVEL,., FUCKING EVERY FUCKING WHERE; FUCKING OVER, FUCKING AND FUCKING OVER, FUCKING AND..; FUCKING ALL FUCKING AT FUCKING THE FUCKING SAME FUCKING TIME; FUCK!
+
+microwaves should feature smoke detectors
+
+starry eyed = crying
+
+faith healers should goto prison for murder if their faith fails, for failing faith
+both a sin, and a crime
+life imprisonment ∨ terminal illness for (self) faith healing
+avoiding self (faith healing); we can rm all faith healers
+…
+can you faith heal bruises,.?
+regrowing teeth is becoming a "-thing"…
+nobody has claimed to be the oldest human by faith healing…
+
+clouds of fairy floss
+flavoured snow like icecream but for snowboarding, skiing, angels, icecream cone slalom,..
+flavoured ice rink; iceblock, icypole,..
+chocolate volcanoes
+
+stone cold intimidating græy building + swastika banners + melting face statues like the mandalorian
+the statues will be worshipped by daily chuckie chuckie; my seed will be distributed divided by humanity
+personhood is like girlhood, manhood,..
+
+recycling is bad
+paperclips: computer from household parts
+tin cans = metal
+glass = silicon
+carboard = insulation (wetsoakdry)
+plastic = microplastics (butwhoselooking)
+tools don't count, but why not?
+vegan labelled computer
+vegan /packaging|fertilizer|persticides/, upstream veganisation
+most secure computer
+…
+aerogel graphene
+diamond shell #transparency
+…
+bananas = nuke
+selfie(neural_net).
+selfie(expert_system).
+selfie(intelligence).
+selfie(_).
+recursive intelligence = superintelligence
 
 ---
 
