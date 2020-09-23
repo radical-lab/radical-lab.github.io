@@ -1022,7 +1022,7 @@ i want to do websites like this; avoiding the browser features
 * openbci vs √keyboard; can others think like me? haptic feedback vs /intrusive|invasive/ stimulus
 * media player; subtitle navigation for video, music, games, cut scenes,..
 
-the best way to smoke gañjā = śilā + agni + kīcaka
+the best way to smoke gañjā = śilā + agni + kīcaka #handfire
 /usd|inverted/ plants?
 sex toy vibrators vs music vs hypnotically (audible) linguistic communication?
 plant communication
@@ -1068,6 +1068,9 @@ trailer c̄out main character(s)
 trailer c̄ only expressions; maybe speaking off camera
 trailer c̄ mime charades, toothbrush moustache greeting wave + eyebrowz, waving handy facial expressions, finger walking(vop) ∨ arm walking(pov), https://handfitness.com/, finger waving "no", finger sex, middle finger, shocker for shock value (like giving a thumbs up, and then air rubbing the thumb to synthesised gasps #wavenet),., sleeping hands; contents not included (james blind, the most handsome man, license to feel,.; the french mime can have the toothbrush moustache instead, and even subtlety french sign an alternate story as the most handsome man since that's how he deafly communicates, but maybe sounds like mr bean)
 a movie where the facial expressions don't match the tonal expression of the voice don't match the words spoken; body swap,..
+idiocrazy: intelligence tkr jewbs, and now we dumpster dive the super(intelligence)markets for the rotting food nobody can afford
+...
+sfx: switch glass eitherside of an edge so axtors can "walthrough" glass but you can just superimpose the reflextions
 
 dyslexia is responsible for the confusion between /r|L/, /v|w/,.. (i've heard people who shouldn't, but could)
 
@@ -1214,6 +1217,7 @@ do you even fvey?
 all of my software is breaking; fawlty raspberry pi /hardware|software|forum moderators|community/
 ...
 i'm going to permanently /ban(ish)/ all mods from existence by boxing their personalities, and replacing it with self-destructive self-hatred
+this sates at least three states of implicit inexistence
 
 damn; i have more on my pi, but it's sitting in next months file…
 i need to get hardware /hacking|modding/ tools, long extension πcords, thermal immersion circulators, /mineral oils|ultrapure dielectric water/, well insulated eskymo ygloos, and start saving a dollar a day for more pies… #thermópi #thermóverclocking #who_needs_cotton_buds_for_thermal_paste? #i_will_compare_sinks_before_smoking_my_stack!
@@ -1225,6 +1229,8 @@ pump it all through a scrubber
 ¡FUCK; WHOEVER FUCKING THE FUCK JUST FUCKING VOMITED, FUCKING OR FUCKING WHATEVER FUCKING THE FUCK THAT FUCKING WAS FUCKING OUTSIDE FUCKING MY FUCKING WINDOW, FUCKING CAN FUCKING GET FUCKING DATE FUCKING RAPED FUCKING BY FUCKING A FUCKING KNIFE; FUCKING IN FUCKING THEIR FUCKING WHORE FUCKING WHOLES, FUCKING EYES, FUCKING NOSES, FUCKING EARS, FUCKING NAVEL,., FUCKING EVERY FUCKING WHERE; FUCKING OVER, FUCKING AND FUCKING OVER, FUCKING AND..; FUCKING ALL FUCKING AT FUCKING THE FUCKING SAME FUCKING TIME; FUCK!
 
 microwaves should feature smoke detectors
+pedestrian /line|light/ crossings should be in the middle not on the corners; we don't care if cars, turn into each other, because the other people, are protected by their vehicle
+error controlled memory at the os level (not hardware, nor software; one formal implementation to rule them all); hackers decide whether to use it or not (optimisation ∨ formalities)
 
 starry eyed = crying
 
@@ -1250,7 +1256,7 @@ recycling is bad
 paperclips: computer from household parts
 tin cans = metal
 glass = silicon
-carboard = insulation (wetsoakdry)
+cardboard = insulation (wetsoakdry)
 plastic = microplastics (butwhoselooking)
 tools don't count, but why not?
 vegan labelled computer
@@ -1266,6 +1272,125 @@ selfie(expert_system).
 selfie(intelligence).
 selfie(_).
 recursive intelligence = superintelligence
+
+i made a schrödinger device
+…
+___
+^ that is time
+…
+    _
+   / \
+_____/
+   ^ that is the time loop i created
+…
+i put a supernova ticking time bomb in my brain; it is provable, detectable,..
+if you kill me; you kill future me who created the time loop in our past; this is desynchronisation
+the supernova ensures your destruction so you don't get your own /bubble|pocket/ reality; you can't even transmit your genetic codes for reconstruction by aliens, devas,..
+meanwhile i will recreate the time loop, and we can start this all over again; but "you" get the darwin award, while i /catch|rescue/ myself
+…
+i give darwin awards to anyone who attempts temporal communications
+you make a device to communicate with your past self, but your future self sends a message when you switch it on; that's me, and i give you patents, cures, vaccines,..
+i also give you the proof; here's all you need to study to know that it works
+but if you're too lazy; it kills you, and you get the darwin award, but it just looks like suicide,..
+otherwise you realise it's a trap, and you pass the intelligence test, and know not to challenge me #sos
+
+12020∘08∘25
+my day is just so fucking bad today; like a boss!
+i have to apply for four jobs every month now; it went from 20 to 0 to 4 in about a year; and i still don't know if i need to enrol to avoid wfd
+my computer is broken
+i fell down some stairs; knees first, with my arms full of food
+somebody tried to help me; but i said "hey!! hey get the fuck off me!! no!! fuck no!!" #social_distancing
+my thong broke
+i had to piss outside without my thong
+i had to walk home the rest of the way barefooted
+my warranty replacement component is broken; maybe i fell on it, and my phone, but s/it/they/ looked as okay as the food; i hope they don't steal my data from the one i traded in, but i couldn't even write a gigabyte to it so the rest was inaccessible to me, but i'm sure i could've retrieved it, but i already backed it all up without any apparent failures (maybe if i don't check it today its' superposition will be okay like observing Schrödingers' cat subject) until i tried to put a new distro on it; i fucking hate raspberry pies for not supporting usb booting; i could've booted already
+now i am technologically disabled
+stuff fell on the ground; i threw it on the ground!!! :D (this was way worse than it sounds; that's what she said!!! :D)
+i contaminated my water supply by dropping the lid into the filter for the first time ever that's happened; that makes the third fall of the day #magic
+
+my life is becoming yolo
+and never take the stairs, because they're often unsafe
+no blankets, nor pyjamas
+
+i'm going to make everyone who listens to loud music deaf so they can never listen to loud music ever again
+
+veganja
+...
+vegan
+  ganja
+
+maybe i should stop begging "please"?
+my autological passwords are "risky"(5), "unsafe"(6), "insecure"(8),..
+spacebar is convenient
+the "a" is down
+
+reverse personality boxes; "I'm in here, but my box is jumbled like someone shook it up"
+saying "that isn't real" about fighting on television, when it is real; is confusing, and contradictory; it makes you wonder "what is this?" waving arms around the room
+
+i discovered hive mind
+i discovered aliens but it's too dangerous; my three greatest phobias are superhypnotism, superintelligence, and knowing the evidence is distributed
+actually, i fear animals too; korin is getafix; right?
+game of bones; where
+	banana head people are in my head
+	if they grow they will destroy us (oh; they can create matter, and filled their universe, so that's how big they are)
+	…
+	two big cats leap at each other
+	one falls down and lays still
+	"okay you can eat me now"
+	"I'm not sure that's how it's supposed to work" (but okay?)
+	the fallen surprise ambush attacks to catch off guard (then calls off the duel; what a troll)
+	…
+	off by -two
+	the black cat enters the room
+	the black cat sees eye dust removal; no gouging #sign_from_the_universe (my eyes)
+	the black cat sees yawning mouth; no biting #sign_from_the_universe (my mouth)
+	no spoilerz
+	the black cat leaves the room; like a leaf on the wind, watch how he rawrz
+	the black cat challenges the tiger
+	the tiger swipes at the black cat to catch off guard (inspired by the duel) but the black cat raises a paw and the tiger stops just right before; the tiger is right pawed
+	the black cat says to do it properly
+	(mutual respect)
+	they touch tails (this is when the black cat remembered he's still wearing the protection device; this is the way (there's a lot of that for cat culture))
+	the black cat kills the tiger by clamping the tigers hair between his fingers and toes while wearing a protection device that prevents clawing and climbs around th tiger while the tiger claws at him and misses and claws himself
+	what a way to die
+	then send the tiger to me paying obeisances and touch my feet and touch my hand and die at that moment timed to a timer he set after sending the tiger to me and then i touch my hand to my head then tiger gets turned into shyamantaka
+	rituals and ceremonies first; play later; obligations first; prescribed duties
+	black cat earns trust, respect,.. (of all pussies)
+	one simply must test their skills; one simply must put their skills to the test
+	cat mind power; includes (telepathic) meow sync wave tech
+	…
+	ode to spot
+	the promised land
+	…
+	the cover of a game of bones is the black cat flying towards the tiger with claws; it looks more impressive #hollywood
+	it's more about broken bones (long-term plan), and boners (mine; mine; mine;..)
+
+i can kill people just by pacing in my bedroom in certain patterns, or even standing still in different places; the (sub)atoms i stand on, and breathe, are collapsing superpositional wave functions into into entangled information
+mantras are that powerful; the war against meat eaters has begun, and i'm mad as a mahārāja, and my daughter will burn them all c̄ her dragon friend z
+my new years resolution is to sleep on a sheet of plywood; or even on the floor,.. (12020 veganisation is just going so well; so why not?)
+
+veritasium nutrition documentary said plants are degrading; probably due to non-vegan products #veganics #upstream_veganisation
+
+i know how to navigate the bonsai slipstream (phaseshifting,superposition,..)
+i know how to fly; /easier|better/ than the "yogic flying sutra" (but it's `expensive xor difficult` to learn)
+i know how to create free energy; even more perpetual motion machines than before ("-thing"s i can dong)
+i know how to self-improve; instant evolution,.. (in multiple ways; in multiple ways; in multiple ways;..)
+i know how to manipulate genetics; including reversing the aging process,.. (but that's not what i meant)
+i know how to /cure|heal/ every"-thing"; not just molecular /stitching|knitting/,.. (but that is what i meant)
+/solar power|electricity/ can be used to produce water; condensation is the opposite of electrolysis
+water can strip atoms off rocks,.; like graphenated tape, rng kilosilicon roundness,..
+there's a simple solution to every problem; p = np ("it is my joy to make difficult \"-thing\"s simple")
+…
+i'm still trying to figure out how to read space time
+i'm still trying to figure out what to do with all these metal cans (electronics), and glass jars (chemistry sets); sharp,..
+i'm still trying to figure out how to factor vacwmz out of my equations
+…
+what i meant is; i can recreate 1c dodoz, senile dinoz, dildo dragonz, pegging unicornz, furry elephantz, jewish dolphinz, squirting mermaidz, pegging centaurz,..
+the more people "flying", the more people following tm, the more peace in the world,.. (but not because of the "flying"; unless you consider contagious laughting(yoga),..)
+
+i can only afford to explore one "-thing"; probably by the end of the year if i don't move out (but i need to study a bunch of concepts)
+all my data = bitrot; now i need to buy drives by the /year|month/ (m dollars per day)
+[a,z] but some people have m dollars (3a = 3000, 3b = 3000000, 3c = 3000000000,..) #room2grow
 
 ---
 
