@@ -1396,7 +1396,7 @@ all my data = bitrot; now i need to buy drives by the /year|month/ (m dollars pe
 
 pi = 3...
 ⳧ = titty fucking double c cups; what cup size multiplied by four equals one litre? i will drink /2|c̄/ that
-electronic eels are like elontusks, and monocorns,.. (walrus proudly sitting on a rockland; wearing a torso-stretched tutu, and a narwhal party hat)
+electronic eels are like elontusks, and monocorns,.. (walrus proudly sitting on a rockland; wearing a /torso|shoulder/-stretched tutu, and a narwhal party hat #game∘bonez (it's supposed to look silly; like the dwarf dress up parties that sometimes include troll doll hair-does))
 stars are the seeds of /galaxies|universes/; the seeds of life; brahmas lotus; in the ocean of unbreathable space; https://www.youtube.com/watch?v=sj8Sg8qnjOg
 crunchbang is the shenmue of linux distros
 like a sniper; you must sand down your keys so they become more sensitive, and reduce frictional inefficiencies #optimisation #productivity (gravity becomes a problem for hackers though)
