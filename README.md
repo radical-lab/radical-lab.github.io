@@ -828,8 +828,8 @@ golf for reading (/function|predicate/ ∨ (multi)delimiter ∨ file ∨ directo
 …
 raspberry pi prolog machines
 gpgpu prolog machines
-quantum prolog machines
-lightspeed prolog machines (/holey|ping/ computer, /double|n/ slit computer,..)
+quantum prolog machines; entanglement allows simultaneous bicomputations by gating both particles
+lightspeed prolog machines (/holey|ping/ computer, /double|n/ slit computer,..); semiflipdots bicompute like entanglement
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -1326,6 +1326,8 @@ the "a" is down
 
 reverse personality boxes; "I'm in here, but my box is jumbled like someone shook it up"
 saying "that isn't real" about fighting on television, when it is real; is confusing, and contradictory; it makes you wonder "what is this?" waving arms around the room
+and then punching me in the arm to demonstrate "see it hurts", but i'm not allow to join in; because there's no other way to teach #idiocracy
+there's more to this; mental disabilities ∨ children; perspectives, attention spans, dumbing it down to nobodys' level instead of sult(ann)ing their intelligence,..
 
 i discovered hive mind
 i discovered aliens but it's too dangerous; my three greatest phobias are superhypnotism, superintelligence, and knowing the evidence is distributed
@@ -1391,6 +1393,31 @@ the more people "flying", the more people following tm, the more peace in the wo
 i can only afford to explore one "-thing"; probably by the end of the year if i don't move out (but i need to study a bunch of concepts)
 all my data = bitrot; now i need to buy drives by the /year|month/ (m dollars per day)
 [a,z] but some people have m dollars (3a = 3000, 3b = 3000000, 3c = 3000000000,..) #room2grow
+
+pi = 3...
+⳧ = titty fucking double c cups; what cup size multiplied by four equals one litre? i will drink /2|c̄/ that
+electronic eels are like elontusks, and monocorns,.. (walrus proudly sitting on a rockland; wearing a torso-stretched tutu, and a narwhal party hat)
+stars are the seeds of /galaxies|universes/; the seeds of life; brahmas lotus; in the ocean of unbreathable space; https://www.youtube.com/watch?v=sj8Sg8qnjOg
+crunchbang is the shenmue of linux distros
+like a sniper; you must sand down your keys so they become more sensitive, and reduce frictional inefficiencies #optimisation #productivity (gravity becomes a problem for hackers though)
+
+\___________         ___________/ solar panelled roof for electrical rain water collection
+ |   |   |  \       /  |   |   |
+ |   |   |   |     |   |   |   |
+ |   |   |  _|_   _|_  |   |   |
+___________/ |-| |-| \___________ ground level (sea level? no it needs to be on top of a /mountain|volcano/ peak)
+          -|-|_____|-|-
+          -|-| | | |-|- water tank
+          -|-|_____|-|-
+          -|-|_|_|_|-|- cows
+          -|-|_|_|_|-|- spiritual plants
+          -|-|_|_|_|-|- slave plants
+          -|-|_|_|_|-|- spirit plants
+          -|-|_|_|_|-|- shyam
+          -|-|_|_|_|-|- sharmies' angels
+          -|-|_|_|_|-|- the rest of humanity
+          -|-| | | |-|- shifting wall spokes; piston, hydraulic press,.?
+               | | central elevator + utilities; water from above, electricity from below, telecommunications network, steam from below,..
 
 ---
 
