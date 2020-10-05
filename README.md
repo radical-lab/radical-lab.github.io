@@ -1230,7 +1230,7 @@ pump it all through a scrubber
 
 microwaves should feature smoke detectors
 pedestrian /line|light/ crossings should be in the middle not on the corners; we don't care if cars, turn into each other, because the other people, are protected by their vehicle
-error controlled memory at the os level (not hardware, nor software; one formal implementation to rule them all); hackers decide whether to use it or not (optimisation ∨ formalities)
+error controlled memory at the os level (not hardware, nor software; one formal implementation to rule them all); hackers decide whether to use it or not (optimisation ∨ formalisation) (optimalities ∨ formalities)
 
 starry eyed = crying
 
@@ -1326,8 +1326,9 @@ the "a" is down
 
 reverse personality boxes; "I'm in here, but my box is jumbled like someone shook it up"
 saying "that isn't real" about fighting on television, when it is real; is confusing, and contradictory; it makes you wonder "what is this?" waving arms around the room
-and then punching me in the arm to demonstrate "see it hurts", but i'm not allow to join in; because there's no other way to teach #idiocracy
+and then repeatedly punching me in the arm to demonstrate "see it hurts", but i'm not allow to join in; because there's no other way to teach #idiocracy
 there's more to this; mental disabilities ∨ children; perspectives, attention spans, dumbing it down to nobodys' level instead of sult(ann)ing their intelligence,..
+(t)he(y) wanted to learn martial arts, that's all; but (t)he(y) forgot due to attention span distraction (short term memory) when (t)he(y) was told it isn't real, because that is ridiculously absurd
 
 i discovered hive mind
 i discovered aliens but it's too dangerous; my three greatest phobias are superhypnotism, superintelligence, and knowing the evidence is distributed
@@ -1418,6 +1419,8 @@ ___________/ |-| |-| \___________ ground level (sea level? no it needs to be on 
           -|-|_|_|_|-|- the rest of humanity
           -|-| | | |-|- shifting wall spokes; piston, hydraulic press,.?
                | | central elevator + utilities; water from above, electricity from below, telecommunications network, steam from below,..
+
+volcano is best for riding the supernova
 
 ---
 
