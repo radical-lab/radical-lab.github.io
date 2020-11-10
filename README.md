@@ -912,7 +912,7 @@ interdimensional is between dimensions?
 * the man who knows every"-thing"; fla
 * हरि (harī) ಪಾಟರ್ (pāṭar); 666 forbidden magixal fruit (i dream of jeannie)
 * makunda; slw
-* …8
+* mahāśyāma; greight
 * …9
 * श्याम; 1÷0
 * …
@@ -1063,7 +1063,7 @@ probing the dark /stars|galaxies|universes|lights|masses/ is an alien test; baby
 eof ≠ \n, but configuration can simulate it; maybe i should make a date for the editor…
 
 a movie where everybody is uncomfortably close; "there's going to be a full moon tonight" in an alternate world where you can touch it; overpopulation
-the most handsome man; who is blind (oh, i thought you were a child; your voice is so high pitched! for a moment there i was sure there was a mouse in the room, as i am frequently mistaken by squeaky voices, and i am especially fond of the three blind mice, which taught me to be more sympathetic towards other wild, and perhaps even downright dastardly, adventurous tails (sic; subtitles) of other mice, of whom occasionally possess the super power of speech, but now it seems that either you've lost your tongue, as i did my eyes, or i believe it's gone subsonic! (or even so supersonic that it loops around to the otherside of the vibe spectrum) they usually do that when i mistake them for children; but not the other way around oddly enough; you'd expect it wasn't so, but it is for some reason that avoids my handsome grasp; or so i'm told…) (likes to swing his cane around like the bananas in pyjamas; some even whisper their suspicions to each other; he has supersensitive hearing #asmr #pawn_for_the_blind) (dbz) (there's no one here! (someone else while playing sudoku) /well i do believe that you are here; oh, are you up to mischief, or do you just want to be left alone? you're not being very inconspicuous; holmesian deduction reduces down to antisocial company that possibly discriminates against the blind|i am here; oh, are you blind too?/) (blind lives matter! (whenever anyone /honks their horn|shouts to get out of the way|rings their bike bells|pushes passed|close calls|near misses|standing too close to the (train tracks|road)/)) (i am blind, officer; at your service) (don't taze me bro! oh you must be female!) (i am james blind and i have a license to feel) (i have donald trumps' hair style because i grab her by the dragonballs) (/high|low/ voice gas prank) (meets someone who is deaf, and starts signing them; i feel their movements through the air; supersensitive touch; you can do it too, just practice with larger physical bodies moving passed you; vehicles rolling downhill, animals holding their breath, balls, frisbees,., hands) (yoga) (i can catch a fly with chopsticks) (says he's a /spy|detective/ to at least one person; not sure if it's true…) (cane is a metal detector; also has excavation tools (toothbrush makes his teeth glow, or something), queefing lock picks,..) (wiggles, and waggles, his wiggly waggly toothbrush moustache) (turns out he was never blind; actor /learning|practisinging/ to act blind ∨ undercover ∨..) (starts singing during a shortcut modelling career; posinging) (wears vr goggles; they have good audio that makes him "feel" like he's in an alternate reality where he can see using echolocation; it is an echolocation brain trainer video game that has cheap graphics that randomises the pixel values by not bothering to set them in the first place instead of making them black, and lightening them as you approach a light source; hard mode ∨ easy mode; has a camera, and gps; s/smartphone/smartgoggles/; hacker prank) (finds himself in the hood, surrounded by gangsters; everything is black, and it all looks the same to me; i can't tell the difference between you(r voices); bff ∨ /blind|drunken/ kung fu ∨..) (telepathic aliens that see through our eyes to see where we are; vision as a life sign, as opposed to movement; they can see your spotlights to avoid being detected; i thought that_human_you_just_mentioned just walked passed me) (supersensitivity can predict the weather; i'm just going to step inside if you don't mind, because i don't want to get wet (just right before a downpour)) (an anti vision supremacy propagating propaganda) (sudoku has printed /marks|candidates/, and the player /circles|crosses/ them) (female wears strapon for april fools; "i was just checking, because i had my suspicions; your adams apple is a dead giveaway, because it s/sciences/.+/ your vocal chords") (i don't feel a pulse; it's a dead giveaway)
+the most handsome man; who is blind (oh, i thought you were a child; your voice is so high pitched! for a moment there i was sure there was a mouse in the room, as i am frequently mistaken by squeaky voices, and i am especially fond of the three blind mice, which taught me to be more sympathetic towards other wild, and perhaps even downright dastardly, adventurous tails (sic; subtitles) of other mice, of whom occasionally possess the super power of speech, but now it seems that either you've lost your tongue, as i did my eyes, or i believe it's gone subsonic! (or even so supersonic that it loops around to the otherside of the vibe spectrum) they usually do that when i mistake them for children; but not the other way around oddly enough; you'd expect it wasn't so, but it is for some reason that avoids my handsome grasp; or so i'm told…) (likes to swing his cane around like the bananas in pyjamas; some even whisper their suspicions to each other; he has supersensitive hearing #asmr #pawn_for_the_blind) (dbz) (there's no one here! (someone else while playing sudoku) /well i do believe that you are here; oh, are you up to mischief, or do you just want to be left alone? you're not being very inconspicuous; holmesian deduction reduces down to antisocial company that possibly discriminates against the blind|i am here; oh, are you blind too?/) (blind lives matter! (whenever anyone /honks their horn|shouts to get out of the way|rings their bike bells|pushes passed|close calls|near misses|standing too close to the (train tracks|road)/)) (i am blind, officer; at your service) (don't taze me bro! oh you must be female!) (i am james blind and i have a license to feel) (i have donald trumps' hair style because i grab her by the dragonballs) (/high|low/ voice gas prank) (meets someone who is deaf, and starts signing them; i feel their movements through the air; supersensitive touch; you can do it too, just practice with larger physical bodies moving passed you; vehicles rolling downhill, animals holding their breath, balls, frisbees,., hands) (yoga) (i can catch a fly with chopsticks) (says he's a /spy|detective/ to at least one person; not sure if it's true…) (cane is a metal detector; also has excavation tools (toothbrush makes his teeth glow, or something), queefing lock picks,..) (wiggles, and waggles, his wiggly waggly toothbrush moustache) (turns out he was never blind; actor /learning|practisinging/ to act blind ∨ undercover ∨..) (starts singing during a shortcut modelling career; posinging) (wears vr goggles; they have good audio that makes him "feel" like he's in an alternate reality where he can see using echolocation; it is an echolocation brain trainer video game that has cheap graphics that randomises the pixel values by not bothering to set them in the first place instead of making them black, and lightening them as you approach a light source; hard mode ∨ easy mode; has a camera, and gps; s/smartphone/smartgoggles/; hacker prank) (finds himself in the hood, surrounded by gangsters; everything is black, and it all looks the same to me; i can't tell the difference between you(r voices); bff ∨ /blind|drunken/ kung fu ∨..) (telepathic aliens that see through our eyes to see where we are; vision as a life sign, as opposed to movement; they can see your spotlights to avoid being detected; i thought that_human_you_just_mentioned just walked passed me) (supersensitivity can predict the weather; i'm just going to step inside if you don't mind, because i don't want to get wet (just right before a downpour)) (an anti vision supremacy propagating propaganda) (sudoku has printed /marks|candidates/, and the player /circles|crosses/ them) (female wears strapon for april fools; "i was just checking, because i had my suspicions; your adams apple is a dead giveaway, because it s/sciences/.+/ your vocal chords") (i don't feel a pulse; it's a dead giveaway) (smell a lie; they lied about their last meal)
 trailer c̄out main character(s)
 trailer c̄ only expressions; maybe speaking off camera
 trailer c̄ mime charades, toothbrush moustache greeting wave + eyebrowz, waving handy facial expressions, finger walking(vop) ∨ arm walking(pov), https://handfitness.com/, finger waving "no", finger sex, middle finger, shocker for shock value (like giving a thumbs up, and then air rubbing the thumb to synthesised gasps #wavenet),., sleeping hands; contents not included (james blind, the most handsome man, license to feel,.; the french mime can have the toothbrush moustache instead, and even subtlety french sign an alternate story as the most handsome man since that's how he deafly communicates, but maybe sounds like mr bean)
@@ -1421,6 +1421,93 @@ ___________/ |-| |-| \___________ ground level (sea level? no it needs to be on 
                | | central elevator + utilities; water from above, electricity from below, telecommunications network, steam from below,..
 
 volcano is best for riding the supernova
+
+c̄ing before selectively knocking her up; may be a good idea to prevent old c̄ winning the race, and possibly leading to selective /genetic|birth/ defects, and other devolutionary mutations; out c̄ the /old|weak/, in c̄ the /new|strong/ (in a faraday cage, healthy /diet|exercise/, stressless(environment), optimal conditions (temperature, air pressure, humidity,..),..) (newborn babies' immune systems need to be raised /at|to/ the /gravitational|thermal/ extremes,..)
+
+https://youtu.be/dz0cNvcLxFQ
+paperclips: tin cans, glass jars, cardboard,..
+
+social engineering is so easy that the government supports it
+by having a law that says the government can tell you to backdoor your software, and not inform anyone about it
+spoofing the government is only too easy
+as easy as actors acting as law enforcement /on|off/ set
+all your base are belong to me
+without transparency; the government is as good as run by organised crime syndicates
+i will beat them to it, by pre-emptively striking; i will publically declare a backdoor, clearly comment it, and clearly explain why, and how to remove it
+i'll become a terrorist if they incriminate me for breaking their enslavement nda; life, isn't for life, isn't an early retirement,.. (i know where you work)
+or i can just pwn all of your backdoors, management engines, routers, /operating system|package|update/ /developers|distributors/, /(isp|host|server)s/, government, politicians, military,..
+crack a government website by any means necessary (email, tissue compression eliminator,..), upload backdoor, social engineering attack business people (are evil, and they control the big, bad, corporations)
+the backdoor binary blob in firefox that introduced iceweasel; every binary blob is a backdoor
+silicon valley backdoors circuit designs for the usa government, while shenzen backdoors circuit implementation for the chinese government; besides every other government spy backdoors
+
+governments don't hire the best of the best; they goto silicon valley, where all the algorithms are perfect (because users' complaints are ignored for pr, pettifogging,..), because they are hacked by humans
+governments have tight budgets
+governments probably use the fourmost worst language reputations in the mainstream: basic, java, javascript, php
+
+https://youtu.be/dg3pza4y2ws
+rTMS is the opposite of fMRI
+the linguistics can also be attributed to awareness of the solar deva, but yoga explores more senses than the primary five
+the emails remain plausible; quantum teleportation already supports telepathy, and https://en.wikipedia.org/wiki/Orders_of_magnitude_(probability)
+magic is real; "objective" scientists who dabble in the realm of "completely" provable theory elegantly prefer denial, just as "honest" politicians who dabble in the realm of "holy" monopolistic legality diplomatically deny the "facts" (until they're country is worse off than the point of origin, but still; who cares about the subastral devi)
+laws exist for /social|selective/ /inequality|filtration|engineering/, but propaganda machines are incomplete; backdoors, middle men, truman, human resources, superintelligence,..
+political immunity exists because politicians can't follow what they preach, but assassination holds them accountable; we know where they work
+politicians be like; "all i see is a box that sporadically moves a robotic arm back, and forths, across a piece of paper on a conveyor belt, but i fail to observe how these random scribbles correlate to earthquakes; i can't feel any\"-thing\", so that box can't feel any\"-thing\", but i can see stars, so can telescopes, and i can see prints on the tips of my fingers, so can microscopes; to quote sherlock holmes, \"if it makes sense to me, then it makes sense to me\", or in other words, \"if it doesn't make sense to me, then it doesn't make any sense to me\""
+
+https://youtu.be/R13BD8qKeTg
+superposition at about 4:20
+
+the ten commandments are pro beating, and pro rape, and pro incest, and pro pedophilia, and pro zoophilia, and pro homosexuality, and pro public /sex|urination|defecation/, and pro /food|cum|pissing|poo/ fights, and pro /(genital)?mutilation|crippling|amputation|circumcision|penectomy|castration|emasculation|mastectomy/, and pro terrorism, and pro pornography, and pro prostitution, and pro masturbation,..
+
+12020∘10∘20
+i just discovered how to create matter (sustainably; stability, but other interpretations maybe included (for free)), but i need to figure out how to destroy matter
+i just discovered how to read matter at any scale (what it "looks" like), but i need to figure out how to read (((space)(time)) (((at any scale)))); i actually figured this out a long time ago, but recently it's just been on my mind a lot more lately, especially as i endeavour to read spacetime (at any scale, and by any means necessary; as this will confirm every"-thing", including government secrets like every nuclear disaster being a cover story for places like eureka'06, where the russians "declassified" the spinning truth, and i think nuclear disasters, and any other no-go zones that require government supervision to access them, are just secret government bases; area 51 predates the end of the second world war.)
+einstein invented the nuke all by himself; they assembled a team to cover it up by means of academic obfuscation (but that didn't stop korea, where propaganda said they're backwards; a rock)
+
+012020∘11∘06∘01∘15∘00∘000∘000∘000∘000∘000∘000∘000∘000∘00000000000000000000 my life has fundamentally changed;..
+                                      fem∘λt.time
+thousands of kilometres is merely megametres, but most people treat kilometres as some kind of fundamental unit of measurement; the same can be said of kilograms, but the pensées françaises support imperial tonnes to avoid an invasion from across the french channel
+just as any measurement of time is not only influenced by the observer paradox, but also the physical /influence|æffect/ over the hardware of all involved
+
+https://youtu.be/c6wuh0NRG1s
+can pitch climb, superfluidity, supercritical,..
+water ∨ oil = my s/pipettes/straws/ are too wide, and i haven't data mined any search engines yet
+https://en.wikipedia.org/wiki/Viscosity#Selected_substances
+temperature, air pressure, humidity,..
+i'm also interested in gases; in much the same way as liquid lenses https://youtu.be/q3kSW633bsk
+https://youtu.be/Y0HfmYBlF8g
+when the river is red, take the dirt road; observer paradox, imperfect vacwmz,..
+
+i think i can stop sleeping, maybe even indefinitely; but
+
+50/50 = 1
+
+https://youtu.be/J7287NQFd_U
+configurations of stars determine the smaller scale physics; quantum, string,..
+physics is dependent upon the configurations of stars
+(time is physical)
+
+https://youtu.be/i0Goh3u2KhU
+cartesian divers can probably be used as liquid lenses
+https://youtu.be/whjJNaEZKIM
+is he trying to make it boil, or prevent it from boiling? stirring it up will prevent it from boiling, but it will eventually vanish from sight over t time!
+
+sometimes i get /itch(ie|y)/, and i put my hands under the table for some /scratch(ie|y) scratch(ie|y)/
+
+file system format independent file format .shyam
+file system only stores file memory addresses; `./*` is optimised, while the sfx overhead is a minimal byproduct (feature, not a bug)
+all metadata stored in file; including name, modification,..
+modal file type; devanagari(-x), shyamskrit(-x), shyamscript(+x), shyam(+x), shyamaya(graphics(/(2d|3d) (image|animation|model)s?/), audio)(+x); /graphics?/ includes pdf, where plurality is configurable by default(shyamantra ∨ file; short-circuit)
+/directories|folders/ are just "archive" files; like tar
+this means the file system is built at run time, and stored in ram; this is some"-thing" that can be "lost" at /reboot|catastrophic failure/
+this also /reduces|optimises|compresses/ "file system" space; over t time
+this means the file system can be backed up; three is the magic number
+this also controls errors; indicating catastrophic failure, while backing up the file system for data recovery (storing metadata, including name; means this is never truly lost if you recover the file)
+s/file/datam/, s/files/data/, s/bit/subdatum/, s/bits/subdata/, s/file system/hyperdatum/, s/file systems/hyperdata/
+
+tunable laser using prisms #primitive
+full spectrum laser
+
+poo = point of origin
 
 ---
 
