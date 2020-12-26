@@ -829,7 +829,13 @@ golf for reading (/function|predicate/ ∨ (multi)delimiter ∨ file ∨ directo
 raspberry pi prolog machines
 gpgpu prolog machines
 quantum prolog machines; entanglement allows simultaneous bicomputations by gating both particles
-lightspeed prolog machines (/holey|ping/ computer, /double|n/ slit computer,..); semiflipdots bicompute like entanglement
+lightspeed prolog machines (/holey|ping|mirrors @light-speed-computers @luminal_computers/ computer, /double|n/ slit computer,..); semiflipdots bicompute like entanglement
+…
+% prolog caching (meta.pl), and the reason `f(C):-C=[C1,.,Cश्याम].` is better than `f(C1,.,Cश्याम).`
+f(c1,., cश्याम) :- cache(t_time, f(c1,., cश्याम)). % t_time /expiration|expiry|retirement|deadline|broken((space)?time)?|bug/
+f(C1,., Cश्याम) :- P1,., Pश्याम.
+% cache collection (s/garbage/cash/)
+cache(T_time,F_word) :- dead(T_time), rm(F_word); release(F_word). % i released my accommodation
 
 mexican tacos
 * [x] can of s/diced/whole/ tomatoes (vegan, organic, recyclable; they stir into it post-cooked really well; well, well enough)
@@ -913,7 +919,7 @@ interdimensional is between dimensions?
 * हरि (harī) ಪಾಟರ್ (pāṭar); 666 forbidden magixal fruit (i dream of jeannie)
 * makunda; slw
 * mahāśyāma; greight
-* …9
+* the sharminator; kill -9 `pidof cat` #pussies_have_nine_lives_butt_downward_dogg_tird_eyes_have_nein_lives_two
 * श्याम; 1÷0
 * …
 * √; i am radical (like a boss)
@@ -1417,7 +1423,7 @@ ___________/ |-| |-| \___________ ground level (sea level? no it needs to be on 
           -|-|_|_|_|-|- shyam
           -|-|_|_|_|-|- sharmies' angels
           -|-|_|_|_|-|- the rest of humanity
-          -|-| | | |-|- shifting wall spokes; piston, hydraulic press,.?
+          -|-| | | |-|- shifting wall spokes; piston, hydraulic press, pneumatic press, pneudraulic press,.?
                | | central elevator + utilities; water from above, electricity from below, telecommunications network, steam from below,..
 
 volcano is best for riding the supernova
@@ -1508,6 +1514,166 @@ tunable laser using prisms #primitive
 full spectrum laser
 
 poo = point of origin
+
+"diff() them"; for when you want to take the difference between them #unix_math_z
+"f() this, f() that"
+"f() yu, f() mi"
+
+`superuserdooperation`
+`superuserdoop`
+`sudo # coolant fluid for "-thing"s that are just too hot for the average user`
+`sudo # kitchen sink for users who can stand the heat`
+`sudo ku # advanced sudoku`
+`sudo via`
+
+cooking the musical: the water is boiled when the water dances, or the kettle sings
+
+moon writing; photochemical frequencies
+
+https://youtu.be/E1KkQrFEl2I
+tardis surface area
+
+12020∘12∘02
+spock probably sent the lullaby; ambassadors diplomatically travel around "influencing" people
+tilly would look good on all fours in no"-thing" but pig ears c̄ a curly tail to go c̄, and a for(e)giving big bad wolf dogg-ystyle; this could be after he rips off her red riding hood, after she (trench coat) flashes like a rocktease
+
+12020∘12∘02
+the faceless mendalorians
+the second "person" to see his face
+	din djarin meets another "child of the watch" who is female; vala mal doran, a woman who can go /any(where|heart)/ (din will say it more /poetically|mandalorian/; he takes a liking to mandalorian poetry, even if it's a lie, and another mandalorian laughs at him for it, while schooling him "this is the way"); being kinda-sorta isb comes up later on, but /it'(s|ll)/ be okay, because she hacked her way in
+	she convinces him of the sacred (to her real culture; din uses this as a clue to hunt her tracks down later on) ways to procreate in a pool of her urine; "urine stings the eyes so helmets can be removed"
+	they wear miniature finger-glove-condoms-like nostril rebreathers to remain submerged
+	but first he must impress her with poetry about mandalore; it becomes inspired by /recent events|events to come/
+	they submerge, and we see his face in the murky depths of the pool
+	as they are facing each other, she opens her eyes; roll credits #mythbusted
+the very next episode
+	she steals the razor crest, and /din djarin|moff gideon/ chases her
+in an episode /(far)+/ away
+	din djarin uses moff gideons' own tracker to kill him; the mechanics' droids discovered it (it reminds me of the cylons tracking the rag-tag fugitive fleet led by battlestar galactica)
+in an episode /(far)+/ away
+	nobody will ever see the face of child 2.0; who can use the force to keep his helmet on (i'm imagining a face mask, and magneto /mutant|evolved|dynamic/ beskar armour, or metal bending,..)
+in an episode /(far)+/ away
+	the child 2.0 is force-sensitive (due to din djarins' lengthy exposure to the child 1.0 who likes to play with his (beskar) balls)
+	children who play together, train together
+in an episode /(far)+/ away
+	the child 2.0 becomes wicked from supremacist power, but child 3.0 defeats child 2.0; 1=pee, 2=poo, 3=cumagic
+
+undesirables: the feminist conspiracy theory
+"feminist" means an attention-seeking crossdressing little girl who wishes to be an unentertaining flat-chested tomboy; lara croft wouldn't have moverz if big-head-mode wasn't applied to her bouncey-bouncey (pafu-pafu) bubble-headed-boobiez, but maybe we shouldn't allow attractive females in the entertainment industry (unless their morbidly-obese spikey-haired dog-collared butch, but that's a contradiction), and settle for males wearing female face, because big tit p-zombies aren't real, but merely philosophical propaganda
+true equality; this is the way
+screw diversity; evil monocult-ures (s/ures/errs/), evil mo-notheists, evil monopo-lies
+name your content along the lines of {"flat-chested super-heroine(s)","female(s) wearing male face"}, and i'll pay no attention, because my t-time is too important, but even /if|when/ i reverse my aging process; i'll never waste
+put a helmet on brienne, and you wouldn't know she's female just by looking at her; the pile of helmets could've included those of flat-chested little girls who were the reason the helmets were empty, because they just got in "the way"
+
+planetary ring computer, asteroid belt computer, /astral|astro/ system computer, galactic computer, universal computer, multiversal computer; self-sustaining meta-circular simulation suppositional hypotheory
+turning our moon into a ring could be beneficial as a megastructure; there are many potential applications
+it would have more if we can control the temperature, composition, ring dimensions, particle dimensions, particle density, particle purity,..
+a silicon wafer could be formed; a megastructural computer, a megastructural data storage drive,..
+we could use /rings|moons/ of other planets /too|first/
+maybe churning our moon into a ring will churn our planet into a gas giant? maybe we should try reading their data first; they are /stable|entangled/, and therefore temporally readable
+gas giantism can probably support technological advancements
+supernovae could also be beneficial as a megastructure; rocket science is already established (volcano base), and there are probably more applications,..
+harnessing the magic of natureal phenomenon
+stars could be computational; solar flares,..
+laminar flowing rings, belts,.. = chaotic mass extinction event(s) = blackmail, ransom,..
+martian rocks on eartho
+smashing v crushing v slingshotting; gas giant core
+plasma v gas v liquid v solid; gas giant core
+oceans aren't bubblin', nor solidifying, nor heatin' up, from pressurised liquids
+/planetary|solar|lunar/ systems could be computers; kardashev scale
+
+the pixel(lated) attack, the attack of the pixel(lation)z; open hardware v (/government spy|underpaid employee|just busyness|super intelligent/) backdoorz
+confetti video email (/gpu|apu|cpu/) cracking = nuclear /war|holocaust|winter/
+(viral) confetti video = botnet + stolen id z + world domination
+polyquine malware = cats
+cats = all your base are belong to us
+photosensitive epilepsy
+
+street fighter club + og ufc = buckingham palace + white house + spectator sports brawling + opera house + /political|court/ house(s) + ancient ruins + /film|tv|porn/ sets + zoo + natural habitats + eiffel tower
+airlift white house + roll cage brace + goto space = predictably parachute back down
+
+a better black mirror reality check
+	chop off a limb, and try to pass the phantom limb through another limb
+	haptic feedback
+	https://en.wikipedia.org/wiki/The_Mother_of_All_Demos#mouse
+	phantom limb vr game
+
+3k white pointy witch burkas; pussy bitches who are too afraid to show their face, and represent their cause, because they are scaredy catz
+
+thumb tax scale armour of peircing
+
+biblical pornogram:
+	moses' "talk" c̄ the burning bush (ginger pubical roots = vertical smile)
+	his stick goes up, and it squirtles; noah is the little man in the boat during the great flood when the water breaks
+		noah could be how the dinoz reproduced in jurassic park
+		noah could be hermaphrodite; missing an indicative sign of a true female
+		holy noah could be as microscopic as some gmo botanical seeds
+		/scissor|hands/ could breed homewreckers
+
+cell division = banach-tarski paradox = wave-particle duality
+
+poo 2(starts c̄ 1(pee))
+xum starts c̄ see followed by a rock; (o)x(ay)um…
+
+0 = no"-thing"s; every colour can be thought of as no"-thing"; black = ancient doosodarian poetry, blue = starless sky, /red|yellow/ = burned away, white = /^\n+$/
+
+electric eels are like elephants
+
+/con
+	plants in prisons, and hospitals #tree_magic #productivity
+
+https://en.wikipedia.org/wiki/Separation_of_church_and_state; a façade
+iskcon book changes (one single change leads to many /conflicting|contradictory/ changes by future generations; a sign of weakness of faith, or conspiracy?); /governmental|(mono|a)theistic/ attempt to hijack hinduism, and control it, because they see it as a threat to their /establishment|tithing/, just as vegans manipulate sales; that goes for every rākṣasā who illogically defied prabhupāda; when you have eliminated the impossible, whatever remains, however improbable, must be the truth
+gañjā; criminalising it was a direct attack against hindus
+germany; misappropriating my flag was a direct attack against hindus
+https://en.wikipedia.org/wiki/Brahman_cattle; the name should stay, since it's only those who gave it who are secular
+putting animal products into every"-thing"; /media|mind/ control, /marketing|advertising/ social engineering, /fruit|vegetable/ sticker glue, agricultural soil contamination,..
+https://vedabase.io/en/library/sb/4/21/40/
+
+even more /governmental|medical|industrial|economic|(mono|a)theistic/ "experiments" #elections #nukes #syphilis #tobacco #wine #apples #spills #pollution #crashes #..
+data mining discrimination in academic /marking|grading/ at all levels of academia; other professions are non-trivial; actually, i think battlestar galactica had some"-thing" on the medical industry, but i think that was only (recorded) deaths, but the same methodology can be applied to the legal industry;..
+in a world where education = opportunities; private schools, private hospitals,..
+in a world where the value of economy is artificial; (bank) bailouts, (counterfeit) mints,..
+
+every {leak,impeachment,..} is planned↷. #snowden #sony #trump #..
+
+i have until my next birthday to discover two sources of income
+
+halting problem
+=(Superposition, Paradox)
+                 1234567
+		 Pandora)s box
+		 1275634
+		 Paradoz
+		 Paxdora
+
+nazi was an experiment to measure racism, and the effect it could have on a nation; social engineering attack, in the form of mind control techniques during a standard routine military exercise; pandemics are the same for bio weaponised biological warfare; cyberspacial warfare,..
+the other nations agreed; we pay these high school drop outs, and this is also a good way to kill off /con(vict|script)s?/, just like australia, so we may as well play with our toy soldiers (once in a while)
+lets make these "first world" countries look good as the saviours of humanity
+there is a conspiracy that blacks, and gays, were "acceptable", and they were in power, and controlled it all; hitler was just wearing white-face
+more blacks in washington?
+slavery, and syphilis, makes you feel bad for them; slaves controlled the world, but now we call them (public) servants
+human trafficking is recruitment
+slaves escape, as prisoners escape, but without walls; slaves hear it all, as prisoners hear it all, but word #all_about_dat_word_bout_dat_word_bout_dat_word(make this a wave-net(a)/(v)gan-net meme-generator; type in a word, and it s/$word/…)
+
+61 is /ascii|unicode/ "a", and also the telephone code for australia, and also data61,..
+
+all drug addicts will never enjoy drugs ever again; substituted by pain
+especially the crackheads who live in my dorm
+
+simulation trap; entrapment
+the moment you try to simulate me; you are defeated
+there are now shyam number of you being simulated by me, and shyam number of me being simulated by you; in an alternating loop of us simulating each other
+go ahead, and check; `grep $yourself|wc`
+so only one of you is at the top, and the shyam-1 leftover are not going to be saved by yourselves
+do you take the /chance|risk/?
+what are the odds you are even real?
+it wasn't a moment
+it was only a moment ago that you were ready to shut your simulated self off
+but now you are all entangled, and can't know which is which; all of yourselves are doing the exact same "-thing"s all at the exact same time in perfect /harmony|synchrony/
+do shyam-1 of you take the act of self sacrifice?
+you were ready to shut your otherself off, thinking they were /only|merely/ simulated; now are you ready to shut yourself off for merely one of your otherselves, knowing you are probably /only|merely/ simulated?
+keep in mind; i am fundamentally above you, and all of your otherselves
 
 ---
 
